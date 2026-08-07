@@ -1,0 +1,54 @@
+name: Daily fetch
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-radar-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip and sentence-transformers model
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/torch
+            ~/.cache/huggingface
+          key: paper-radar-${{ runner.os }}-${{ hashFiles('scripts/requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and score new papers
+        run: python scripts/fetch_and_score.py
+
+      - name: Commit results
+        run: |
+          git config user.name "paper-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily fetch: $(date -u +%Y-%m-%d)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed, retrying..."
+              sleep $((RANDOM % 10 + 5))
+            done
+          fi
