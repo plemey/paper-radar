@@ -1,17 +1,15 @@
-name: Update preferences
+name: Daily fetch
 
 on:
-  push:
-    paths:
-      - "data/ratings.json"
-      - "data/seed.bib"
+  schedule:
+    - cron: "0 6 * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -32,19 +30,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Import bib seed (if changed)
-        run: python scripts/import_bib.py
-
-      - name: Recompute preference vector
-        run: python scripts/update_preferences.py
-
-      - name: Re-score existing feed against new preference vector
-        run: python scripts/rescore_feed.py
+      - name: Fetch and score new papers
+        run: python scripts/fetch_and_score.py
 
       - name: Commit results
         run: |
           git config user.name "paper-radar-bot"
           git config user.email "actions@github.com"
           git add data/
-          git diff --quiet --cached || git commit -m "Update preference vector"
+          git diff --quiet --cached || git commit -m "Daily fetch: $(date -u +%Y-%m-%d)"
           git push
