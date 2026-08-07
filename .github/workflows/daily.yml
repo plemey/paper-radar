@@ -1,0 +1,50 @@
+name: Update preferences
+
+on:
+  push:
+    paths:
+      - "data/ratings.json"
+      - "data/seed.bib"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip and sentence-transformers model
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/torch
+            ~/.cache/huggingface
+          key: paper-radar-${{ runner.os }}-${{ hashFiles('scripts/requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Import bib seed (if changed)
+        run: python scripts/import_bib.py
+
+      - name: Recompute preference vector
+        run: python scripts/update_preferences.py
+
+      - name: Re-score existing feed against new preference vector
+        run: python scripts/rescore_feed.py
+
+      - name: Commit results
+        run: |
+          git config user.name "paper-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --quiet --cached || git commit -m "Update preference vector"
+          git push
