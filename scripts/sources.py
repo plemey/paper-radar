@@ -36,7 +36,13 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
     # print "Date - Publication", which is often set weeks/months away from when the
     # paper actually appeared and silently zeroes out a tight recency window.
     start, end = _today_and_lookback(days_back)
-    query = "(" + " OR ".join(f'"{k}"[Title/Abstract]' for k in keywords) + ")"
+    # AND-of-words per keyword (not exact-phrase match) — "molecular epidemiology virus"
+    # rarely appears as that literal string in an abstract, but the three words together
+    # (in any order/position) are a much more realistic match.
+    def kw_clause(k):
+        words = k.split()
+        return "(" + " AND ".join(f'{w}[Title/Abstract]' for w in words) + ")"
+    query = "(" + " OR ".join(kw_clause(k) for k in keywords) + ")"
 
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
     params = {
