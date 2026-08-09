@@ -4,11 +4,14 @@
 keywords:
   - "phylodynamics"
   - "viral phylogeography"
+  - "viral evolution"
+  - "virus evolution"
   - "Bayesian phylogenetics"
-  - "molecular epidemiology virus"
+  - "molecular epidemiology"
   - "protein structure evolution"
+  - "structural phylogenetics"
   - "ancient DNA virus"
-  - "BEAST phylogenetics"
+  - "BEAST"
   - "antigenic cartography"
 
 sources: [pubmed, arxiv, biorxiv, medrxiv]
