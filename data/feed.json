@@ -23,6 +23,28 @@
     "fetched_at": "2026-08-07"
   },
   {
+    "id": "pubmed:42566313",
+    "source": "pubmed",
+    "title": "Genetic characterization and zoonotic potential of G1-Lineage H9N2 avian influenza viruses isolated from poultry in Pakistan, 2023.",
+    "abstract": "The H9N2 subtype of avian influenza A virus has been endemic in poultry populations across Asia and the Middle East, posing ongoing economic and public health concerns. Since their initial detection in Pakistan in the 1990s, H9N2 viruses have caused repeated outbreaks in commercial poultry, leading to substantial economic losses and raising concerns about zoonotic transmission. To characterize the recent genetic evolution and zoonotic potential of circulating strains, five H9N2 isolates were obtained from poultry in Pakistan between January and March 2023. Phylogenetic analysis of the haemagglutinin gene revealed that all five isolates belong to the G5.3.2, formerly known as B2, sub-lineage of the G1 Eurasian lineage, in accordance with the revised global classification system for H9 viruses. Comparative genomic analysis confirmed that all eight gene segments were closely related to previously reported Pakistani strains, with no evidence of recent reassortment, suggesting localized persistence and ongoing genetic drift. Notably, several mammalian-adaptive mutations were identified in internal gene segments of the isolates, suggesting a potential risk of cross-species transmission. In addition, all five isolates exhibited dual receptor-binding characteristics, recognizing both α2,3-linked (avian-type) and α2,6-linked (human-type) sialic acid glycans, with a stronger affinity for α2,6-linked glycans. These findings underscore the need for continuous surveillance and risk assessment of H9N2 viruses circulating in Pakistan.",
+    "authors": [
+      "Kai-Yun Tan",
+      "Nousheen Arshad",
+      "Salman L Butt",
+      "Sun-Hak Lee",
+      "Ye-Ram Seo",
+      "Asif M Rana",
+      "Bitgoeul Kim",
+      "Chung-Young Lee",
+      "Dong-Hun Lee"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566313/",
+    "doi": "10.1080/03079457.2026.2699158",
+    "score": 0.7912,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42571521",
     "source": "pubmed",
     "title": "Genetic diversity of H9N2 avian influenza viruses in Iran over the past two decades.",
@@ -80,6 +102,29 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42570535",
+    "source": "pubmed",
+    "title": "Functional divergence of feline calicivirus genotypes shapes virulence and antigenic diversity.",
+    "abstract": "Feline calicivirus (FCV) is a major respiratory pathogen in felids, which brings an economic burden to the world, such as increasing veterinary costs, strict epidemic management, and increasing animal mortality. The poor feeding management in China makes the highly virulent systemic feline calicivirus (VS-FCV) spread rapidly, thus becoming a public health problem. We examined the factors driving FCV virulence enhancement. We combined global phylogenetic reconstruction with experimental validation. Bayesian analysis classified existing FCV isolates into two genotypes: GI and GII. GII predominates in recent Asian outbreaks. This lineage demonstrates superior host adaptability, likely due to specific codon usage patterns and VP1 structural evolution. We compared the pathogenicity of GI (WH0531) and GII (WX9) in vivo. The GII isolate WX9 caused higher mortality and wider tissue tropism than GI WH0531. Immune assays confirmed restricted cross-protection between the two genotypes. Antigenic variation restricts current prevention strategies. Genotype determines FCV pathogenicity and shapes the evolutionary history of the virus. A diagram depicting the relationship between molecular evolution and clinical phenotypes was drawn. This study lays a solid scientific foundation for the development of the next - generation broad - spectrum vaccines to neutralize the increasingly lethal feline diseases.",
+    "authors": [
+      "Quanhui Yan",
+      "Mingjun Ye",
+      "Zixiang Zhao",
+      "Weihui Li",
+      "Zijun Ye",
+      "Luying Li",
+      "Yan Zhang",
+      "Junyao Xiong",
+      "Zhixin Lei",
+      "Shengbo Cao"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570535/",
+    "doi": "10.1016/j.vetmic.2026.111183",
+    "score": 0.6657,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42553703",
     "source": "pubmed",
     "title": "Genomic and pathogenic characterization of a highly pathogenic chicken infectious anemia virus strain in China.",
@@ -105,6 +150,39 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42553703/",
     "doi": "10.1099/0022-1317-81-8-2067",
     "score": 0.6106,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42562210",
+    "source": "pubmed",
+    "title": "Epidemiology and Molecular Characterization of Human Metapneumovirus in Influenza-Like Illness: A Decade of Surveillance in Dibrugarh, Assam (2014-2025).",
+    "abstract": "Human metapneumovirus (hMPV) is a globally recognized cause of influenza-like illness (ILI), especially among children, but data from Northeast India are limited. This study analyzed epidemiological and molecular features of hMPV detected in Dibrugarh, Assam, over a decade-long surveillance period. Between May 2014 and November 2025, 3,597 ILI patients were screened for hMPV at a tertiary hospital in Dibrugarh, Assam. Clinical samples (nasopharyngeal/throat swabs) were tested using multiplex respiratory panels and TaqMan-based real-time RT-PCR. Partial sequencing of the G gene was performed by Sanger sequencing, followed by phylogenetic and glycosylation analyses using MEGA 11, NetNGlyc, and NetOGlyc tools. Statistical analysis was done using SPSS v26. Overall, hMPV prevalence was 3.1% (112/3597), significantly higher among children aged <5 years than older individuals (3.9% vs. 1.3%; p = 0.003). hMPV activity exhibited marked winter seasonality, with significantly higher positivity during the colder months (5.6% vs. 0.8%; p < 0.001). Phylogenetic analysis demonstrated the circulation of A2.2.1 (A2b1), A2.2.2 (A2b2), and B2 lineages in Assam. The two 2025 A2.2.2 strains harbored the characteristic 111-nucleotide G-gene duplication, while comparative glycosylation analysis revealed lineage-specific variation in predicted N- and O-linked glycosylation profiles. hMPV remains an important cause of pediatric influenza-like illness in Northeast India, with marked winter seasonality. The detection of A2.2.1, A2.2.2, and B2 lineages, including A2.2.2 strains with the characteristic 111-nucleotide G-gene duplication, underscores the importance of continued molecular surveillance.",
+    "authors": [
+      "Biswajyoti Borkakoty",
+      "Nargis K Bali",
+      "Aniruddha Jakharia",
+      "Dipankar Biswas",
+      "Reeta Bora"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562210/",
+    "doi": "10.1016/j.ijmmb.2026.101241",
+    "score": 0.555,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42562267",
+    "source": "pubmed",
+    "title": "Integrated molecular, epidemiological, and bioinformatics perspectives on the Mpox virus: Implications for surveillance and Global Health preparedness.",
+    "abstract": "Mpox has re-emerged as a significant global zoonotic threat, driven mainly by two large waves the 2022 worldwide Clade IIb outbreak and the 2024 Clade Ib epidemic in Central Africa. This review examines the challenges of interpreting this evolving virus from molecular, epidemiological, and bioinformatics perspectives, with a focus on global health workforce preparedness. Clade IIb largely moved through sexual transmission across countries, but Clade Ib has appeared in a wider population-women, children, and individuals infected through household spread without any sexual contact. Early case series suggest that Clade Ib may cause a more severe disease burden, but more research is needed to directly compare severity and fatality rates with Clade IIb due to the limited number of current studies. The review examines the virus's strategies for evading the host's immune defenses throughout its ~197 kbp genome, including how it disrupts interferon signaling and creates decoy receptors. This review summarizes the clinical findings of PALM007 and STOMP, noting that neither trial achieved its main efficacy endpoint making routine tecovirimat use less compelling-while leaving open whether it helps particular high-risk groups. A further point is that immunity from the MVA-BN vaccine wanes with time, leading to the growing adoption of booster vaccinations. In conclusion, the review calls for a One Health approach pairing genomic tracking with ecological intelligence and including wastewater surveillance to fill existing gaps in knowledge and enhance the global handling of new orthopoxvirus threats.",
+    "authors": [
+      "Rajtilak Detroja",
+      "Muktesh Chandra"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562267/",
+    "doi": "10.1016/j.mimet.2026.107656",
+    "score": 0.5418,
     "fetched_at": "2026-08-09"
   },
   {
@@ -148,6 +226,25 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42551610",
+    "source": "pubmed",
+    "title": "A strain of high cell-adapted porcine deltacoronavirus: Isolation, genetic evolution, and pathogenicity analysis.",
+    "abstract": "In 2024, an outbreak of piglet diarrhea occurred in Guangxi Zhuang Autonomous Region, China. RT-PCR assay of clinical samples confirmed that porcine deltacoronavirus (PDCoV) was the primary pathogen. In this study, the PDCoV GX/2024 strain was successfully isolated in PK-15 cells with optimized trypsin treatment conditions. The cytopathic effect (CPE) of this strain gradually intensified during serial passages. After plaque purification, the strain achieved stable proliferation with high titer, reaching a peak titer of 107·2 TCID50/mL, which indicated its potential as an inactivated vaccine candidate. Phylogenetic analysis demonstrated that the strain belonged to the Chinese lineage, with nucleotide similarity ranging from 97.89% to 99.76% compared with other domestic and international strains. Analysis of the Spike protein (S protein) revealed that the strain harbored critical amino acid substitutions in the S1 domain and the S1/S2 cleavage site, which led to conformational changes in the protein surface and might be associated with viral infection efficiency. Animal experiments verified that PDCoV GX/2024 exhibited strong pathogenicity in newborn piglets. Diarrhea, vomiting and other symptoms appeared within 24 h post-infection. The virus mainly colonized the epithelial cells at the tip of intestinal villi and caused severe pathological damage. This study provides important theoretical basis for the genetic evolution, pathogenic mechanism and transmission potential of PDCoV, and offers reference value for disease prevention and control as well as vaccine development.",
+    "authors": [
+      "Mengzan Yang",
+      "Yiming Ma",
+      "Mingxing Liu",
+      "Hong Zhou",
+      "Hongjie Fan",
+      "Huixing Lin"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551610/",
+    "doi": "10.1016/j.micpath.2026.108750",
+    "score": 0.5095,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42551114",
     "source": "pubmed",
     "title": "Decoding dengue virus dynamics in central Karnataka through molecular epidemiology, Phylogenetics, and PCA-based analysis.",
@@ -184,6 +281,86 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42559980/",
     "doi": "10.1002/vms3.70815",
     "score": 0.5068,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42566464",
+    "source": "pubmed",
+    "title": "Novel insights into tomato leaf curl New Delhi virus introduction and evolution in Southeastern France using an advanced long-read sequencing workflow.",
+    "abstract": "The Mediterranean population of tomato leaf curl New Delhi virus (ToLCNDV-ES) is characterized by a high genetic uniformity, distinguishing it from its Asian counterparts. ToLCNDV-ES is thought to have a monophyletic origin, likely resulting from a single recombination event, prior to its spread throughout the Mediterranean region. Following its first detection in southeastern France in 2020, ToLCNDV-ES re-emerged in France in 2022. Our analysis based on advanced long-read sequencing, circular DNA profiling, and phylogeny indicates both local persistence of French ToLCNDV-ES and multiple independent introduction events. Signatures of positive selection were identified in French ToLCNDV-ES populations, whereas no clear evidence of recombination was found. Bayesian time-structured phylogenetic analyses suggest that introductions in France occurred between 2018 and 2021 from the major ToLCNDV-ES clade, while several Italian ToLCNDV-ES isolates diverged prior to the virus introduction in the Mediterranean basin. Overall, this study demonstrates the value of an optimized long-read sequencing approach for resolving circular DNA virus diversity, and sheds light on the complex evolutionary history of ToLCNDV-ES in the Mediterranean Basin, particularly in southeastern France.",
+    "authors": [
+      "Atiwich Patthamapornsirikul",
+      "Victor Golyaev",
+      "Eric Verdin",
+      "Claire Goillon",
+      "Hindi Boolell",
+      "Sam Dierickx",
+      "Catherine Wipf-Scheibel",
+      "Grégory Girardot",
+      "Wim Dumon",
+      "Sara Cleemput",
+      "Koen Deforche",
+      "Hervé Vanderschuren",
+      "Cécile Desbiez"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566464/",
+    "doi": "10.1371/journal.ppat.1014463",
+    "score": 0.5068,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42564763",
+    "source": "pubmed",
+    "title": "Molecular and serological characterization of SARS-CoV-2 strains associated with viral encephalitis in Senegal during the COVID-19 pandemic.",
+    "abstract": "Beyond its socio-economic impact, COVID-19 has been associated with respiratory, gastrointestinal, neurological and neuropsychiatric symptoms across many countries, including in Senegal. While the SARS-CoV-2 virus primarily targets the respiratory and cardiovascular systems, if not detected and treated early, it can invade the nervous system and lead to severe neurological complications. This study focuses on the molecular and serological characterization of the SARS-CoV-2 strains associated with encephalitis manifestations of the disease. The presence of the virus in the central nervous system was confirmed by RT-PCR and sequencing and also serological techniques. Genetic analysis identified Delta (B.1.617.2-like) and Eta (B.1.525-like) variants in encephalitis patients. In silico analysis revealed three mutations (p.Pro4619Leu, p.Ala103Pro and p.Thr40Ile) predicted to affect protein function, generating hypotheses regarding their possible involvement in neurological manifestations. Among 11 patients with SARS-CoV-2-associated encephalitis, 30% had SARS-CoV-2 IgG antibodies in their serum, and 20% had them in cerebrospinal fluid (CSF). As part of the surveillance system for infectious encephalitis in Senegal (ENSENE), our data provided evidence of SARS-CoV-2 involvement in the epidemiology of viral encephalitis during the COVID-19 pandemic. Similar approaches should be promoted in future studies to investigate the biological significance of these mutations and improve the diagnosis and management of neurological manifestations associated with SARS-CoV-2 infection.",
+    "authors": [
+      "Fatou Kiné Top",
+      "Jamil Kahwagi",
+      "Rokhaya Diagne",
+      "Al Ousseynou Seye",
+      "Rokhaya Faye",
+      "Moussa Moise Diagne",
+      "Babacar Ndiaye",
+      "Gamou Fall",
+      "Amadou Alpha Sall",
+      "Ousmane Faye",
+      "Ndongo Dia",
+      "Inès Vigan-Womas",
+      "Martin Faye",
+      "Jean-Michel Heraud"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564763/",
+    "doi": "10.3390/ijms22115894",
+    "score": 0.5055,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42559139",
+    "source": "pubmed",
+    "title": "Case Report: Prolonged nOPV2 shedding in an immunocompetent child from Tunisia border with Algeria, North African region.",
+    "abstract": "Following the detection of vaccine-derived poliovirus type 2 (cVDPV2) in Algeria in 2022, enhanced surveillance activities along the Tunisian border identified novel Oral Poliovirus type 2 Vaccine (nOPV2) excretion in an apparently healthy nomadic child. Immunological investigations showed no evidence of major humoral, cellular, or phagocytic immune deficiency. To investigate the kinetics of viral shedding and characterize the complete genome of the isolated strain in this case report, longitudinal follow-up stool samples were collected and analyzed using cell culture inoculation, real-time RT-PCRs, and whole-genome sequencing. Virus was detected over a 76 to 126-days observation period. Assuming vaccination occurred in December 2022, the total duration of shedding may have extended up to approximately 138 to 188 days (4 to 7 months) post-vaccination. Despite prolonged replication, the viruses showed limited within-host evolution and retained the major engineered attenuation features of nOPV2, with no evidence of domain V reversion, cre replacement, or recombination, and only limited VP1 divergence which allows its classification as nOPV2 category 8 strains. Our findings underscore the need to further investigate the potential for prolonged excretion and molecular evolution of nOPV2-like strains in immunocompetent individuals. Furthermore, targeted surveillance of high-risk and mobile populations, including migrants and nomadic communities, is essential to strengthen epidemiological security and support global poliovirus eradication initiatives.",
+    "authors": [
+      "Sondes Haddad-Boubaker",
+      "Haifa Khemiri",
+      "Wasfi Fares",
+      "Najla Mekki",
+      "Chaima Alibi",
+      "Imen Ben Salem",
+      "Henda Touzi",
+      "Zina Meddeb",
+      "Ines Ben Mrad",
+      "Mahrez Yahyaoui",
+      "Javier Martin",
+      "Imen Ben Mustapha",
+      "Ahlem Gzara",
+      "Henda Triki"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559139/",
+    "doi": "10.1038/s41564-025-02219-w",
+    "score": 0.4946,
     "fetched_at": "2026-08-09"
   },
   {
@@ -276,6 +453,46 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42560031",
+    "source": "pubmed",
+    "title": "Oncogenic viruses in the genomic era: Integration, instability, and cancer evolution.",
+    "abstract": "Emerging evidence suggests that viral integration into non-coding and genomically vulnerable regions may represent one of several mechanisms contributing to oncogenesis, warranting further investigation through long-read whole-genome sequencing (WGS).",
+    "authors": [
+      "Bartosz Szmyd",
+      "Agata Pastorczak",
+      "Wojciech Młynarski"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560031/",
+    "doi": "10.17219/dmp/225755",
+    "score": 0.4345,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42569331",
+    "source": "pubmed",
+    "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern.",
+    "abstract": "Hantaviruses are globally distributed, rodent-borne orthohantaviruses that cause hemorrhagic fever with renal syndrome in Eurasia and hantavirus cardiopulmonary syndrome (hantavirus pulmonary syndrome) in the Americas. Human infection usually results from environmental spillover through inhalation of aerosolized rodent excreta. However, the 2026 Andes virus (ANDV) cluster linked to the MV Hondius expedition cruise ship demonstrated how international travel networks can transform a rare zoonosis into a complex public health challenge. Following the Scale for the Assessment of Narrative Review Articles framework, this review synthesizes literature from 2019 to 2026 using explicit Boolean search strategies (\"hantavirus\" OR \"orthohantavirus\" OR \"Andes virus\" OR \"ANDV\") AND (\"cruise\" OR \"maritime health\" OR \"shipboard medicine\" OR \"travel medicine\" OR \"outbreak response\" OR \"One Health\") to evaluate global health governance and maritime outbreak preparedness. Unlike other human-pathogenic hantaviruses, ANDV is uniquely capable of limited person‑to‑person transmission through close, prolonged contact. Epidemiological investigation of the 2026 cluster confirmed that index cases were exposed during pre-embarkation terrestrial travel in highly endemic rural regions of Argentina and Chile, later manifesting on board. Clinically, hantavirus infection is characterized by severe endothelial dysfunction, capillary leak, and abrupt cardiopulmonary or renal failure following a nonspecific febrile prodrome. In the absence of curative antivirals or licensed vaccines, management depends on early risk recognition supported by a tiered diagnostic framework: rapid field-ready complete blood counts detecting thrombocytopenia and hemoconcentration to trigger stabilization and evacuation, followed by definitive molecular confirmation at centralized reference laboratories. The MV Hondius incident thus represents an operational biosecurity stress test rather than a pandemic threat, underscoring the need for integrated One Health surveillance, standardized maritime health governance, and legally codified protections for crew mental health and labor equity during isolation.",
+    "authors": [
+      "Venkata Bharat Kumar Pinnelli",
+      "Surendra Babu T",
+      "Jayashankar Ca",
+      "Venkataramana Kandi",
+      "Mansi Thipani Madhu",
+      "Koshy T Sam",
+      "Manish Gr",
+      "Divyadharshini Ms",
+      "Atul S Sucharitha",
+      "Praful Bhupathiraju",
+      "Vinay S"
+    ],
+    "date": "2026-Jul-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42569331/",
+    "doi": "10.7759/cureus.112246",
+    "score": 0.4262,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42568601",
     "source": "pubmed",
     "title": "Host inflammatory markers and MLVA profiling for risk assessment of severe pediatric",
@@ -297,6 +514,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42568601/",
     "doi": "10.1080/22221751.2026.2614742",
     "score": 0.4027,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42564151",
+    "source": "pubmed",
+    "title": "Epidemiology of viral and atypical bacterial respiratory infections among children hospitalised at a Kenyan tertiary referral centre: a cross sectional multiplex PCR study.",
+    "abstract": "Severe acute respiratory infections (SARIs) cause high paediatric morbidity and mortality particularly in sub-Saharan Africa. Understanding contemporary trends in SARI aetiology is needed to inform prevention strategies. We aimed to determine the current aetiology, severity and seasonality of SARIs based on pathogens detected by multiplex quantitative real-time polymerase chain reaction (qRT-PCR) tests, BioFire® respiratory panel 2.0 (RP 2) and 2.1plus (RP2.1plus). We conducted a retrospective cross-sectional analytic study among Kenyan children aged 0-18 years hospitalised between March 2018 and March 2023, with SARI and a positive nasopharyngeal swab multiplex qRT-PCR test. Cases were analyzed for their clinical characteristics, radiological features, laboratory data, seasonality of the respiratory pathogens and risk factors for severe infection. A total of 545 pathogens were detected in 382 cases,123 (22.5%) had polymicrobial detection, 14 (4%) had severe illness and three (0.8%) died. Rhinovirus (24%) and respiratory syncytial virus (21%) were the most common viral pathogens identified whereas Mycoplasma pneumoniae (2.4%) and Bordetella pertussis (1.8%) were the most common atypical pathogens detected. Infections peaked during the first dry season and the short rainy season. Lower respiratory tract infections and presence of co-morbidities like asthma,vitamin D deficiency and iron deficiency anaemia were associated with disease severity independent of age, sex and seasonality. Viruses accounted for majority of respiratory infections. Infections had two distinct peaks: the first dry season and the short rainy season, suggesting that respiratory vaccines should be scheduled prior to their onset.",
+    "authors": [
+      "Rohini Kalagouda Patil",
+      "Anne Irungu",
+      "John Chelanga Supra",
+      "Rahul Zode",
+      "Koigi Paul Kamau",
+      "Joseph K Mbuthia",
+      "Diana Marangu-Boore"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564151/",
+    "doi": "10.1371/journal.pone.0232188",
+    "score": 0.3865,
     "fetched_at": "2026-08-09"
   },
   {
@@ -322,6 +559,33 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42566283/",
     "doi": "10.1093/infdis/jiag406",
     "score": 0.3825,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42560576",
+    "source": "pubmed",
+    "title": "Hepatitis E virus surveillance in wild ruminants from northwestern Italy: results of a three-year molecular survey.",
+    "abstract": "Hepatitis E virus (HEV) is responsible for emerging foodborne zoonotic infections in Europe, which are primarily associated with genotype 3 and more sporadically to genotype 4. While domestic pigs and wild boars are recognized as the principal reservoirs, the epidemiological role of wild ruminants remains less clearly defined. Knowledge of the health status of wildlife is essential, not only to minimize potential risks to human health associated with the consumption of game meat, but also to study the spread of zoonotic diseases in the territory. This study investigated the presence of HEV infections in wild ruminants from northwestern Italy between 2023 and 2025. A total of 883 liver samples were collected from red deer (Cervus elaphus, n = 256), roe deer (Capreolus capreolus, n = 378), fallow deer (Dama dama, n = 136), and alpine chamois (Rupicapra rupicapra, n = 113) in the regions of Liguria, Piedmont, and Aosta Valley. All samples were tested by one-step real-time RT-PCR. No positive samples were identified, indicating the absence of HEV infections in the investigated populations during the study period. However, the cross-sectional design, the analysis of liver samples only, and the lack of serological data did not allow assessment of previous exposure or temporal patterns of virus circulation. Overall, the results suggest that the investigated wild ruminant species in northwestern Italy are unlikely to play a significant role in HEV epidemiology in this geographic context. Continued integrated surveillance, including both molecular and serological approaches, is recommended to monitor potential changes in virus circulation in wildlife to further clarify their role in HEV epidemiology.",
+    "authors": [
+      "Roberta Battistini",
+      "Valeria Listorti",
+      "Serena Robetto",
+      "Barbara Moroni",
+      "Camilla Lozza",
+      "Chiara Masotti",
+      "Antonio Siracusa",
+      "Roberto Viganò",
+      "Simona Zoppi",
+      "Nicola Pussini",
+      "Laura Serracca",
+      "Riccardo Orusa",
+      "Elisabetta Razzuoli",
+      "Lisa Guardone"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560576/",
+    "doi": "10.1016/j.mran.2024.100329",
+    "score": 0.3823,
     "fetched_at": "2026-08-09"
   },
   {
@@ -406,6 +670,114 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42560108",
+    "source": "pubmed",
+    "title": "The halophilic archaeon",
+    "abstract": "Archaea constitute a diverse group of organisms, many of which inhabit extreme environments, such as haloarchaea that dominate hypersaline ecosystems, like solar salterns. Sampling of solar salterns and other hypersaline environments has resulted in numerous haloarchaeal isolates, including 3 classified and 27 uncharacterized Halogranum species. However, no complete genome has so far been reported for any member of this genus. Here, we present the first comprehensive study of Halogranum sp. SS5-1 isolated from a solar saltern in Samut Sakhon, Thailand. Hgn. SS5-1 is a pleomorphic, aerobic heterotroph that thrives in high salinity and moderate temperature and is capable of hydrolyzing starch. Its genome consists of a 3.6 Mbp chromosome and seven additional plasmids. Based on our phylogenetic analyses, which establish Hgn. SS5-1 as a distinct species, we propose that it will be classified as the novel species Halogranum roseipondis sp. nov. SS5-1T. Additionally, we report that Hgn. roseipondis sp. nov. SS5-1T is infected by Hagravirus capitaneum (HGTV-1), the only virus known to infect a Halogranum host. HGTV-1 exhibits a unique head-tailed morphology and encodes the largest archaeal virus double-stranded DNA genome known to date, including 34 tRNA-encoding genes. Codon usage analysis of the viral genome suggests partial alignment with host preferences, yet the abundance of viral tRNA genes hints at broader roles, potentially including roles in translation and host regulation. This study establishes Hgn. roseipondis and HGTV-1 as a novel virus-host system, opening avenues to explore infection dynamics and the roles of virus-encoded tRNA in archaea. Archaea that thrive in high-salinity environments are key players in geochemical cycles and important contributors to ecosystem productivity. Despite their ecological significance and importance for the development of novel methodologies in synthetic biology, haloarchaea remain poorly studied. Further exploration of haloarchaea is required to obtain valuable information on the evolution of cellular complexity and the molecular mechanisms that allow cells to thrive in harsh environmental conditions. Here, we present the characterization of a novel archaeon, Halogranum roseipondis sp. SS5-1T, alongside the infection cycle of its associated virus, Hagravirus capitaneum. This tailed myovirus carries an extraordinary set of 34 viral tRNA genes, a feature that opens intriguing questions about virus-host interactions and translational control. Our findings lay the groundwork for future investigations into the expression and function of viral tRNAs in an archaeal model system, thereby opening a new frontier for studying archaeal translation and virus-driven modulation of host cellular processes.",
+    "authors": [
+      "Mirka Lampi",
+      "Erika Nordman",
+      "Pavlina Gregorova",
+      "Janne J Ravantti",
+      "L Peter Sarin"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560108/",
+    "doi": "10.1128/spectrum.00854-26",
+    "score": 0.372,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42562629",
+    "source": "pubmed",
+    "title": "Evolution of South Asian mountain biota: dispersal, fine-scale biogeography, phylogenetics and systematics of Nannenini jumping spiders.",
+    "abstract": "The northward drift of the Indian subcontinent and its biotic exchanges with adjacent landmasses have shaped biodiversity in South Asia. We investigate biogeographic patterns and evolutionary relationships within a clade of spiders endemic to South Asia, focusing on two newly identified species from India. Specimens of the jumping spider tribe Nannenini were collected from 15 localities across the Western Ghats-Sri Lanka biodiversity hotspot, including Sri Lanka's diverse climatic regions and Kerala's tropical forests. DNA sequencing was conducted for the mitochondrial gene COI, nuclear ribosomal RNA fragments (18S and 28S), and nuclear H3. Phylogenetic analyses using maximum likelihood and Bayesian inference approaches incorporated these data with time-calibrated molecular clocks. Bayesian Evolutionary Analysis methods were used for divergence time estimation and ancestral area reconstruction. Our analyses identified a robustly supported Nannenini clade with three distinct subclades. The tribe likely originated in the Oligocene-early Miocene, with the crown lineage inheriting a distribution established by earlier stem-lineage dispersal between Southeast and South Asia. It subsequently dispersed across both regions during the Late Oligocene and Miocene, as climatic and tectonic changes promoted lineage diversification. The Late Miocene cooling and aridification likely restricted forest-adapted species to montane refugia, particularly in Sri Lanka's Central Highlands and the montane zones of India, facilitating isolation and speciation. Montane environments acted as critical refugia during adverse climatic periods, enabling the survival and diversification of isolated populations. This research enhances understanding of Salticidae evolution and highlights the influence of the Indian subcontinent's geological history on present-day biodiversity patterns in Nannenini. Additionally, we describe a new genus and two new species: Indodelaxia Jose & Benjamin, gen. nov., I. albomaculata Jose & Benjamin, sp. nov. and I. thusharagiri Jose & Benjamin, sp. nov. ZooBank: urn:lsid:zoobank.org:act:96083E0A-861F-4A31-AAE3-94A8BB983A6E.",
+    "authors": [
+      "Athira Jose",
+      "Thakshila Herath",
+      "Suresh P Benjamin",
+      "Ambalaparambil V Sudhikumar"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562629/",
+    "doi": "10.1071/IS26014",
+    "score": 0.362,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42566831",
+    "source": "pubmed",
+    "title": "Emergence of Babesia naoakii infection in Indonesian domestic cattle, a new host record in water buffaloes, and characterization of complete mitochondrial protein-coding genes.",
+    "abstract": "Babesia (B.) naoakii, previously referred to as Babesia sp. Mymensingh, is a recently characterized tick-borne haemoprotozoan parasite of cattle. In Indonesia, we first reported its presence in 2022 from clinically affected cattle in Central Java. To investigate the wider epidemiology of this neglected ruminant-associated Babesia species, we surveyed apparently healthy cattle (Bos indicus) and water buffaloes (Bubalus bubalis) across three districts of Java, Indonesia. A PCR assay targeting the B. naoakii-specific apical membrane antigen 1 (ama1) gene detected the parasite occurrence in 34.39% of assessed cattle (87/253; 95% CI: 28.80-40.44%) and 30.77% of water buffaloes (12/39; 95% CI: 18.47-46.52%). These results represent the first record of B. naoakii infection in water buffaloes in the country and confirm that the parasite circulates in subclinically infected bovine hosts. To characterise this apicomplexan parasite further at the molecular level, we assembled in full length the three mitochondrial protein-coding genes (PCGs): cytochrome c oxidase subunits 1 (cox1) and 3 (cox3), as well as cytochrome b (cytb). These genes were reconstructed by next-generation sequencing of blood DNA collected during the acute haemolytic-phase of B. naoakii infection, from calves that subsequently succumbed to the disease in the endemic area. Phylogenetic analyses of the concatenated amino-acid sequences of cox1, cox3, and cytb placed the Indonesian isolates within a well-supported monophyletic clade, distinct from all previously characterised ruminant-associated Babesia species and sister to the Babesia bigemina/Babesia ovata lineage. This placement confirmed species identity and reinforced the genetic distinctiveness of B. naoakii in Indonesia. Notably, although B. naoakii circulates in peripheral blood and mirrors the diagnostic behaviour of the mild pathogen B. bigemina, its clinical impact more closely resembles that of the severe pathogenic B. bovis, particularly in young animals. This diagnostic-clinical discordance highlights the need for B. naoakii-specific molecular surveillance and species-level differentiation in regions of co-endemicity. Given the high prevalence in subclinically B. naoakii-infected adults, the documented severity of babesiosis in calves, and the potential for substantial economic losses, broader epidemiological investigations and species-specific control measures for B. naoakii are urgently performed. The same holds true for future epizootiological investigations of underdiagnosed B. naoakii-infections possibly circulating in Indonesian endemic ruminant bovids such as the banteng (Bos javanicus), the lowland anoa (Bubalus depressicornis) and the tamaraw (Bubalus mindorensis).",
+    "authors": [
+      "Penny Humaidah Hamid",
+      "April Hari Wardhana",
+      "Dyah Haryuningtyas Sawitri",
+      "Maulana Malik Nashrulloh",
+      "Mujiyanto Mujiyanto",
+      "Titis Insyari'ati",
+      "Nadya Nurvita Rahma Setya",
+      "Carlos Hermosilla"
+    ],
+    "date": "2026-Aug-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566831/",
+    "doi": "10.1016/j.vetpar.2026.110875",
+    "score": 0.3574,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42565999",
+    "source": "pubmed",
+    "title": "Molecular and environmental drivers of antimicrobial resistance: global epidemiology, resistome dynamics, and one health strategies.",
+    "abstract": "Antimicrobial resistance (AMR) has evolved into a critical global health security challenge, threatening the effectiveness of modern medicine and increasing morbidity and mortality worldwide. This review integrates current evidence on the molecular and environmental drivers of AMR, alongside global epidemiological patterns, resistome dynamics, and one health-based intervention strategy. Recent surveillance data indicate that AMR contributes to approximately 4.7 million deaths annually, with the highest burden concentrated in low- and middle-income countries, where resistance rates in key pathogens such as Escherichia coli, Klebsiella pneumoniae, and methicillin-resistant Staphylococcus aureus remain alarmingly high. At the molecular level, AMR is driven primarily by horizontal gene transfer mediated by mobile genetic elements, including plasmids, integrons, and transposons, enabling rapid dissemination of multidrug resistance among clinically important pathogens, including critical high-risk threats and critical multidrug-resistant organisms. Environmental reservoirs, including wastewater effluents, agricultural runoff, soil, and hospital discharge systems, serve as major hotspots for the selection and amplification of resistance genes. These environments facilitate the evolution of environmental resistomes, in which subinhibitory antibiotic concentrations, heavy metals, and other pollutants exert strong coselective pressures. Additionally, biofilm formation, metabolic adaptation, and climate-related stressors further increase the persistence and spread of resistance determinants. The integration of genomic surveillance and metagenomic approaches have improved the understanding of resistome structure and transmission pathways, yet significant gaps remain in linking environmental and clinical datasets. To address these challenges, emerging One Health strategies emphasize coordinated interventions across the human, animal, and environmental sectors. Novel approaches such as antimicrobial stewardship, phage therapy, CRISPR-based antimicrobials, and AI-driven drug discovery are being explored alongside improved diagnostics and environmental control measures. Collectively, a cross-sectoral, integrated One Health framework is essential to mitigate the emergence of AMR and sustain antimicrobial efficacy globally.",
+    "authors": [
+      "S M Sertaz Islam",
+      "Md Nayem Chowdhury",
+      "Sumaya Islam Supty",
+      "Niaz Mahmood Tanoy",
+      "Dharam Narayan Yadav",
+      "Supriya Roy",
+      "Atia Tanzum Mollik Riea",
+      "Md Obaydullah",
+      "Zarin Tasnim",
+      "Mst Sadia Zaman",
+      "Md Ashikur Rahman",
+      "Md Shiblee Sadik Sabuj",
+      "Md Sadikul Islam",
+      "Md Anwar Hossain",
+      "Md Siddiqul Islam",
+      "Md Rashedunnabi Akanda"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42565999/",
+    "doi": "10.1016/j.ecoenv.2023.115124",
+    "score": 0.3499,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42564160",
+    "source": "pubmed",
+    "title": "Molecular and serological detection of",
+    "abstract": "Leptospirosis is a widespread zoonotic disease caused by pathogenic Leptospira spp., affecting humans, domestic animals, and wildlife. Wild mammals are recognized as potential maintenance hosts for pathogenic Leptospira spp., and some species may act as asymptomatic reservoirs, representing a potential public health risk, especially in areas with increasing human-wildlife interaction. This cross-sectional study investigated the occurrence of pathogenic Leptospira spp. in wild mammals from Paraíba, Brazil, sampled between June 2022 and June 2023 using serological and molecular approaches. Blood samples from 60 animals were analyzed by the microscopic agglutination test (MAT), while tissue samples from 29 animals were evaluated by polymerase chain reaction (PCR) targeting the lipL32 gene, a marker specific for pathogenic Leptospira spp. Seroreactivity was detected in 9/60 animals (15.0%), with reactions against the serogroups Pomona, Hebdomadis, Grippotyphosa, Shermani, Patoc, and Pyrogenes. Pathogenic Leptospira DNA was detected in 6/29 animals (20.7%), with positive PCR results obtained from multiple tissues, including the kidneys, bladder, liver, brain, and reproductive organs. These findings demonstrate exposure to and infection by pathogenic Leptospira spp. in wild mammals from Paraíba and reinforce the importance of wildlife surveillance for a better understanding of the epidemiology of leptospirosis.",
+    "authors": [
+      "Ividy Bison",
+      "Audisio A Costa Filho",
+      "Glenison F Dias",
+      "José Rômulo S Santos",
+      "Jeann L Araújo",
+      "Maria Luana Cristiny R Silva",
+      "Sérgio Santos De Azevedo",
+      "Roberta N Parentoni",
+      "Lucas Rannier Ribeiro Antonino Carvalho",
+      "Arthur Willian De Lima Brasil"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564160/",
+    "doi": "10.21680/2447-3359.2016v2n0ID10565",
+    "score": 0.3424,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42568479",
     "source": "pubmed",
     "title": "Conserved CD4 T-cell responses correlate with antibody neutralization in solid organ transplant recipients after bivalent SARS-CoV-2 vaccination.",
@@ -456,6 +828,124 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42569559/",
     "doi": "10.1016/j.fawpar.2026.e00354",
     "score": 0.3269,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42558998",
+    "source": "pubmed",
+    "title": "Mitochondrial genome evolution of the hemiparasitic plant",
+    "abstract": "Parasitic and hemiparasitic plants exhibit highly variable mitochondrial genome structures and gene content, but the evolutionary processes underlying this variation remain incompletely understood. This study aimed to characterize the structural features, gene composition, and evolutionary characteristics of the complete mitochondrial genome of Taxillus chinensis. The mitochondrial genome of T. chinensis exhibits a complex multipartite structure composed of multiple linear and circular DNA molecules. Fragmented synteny and heterogeneous genomic organization indicate substantial structural complexity. The genome contains abundant dispersed and palindromic repeats, including long repeat units, contributing to the complex repetitive landscape of the mitogenome. The mitogenome encodes 27 protein-coding genes and three rRNA genes, but only three tRNA genes, indicating substantial reduction of mitochondrial tRNA genes. All rpl genes are absent, indicating a substantial reduction of translation-related components. Homology searches against the nuclear genome and mitochondrial contigs identified only fragmented rpl-related sequences, which likely represent nonfunctional pseudogene remnants rather than intact functional genes. Ka/Ks analyses show that most mitochondrial protein-coding genes remain under strong purifying selection, although evolutionary rate heterogeneity is observed among functional categories. The mitochondrial genome of T. chinensis exhibits pronounced structural complexity and extensive loss of translation-related genes, while most retained mitochondrial protein-coding genes remain under strong purifying selection. These findings provide new insights into the structural evolution, functional reduction, and evolutionary constraints of mitochondrial genomes in hemiparasitic plants.",
+    "authors": [
+      "Mengjin Tan",
+      "LingYun Wan",
+      "Wenjing Liang",
+      "Can Chen",
+      "Guiyu Tan",
+      "Ya Qin",
+      "Yuqiong Li",
+      "Lisha Song",
+      "Haixia Yu",
+      "Cuihong Yang",
+      "Lingjian Gui",
+      "Shugen Wei"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558998/",
+    "doi": "10.1186/s13059-025-03676-6",
+    "score": 0.3259,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42559249",
+    "source": "pubmed",
+    "title": "Efflux pump overexpression in fluoroquinolone multidrug resistance: molecular mechanisms, PK/PD implications, global epidemiology, and translational strategies.",
+    "abstract": "Fluoroquinolones are a cornerstone of human antibacterial chemotherapy because they combine broad-spectrum bactericidal activity, high oral bioavailability, and excellent tissue penetration. However, their clinical utility is being eroded by the global spread of multidrug-resistant (MDR) pathogens. While quinolone resistance-determining region (QRDR) mutations in DNA gyrase and topoisomerase IV remain the primary determinants of high-level resistance, mounting evidence implicates active efflux pump overexpression as an important exposure-modifying mechanism. This mechanism can amplify multidrug resistance. This review provides a pharmacology-centered synthesis of fluoroquinolone mechanism of action, pharmacokinetic/pharmacodynamic (PK/PD) indices, and the mutant selection window (MSW) framework, and integrates these concepts with the structural and regulatory biology of efflux systems in major human ESKAPE pathogens. We highlight how resistance-nodulation-division (RND) pumps in Gram-negative bacteria (e.g., AcrAB-TolC, Mex-family systems) and major facilitator superfamily (MFS) pumps in Gram-positive cocci (e.g., NorA/NorB/NorC) lower intracellular drug exposure, widen the MSW, and promote stepwise acquisition of QRDR mutations and plasmid-mediated quinolone resistance. Using recent WHO GLASS data and health-economic analyses, we summarize global resistance trends and discuss the broader healthcare and macroeconomic burden associated with MDR bacterial infections. Finally, we discuss translational strategies to mitigate efflux-mediated resistance, including the preclinical pipeline of efflux pump inhibitors (EPIs), PK/PD-informed high-exposure dosing regimens, and One Health-aligned antimicrobial stewardship interventions. By linking molecular mechanism, PK/PD, epidemiology, and health economics, this review aims to inform rational dosing, drug development, and policy decisions needed to preserve the efficacy of this vital antimicrobial class.",
+    "authors": [
+      "Ahmad H Alhowail",
+      "Yasser S Almogbel"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559249/",
+    "doi": "10.1016/j.bmc.2007.07.039",
+    "score": 0.3077,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42562952",
+    "source": "pubmed",
+    "title": "Reimagining antimicrobial resistance: AI-driven predictive epidemiology and the C-AMRE framework for next-generation antibiotic discovery.",
+    "abstract": "Antimicrobial Resistance (AMR) has evolved from a clinically observed phenomenon into a complex, dynamic, and partially predictable evolutionary process. Traditional approaches centered on phenotypic detection and retrospective surveillance are increasingly inadequate to address the accelerating pace of resistance emergence. This review presents a paradigm shift toward predictive antimicrobial science, driven by the convergence of Evolutionary Intelligence (EI), Artificial Intelligence (AI), genomic surveillance, molecular simulation, and digital twin technologies. Leveraging whole-genome sequencing (WGS) and resistome analytics, AI models can identify latent resistance determinants and forecast evolutionary trajectories before clinical manifestation, enabling a transition from reactive to anticipatory intervention strategies. Central to this transformation is the concept of the Computational Antimicrobial Resistance Ecosystem (C-AMRE), an integrated, multi-layered framework that unifies data acquisition, predictive modeling, mechanistic simulation, and clinical feedback into a continuous learning system. Within this ecosystem, molecular simulations provide mechanistic insights into resistance at atomic and systems levels, while AI-driven pharmacology enables the design of novel antibiotics, antimicrobial peptides, and Nano-Adjuvants through generative and optimization-based approaches. The incorporation of digital twins further advances precision medicine by simulating patient-specific infection dynamics, pharmacokinetics/pharmacodynamics (PK-PD), and resistance evolution in real time, thereby enabling adaptive and personalized therapeutic strategies. Across micro-, meso-, and macro-scales, these technologies collectively redefine AMR as a systems-level phenomenon that can be modeled, predicted, and strategically managed. However, challenges related to data integration, model interpretability, validation, ethical governance, and global accessibility remain critical barriers to implementation. Despite these limitations, the integration of AI and computational frameworks positions antimicrobial research at the forefront of a new era, where antibiotics are no longer static interventions but adaptive components of intelligent, continuously evolving systems. This review highlights the transition from detection to prediction and ultimately to adaptive intervention, emphasizing the role of computational ecosystems in shaping the future of sustainable antimicrobial therapy.",
+    "authors": [
+      "Ashutosh Patil",
+      "Mangesh Jadhav",
+      "Ujban Hussain",
+      "Rajendra Kakde"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562952/",
+    "doi": "10.1016/S0140-6736(24)00876-6",
+    "score": 0.3031,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42560585",
+    "source": "pubmed",
+    "title": "Real-time PCR-based detection of Mycoplasma agalactiae in sheep bulk tank milk to support flock-level epidemiology.",
+    "abstract": "This study presents the development and large-scale field application of a real-time PCR assay designed for the detection of Mycoplasma agalactiae in bulk tank milk from dairy sheep farms. The assay demonstrated high analytical specificity and sensitivity, enabling reliable identification of low levels of target DNA typically present in bulk milk samples. Following analytical validation, the test was used to estimate within-herd prevalence and was applied in a regional surveillance program encompassing more than 900 sheep farms across Sardinia, Italy. The findings reveal widespread but often low-prevalence circulation of M. agalactiae within Sardinian flocks. The real-time PCR assay proved effective for identifying infected herds through a non-invasive, cost-efficient sampling matrix, underscoring its value as a practical tool for early detection and herd-level surveillance. This approach provides a scalable framework for monitoring contagious agalactia in areas with high densities of small-ruminant farms and supports the establishment of sustainable milk-based surveillance systems.",
+    "authors": [
+      "Carla Cacciotto",
+      "Tania Carta",
+      "Franca Mannu",
+      "Rosanna Zobba",
+      "Emanuela Bazzoni",
+      "Ignazio Ibba",
+      "Danilo Muggianu",
+      "Francesco Turrini",
+      "Marco Pittau",
+      "Vincenzo Carcangiu",
+      "Alberto Alberti"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560585/",
+    "doi": "10.1016/0378-1135(96)00023-5",
+    "score": 0.3018,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42563174",
+    "source": "pubmed",
+    "title": "The monophyly of Nycteria and Polychromophilus parasites: a missing piece in the evolution of malaria and other Haemosporida.",
+    "abstract": "Haemosporida is a diverse order of vector-borne apicomplexan parasites infecting terrestrial vertebrates worldwide, including humans, but the evolutionary relationships among its genera remain unresolved. The phylogenetic placement of two bat-restricted genera, Nycteria and Polychromophilus, both of which lack erythrocytic schizogony, has varied across studies depending on taxon sampling and marker choice. To address this problem, an expanded dataset of near-complete mitochondrial (mtDNA) genomes together with nine nuclear loci were analyzed. Phylogenetic analyses of mtDNA recovered Nycteria and Polychromophilus as a strongly supported monophyletic clade. In contrast, analyses based only on the three mitochondrial coding genes (CDS) or a reduced nuclear dataset failed to recover their monophyly and showed low support and extensive topological conflict at deeper nodes. These results indicate that the near-complete mitochondrial genomes recover phylogenetic signal that is not captured by reduced mitochondrial coding sequences or partial nuclear datasets. Molecular dating analyses further showed that divergence estimates for a putative Nycteria-Polychromophilus clade are compatible with the proposed times for bat diversification and consistent with the broader haemosporidian timescale. When the Nycteria-Polychromophilus clade was incorporated as a calibration prior, divergence-time estimates became more precise without altering the overall evolutionary timeframe. Substantial mitochondrial gene-order rearrangements in a distinct Nycteria lineage were confirmed, highlighting structural divergence within this bat-associated group. In addition, heterogeneity in rates across mtDNA haemosporidian lineages was observed. Together, these findings support the existence of a distinct bat-associated clade whose deeper placement and evolutionary significance should be tested with broader phylogenomic sampling.",
+    "authors": [
+      "M Andreína Pacheco",
+      "Juliane Schaer",
+      "Oskar Werb",
+      "Beatriz Mello",
+      "Ananías A Escalante"
+    ],
+    "date": "2026-Aug-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563174/",
+    "doi": "10.1093/gbe/evae027",
+    "score": 0.3002,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42571233",
+    "source": "pubmed",
+    "title": "Competition constrains parasite adaptation to thermal heterogeneity.",
+    "abstract": "Temporal thermal heterogeneity is expected to favour intermediate, generalist phenotypes that can maintain growth across a broad thermal range but have sub-optimal growth at any single temperature. Yet, thermal variation typically occurs in the presence of additional selection pressures which may interact to constrain adaptation to temperature. We propagated competing lytic viral parasites (bacteriophages, thermal specialist φ14-1 and thermal generalist φLUZ19) of Pseudomonas aeruginosa under fluctuating temperatures (37°C-42°C) in monoculture and in co-culture. Without competition, fluctuating temperatures resulted in intermediate thermal phenotypes in the phage φ14-1 and, in both phages, resulted in more variable evolutionary outcomes compared to static conditions. Selection from both fluctuating temperatures and competition accelerated thermal adaptation in the phage φ14-1. However, co-selection led to restricted thermal adaptation, lower genetic distance from ancestor, and fewer putative adaptive mutations in the phage φLUZ19. Our study highlights the potential for variable adaptive capacity in interacting communities amidst global climate change.",
+    "authors": [
+      "Samuel Te Greenrod",
+      "Daniel Cazares",
+      "Weronika Ślesak",
+      "Tobias E Hector",
+      "R Craig MacLean",
+      "Kayla C King"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571233/",
+    "doi": "10.1093/evlett/qrag016",
+    "score": 0.29,
     "fetched_at": "2026-08-09"
   },
   {
@@ -540,6 +1030,27 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42561989",
+    "source": "pubmed",
+    "title": "Streptococcus anginosus group as a cause of serious streptococcal infection in the UK: a retrospective population-based surveillance study.",
+    "abstract": "Despite emerging evidence indicating an increasing burden of invasive Streptococcus anginosus group (SAG) intracranial infections in children, their wider epidemiology remains inadequately explored. We aimed to describe the epidemiology of SAG infections in adults and children in the UK. We conducted a retrospective population-based surveillance study of microbiological laboratory samples, including all samples from which Streptococcus spp were identified, at Great Ormond Street Hospital (GOSH; London, UK), which processes local paediatric and national specimens from all ages, from Jan 1, 2000, to Dec 31, 2023, and at University College London Hospitals (UCLH; London, UK; all ages), from Jan 1, 2012, to Dec 31, 2023. Samples with missing data were excluded. We also analysed the nationally reported streptococcal bacteraemia data from Jan 1, 2015, to Dec 31, 2023, and calculated the annual rates of SAG sterile body site (SBS) infections per 1000 emergency admissions at each hospital. Temporal trends were analysed using negative-binomial regression with admission numbers as an offset. Descriptive statistics summarised infection characteristics by organism, species, body site, age, and sex. National bacteraemia trends were analysed relative to population denominators. Analyses included only records with complete routine laboratory data, and samples without sufficient information were excluded from relevant subgroup analyses. As we only included routinely collected laboratory data, comprehensive demographic and ethnicity data were not available. The median age of patients from whom Streptococcus spp of interest (SOI) were isolated was 44·41 years (IQR 12·327-64·32). 2215 (59·8%) of 3702 patients with SOI SBS infection (defined as an infection of an anatomical area expected to be devoid of microorganisms) were male. At both GOSH and UCLH, incidence of SAG sterile body site infections increased year-on-year from 2·12 per 1000 emergency hospital admissions in 2012 to 11·51 per 1000 emergency hospital admissions in 2023 at GOSH (p<0·0001) and from 0·97 per 1000 emergency hospital admissions in 2012 to 6·04 per 1000 emergency hospital admissions in 2023 at UCLH (p<0·0001). SAG diagnoses in external samples, which were referred to GOSH for molecular diagnostics, also increased markedly over time compared with other Streptococcus spp diagnoses. In all groups, SAG is the current dominant cause of streptococcal sterile body site infection. SAG sterile body site infections most frequently involved the CNS (222 [19·6%] of 1133), especially in children (87 [39·2%] of 222), intrathoracic sites (283 [24·9%] of 1133), and abdominal sites (202 [17·8%] of 1133). At the species level, all three SAG species contributed to the increase in infections. S intermedius was the dominant cause of CNS and intrathoracic infections, whereas S anginosus and S constellatus were the dominant causes of abdominal infections. SAG infections, predominantly deep pyogenic collections in SBSs, are increasing in both children and adults in the UK and represent a major cause of streptococcal SBS infections. This increase is unlikely to be explained solely by improved diagnostics or increased sampling and suggests a real change in epidemiology. Further work is urgently needed to understand whether this change is because of increasing virulence of SAG organisms, changes in carriage rates or dynamics, or the presence of alternative drivers. The European Society of Clinical Microbiology and Infectious Diseases (Europäische Gesellschaft für klinische Mikrobiologie und Infektionskrankheiten; ESCMID).",
+    "authors": [
+      "Eliza Gil",
+      "James Hatcher",
+      "Sophia De Saram",
+      "Trupti Patel",
+      "Theresa Lamagni",
+      "Rebecca Guy",
+      "Michael Marks",
+      "Jeremy Brown"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42561989/",
+    "doi": "10.1016/j.lanmic.2026.101436",
+    "score": 0.2673,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42552743",
     "source": "pubmed",
     "title": "Phylogenomic insights into the genus Tulipa (Liliaceae): Taxonomy, evolution, and biogeography.",
@@ -571,6 +1082,62 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42557930",
+    "source": "pubmed",
+    "title": "Epidemiology, Diversity, Physiology, and Chemical Management of Rhizoctonia solani Causing Web Blight in Country Bean.",
+    "abstract": "Country bean (Lablab purpureus L.) is an economically significant legume vegetable in Bangladesh, but its production is threatened by a new disease, web blight caused by Rhizoctonia solani. This study presented a comprehensive analysis of the pathogen's epidemiology, genetic diversity, physiology, host resistance, and chemical control strategies. Field surveys in six upazilas of Gazipur district revealed high disease prevalence (50%-80%), with incidence and severity ranging from 59%-92% to 38%-52%, respectively, peaking in October-November. Thirty isolates of R. solani were collected, and molecular characterization of four representative isolates identified AG-1 IA, AG-1 ID, and AG-5, indicating preliminary genetic variability among representative isolates. The detection of AG-1 ID and AG-5 is the first report on country bean. Optimal fungal growth occurred at 25°C-30°C and pH 7.0-9.0, with peptone, L-arginine, sodium nitrate, sorbitol, mannitol, and galactose as preferred nutrient sources. Maximum virulence, as measured by disease incidence, severity, and lesion development, was observed at 30°C. The pathogen exhibited a broad host range, infecting crops across Fabaceae, Poaceae, and Solanaceae. Screening of 94 country bean genotypes revealed a general lack of resistance, with most exhibiting moderate to high susceptibility. Among tested fungicides, Autostin 50 WG (carbendazim) and Nativo 75 WG (tebuconazole + trifloxystrobin) showed complete inhibition of mycelial growth in vitro. In planta application significantly reduced disease severity, achieving 83%-85% protection in preventive and 77%-81% in curative treatments, with efficacy lasting up to 15 days. These findings offer a novel insight into the web blight pathosystem in country bean, supporting the development of effective disease management strategies.",
+    "authors": [
+      "Sayed Shahidul Islam",
+      "Md Abdul Kader",
+      "Umakanta Sarker",
+      "Shaikh Sharmin Siddique",
+      "Md Motaher Hossain"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42557930/",
+    "doi": "10.1094/pdis-08-20-1806-re",
+    "score": 0.247,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42565274",
+    "source": "pubmed",
+    "title": "Geographical and temporal patterns of cutaneous leishmaniasis in Pakistan: insight from a decade of epidemiology.",
+    "abstract": "Cutaneous leishmaniasis (CL) is a major public health concern in Pakistan. This systematic review aimed to assess geographical distribution, prevalence trends and epidemiological risk factors associated with CL from 2014 to 2024. A systematic literature search was conducted using PubMed, ScienceDirect and Google Scholar for studies published from January 2014 to December 2024. Keywords included 'cutaneous leishmaniasis', 'epidemiology', 'Pakistan' and 'geographical distribution'. Of 1000 retrieved publications, 600 were screened and 25 met predefined inclusion and quality criteria. The extracted data included study area, research design, diagnostic methods, gender distribution and Leishmania species. A total of 27 380 confirmed CL cases were reported. The highest burden was in Khyber Pakhtunkhwa (60%), followed by Balochistan (16%), Sindh (8%), Punjab (8%) and Azad Jammu and Kashmir and Chitral (4%). A male predominance (approximately 60-65%) was reported. The dominant species were Leishmania tropica and Leishmania major. Diagnosis relied mainly on microscopy (80%), with an annual incidence rate of 8-10% over the previous decade. CL shows a widespread and increasing distribution pattern in Pakistan. The main factors involve poverty, vectors, climate change and migration. These findings focus on the need to improve the surveillance network, molecular diagnostic methods and public awareness to decrease the growing impact of the disease.",
+    "authors": [
+      "Rehana Shaheen",
+      "Razia Bibi",
+      "Muhammad Aurongzeb",
+      "Yasmeen Rashid",
+      "Mudassar Khan",
+      "Syed Ikhlaq Hussain",
+      "Shumaila Naz"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42565274/",
+    "doi": "10.1093/trstmh/trag085",
+    "score": 0.2391,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42565907",
+    "source": "pubmed",
+    "title": "Envisaging the role of plant Small RNAs: A comprehensive review on antiviral defense mechanisms.",
+    "abstract": "Plant viruses continue to impose severe constraints on global agriculture, often leading to substantial yield and economic losses. Conventional management strategies such as vector control and resistance breeding frequently fail to provide durable and broad-spectrum protection due to rapid evolution of virus, their dependence on host cellular machinery and the lack of effective antiviral compounds. These shortcomings have led researchers to increasingly explore molecular approaches, with RNA interference (RNAi) emerging as a precise and sustainable strategy for managing plant viral diseases. RNAi operates through endogenous gene regulatory mechanisms and is driven by small RNAs (sRNAs) such as small interfering RNAs (siRNAs) and microRNAs (miRNAs). Through mechanisms such as post-transcriptional gene silencing (PTGS) and transcriptional gene silencing (TGS), sRNAs orchestrate a robust and multilayered immune response against plant viruses. Recent advances have expanded RNAi-based strategies to both transgenic and non-transgenic platforms. Transgenic approaches such as host-induced gene silencing (HIGS), provide stable and long-term resistance, while non-transgenic methods like spray-induced gene silencing (SIGS) and other exogenous nucleic acid delivery systems offer flexible and environmentally safe alternatives without genetic modification. Furthermore, engineered sRNAs such as artificial microRNA (amiRNA) and synthetic trans-acting small interfering RNA (syn-tasiRNA) enhance target specificity, enable multiplex targeting and reduce off-target effects. This review aims to bridge the fundamental concepts of sRNA biology with their application in antiviral crop protection. It provides a comprehensive overview of sRNA biogenesis, antiviral mechanisms and engineered sRNA technologies for plant virus management.",
+    "authors": [
+      "Kavi Bharathi S",
+      "Harish S",
+      "Karthikeyan G",
+      "Auxcilia J",
+      "Kannan M"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42565907/",
+    "doi": "10.1038/s41565-019-0382-5",
+    "score": 0.2326,
+    "fetched_at": "2026-08-09"
+  },
+  {
     "id": "pubmed:42553316",
     "source": "pubmed",
     "title": "Lung cancer across borders: From molecular epidemiology to precision treatment strategies.",
@@ -585,6 +1152,159 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42553316/",
     "doi": "10.1158/1055-9965.EPI-05-0456",
     "score": 0.2311,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42561363",
+    "source": "pubmed",
+    "title": "Advances and Challenges Regarding American Tegumentary Leishmaniasis in the Amazon: Scientific, Epidemiological and Public Health Perspectives.",
+    "abstract": "American tegumentary leishmaniasis (ATL) remains a significant public health problem in the Americas, with the Amazon region standing out in Brazil for its high number of cases. This article aimed to present advances in the understanding of epidemiology, diagnosis, treatment and control of ATL in the state of Amazonas over the past decades. This study is a narrative review of scientific studies published in the literature between 2011 and 2025, retrieved from databases such as PubMed and SciELO, as well as public data from the Notifiable Diseases Information System (SINAN), official reports from the Ministry of Health and technical notes from the Amazonas Health Surveillance Foundation. The evolution of disease incidence is reported, highlighting the predominance of Leishmania (Viannia) guyanensis and the environmental factors associated with the increase in cases, such as deforestation and unplanned urbanization. Advances in diagnostic strategies include the expanded use of molecular techniques and the strengthening of the primary healthcare network. Regarding therapy, clinical trials with drugs such as pentamidine, miltefosine, tamoxifen and itraconazole have demonstrated their efficacy in treatment. The review also includes socio-environmental, genetic and experimental studies that have contributed to a better understanding of the disease. It emphasizes the need to establish a priority agenda that includes the use of telemedicine and the institutionalization of collaborative research for therapeutic innovation, integration between research and healthcare services and strategies adapted to the Amazonian context. Regional scientific advances can support more effective control policies and reduce the burden of ATL in this highly endemic setting.",
+    "authors": [
+      "Jorge Augusto de Oliveira Guerra",
+      "Débora Raysa Teixeira de Sousa",
+      "Silmara Navarro Pennini",
+      "Thamires Bastos Pinheiro",
+      "Melissa Melo Cavalcante",
+      "Luciana Mendes",
+      "Diego Carvalho",
+      "Fábio Borgonovo",
+      "Francisco Mateus João",
+      "Isolda Prado de Negreiros Nogueira Maduro",
+      "Luiz Carlos Cunha Marques",
+      "Silvia Cassia Brandão Justiniano",
+      "João Marcos Bemfica Barbosa Ferreira",
+      "Katia do Nascimento Couceiro",
+      "Maria das Graças Vale Barbosa Guerra"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42561363/",
+    "doi": "10.3390/microorganisms13061304",
+    "score": 0.2283,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42570692",
+    "source": "pubmed",
+    "title": "Generation of 4-hydroxyphenylpyruvate dioxygenase (HPPD)-inhibiting herbicide-resistant rice (Oryza sativa L.) germplasm based on enhanced DNA shuffling and CRISPR-mediated base editing.",
+    "abstract": "Weeds significantly threaten rice production. While herbicides are the most efficient weed-control method, prolonged use accelerates resistant weed emergence. 4-Hydroxyphenylpyruvate dioxygenase (HPPD)-inhibiting herbicides offer potential for managing resistant weeds in rice, but the availability of resistant rice mutants is limited. This study aimed to optimize the method of DNA shuffling to conduct directed evolution of the rice HPPD gene, discover novel resistance mutations, and generate herbicide-resistant rice germplasm. We developed an efficient DNA shuffling method utilizing flanking sequences and segmented amplification to construct random mutation libraries of rice HPPD and maize (Zea mays L.) HPPD genes. Mutant libraries were screened via chromogenic reaction in Escherichia coli. CRISPR-mediated adenine base editing was adopted to generate rice mutants, and hydroponic assays were conducted to evaluate herbicide resistance. The crystal structure of rice HPPD was determined by X-ray crystallography, while mutant structures and ligand docking were simulated with AlphaFold3. Flanking sequences enhanced single-stranded DNA amplification efficiency, and segmented amplification reduced nonsense mutations. A resistant mutant, OsHPPD-mHelix, was obtained. Enzyme kinetics analysis demonstrated that its Ki for mesotrione was increased approximately 2.5-fold compared to that of wild-type OsHPPD, while its enzyme activity was not significantly affected. Using the mutation sites contained in OsHPPD-mHelix as hotspots, genome-edited rice was further generated. It was found that the mesotrione resistance of rice carrying the E423G mutation was approximately 2.2-fold higher than that of wild-type rice. Structural and molecular dynamics analyses suggested the E423G mutation promotes a closed terminal α-helix conformation, with free energy landscapes indicating reduced mesotrione binding stability, potentially explaining the resistance mechanism. This study provides an efficient DNA shuffling technology and novel herbicide-resistant rice germplasm, enriching the toolbox for rice gene-directed evolution and resistant variety cultivation.",
+    "authors": [
+      "Le Chen",
+      "Dongshu Guo",
+      "Zhou Yang",
+      "Yaru Jin",
+      "Xiao Li",
+      "Jingjing Deng",
+      "Weiwu Wang",
+      "Baolong Zhang",
+      "Yuwen Yang"
+    ],
+    "date": "2026-Aug-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570692/",
+    "doi": "10.1016/j.jare.2026.08.011",
+    "score": 0.2257,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42560298",
+    "source": "pubmed",
+    "title": "Multidrug-Resistant",
+    "abstract": "The review article is a critical examination of the growing global problem of multidrug-resistant (MDR) Salmonella and Shigella, focusing on their epidemiology, molecular resistance mechanisms, and clinical effects. It compiles current information on increasing resistance to major antibiotics, such as fluoroquinolones, third-generation cephalosporins, and sulfonamides, that is caused by a variety of factors, including ESBL production and plasmid-mediated gene transfer, especially in Asia, Africa, and the Middle East. The minireview discusses the new therapeutic approaches such as bacteriophage therapy, antimicrobial peptides, antimicrobials based on nanotechnology, and a combination of antibiotic regimens and their mechanisms, efficacy, and some limitations that exist in these approaches. In addition, it discusses the issues of diagnostic challenges, infection control practices, and antibiotic stewardship as part and parcel of resistance management. It will be a focused, evidence-based review to inform research, clinical practices, and policy to turn the trend of resistance around and enhance patient outcomes. The presented multidisciplinary review shows that MDR Salmonella and Shigella infections have become a threatening problem in the world, which requires urgent measures, including multilateral cooperation, improved molecular tracking, fast diagnostics, and new therapeutic options.",
+    "authors": [
+      "Abdullah Ali Almrwani",
+      "Bassam O Al-Johny",
+      "Ali Ahmad Shaibah",
+      "Adel M Qumusani",
+      "Saleh M Al-Maaqar"
+    ],
+    "date": "2026-Jun-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560298/",
+    "doi": "10.3389/fmicb.2023.1176317",
+    "score": 0.2253,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42567392",
+    "source": "pubmed",
+    "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
+    "abstract": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the native states of proteins, identifying regions where interactions are optimized and others where energetic conflicts are retained to enable functional behavior. In recent years, the study of local frustration has expanded significantly, driven by the integration of large-scale structural datasets and advances in artificial intelligence methods. Comparative analyses have shown that frustration patterns encode evolutionary pressures across protein families, with minimally frustrated interactions stabilizing structural cores and highly frustrated regions often associated with catalysis, binding, conformational transitions as well as pathogenic phenotypes. At the same time, modern protein language models and structure prediction methods seem to implicitly capture the statistical and structural features underlying frustration, enabling its prediction directly from sequence or structure at proteome scale. These developments suggest that local energetic frustration may be interpreted as an emergent property of the evolutionary information learned by AI models. Here, we review recent advances in the analysis and prediction of local frustration and discuss how this framework could provide mechanistic insights into protein evolution, conformational dynamics, and design. We further argue that incorporating frustration into computational and experimental strategies will be essential to move beyond purely stability-driven approaches toward the rational engineering of functional proteins.",
+    "authors": [
+      "Franco L Simonetti",
+      "Eli J Draizen",
+      "Rocío Espada",
+      "R Gonzalo Parra"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42567392/",
+    "doi": "10.1016/j.bbapap.2026.141170",
+    "score": 0.2188,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42565642",
+    "source": "pubmed",
+    "title": "The modular evolution of multiheme cytochromes c bucks the general trend observed in most proteins.",
+    "abstract": "Multiheme cytochromes c are versatile enzymes which contribute to key steps in diverse biogeochemical cycles of chemical elements such as nitrogen, iron, and sulfur, and are also key players in microbial electrochemical technologies. Understanding how they evolved offers a blueprint on how nature tuned their sequence and heme c cofactors to accomplish this versatile chemistry. We previously focused our attention on the largest group of homologous multiheme cytochrome c and showed that these enzymes evolve by fusion and fission of cytochrome c modules. Here, we extended our analysis to all characterized multiheme cytochromes and found that, in general, the evolution of multiheme cytochromes is governed by the same principles of fusion and fission. In addition, here we show that fusion can also involve the incorporation of domains of other protein families and small peptide sequences that affect the heme coordination environment. We found that loss of heme-binding motifs is more prevalent than gain. The addition of hemes to multiheme cytochromes c occurs exclusively by integrating heme-binding peptides and not by gradual accumulation of mutations and is equally probable along the protein sequence. By contrast, heme loss occurs by the loss of heme-binding peptides and the accumulation of point mutations. Notably, heme-binding motif loss is disproportionately more prevalent at the position nearer to the N-terminus. This observation contrasts with the general trend observed in proteins, which are usually more conserved at the N-terminus, and likely reflects the way in which multiheme cytochromes c are assembled.",
+    "authors": [
+      "Ricardo Soares",
+      "Catarina M Paquete",
+      "Ricardo O Louro"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42565642/",
+    "doi": "10.1093/bioinformatics/btq249",
+    "score": 0.1874,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42563495",
+    "source": "pubmed",
+    "title": "Investigating enzyme function by geometric matching of catalytic motifs.",
+    "abstract": "The rapidly growing universe of predicted protein structures offers opportunities for data driven exploration but requires computationally scalable and interpretable tools. We developed a method to detect catalytic features in protein structures, providing insights into enzyme function and mechanism. A library of 6780 3D coordinate sets describing enzyme catalytic sites, referred to as templates, has been collected from manually curated examples of 762 enzyme catalytic mechanisms described in the Mechanism and Catalytic Site Atlas. For template searching we optimized the geometric-matching algorithm Jess. We implemented RMSD and residue orientation filters to differentiate catalytically informative matches from spurious ones. We validated this approach on a non-redundant set of high quality experimental (n = 3751, <40% amino acid identity) enzyme structures with well annotated catalytic sites as well as predicted structures of the human proteome. We show matching catalytic templates solely on structure is more sensitive than sequence- and 3D-structure-based approaches in identifying homology between distantly related enzymes. Since geometric matching does not depend on conserved sequence motifs or even common evolutionary history, we are able to identify examples of structural active site similarity in highly divergent and possibly convergent enzymes. Such examples make interesting case studies into the evolution of enzyme function. Though not intended for characterizing substrate-specific binding pockets, the speed and knowledge-driven interpretability of our method make it well suited for expanding enzyme active-site annotation across large predicted proteomes. We provide the method and template library as a Python module, Enzyme Motif Miner, at https://github.com/rayhackett/enzymm and as a webserver at https://www.ebi.ac.uk/thornton-srv/m-csa/enzymm.",
+    "authors": [
+      "Raymund E Hackett",
+      "Ioannis G Riziotis",
+      "Martin Larralde",
+      "António J M Ribeiro",
+      "Georg Zeller",
+      "Janet M Thornton"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563495/",
+    "doi": "10.1093/nar/gky949",
+    "score": 0.1819,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42570800",
+    "source": "pubmed",
+    "title": "Establishment and characterization of a Monochamus alternatus cell line for molecular biological analyses.",
+    "abstract": "Pine wilt disease (PWD) is one of the most destructive global forest diseases, causing extensive mortality in pine trees and severe economic and ecological damage. PWD is caused by the pinewood nematode Bursaphelenchus xylophilus, which is transmitted by Monochamus beetles. Despite the critical role of M. alternatus in PWD epidemiology, molecular and cellular studies of this species have been severely limited by the lack of a continuous cell line suitable for functional analyses. In this study, the first continuous insect cell line derived from M. alternatus, designated NARO-Moal, was produced from prepupal fat bodies. The cell line has been stably maintained for over 50 passages and adapted to the commercially available Grace's Insect Medium. To provide a molecular framework for functional studies, de novo transcriptome sequencing of NARO-Moal cells generated an assembly of 14,141 genes with 89.5% completeness, based on BUSCO analysis. The NARO-Moal cells supported transient gene expression following plasmid transfection and showed efficient RNA interference in response to simple soaking with double-stranded RNA. Moreover, this cell line responded to juvenile hormone at the gene expression level and supported stable infection with Wolbachia. These results revealed that the NARO-Moal cell line is a versatile molecular and cellular platform for gene functional analysis, endocrine signaling, and symbiotic research in M. alternatus, providing new opportunities for mechanistic studies and the development of innovative strategies to control pine wilt disease.",
+    "authors": [
+      "Kazuyo Watanabe",
+      "Jun Takatsuka",
+      "Takuya Aikawa",
+      "Takumi Kayukawa"
+    ],
+    "date": "2026-Aug-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570800/",
+    "doi": "10.1016/j.ibmb.2026.104657",
+    "score": 0.1759,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42559732",
+    "source": "pubmed",
+    "title": "The present and future of nonviral delivery-based genome editing for hereditary hearing loss.",
+    "abstract": "This review summarizes nonviral genome-editing delivery platforms for hereditary hearing loss, focusing on lipid nanoparticles (LNPs) and engineered virus-like particles (eVLPs), and discusses their advantages over adeno-associated virus-based delivery, as well as the barriers to clinical translation. Recent advances have established LNPs as a clinically advanced nonviral platform, although challenges related to inner ear biodistribution, cell type specificity, endosomal escape, and immunogenicity remain to be addressed. In parallel, eVLPs have undergone substantial technical evolution, progressing from early low efficiency systems to advanced base editor- and prime editor-eVLP architectures that enhance cargo loading and editing efficiency. Extracellular vesicle-based genome editing has also emerged as an additional platform, although issues related to reproducibility, loading efficiency, and scalability remain major hurdles. Nonviral genome editing platforms expand the therapeutic toolkit for hereditary hearing loss by enabling transient delivery of genome editors with potential safety advantages. Future efforts should focus on characterizing biodistribution and immunogenicity, refining cell type-specific tropism, and establishing scalable manufacturing processes to enable successful clinical translation.",
+    "authors": [
+      "Seung Hyun Jang",
+      "Heon Yung Gee",
+      "Jinsei Jung"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559732/",
+    "doi": "10.1097/MOO.0000000000001151",
+    "score": 0.1745,
     "fetched_at": "2026-08-09"
   },
   {
@@ -607,6 +1327,120 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42561497/",
     "doi": "10.1016/j.virol.2026.111044",
     "score": 0.1659,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42568960",
+    "source": "pubmed",
+    "title": "From Dipeptide Systems to Polypeptides: Evolution of Mutual Information.",
+    "abstract": "Understanding the electronic structure of amino acids is crucial to understanding protein stability, folding mechanisms, and molecular interactions. In this study, we introduce fragment-wise mutual information (FMI) as a quantum information-based tool to quantify interatomic correlations in peptides. By extending mutual information (MI) analysis to amino acid fragments, FMI provides a detailed map of electronic interactions beyond classical descriptors, such as van der Waals forces. We first validated FMI on 400 dipeptides, demonstrating a correlation with the atomization and bonding energies. Expanding this approach to the 10-mer Neh2 peptide, we analyze molecular dynamics (MD) simulations and reveal how interatomic correlations evolve during folding. Our results show that FMI distinguishes stabilizing interactions such as salt bridges and variable hydrogen-bond strengths, providing deeper insight into peptide stability. These findings suggest that FMI could enhance molecular modeling and force-field development by incorporating quantum electronic effects into biomolecular analysis.",
+    "authors": [
+      "Mostafa Javaheri Moghadam",
+      "Katharina Boguslawski",
+      "Paweł Tecmer",
+      "Stijn De Baerdemacker"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568960/",
+    "doi": "10.1002/jcc.21759",
+    "score": 0.1659,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42562967",
+    "source": "pubmed",
+    "title": "The Acute Respiratory Distress Syndrome (ARDS): epidemiology, etiology, molecular mechanisms, diagnosis and therapeutic strategies.",
+    "abstract": "Acute respiratory distress syndrome (ARDS) is a severe clinical condition characterized by acute hypoxemic respiratory failure (AHRF) and diffuse pulmonary inflammation, which can be triggered by diverse intrapulmonary, extrapulmonary, and host-related factors. Over recent decades, basic research and clinical trials have significantly advanced our understanding of ARDS mechanisms, and effective comprehensive critical care interventions, including lung-protective ventilation, prone positioning, and individualized fluid management, have been widely implemented. Nevertheless, ARDS continues to be associated with substantial morbidity and mortality, and its marked clinical and biological heterogeneity remains a major obstacle to effective management and therapeutic translation. This review summarizes current evidence on ARDS epidemiology, etiology, pathophysiology, diagnosis, and clinical management. We also trace the evolution of diagnostic criteria, including the latest global definition, and critically examine disease heterogeneity, recent advances in critical care strategies, emerging therapeutic approaches, barriers to clinical translation, and future research priorities. Particular emphasis is placed on integrating clinical, physiological, and multi-omics data to support biologically and clinically meaningful patient phenotyping grounded in disease mechanisms. Building on this phenotypic stratification, innovative trial designs, including predictive enrichment and adaptive platform trials, may facilitate the development of more individualized, targeted, and dynamically adjusted treatment strategies for ARDS. In summary, establishing a precision medicine framework for ARDS that integrates etiology, mechanistic insights, phenotype-based patient stratification, individualized therapeutic strategies, and long-term management will be essential to address current challenges and improve patient outcomes.",
+    "authors": [
+      "Defei Tan",
+      "Junlan Zhou",
+      "Lingling Li",
+      "Yanan Zhong",
+      "Ziping Cheng",
+      "Tao Yang"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562967/",
+    "doi": "10.1097/CCM.0000000000002175",
+    "score": 0.1412,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42568067",
+    "source": "pubmed",
+    "title": "Proteomic Mediators of Chronic Obstructive Pulmonary Disease Phenotypes and Coronary Artery Calcification Burden in Ever Smokers.",
+    "abstract": "Chronic obstructive pulmonary disease (COPD) increases cardiovascular disease risk. Coronary artery calcification (CAC) predicts cardiovascular events and mortality in COPD. We hypothesized that plasma proteins linked to pulmonary phenotypes mediate CAC burden. Pulmonary function, emphysema, airway wall thickening, Agatston CAC scores (inverse normal transformed), and relative abundance of 1305 plasma proteins (log-transformed) were assessed in 989 Phase 1 COPDGene (Genetic Epidemiology of COPD) participants. Proteins associated with both pulmonary phenotypes (FEV1[forced expiratory volume in 1 second]%predicted, FVC [forced vital capacity], FEV1/FVC, emphysema, airway wall thickness, wall area percentage) and CAC (false discovery rate P≤0.20) were evaluated using multivariable mediation. Model adjustments included sex, age, race, body mass index, smoking, comorbidities, and medications. Adjustment for pulmonary artery-to-aortic diameter ratio-a marker of pulmonary vascular pressure-was also explored. The95% bootstrap CIs that excluded zero were considered significant. FEV1%predicted (P=0.026) and FEV1/FVC (P=0.010) were associated with CAC. After adjusting for FEV1, visual emphysema, and visual airway wall thickening remained associated with CAC. Five proteins (TSP2 [thrombospondin-2], renin, MMP-7 [matrix metalloproteinase-7], ERBB1 [epidermal growth factor receptor], MIC-1 [macrophage inhibitory cytokine-1]) mediated the FEV1%predicted and CAC association. All except MIC-1 mediated FEV1/FVC and CAC. All except renin mediated quantitative airway wall thickness or wall area percentage and CAC. Additionally, α2-antiplasmin (alpha-2 antiplasmin) mediated airway wall thickness and CAC. ERBB1 mediated visual paraseptal emphysema and CAC. Pulmonary artery-to-aortic diameter ratio adjustment reduced or eliminated some mediation effects. ERBB1 remained an independent mediator across multiple phenotypes. Six plasma proteins mediated associations between COPD phenotypes and CAC burden. These effects were partially influenced by pulmonary artery-to-aortic diameter ratio A, suggesting shared molecular pathways linking lung dysfunction to cardiovascular risk in COPD.",
+    "authors": [
+      "Asghar Abbasi",
+      "Khadije Ahmad",
+      "Katherine A Pratte",
+      "Jeff Moore",
+      "Dawn L DeMeo",
+      "Venkat S Manubolu",
+      "April Kinninger",
+      "Nicholas B Tiller",
+      "Russell P Bowler",
+      "Mathew Budoff",
+      "Richard Casaburi",
+      "Harry B Rossiter"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568067/",
+    "doi": "10.1161/JAHA.125.046201",
+    "score": 0.1405,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42569912",
+    "source": "pubmed",
+    "title": "Invasive mold infections in intensive care in hematological patients.",
+    "abstract": "Invasive mold infections (IMIs) remain a major cause of morbidity and mortality in patients with hematological malignancies, particularly when critical illness develops. Advances in hematological therapies and intensive care medicine have increased the number of high-risk patients admitted to intensive care units (ICUs), where invasive aspergillosis and other mold infections represent important causes of acute respiratory failure and sepsis. This review summarizes current knowledge on IMIs in critically ill hematological patients, focusing on epidemiology, diagnosis, and management. The epidemiology of IMIs is evolving, with increasing recognition of non-Aspergillus molds, including Mucorales, Fusarium, Scedosporium, and Lomentospora species. Diagnosis in the ICU remains challenging because clinical and radiological findings are often nonspecific and conventional diagnostic criteria may be difficult to apply. Recent advances in imaging, fungal biomarkers, and molecular techniques have improved early detection, while new antifungal agents are expanding therapeutic options. IMIs continue to be associated with high mortality in critically ill patients with hematological malignancies. Early diagnosis, prompt initiation of appropriate antifungal therapy, and multidisciplinary management are essential to improve outcomes. Future efforts should focus on ICU-specific diagnostic strategies, risk stratification, and the integration of emerging antifungal therapies.",
+    "authors": [
+      "Luana Fianchi",
+      "Martina Quattrone",
+      "Livio Pagano"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42569912/",
+    "doi": "10.3201/eid3002.231221",
+    "score": 0.1342,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42566009",
+    "source": "pubmed",
+    "title": "Advances in nucleotide-based P2Y₁ antagonism: implications for cardiovascular therapeutics.",
+    "abstract": "Cardiovascular diseases (CVDs) remain a leading cause of global mortality, emphasizing the need for novel, mechanism-driven therapeutics. The P2Y₁ receptor (P2Y₁R), a G protein-coupled purinergic receptor activated by extracellular nucleotides, has emerged as a key regulator of cardiovascular function and dysfunction. Upon activation, P2Y₁R triggers phospholipase C (PLC)-dependent signaling, modulating platelet activation, vascular tone, endothelial integrity, and fibrotic remodeling. Dysregulated P2Y₁R signaling is implicated in thrombosis, atherosclerosis, hypertension, and abnormal platelet reactivity, highlighting its therapeutic potential. Nucleotide bisphosphate antagonists have played a pivotal role in elucidating P2Y₁R pharmacology and guiding drug discovery. The first-generation antagonist MRS2179 demonstrated proof-of-concept for competitive inhibition, but was limited by low potency and metabolic instability. Structural optimization led to MRS2279, exhibiting improved receptor affinity and enzymatic stability. Further refinement produced MRS2500, a highly potent and selective antagonist with nanomolar activity and robust in vivo antithrombotic efficacy without compromising hemostasis. This review integrates advances in P2Y₁R signaling, pharmacology, and structure-based design, emphasizing the evolution of nucleotide antagonists and their translational potential. These insights establish P2Y₁R antagonism as a promising strategy for next-generation cardiovascular therapeutics.",
+    "authors": [
+      "Nandanan Erathodiyil",
+      "Vineesh V Raveendran",
+      "Jackie Y Ying"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566009/",
+    "doi": "10.1021/acs.jmedchem.5c01780",
+    "score": 0.0916,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42569844",
+    "source": "pubmed",
+    "title": "Protein-Based Probiotic Delivery Systems: Structural Basis, Functional Roles, and Food Applications.",
+    "abstract": "Probiotics have considerable potential in regulating gut microbiota, improving metabolic health, and enhancing host immunity. However, during food processing, storage, and gastrointestinal digestion, they are susceptible to stresses including heat, acidity, oxygen exposure, moisture changes, and digestive fluids, leading to reduced viable cell counts and impaired functionality. Developing delivery systems that integrate protective capacity, processing adaptability, and food compatibility is, therefore, an important direction for advancing probiotic applications in foods. Food proteins possess favorable nutritional properties, biocompatibility, and structural design flexibility. They can undergo self-assembly driven by non-covalent interactions and further co-assemble with second components such as polysaccharides and polyphenols, thereby forming diverse delivery materials. Starting from protein assembly behavior, this review summarizes representative formation pathways of protein-based probiotic delivery materials and clarifies how different pathways lead to delivery structures, such as nanoparticles, nanogels, hydrogels, nanofibrils, microcapsule shells, nanocoatings, and nanofibers. On this basis, the three major functional roles of protein materials in probiotic delivery systems are summarized, namely, encapsulation, scaffold construction, and interfacial regulation. Their adaptability to different food matrices in food applications and the safety issues requiring attention are further discussed. This review aims to clarify the structural evolution of protein-based probiotic delivery systems from the origin of material formation, providing a reference for their structure-guided design, processing-pathway optimization, and expanded food applications.",
+    "authors": [
+      "Jinghang Zhang",
+      "Haifu Jia",
+      "Xiyuan Zhang",
+      "Xinyi Yang",
+      "Wei Zhang",
+      "Ling Guo",
+      "Qianyu Zhao",
+      "Yujun Jiang"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42569844/",
+    "doi": "10.1111/1541-4337.70590",
+    "score": 0.0728,
     "fetched_at": "2026-08-09"
   },
   {
