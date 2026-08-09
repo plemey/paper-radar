@@ -19,7 +19,7 @@
     "date": "2026-Aug-03",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42545215/",
     "doi": "10.1080/22221751.2026.2713320",
-    "score": 1.0,
+    "score": 0.9706,
     "fetched_at": "2026-08-07"
   },
   {
@@ -37,7 +37,7 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42571521/",
     "doi": "10.30466/vrf.2025.2048535.4585",
-    "score": 0.7172,
+    "score": 0.7326,
     "fetched_at": "2026-08-09"
   },
   {
@@ -60,7 +60,23 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42552874/",
     "doi": "10.3389/fmicb.2020.01136",
-    "score": 0.6688,
+    "score": 0.7097,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42551977",
+    "source": "pubmed",
+    "title": "Whole-genome characterization and phylogenetic analysis of Equine Rotavirus A isolated from Jeju Island, Korea.",
+    "abstract": "Equine Rotavirus A (ERVA) is a major cause of acute diarrhea in neonatal foals, leading to significant economic losses. Genetic variation and global transmission complicate disease control efforts. To analyze the complete genome of an ERVA strain from Jeju Island, Korea, and assess its genetic and phylogenetic relationships with global ERVA strains. Twenty-five fecal and swab samples were collected from diarrheic horses in Jeju during spring and summer 2025. Samples were screened using antigen testing and RT-PCR. One PCR-positive, antigen-test-positive sample was selected for whole-genome sequencing. All 11 segments were amplified using segment-specific primers and sequenced by the Sanger method. The Jeju isolate exhibited a G14-P[12]-I2-R2-C2-M3-A10-N2-T3-E2-H7 genome constellation, matching the globally prevalent ERVA genotypes. Most segments showed > 99% identity to a South African strain (SA1), while the VP4 segment showed higher similarity to a Japanese BI strain, suggesting a reassortment event. Phylogenetic analysis grouped the Jeju strain with isolates from South Africa and Ireland, but distinct from recent Japanese strains, indicating independent transmission patterns. This is the first full-genome report of ERVA from Korea. The findings confirm the presence of globally related ERVA in Korean horses and suggest complex, international transmission dynamics. Continuous molecular surveillance is essential to support effective prevention and vaccine strategies.",
+    "authors": [
+      "Thanh Tam Pham",
+      "Dong-Ha Lee",
+      "Eun-Ju Ko"
+    ],
+    "date": "2026-Jul-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551977/",
+    "doi": "10.4142/jvs.25333",
+    "score": 0.6915,
     "fetched_at": "2026-08-09"
   },
   {
@@ -88,23 +104,86 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42553703/",
     "doi": "10.1099/0022-1317-81-8-2067",
-    "score": 0.5763,
+    "score": 0.6106,
     "fetched_at": "2026-08-09"
   },
   {
-    "id": "pubmed:42551977",
+    "id": "pubmed:42551980",
     "source": "pubmed",
-    "title": "Whole-genome characterization and phylogenetic analysis of Equine Rotavirus A isolated from Jeju Island, Korea.",
-    "abstract": "Equine Rotavirus A (ERVA) is a major cause of acute diarrhea in neonatal foals, leading to significant economic losses. Genetic variation and global transmission complicate disease control efforts. To analyze the complete genome of an ERVA strain from Jeju Island, Korea, and assess its genetic and phylogenetic relationships with global ERVA strains. Twenty-five fecal and swab samples were collected from diarrheic horses in Jeju during spring and summer 2025. Samples were screened using antigen testing and RT-PCR. One PCR-positive, antigen-test-positive sample was selected for whole-genome sequencing. All 11 segments were amplified using segment-specific primers and sequenced by the Sanger method. The Jeju isolate exhibited a G14-P[12]-I2-R2-C2-M3-A10-N2-T3-E2-H7 genome constellation, matching the globally prevalent ERVA genotypes. Most segments showed > 99% identity to a South African strain (SA1), while the VP4 segment showed higher similarity to a Japanese BI strain, suggesting a reassortment event. Phylogenetic analysis grouped the Jeju strain with isolates from South Africa and Ireland, but distinct from recent Japanese strains, indicating independent transmission patterns. This is the first full-genome report of ERVA from Korea. The findings confirm the presence of globally related ERVA in Korean horses and suggest complex, international transmission dynamics. Continuous molecular surveillance is essential to support effective prevention and vaccine strategies.",
+    "title": "East Asian",
+    "abstract": "The global molecular epidemiology of Mycobacterium avium subsp. paratuberculosis (MAP) has been well documented in North America and Europe, but the population-genetic framework of the East Asian lineages is underrepresented, hindering a complete understanding of the global genotype distribution and transmission dynamics. This study aimed to establish a regional molecular-typing framework for MAP in East Asia and investigate its genetic relatedness with global lineages to explore potential intercontinental connections associated with international livestock movements. The study integrated 12 newly characterized MAP isolates from South Korean ruminant herds (cattle and black goats, 2021-2024) with 34 global isolates across six continents. Genotypic characterization was performed using mycobacterial interspersed repetitive unit-variable number tandem repeat (MIRU-VNTR) and multilocus short sequence repeat (MLSSR) approaches to evaluate the allelic diversity and subtyping resolution. All South Korean isolates were identified as \"cattle-type\" (Type II) and predominantly belonged to the INRA Nouzilly MIRU-VNTR (INMV) genotype. Age-associated differences in MAP prevalence were observed among Korean ruminant herds (Fisher's exact test, p < 0.05), with distinct age-related patterns in beef and dairy cattle The integrated MIRU-VNTR and MLSSR approaches identified 14 and 31 distinct subtypes, respectively, with MLSSR showing superior discriminatory power (discriminatory index = 0.973 vs. 0.630 for MIRU-VNTR). This high allelic diversity in the global MLSSR dataset provided finer resolution than MIRU-VNTR for distinguishing the MAP subtypes across continents. This study provides a reference point for understanding the global diversity and distribution of MAP by bridging the genomic information gap in Asia. These findings underscore the potential of high-resolution, MLSSR-integrated surveillance as a practical tool for monitoring MAP across diverse geographical scales and for prioritizing isolates for future whole genome sequencing-based studies.",
     "authors": [
-      "Thanh Tam Pham",
-      "Dong-Ha Lee",
-      "Eun-Ju Ko"
+      "Jun Ho Lee",
+      "Su Min Kyung",
+      "Eun-Seo Lee",
+      "Han Gyu Lee",
+      "Eun-Yeong Bok",
+      "Srinand Sreevatsan",
+      "Han Sang Yoo"
     ],
     "date": "2026-Jul-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551977/",
-    "doi": "10.4142/jvs.25333",
-    "score": 0.4973,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551980/",
+    "doi": "10.4142/jvs.26058",
+    "score": 0.5387,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42566189",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Peste des Petits Ruminants Virus Circulating in Fat-Tailed Sheep in Bangladesh.",
+    "abstract": "Peste des petits ruminants (PPR) is a highly contagious viral disease of sheep and goats that causes substantial economic losses through high morbidity, mortality and rapid transmission among small ruminants. Molecular epidemiological data on circulating PPR virus (PPRV) strains in Bangladesh remain limited. To investigate the molecular epidemiology and phylogenetic characteristics of PPRV among fat-tailed sheep and goats traded in livestock markets in Bangladesh. A cross-sectional survey was conducted in livestock markets in Dhaka city, Bangladesh, during the Eid-ul-Adha festival between August and October from 2015 to 2018. Oral, nasal and rectal swabs were collected from 161 animals comprising 141 sheep (including 111 fat-tailed sheep) and 20 goats. Samples were screened for PPRV using conventional hemi-nested polymerase chain reaction (PCR) targeting the nucleocapsid gene. Positive amplicons were sequenced, analysed phylogenetically and subjected to three-dimensional (3D) structural prediction of the RNA-dependent RNA polymerase protein. The overall prevalence of PPRV in small ruminants was 2.5% (95% confidence interval [CI]: 0.7-6.2). In fat-tailed sheep, the prevalence was 3.6% (95% CI: 1.0-8.9), whereas no positive cases were detected among goats. A significantly higher (p < 0.05) prevalence was observed in animals sampled from the Gabtoli livestock market. Phylogenetic analysis revealed that two of the four positive samples clustered closely with PPRV strains from India and the United Arab Emirates, whereas the other two clustered with strains from China and Tibet. These findings demonstrate the transboundary circulation of genetically diverse PPRV strains among small ruminants traded in livestock markets in Bangladesh. Strengthened molecular surveillance in livestock markets and coordinated regional control strategies are needed to support PPR prevention and eradication.",
+    "authors": [
+      "Md Arif Khan",
+      "Pronesh Dutta",
+      "Md Kaisar Rahman",
+      "Abdullah-Al Mamun",
+      "Jade K Forwood",
+      "Shariful Islam",
+      "Ariful Islam"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566189/",
+    "doi": "10.1155/2016/1486824",
+    "score": 0.5235,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42551114",
+    "source": "pubmed",
+    "title": "Decoding dengue virus dynamics in central Karnataka through molecular epidemiology, Phylogenetics, and PCA-based analysis.",
+    "abstract": "The dengue virus (DENV) is an important arboviral pathogen that causes dengue fever in humans. It has become a hyperendemic disease in India due to the circulation of multiple serotypes. Molecular surveillance and characterization of DENV are essential to monitor the serotypes and predict outbreaks. The present study was designed to investigate the transmission of DENV serotypes and identification of circulating strains and the molecular epidemiology surveillance in central Karnataka. Samples from DENV-suspected patients were tested for the dengue NS1 antigen. The positive samples were subjected for serotyping and a subset was selected for gene amplification and sequencing to determine the genotypes. The collective clinical data record of patients was opted for principal component analysis (PCA) and investigative clustering investigations. Among 4,409 samples, seropositive cases and molecular detection rate were 26.2% (1,156) and 74.6% (1,123), respectively. Serotyping results showed that DENV-2 (79.6%) was the most predominant serotype, followed by DENV-3 (10.6%) and DENV-1 (4.4%). Co-infection with multiple dengue serotypes was identified in 5.2% cases. According to phylogeny, DENV-1 serotype identified in this study belonged to genotype I, DENV-2 to genotype II (cosmopolitan), and DENV-3 to genotype III. The K-means of PCA suggests the patient's dataset were grouped in the three clusters with a few anomalies. This study reports the circulation of three dengue serotypes and concurrent infections in Central Karnataka. This outcome provides baseline data for continuous molecular surveillance to predict future outbreaks and improve control measures.",
+    "authors": [
+      "Mallikarjun Koppad",
+      "Santhosh Kogaluru Shivakumaraswamy",
+      "Puneeth Thaduru Goolappa",
+      "Praveen Satapute",
+      "Premalatha Dindare Eswarappa",
+      "Siddesh Kaalavvala Channappa"
+    ],
+    "date": "2026-Jul-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551114/",
+    "doi": "10.1016/j.diagmicrobio.2026.117579",
+    "score": 0.5075,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42559980",
+    "source": "pubmed",
+    "title": "Molecular Detection and Phylogenetic Characterization of Bartonella bovis in Dairy Cattle From Central Thailand.",
+    "abstract": "Bartonella bovis is an emerging ruminant pathogen with zoonotic potential. Although various Bartonella species have been detected in animals in Thailand, none have been reported in dairy cattle. We investigated the occurrence and genetic characteristics of Bartonella spp. in dairy cattle from central Thailand and examined associations with farm management practices. Blood samples were collected from 522 cattle on 43 farms in four provinces and examined for Bartonella DNA by PCR targeting the gltA, rpoB, and ribC genes. Sequencing, phylogenetic analyses, and nucleotide sequence type (ntST) network analyses were also performed. Risk factors were assessed using Fisher's exact test and multivariable logistic regression. Bartonella DNA was detected in 4.21% of samples, with all positives identified as B. bovis. Univariable analysis showed significantly higher prevalence in small/medium-scale farms and separate feeding systems. However, in the multivariable model, farm size showed a strong trend toward association with B. bovis detection, although the association did not reach statistical significance. The dominant gltA sequence type (ntST04) was detected across all farm sizes and feeding practices, whereas a peripheral variant (ntST02) differed by nine nucleotide substitutions from a ked-associated Bartonella sequence (GenBank ID: OQ716819). Both rpoB and ribC networks revealed seven distinct groups that were closely related to the B. bovis reference sequences, with nucleotide identities of 99.42%-100% and 99.41%-100%, respectively. This study provides new molecular evidence of B. bovis circulation in the Thai dairy cattle population, highlighting the need for improved surveillance and biosecurity, particularly in small-scale operations, to mitigate potential zoonotic risks within a One Health framework.",
+    "authors": [
+      "Wittawat Wechtaisong",
+      "Kritsada Thongmeesee",
+      "Chalida Sri-In",
+      "Aung Aung",
+      "Wisa Tiyamanee",
+      "Satoru Konnai",
+      "Sonthaya Tiawsirisup"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559980/",
+    "doi": "10.1002/vms3.70815",
+    "score": 0.5068,
     "fetched_at": "2026-08-09"
   },
   {
@@ -128,86 +207,7 @@
     "date": "2026-Aug-06",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42560073/",
     "doi": "10.1128/spectrum.01091-26",
-    "score": 0.4838,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42551114",
-    "source": "pubmed",
-    "title": "Decoding dengue virus dynamics in central Karnataka through molecular epidemiology, Phylogenetics, and PCA-based analysis.",
-    "abstract": "The dengue virus (DENV) is an important arboviral pathogen that causes dengue fever in humans. It has become a hyperendemic disease in India due to the circulation of multiple serotypes. Molecular surveillance and characterization of DENV are essential to monitor the serotypes and predict outbreaks. The present study was designed to investigate the transmission of DENV serotypes and identification of circulating strains and the molecular epidemiology surveillance in central Karnataka. Samples from DENV-suspected patients were tested for the dengue NS1 antigen. The positive samples were subjected for serotyping and a subset was selected for gene amplification and sequencing to determine the genotypes. The collective clinical data record of patients was opted for principal component analysis (PCA) and investigative clustering investigations. Among 4,409 samples, seropositive cases and molecular detection rate were 26.2% (1,156) and 74.6% (1,123), respectively. Serotyping results showed that DENV-2 (79.6%) was the most predominant serotype, followed by DENV-3 (10.6%) and DENV-1 (4.4%). Co-infection with multiple dengue serotypes was identified in 5.2% cases. According to phylogeny, DENV-1 serotype identified in this study belonged to genotype I, DENV-2 to genotype II (cosmopolitan), and DENV-3 to genotype III. The K-means of PCA suggests the patient's dataset were grouped in the three clusters with a few anomalies. This study reports the circulation of three dengue serotypes and concurrent infections in Central Karnataka. This outcome provides baseline data for continuous molecular surveillance to predict future outbreaks and improve control measures.",
-    "authors": [
-      "Mallikarjun Koppad",
-      "Santhosh Kogaluru Shivakumaraswamy",
-      "Puneeth Thaduru Goolappa",
-      "Praveen Satapute",
-      "Premalatha Dindare Eswarappa",
-      "Siddesh Kaalavvala Channappa"
-    ],
-    "date": "2026-Jul-29",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551114/",
-    "doi": "10.1016/j.diagmicrobio.2026.117579",
-    "score": 0.4752,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42551980",
-    "source": "pubmed",
-    "title": "East Asian",
-    "abstract": "The global molecular epidemiology of Mycobacterium avium subsp. paratuberculosis (MAP) has been well documented in North America and Europe, but the population-genetic framework of the East Asian lineages is underrepresented, hindering a complete understanding of the global genotype distribution and transmission dynamics. This study aimed to establish a regional molecular-typing framework for MAP in East Asia and investigate its genetic relatedness with global lineages to explore potential intercontinental connections associated with international livestock movements. The study integrated 12 newly characterized MAP isolates from South Korean ruminant herds (cattle and black goats, 2021-2024) with 34 global isolates across six continents. Genotypic characterization was performed using mycobacterial interspersed repetitive unit-variable number tandem repeat (MIRU-VNTR) and multilocus short sequence repeat (MLSSR) approaches to evaluate the allelic diversity and subtyping resolution. All South Korean isolates were identified as \"cattle-type\" (Type II) and predominantly belonged to the INRA Nouzilly MIRU-VNTR (INMV) genotype. Age-associated differences in MAP prevalence were observed among Korean ruminant herds (Fisher's exact test, p < 0.05), with distinct age-related patterns in beef and dairy cattle The integrated MIRU-VNTR and MLSSR approaches identified 14 and 31 distinct subtypes, respectively, with MLSSR showing superior discriminatory power (discriminatory index = 0.973 vs. 0.630 for MIRU-VNTR). This high allelic diversity in the global MLSSR dataset provided finer resolution than MIRU-VNTR for distinguishing the MAP subtypes across continents. This study provides a reference point for understanding the global diversity and distribution of MAP by bridging the genomic information gap in Asia. These findings underscore the potential of high-resolution, MLSSR-integrated surveillance as a practical tool for monitoring MAP across diverse geographical scales and for prioritizing isolates for future whole genome sequencing-based studies.",
-    "authors": [
-      "Jun Ho Lee",
-      "Su Min Kyung",
-      "Eun-Seo Lee",
-      "Han Gyu Lee",
-      "Eun-Yeong Bok",
-      "Srinand Sreevatsan",
-      "Han Sang Yoo"
-    ],
-    "date": "2026-Jul-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551980/",
-    "doi": "10.4142/jvs.26058",
-    "score": 0.4726,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42566189",
-    "source": "pubmed",
-    "title": "Molecular Epidemiology of Peste des Petits Ruminants Virus Circulating in Fat-Tailed Sheep in Bangladesh.",
-    "abstract": "Peste des petits ruminants (PPR) is a highly contagious viral disease of sheep and goats that causes substantial economic losses through high morbidity, mortality and rapid transmission among small ruminants. Molecular epidemiological data on circulating PPR virus (PPRV) strains in Bangladesh remain limited. To investigate the molecular epidemiology and phylogenetic characteristics of PPRV among fat-tailed sheep and goats traded in livestock markets in Bangladesh. A cross-sectional survey was conducted in livestock markets in Dhaka city, Bangladesh, during the Eid-ul-Adha festival between August and October from 2015 to 2018. Oral, nasal and rectal swabs were collected from 161 animals comprising 141 sheep (including 111 fat-tailed sheep) and 20 goats. Samples were screened for PPRV using conventional hemi-nested polymerase chain reaction (PCR) targeting the nucleocapsid gene. Positive amplicons were sequenced, analysed phylogenetically and subjected to three-dimensional (3D) structural prediction of the RNA-dependent RNA polymerase protein. The overall prevalence of PPRV in small ruminants was 2.5% (95% confidence interval [CI]: 0.7-6.2). In fat-tailed sheep, the prevalence was 3.6% (95% CI: 1.0-8.9), whereas no positive cases were detected among goats. A significantly higher (p < 0.05) prevalence was observed in animals sampled from the Gabtoli livestock market. Phylogenetic analysis revealed that two of the four positive samples clustered closely with PPRV strains from India and the United Arab Emirates, whereas the other two clustered with strains from China and Tibet. These findings demonstrate the transboundary circulation of genetically diverse PPRV strains among small ruminants traded in livestock markets in Bangladesh. Strengthened molecular surveillance in livestock markets and coordinated regional control strategies are needed to support PPR prevention and eradication.",
-    "authors": [
-      "Md Arif Khan",
-      "Pronesh Dutta",
-      "Md Kaisar Rahman",
-      "Abdullah-Al Mamun",
-      "Jade K Forwood",
-      "Shariful Islam",
-      "Ariful Islam"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42566189/",
-    "doi": "10.1155/2016/1486824",
-    "score": 0.4643,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42559980",
-    "source": "pubmed",
-    "title": "Molecular Detection and Phylogenetic Characterization of Bartonella bovis in Dairy Cattle From Central Thailand.",
-    "abstract": "Bartonella bovis is an emerging ruminant pathogen with zoonotic potential. Although various Bartonella species have been detected in animals in Thailand, none have been reported in dairy cattle. We investigated the occurrence and genetic characteristics of Bartonella spp. in dairy cattle from central Thailand and examined associations with farm management practices. Blood samples were collected from 522 cattle on 43 farms in four provinces and examined for Bartonella DNA by PCR targeting the gltA, rpoB, and ribC genes. Sequencing, phylogenetic analyses, and nucleotide sequence type (ntST) network analyses were also performed. Risk factors were assessed using Fisher's exact test and multivariable logistic regression. Bartonella DNA was detected in 4.21% of samples, with all positives identified as B. bovis. Univariable analysis showed significantly higher prevalence in small/medium-scale farms and separate feeding systems. However, in the multivariable model, farm size showed a strong trend toward association with B. bovis detection, although the association did not reach statistical significance. The dominant gltA sequence type (ntST04) was detected across all farm sizes and feeding practices, whereas a peripheral variant (ntST02) differed by nine nucleotide substitutions from a ked-associated Bartonella sequence (GenBank ID: OQ716819). Both rpoB and ribC networks revealed seven distinct groups that were closely related to the B. bovis reference sequences, with nucleotide identities of 99.42%-100% and 99.41%-100%, respectively. This study provides new molecular evidence of B. bovis circulation in the Thai dairy cattle population, highlighting the need for improved surveillance and biosecurity, particularly in small-scale operations, to mitigate potential zoonotic risks within a One Health framework.",
-    "authors": [
-      "Wittawat Wechtaisong",
-      "Kritsada Thongmeesee",
-      "Chalida Sri-In",
-      "Aung Aung",
-      "Wisa Tiyamanee",
-      "Satoru Konnai",
-      "Sonthaya Tiawsirisup"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559980/",
-    "doi": "10.1002/vms3.70815",
-    "score": 0.4332,
+    "score": 0.4936,
     "fetched_at": "2026-08-09"
   },
   {
@@ -230,7 +230,7 @@
     "date": "2026-Aug-04",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42551727/",
     "doi": "10.1016/j.tvjl.2026.106807",
-    "score": 0.4239,
+    "score": 0.4827,
     "fetched_at": "2026-08-09"
   },
   {
@@ -247,7 +247,7 @@
     "date": "2026-Aug-05",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42554480/",
     "doi": "10.1128/spectrum.00471-26",
-    "score": 0.4051,
+    "score": 0.4611,
     "fetched_at": "2026-08-09"
   },
   {
@@ -272,7 +272,7 @@
     "date": "2026-Aug-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42559211/",
     "doi": "10.1038/s41426-018-0129-7",
-    "score": 0.4012,
+    "score": 0.4394,
     "fetched_at": "2026-08-09"
   },
   {
@@ -296,22 +296,7 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42568601/",
     "doi": "10.1080/22221751.2026.2614742",
-    "score": 0.3772,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42551187",
-    "source": "pubmed",
-    "title": "Intravenous immunoglobulin recalibrates monocyte responses to abortive SARS-CoV-2 infection across viral variants.",
-    "abstract": "Monocytes contribute to inflammation during coronavirus disease 2019 (COVID-19), yet their capacity to support productive infection by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the impact of viral evolution on their responses, remain unclear. Here, we investigated the interaction between primary human monocytes and three SARS-CoV-2 variants representing distinct evolutionary stages (Wuhan, Delta, and Omicron), and evaluated the modulatory effects of intravenous immunoglobulin (IVIg). All variants efficiently entered monocytes and persisted as intracellular viral RNA and protein, but failed to generate infectious progeny, indicating abortive infection. Despite the absence of productive replication, infected monocytes exhibited marked ultrastructural remodeling and mounted robust innate immune responses. Omicron infection was associated with enhanced replication-related signatures compared with Wuhan and Delta. IVIg did not prevent viral entry or RNA persistence but significantly reduced infection-induced vacuolization and selectively modulated cytokine responses. Notably, high-dose IVIg enhanced TNF-associated responses and reduced IL10 expression, suggesting a recalibration of monocyte inflammatory set-points. These effects occurred independently of neutralizing activity. Together, these findings identify primary human monocytes as targets of abortive yet immunologically active SARS-CoV-2 infection and demonstrate that IVIg modulate monocyte stress and inflammatory responses through Fc-dependent mechanisms rather than direct viral neutralization.",
-    "authors": [
-      "Meryem Alaka",
-      "Benoit Desnues"
-    ],
-    "date": "2026-Aug-04",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551187/",
-    "doi": "10.1016/j.biopha.2026.119831",
-    "score": 0.3732,
+    "score": 0.4027,
     "fetched_at": "2026-08-09"
   },
   {
@@ -336,7 +321,30 @@
     "date": "2026-Aug-07",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42566283/",
     "doi": "10.1093/infdis/jiag406",
-    "score": 0.3432,
+    "score": 0.3825,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42567975",
+    "source": "pubmed",
+    "title": "A Retrospective Molecular Epidemiology Study: Emergence and dissemination of Azole-Resistant Candida parapsilosis Sensu Stricto in Southern Brazil.",
+    "abstract": "Candida parapsilosis sensu stricto has emerged as a major cause of healthcare-associated candidemia, with increasing reports of fluconazole resistance worldwide. This resistance is most commonly associated with amino acid substitutions in Erg11p, particularly Y132F; however, regional variation in resistance mechanisms and clonal dissemination remains not fully understood. This study investigated the molecular epidemiology and genomic landscape of fluconazole-resistant C. parapsilosis in Paraná, Southern Brazil, over a 10-year period. A total of 54 resistant isolates identified between 2014 and 2024 were retrospectively analyzed; 51 viable isolates were confirmed by species identification, antifungal susceptibility testing, and microsatellite genotyping. A subset of 18 representative isolates underwent whole-genome sequencing for phylogenomic analysis. Variants in genes associated with azole resistance, including ERG11, MRR1, TAC1, CDR1, MDR1, ERG3, and ERG6, were characterized. Fluconazole resistance emerged in 2018 and increased thereafter. Phylogenomic analysis revealed two geographically structured lineages: a dominant clone circulating across multiple healthcare institutions in the Curitiba metropolitan area and a second lineage restricted to the northern region of the state. The dominant clone showed minimal genomic diversity (0-5 SNPs), consistent with long-term persistence. A conserved resistance profile was observed, with 17 of 18 sequenced isolates harboring the K143R substitution in Erg11p, while all retained the wild-type residue at position 132. The single isolate lacking ERG11 mutations carried a novel C849Y substitution in the Mrr1p regulator. These findings demonstrate the emergence and persistence of a highly clonal fluconazole-resistant C. parapsilosis lineage in Southern Brazil, characterized by a conserved K143R substitution independent of Y132F. The detection of closely related isolates across different hospitals underscores the need for regional genomic surveillance of hospital-adapted fungal pathogens.",
+    "authors": [
+      "Luiza Souza Rodrigues",
+      "Sabrina da Conceição Barbosa",
+      "Ana Paula Santiago Chacon",
+      "Adriele Celine Siqueira",
+      "Gisele Aparecida Bernardi",
+      "Marcelo Pillonetto",
+      "Vania Aparecida Vicente",
+      "Lavinia Nery Villa Stangler Arend",
+      "Terezinha Inez Estivalet Svidzinski",
+      "Libera Maria Dalla-Costa"
+    ],
+    "date": "2026-Aug-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42567975/",
+    "doi": "10.1128/AAC.02036-20",
+    "score": 0.3791,
     "fetched_at": "2026-08-09"
   },
   {
@@ -354,7 +362,47 @@
     "date": "2026-Aug-06",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42560770/",
     "doi": "10.1556/030.2026.03061",
-    "score": 0.3353,
+    "score": 0.3788,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42551187",
+    "source": "pubmed",
+    "title": "Intravenous immunoglobulin recalibrates monocyte responses to abortive SARS-CoV-2 infection across viral variants.",
+    "abstract": "Monocytes contribute to inflammation during coronavirus disease 2019 (COVID-19), yet their capacity to support productive infection by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the impact of viral evolution on their responses, remain unclear. Here, we investigated the interaction between primary human monocytes and three SARS-CoV-2 variants representing distinct evolutionary stages (Wuhan, Delta, and Omicron), and evaluated the modulatory effects of intravenous immunoglobulin (IVIg). All variants efficiently entered monocytes and persisted as intracellular viral RNA and protein, but failed to generate infectious progeny, indicating abortive infection. Despite the absence of productive replication, infected monocytes exhibited marked ultrastructural remodeling and mounted robust innate immune responses. Omicron infection was associated with enhanced replication-related signatures compared with Wuhan and Delta. IVIg did not prevent viral entry or RNA persistence but significantly reduced infection-induced vacuolization and selectively modulated cytokine responses. Notably, high-dose IVIg enhanced TNF-associated responses and reduced IL10 expression, suggesting a recalibration of monocyte inflammatory set-points. These effects occurred independently of neutralizing activity. Together, these findings identify primary human monocytes as targets of abortive yet immunologically active SARS-CoV-2 infection and demonstrate that IVIg modulate monocyte stress and inflammatory responses through Fc-dependent mechanisms rather than direct viral neutralization.",
+    "authors": [
+      "Meryem Alaka",
+      "Benoit Desnues"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551187/",
+    "doi": "10.1016/j.biopha.2026.119831",
+    "score": 0.377,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42568522",
+    "source": "pubmed",
+    "title": "Whole-genome sequencing and molecular analysis of carbapenem-resistant",
+    "abstract": "Carbapenem-resistant (CR)-Enterobacterales are a serious threat to public health worldwide. However, there are limited surveillance data on the molecular epidemiology of CR-Escherichia coli. To address this need, the European Centre for Disease Prevention and Control (ECDC) investigated the molecular epidemiology of CR-E. coli in the carbapenem- and/or colistin-resistant Enterobacterales (CCRE) survey launched in 2019, involving 37 European countries, including Italy. In 2019, 46 acute-care hospitals in Italy were enrolled to collect the first 10 non-duplicated consecutive isolates of carbapenem non-susceptible Klebsiella pneumoniae specie complex or E. coli isolates and 10 carbapenem-susceptible comparator isolates of the same species. Each isolate was subjected to antibiotic susceptibility testing. WGS analysis was performed using Illumina technology to determine the ST and to detect resistance genes, virulence factors, and plasmid content. A total of 61 E. coli isolates were collected from 17 hospitals: 17 CR-E. coli isolates (from urine, 41.2%, and blood, 23.5%) and 44 carbapenem-susceptible (CS)-isolates (from blood, 43.2%, and urine, 38.6%). All the CR-E. coli isolates were resistant to amoxicillin/clavulanic acid, cefepime, ceftazidime and piperacillin/tazobactam; three were resistant to ceftazidime/avibactam and all were susceptible to amikacin and tigecycline. MLST analysis showed the presence of unrelated lineages: CR-E. coli isolates belonged to 8 different STs, with ST131 predominant (58.8%). All the CR-E. coli isolates carried one carbapenemase: KPC-3 (10 isolates), KPC-2 (three), NDM-5 (two), VIM-1 and OXA-181 (one each). Among CS-E. coli isolates, the highest resistance rates were observed for amoxicillin/clavulanic acid (36.4%) followed by ciprofloxacin, and trimethoprim/sulfamethoxazole, and ST131, carrying CTX-M-15, was the predominant clone. CR-E. coli clones from infection showed a heterogeneous genetic background, ST131 being the most frequent. KPC was the most common carbapenemase but the presence of E. coli isolates carrying NDM-5 is worrisome, as it results in resistance to several novel beta-lactam-beta-lactamase combinations. Our study underlines the importance of genomic surveillance to monitor and prevent the spread of high-risk clones causing difficult-to-treat infections.",
+    "authors": [
+      "Maria Giufrè",
+      "Giulia Errico",
+      "Maria Del Grosso",
+      "Sara Giancristofaro",
+      "Michela Pagnotta",
+      "Fabio D'Ambrosio",
+      "Simone Iacchini",
+      "Sophia David",
+      "Alma Brolund",
+      "Anke Kohlenberg",
+      "Annalisa Pantosti",
+      "Monica Monaco"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568522/",
+    "doi": "10.1128/CMR.00115-20",
+    "score": 0.3743,
     "fetched_at": "2026-08-09"
   },
   {
@@ -383,55 +431,31 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42568479/",
     "doi": "10.1002/cyto.a.21015",
-    "score": 0.3328,
+    "score": 0.3381,
     "fetched_at": "2026-08-09"
   },
   {
-    "id": "pubmed:42567975",
+    "id": "pubmed:42569559",
     "source": "pubmed",
-    "title": "A Retrospective Molecular Epidemiology Study: Emergence and dissemination of Azole-Resistant Candida parapsilosis Sensu Stricto in Southern Brazil.",
-    "abstract": "Candida parapsilosis sensu stricto has emerged as a major cause of healthcare-associated candidemia, with increasing reports of fluconazole resistance worldwide. This resistance is most commonly associated with amino acid substitutions in Erg11p, particularly Y132F; however, regional variation in resistance mechanisms and clonal dissemination remains not fully understood. This study investigated the molecular epidemiology and genomic landscape of fluconazole-resistant C. parapsilosis in Paraná, Southern Brazil, over a 10-year period. A total of 54 resistant isolates identified between 2014 and 2024 were retrospectively analyzed; 51 viable isolates were confirmed by species identification, antifungal susceptibility testing, and microsatellite genotyping. A subset of 18 representative isolates underwent whole-genome sequencing for phylogenomic analysis. Variants in genes associated with azole resistance, including ERG11, MRR1, TAC1, CDR1, MDR1, ERG3, and ERG6, were characterized. Fluconazole resistance emerged in 2018 and increased thereafter. Phylogenomic analysis revealed two geographically structured lineages: a dominant clone circulating across multiple healthcare institutions in the Curitiba metropolitan area and a second lineage restricted to the northern region of the state. The dominant clone showed minimal genomic diversity (0-5 SNPs), consistent with long-term persistence. A conserved resistance profile was observed, with 17 of 18 sequenced isolates harboring the K143R substitution in Erg11p, while all retained the wild-type residue at position 132. The single isolate lacking ERG11 mutations carried a novel C849Y substitution in the Mrr1p regulator. These findings demonstrate the emergence and persistence of a highly clonal fluconazole-resistant C. parapsilosis lineage in Southern Brazil, characterized by a conserved K143R substitution independent of Y132F. The detection of closely related isolates across different hospitals underscores the need for regional genomic surveillance of hospital-adapted fungal pathogens.",
+    "title": "Molecular epidemiology of",
+    "abstract": "Enterocytozoon bieneusi, a microsporidian fungus, and Blastocystis, a protist, are zoonotic enteric microbes causing gastrointestinal disorders in humans and various animals, including cats and dogs. This study aimed to determine the molecular prevalence, associated risk factors, genetic diversity, and zoonotic potential of these pathogens in feline and canine populations in Dhaka and Gazipur metropolitan areas. Fecal samples were collected from 197 cats and 120 dogs and analyzed using nested PCR targeting the internal transcribed spacer (ITS) region of the ribosomal RNA (rRNA) gene for E. bieneusi and a conventional PCR targeting the small subunit ribosomal (SSU) rRNA gene for Blastocystis. The overall prevalence of E. bieneusi was 9.1% in cats and 11.7% in dogs. Blastocystis was detected in 3.6% of cats and 10.0% of dogs, with feline infection occurring exclusively in kittens (<1 year). Multivariable analysis identified female sex and young age as the sole significant risk factors for E. bieneusi in dogs and for Blastocystis in cats, respectively. Molecular characterization identified four E. bieneusi genotypes (D, Henan V, BANEB17, and BANEB4) in cats and seven genotypes (PtEb IX, D, EbpC, Type IV, BANEB14, BANEB15, and BANEB16) in dogs. Phylogenetic grouping and sequence comparison confirmed genetic identity between several isolates and genotypes circulating in Bangladeshi children. Among these, four genotypes (BANEB14, BANEB15, BANEB16, and BANEB17) were novel, and the majority exhibited zoonotic potential. Similarly, six Blastocystis subtypes (ST1, ST3, ST4, ST6, ST23, and ST44) were identified in both cats and dogs, with ST1, ST3, and ST4 recognized for their zoonotic potential. These findings suggest a potential role for companion animals in zoonotic transmission, necessitating integrated One Health surveillance strategies.",
     "authors": [
-      "Luiza Souza Rodrigues",
-      "Sabrina da Conceição Barbosa",
-      "Ana Paula Santiago Chacon",
-      "Adriele Celine Siqueira",
-      "Gisele Aparecida Bernardi",
-      "Marcelo Pillonetto",
-      "Vania Aparecida Vicente",
-      "Lavinia Nery Villa Stangler Arend",
-      "Terezinha Inez Estivalet Svidzinski",
-      "Libera Maria Dalla-Costa"
+      "Anas Bin Harun",
+      "Abdullah Al Bayazid",
+      "Md Farhan Hasan",
+      "Ainun Nahar",
+      "Maksuda Akter Mily",
+      "Jannatul Bakia Tamanna",
+      "Joynti Saha",
+      "Md Ashiqur Rahman",
+      "S H M Faruk Siddiki",
+      "Md Morshedur Rahman",
+      "Md Robiul Karim"
     ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42567975/",
-    "doi": "10.1128/AAC.02036-20",
-    "score": 0.3259,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42568522",
-    "source": "pubmed",
-    "title": "Whole-genome sequencing and molecular analysis of carbapenem-resistant",
-    "abstract": "Carbapenem-resistant (CR)-Enterobacterales are a serious threat to public health worldwide. However, there are limited surveillance data on the molecular epidemiology of CR-Escherichia coli. To address this need, the European Centre for Disease Prevention and Control (ECDC) investigated the molecular epidemiology of CR-E. coli in the carbapenem- and/or colistin-resistant Enterobacterales (CCRE) survey launched in 2019, involving 37 European countries, including Italy. In 2019, 46 acute-care hospitals in Italy were enrolled to collect the first 10 non-duplicated consecutive isolates of carbapenem non-susceptible Klebsiella pneumoniae specie complex or E. coli isolates and 10 carbapenem-susceptible comparator isolates of the same species. Each isolate was subjected to antibiotic susceptibility testing. WGS analysis was performed using Illumina technology to determine the ST and to detect resistance genes, virulence factors, and plasmid content. A total of 61 E. coli isolates were collected from 17 hospitals: 17 CR-E. coli isolates (from urine, 41.2%, and blood, 23.5%) and 44 carbapenem-susceptible (CS)-isolates (from blood, 43.2%, and urine, 38.6%). All the CR-E. coli isolates were resistant to amoxicillin/clavulanic acid, cefepime, ceftazidime and piperacillin/tazobactam; three were resistant to ceftazidime/avibactam and all were susceptible to amikacin and tigecycline. MLST analysis showed the presence of unrelated lineages: CR-E. coli isolates belonged to 8 different STs, with ST131 predominant (58.8%). All the CR-E. coli isolates carried one carbapenemase: KPC-3 (10 isolates), KPC-2 (three), NDM-5 (two), VIM-1 and OXA-181 (one each). Among CS-E. coli isolates, the highest resistance rates were observed for amoxicillin/clavulanic acid (36.4%) followed by ciprofloxacin, and trimethoprim/sulfamethoxazole, and ST131, carrying CTX-M-15, was the predominant clone. CR-E. coli clones from infection showed a heterogeneous genetic background, ST131 being the most frequent. KPC was the most common carbapenemase but the presence of E. coli isolates carrying NDM-5 is worrisome, as it results in resistance to several novel beta-lactam-beta-lactamase combinations. Our study underlines the importance of genomic surveillance to monitor and prevent the spread of high-risk clones causing difficult-to-treat infections.",
-    "authors": [
-      "Maria Giufrè",
-      "Giulia Errico",
-      "Maria Del Grosso",
-      "Sara Giancristofaro",
-      "Michela Pagnotta",
-      "Fabio D'Ambrosio",
-      "Simone Iacchini",
-      "Sophia David",
-      "Alma Brolund",
-      "Anke Kohlenberg",
-      "Annalisa Pantosti",
-      "Monica Monaco"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568522/",
-    "doi": "10.1128/CMR.00115-20",
-    "score": 0.3147,
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42569559/",
+    "doi": "10.1016/j.fawpar.2026.e00354",
+    "score": 0.3269,
     "fetched_at": "2026-08-09"
   },
   {
@@ -447,26 +471,7 @@
     "date": "2026-Aug-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42565702/",
     "doi": "10.5281/zenodo.21807600",
-    "score": 0.2894,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42554515",
-    "source": "pubmed",
-    "title": "Allosteric effects of CDR-H3 mutations modulate binding and neutralization of a conserved SARS-CoV-2 RBD-targeting antibody.",
-    "abstract": "SARS-CoV-2 antigenic evolution continues to erode the activity of first-generation monoclonal antibodies, underscoring the value of antibodies that recognize conserved features within the spike receptor-binding domain (RBD). As a model for breadth-oriented engineering, we assessed the RBD-directed antibody XG83, which has a CDRH3-dominated paratope. Utilizing the XG83-Wuhan RBD crystal structure as a reference, we integrated MOE alanine scanning and residue scanning with CDRH3 (A116-Y132) to identify chemically reasonable replacements and test interaction to an Omicron BA.1 RBD. The parental CDRH3-centric pose in comparative docking had a better score (-280.18) than the mutant MuXG83 (-254.2), along with 100-ns molecular dynamics showed that MuXG83 was less stable (with higher RMSD/RMSF with less favorable interaction energy). The ELISA results against Omicron BA.1 RBD demonstrated that XG83 had 40% stronger binding than MuXG83; convergence happened only at the highest concentration, concordant with SPR studies and the fact that mutation increased dissociation. According to this binding gap, BA.1 pseudovirus neutralization demonstrated that XG83 was much more powerful than MuXG83, showing that the E118L/F130H CDR-H3 alterations decreased functional activity against Omicron BA.1. These results imply that allosteric influences on interface stability and conformational dynamics by non-epitope CDR-H3 residues can affect antibody performance. Functional testing was confined to Omicron BA.1; therefore, larger variant-panel studies are needed to ascertain if such mutations affect antibody breadth. Our findings highlight a structure-guided approach for optimizing paratopes and indicate that non-epitope (potentially allosteric) changes to CDRH3 are also important while investigating potential development and neutralization before advancement. This study shows how modest allosteric characteristics in CDR-H3 control the delicate balance between neutralizing potency and breadth, making a timely and significant addition to SARS-CoV-2 antibody engineering. Using crystallography, alanine scanning, residue scanning, docking, molecular dynamics, and experimental ELISA and neutralization assays, this study offers a structure-guided framework for rational paratope optimization. The discovery of CDR-H3 residues that regulate long-range stability rather than just direct epitope contacts reveals an unappreciated aspect of antibody design and explains why some alterations improve anticipated interactions but degrade functional performance. Importantly, the comparison of wild-type XG83 and modified MuXG83 shows how allosteric tuning affects antibody-antigen compatibility in developing variations like Omicron. These findings illuminate conserved RBD recognition and offer strategies for building next-generation therapeutic antibodies that are more resistant to viral evolution.",
-    "authors": [
-      "Muhammad Waqas Nasir",
-      "Qiyun Liang",
-      "Jun He",
-      "Umer Rashid",
-      "Jiabing Wu",
-      "Yong Gao"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42554515/",
-    "doi": "10.1128/spectrum.04127-25",
-    "score": 0.2654,
+    "score": 0.2818,
     "fetched_at": "2026-08-09"
   },
   {
@@ -493,48 +498,7 @@
     "date": "2026-Aug-08",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42570048/",
     "doi": "10.1007/s40475-025-00351-5",
-    "score": 0.2493,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42569559",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of",
-    "abstract": "Enterocytozoon bieneusi, a microsporidian fungus, and Blastocystis, a protist, are zoonotic enteric microbes causing gastrointestinal disorders in humans and various animals, including cats and dogs. This study aimed to determine the molecular prevalence, associated risk factors, genetic diversity, and zoonotic potential of these pathogens in feline and canine populations in Dhaka and Gazipur metropolitan areas. Fecal samples were collected from 197 cats and 120 dogs and analyzed using nested PCR targeting the internal transcribed spacer (ITS) region of the ribosomal RNA (rRNA) gene for E. bieneusi and a conventional PCR targeting the small subunit ribosomal (SSU) rRNA gene for Blastocystis. The overall prevalence of E. bieneusi was 9.1% in cats and 11.7% in dogs. Blastocystis was detected in 3.6% of cats and 10.0% of dogs, with feline infection occurring exclusively in kittens (<1 year). Multivariable analysis identified female sex and young age as the sole significant risk factors for E. bieneusi in dogs and for Blastocystis in cats, respectively. Molecular characterization identified four E. bieneusi genotypes (D, Henan V, BANEB17, and BANEB4) in cats and seven genotypes (PtEb IX, D, EbpC, Type IV, BANEB14, BANEB15, and BANEB16) in dogs. Phylogenetic grouping and sequence comparison confirmed genetic identity between several isolates and genotypes circulating in Bangladeshi children. Among these, four genotypes (BANEB14, BANEB15, BANEB16, and BANEB17) were novel, and the majority exhibited zoonotic potential. Similarly, six Blastocystis subtypes (ST1, ST3, ST4, ST6, ST23, and ST44) were identified in both cats and dogs, with ST1, ST3, and ST4 recognized for their zoonotic potential. These findings suggest a potential role for companion animals in zoonotic transmission, necessitating integrated One Health surveillance strategies.",
-    "authors": [
-      "Anas Bin Harun",
-      "Abdullah Al Bayazid",
-      "Md Farhan Hasan",
-      "Ainun Nahar",
-      "Maksuda Akter Mily",
-      "Jannatul Bakia Tamanna",
-      "Joynti Saha",
-      "Md Ashiqur Rahman",
-      "S H M Faruk Siddiki",
-      "Md Morshedur Rahman",
-      "Md Robiul Karim"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42569559/",
-    "doi": "10.1016/j.fawpar.2026.e00354",
-    "score": 0.2478,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42553316",
-    "source": "pubmed",
-    "title": "Lung cancer across borders: From molecular epidemiology to precision treatment strategies.",
-    "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, accounting for approximately 1.8 million deaths annually. Beyond this universal burden, lung cancer is profoundly heterogeneous, shaped by geography, environmental exposures, genetic ancestry, and unequal access to molecular diagnostics and modern therapies. Compelling evidence indicates that non-small cell lung cancer (NSCLC) is not a single entity but a constellation of molecularly distinct subtypes whose distribution reflects regional carcinogens and population-specific susceptibilities. This Special Collection of Therapeutic Advances in Medical Oncology assembles five complementary studies that address the geographical heterogeneity of NSCLC. A comprehensive review by Laguna and colleagues maps the worldwide distribution of risk factors and molecular subtypes, illustrating how tobacco, indoor radon, air pollution, arsenic, biomass smoke, and genetic ancestry converge to produce distinct molecular landscapes across continents. García-Pardo and colleagues extend this framework with the RADON EUROPE study, the first ecological analysis to link estimated indoor radon exposure with ALK fusion prevalence across 21 European countries. Marjanski and colleagues expose critical gaps in real-world perioperative assessment in Poland, where limited preoperative biomarker testing and prolonged surgical intervals may exclude patients from neoadjuvant chemoimmunotherapy. Mo and colleagues describe an emerging consequence of therapeutic progress: a temporal rise in cardiovascular and pulmonary diseasespecific mortality in NSCLC, coinciding with the expanded use of targeted therapies and immune checkpoint inhibitors. Pham and colleagues demonstrate, in a Vietnamese cohort with EGFR-mutant NSCLC, that flexible, individualized afatinib dosing improves outcomes and underscores the persistent underrepresentation of non-European populations in pivotal trials. Taken together, these articles illustrate that the geographic distribution of carcinogens shapes molecular subtypes; molecular subtypes dictate treatment options; treatment options generate toxicities that must be managed within local healthcare systems; and those systems, in turn, determine equitable access to diagnostic and therapeutic innovation. Bridging these gaps will require integration of exposome-informed approaches, more diverse clinical trial populations, cardio-oncology surveillance, and pharmacological individualization. This editorial advocates for a geographically informed and globally equitable approach to thoracic oncology.",
-    "authors": [
-      "Miguel García-Pardo",
-      "Andrés Felipe Cardona",
-      "Herbert H Loong",
-      "Laura Mezquita"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553316/",
-    "doi": "10.1158/1055-9965.EPI-05-0456",
-    "score": 0.2274,
+    "score": 0.276,
     "fetched_at": "2026-08-09"
   },
   {
@@ -553,7 +517,26 @@
     "date": "2026-01-01",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42569580/",
     "doi": "10.2147/IDR.S611271",
-    "score": 0.2237,
+    "score": 0.2747,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42554515",
+    "source": "pubmed",
+    "title": "Allosteric effects of CDR-H3 mutations modulate binding and neutralization of a conserved SARS-CoV-2 RBD-targeting antibody.",
+    "abstract": "SARS-CoV-2 antigenic evolution continues to erode the activity of first-generation monoclonal antibodies, underscoring the value of antibodies that recognize conserved features within the spike receptor-binding domain (RBD). As a model for breadth-oriented engineering, we assessed the RBD-directed antibody XG83, which has a CDRH3-dominated paratope. Utilizing the XG83-Wuhan RBD crystal structure as a reference, we integrated MOE alanine scanning and residue scanning with CDRH3 (A116-Y132) to identify chemically reasonable replacements and test interaction to an Omicron BA.1 RBD. The parental CDRH3-centric pose in comparative docking had a better score (-280.18) than the mutant MuXG83 (-254.2), along with 100-ns molecular dynamics showed that MuXG83 was less stable (with higher RMSD/RMSF with less favorable interaction energy). The ELISA results against Omicron BA.1 RBD demonstrated that XG83 had 40% stronger binding than MuXG83; convergence happened only at the highest concentration, concordant with SPR studies and the fact that mutation increased dissociation. According to this binding gap, BA.1 pseudovirus neutralization demonstrated that XG83 was much more powerful than MuXG83, showing that the E118L/F130H CDR-H3 alterations decreased functional activity against Omicron BA.1. These results imply that allosteric influences on interface stability and conformational dynamics by non-epitope CDR-H3 residues can affect antibody performance. Functional testing was confined to Omicron BA.1; therefore, larger variant-panel studies are needed to ascertain if such mutations affect antibody breadth. Our findings highlight a structure-guided approach for optimizing paratopes and indicate that non-epitope (potentially allosteric) changes to CDRH3 are also important while investigating potential development and neutralization before advancement. This study shows how modest allosteric characteristics in CDR-H3 control the delicate balance between neutralizing potency and breadth, making a timely and significant addition to SARS-CoV-2 antibody engineering. Using crystallography, alanine scanning, residue scanning, docking, molecular dynamics, and experimental ELISA and neutralization assays, this study offers a structure-guided framework for rational paratope optimization. The discovery of CDR-H3 residues that regulate long-range stability rather than just direct epitope contacts reveals an unappreciated aspect of antibody design and explains why some alterations improve anticipated interactions but degrade functional performance. Importantly, the comparison of wild-type XG83 and modified MuXG83 shows how allosteric tuning affects antibody-antigen compatibility in developing variations like Omicron. These findings illuminate conserved RBD recognition and offer strategies for building next-generation therapeutic antibodies that are more resistant to viral evolution.",
+    "authors": [
+      "Muhammad Waqas Nasir",
+      "Qiyun Liang",
+      "Jun He",
+      "Umer Rashid",
+      "Jiabing Wu",
+      "Yong Gao"
+    ],
+    "date": "2026-Aug-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554515/",
+    "doi": "10.1128/spectrum.04127-25",
+    "score": 0.2688,
     "fetched_at": "2026-08-09"
   },
   {
@@ -584,7 +567,24 @@
     "date": "2026-Aug-04",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42552743/",
     "doi": "10.1002/ajb2.70232",
-    "score": 0.2125,
+    "score": 0.2576,
+    "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42553316",
+    "source": "pubmed",
+    "title": "Lung cancer across borders: From molecular epidemiology to precision treatment strategies.",
+    "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, accounting for approximately 1.8 million deaths annually. Beyond this universal burden, lung cancer is profoundly heterogeneous, shaped by geography, environmental exposures, genetic ancestry, and unequal access to molecular diagnostics and modern therapies. Compelling evidence indicates that non-small cell lung cancer (NSCLC) is not a single entity but a constellation of molecularly distinct subtypes whose distribution reflects regional carcinogens and population-specific susceptibilities. This Special Collection of Therapeutic Advances in Medical Oncology assembles five complementary studies that address the geographical heterogeneity of NSCLC. A comprehensive review by Laguna and colleagues maps the worldwide distribution of risk factors and molecular subtypes, illustrating how tobacco, indoor radon, air pollution, arsenic, biomass smoke, and genetic ancestry converge to produce distinct molecular landscapes across continents. García-Pardo and colleagues extend this framework with the RADON EUROPE study, the first ecological analysis to link estimated indoor radon exposure with ALK fusion prevalence across 21 European countries. Marjanski and colleagues expose critical gaps in real-world perioperative assessment in Poland, where limited preoperative biomarker testing and prolonged surgical intervals may exclude patients from neoadjuvant chemoimmunotherapy. Mo and colleagues describe an emerging consequence of therapeutic progress: a temporal rise in cardiovascular and pulmonary diseasespecific mortality in NSCLC, coinciding with the expanded use of targeted therapies and immune checkpoint inhibitors. Pham and colleagues demonstrate, in a Vietnamese cohort with EGFR-mutant NSCLC, that flexible, individualized afatinib dosing improves outcomes and underscores the persistent underrepresentation of non-European populations in pivotal trials. Taken together, these articles illustrate that the geographic distribution of carcinogens shapes molecular subtypes; molecular subtypes dictate treatment options; treatment options generate toxicities that must be managed within local healthcare systems; and those systems, in turn, determine equitable access to diagnostic and therapeutic innovation. Bridging these gaps will require integration of exposome-informed approaches, more diverse clinical trial populations, cardio-oncology surveillance, and pharmacological individualization. This editorial advocates for a geographically informed and globally equitable approach to thoracic oncology.",
+    "authors": [
+      "Miguel García-Pardo",
+      "Andrés Felipe Cardona",
+      "Herbert H Loong",
+      "Laura Mezquita"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42553316/",
+    "doi": "10.1158/1055-9965.EPI-05-0456",
+    "score": 0.2311,
     "fetched_at": "2026-08-09"
   },
   {
@@ -606,7 +606,7 @@
     "date": "2026-Aug-05",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42561497/",
     "doi": "10.1016/j.virol.2026.111044",
-    "score": 0.1458,
+    "score": 0.1659,
     "fetched_at": "2026-08-09"
   },
   {
@@ -626,7 +626,7 @@
     "date": "2026-Jul-30",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42570421/",
     "doi": "10.1016/j.mycmed.2026.101642",
-    "score": 0.0386,
+    "score": 0.0686,
     "fetched_at": "2026-08-09"
   }
 ]
