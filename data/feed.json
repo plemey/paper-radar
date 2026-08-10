@@ -388,6 +388,26 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42573239",
+    "source": "pubmed",
+    "title": "Acquisition of specific human respiratory tract binding by 2.3.4.4b H5N1 hemagglutinins requires multiple mutations.",
+    "abstract": "It has been suggested that the hemagglutinin of the human-infecting cattle-derived 2.3.4.4b virus A/Texas/34 H5N1 (H5TX) requires only one mutation, namely Q226L, to switch from binding avian-type to human-type receptor preference. In this study, we examined the binding of H5TX Q226L, along with other key mutations, to sections of human trachea. We conclude that, while H5TX Q226L can bind human-type receptors, more than a single mutation is required for this protein to bind to human respiratory tract tissue. We also report changes in receptor-binding specificity of another 2.3.4.4b HA mutant, H5FR Q226L (from A/duck/France/161108/16 H5N8), associated with the presence of a multibasic cleavage site. This study offers insight into the determinants of evolution toward human-type receptor binding in currently circulating H5Nx viruses. It also emphasizes the importance of testing individual strains using additional methods, including tissue-based approaches, alongside synthetic glycans.IMPORTANCECurrently, H5N1 influenza A viruses are responsible for numerous zoonotic spillover events, from infecting birds to other mammals, including dairy cattle. Although no human-to-human transmission has been observed, several people have been infected. This host range expansion is typically linked to changes in one of the viral surface proteins, hemagglutinin, which can switch its preference from avian-type to human-type receptors. To better understand the potential of the currently circulating H5N1 virus to transmit among humans, we evaluated the effects of the Q226L mutation, in combination with other amino acid substitutions, on binding to the human trachea. We also studied the effect of the multibasic cleavage site, a specific motif present in highly pathogenic influenza strains, on receptor-binding properties. These findings provide insight into the role of receptor binding in influenza infections.",
+    "authors": [
+      "María Ríos Carrasco",
+      "Mafalda F Guerreiro Cabana",
+      "Eszter Kovács",
+      "Zoé Ducarne",
+      "Cindy G J Cleypool",
+      "Geert-Jan Boons",
+      "Robert P de Vries"
+    ],
+    "date": "2026-Aug-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573239/",
+    "doi": "10.1128/jvi.01065-26",
+    "score": 0.5052,
+    "fetched_at": "2026-08-10"
+  },
+  {
     "id": "pubmed:42554480",
     "source": "pubmed",
     "title": "Whole-genome sequencing of adenovirus 41 directly from wastewater using nested overlapping PCR and MinION.",
@@ -506,6 +526,30 @@
     "doi": "10.1016/j.biopha.2026.119831",
     "score": 0.4339,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42551586",
+    "source": "pubmed",
+    "title": "Molecular surveillance of chicken Eimeria species in commercial poultry farms in the Philippines.",
+    "abstract": "Chromist parasites of the genus Eimeria are the causative agent of coccidiosis, an economically important disease of poultry characterized by enteritis, reduced growth performance and decrease in egg production. In the Philippines, Eimeria infections have largely been reported through conventional coproparasitological techniques; however, molecular investigations on the distribution of specific Eimeria species and quantitative assessments of infection intensity are lacking. In the present study, molecular surveillance of Eimeria infections was conducted in various commercial poultry farms in the Philippines to better characterize the epidemiology of the disease. Eimeria oocysts were detected in 24 of 42 poultry houses (57.1%) across 9 of 16 examined commercial farms (56.3%). The positivity rates among different poultry production systems were 60% (6/10) in broilers, 100% (6/6) in broiler breeders; 47.8% (11/23) in layer pullets, 50% (1/2) in egg layers and 0% (0/1) in fighting cocks. The mean oocyst per gram (OPG) across investigated farms was 7211.9 with values ranging from 19.6 to 44,933.3. PCR analysis of the 24 positive poultry houses identified four Eimeria species, namely E. tenella, E. necatrix, E. acervulina, and E. mitis. These findings indicate that Eimeria infections, especially the highly pathogenic species, are widely distributed in commercial poultry operations in the Philippines. The results provide baseline data on the current distribution and infection intensity of Eimeria species in the country, which will be helpful in the prevention, management and control of coccidiosis.",
+    "authors": [
+      "Aruto Takano",
+      "Dennis V Umali",
+      "Caressa M Poliquit",
+      "Laurie Ann Marcella N Aguirre",
+      "Fletcher P Del Valle",
+      "Sherwin I Camba",
+      "April H Wardhana",
+      "Dyah H Sawitri",
+      "Kazumi Sasai",
+      "Hiromitsu Katoh",
+      "Makoto Matsubayashi"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551586/",
+    "doi": "10.1016/j.parint.2026.103356",
+    "score": 0.418,
+    "fetched_at": "2026-08-10"
   },
   {
     "id": "pubmed:42564151",
@@ -831,6 +875,27 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42572721",
+    "source": "pubmed",
+    "title": "Antimicrobial Resistance, Molecular Epidemiology, and Virulence Profiles of Hypervirulent Carbapenem-Resistant",
+    "abstract": "To systematically analyze the drug resistance phenotype, virulence characteristics, and molecular epidemiological characteristics of hypervirulent carbapenem-resistant Klebsiella pneumoniae (hv-CRKP) in Zunyi area, and to provide experimental and epidemiological evidence for clinical accurate diagnosis and treatment, rational selection of antibiotics, and prevention and control of nosocomial infection of hv-CRKP in the region. A total of 91 hv-CRKP strains were collected from the First People's Hospital of Zunyi from 2021 to 2023. Drug susceptibility test was performed for commonly used antibiotics in clinic. Molecular typing included PCR detection of carbapenemase gene, multilocus sequence typing (MLST), membrane porin (OmpK) deletion analysis, and capsule serotyping. The virulence phenotype of hv-CRKP was comprehensively evaluated by biofilm formation, serum resistance, and Galleria mellonella larval infection tests. hv-CRKP strains were highly resistant to commonly used antibiotics, but the resistance rate to tigecycline was relatively low, only 3.3%. The clones carrying virulence genes iucA, iroB and rmpA2 were the dominant clones, accounting for 83.52%. Most of them carried Carbapenem resistance genes blaKPC-2, with a positive rate of 95.60%. The predominant sequence type of hv-CRKP isolates was ST11, accounting for 87.90%. The expression of OmpK35 and OmpK37 was characterized by full expression of Ompk35 and Ompk37, while the expression rate of OmpK36 was low (6.59%). 79.12% of the strains had the ability of biofilm formation. The predominant capsular serotype was KL64, accounting for 87.90%. Its serum bactericidal tolerance was only 12.08%. ST65 was the most virulent strain of KL64 strain, and KL114 was the most virulent strain of ST11 strain. The main hv-CRKP strains in this region carry the iucA, iroB and rmpA2 virulence genes simultaneously, and the dominant clone type is ST11-KL64. The production of carbapenemase mainly involves blaKPC-2. The rate of loss of OmpK36 outer membrane pore protein and the rate of biofilm formation are relatively high. This study can provide important references for the diagnosis and treatment of hv-CRKP infections.",
+    "authors": [
+      "Meijing Shen",
+      "Xianghao Chen",
+      "Benhai Chen",
+      "Rengui Tian",
+      "Guangwu Yang",
+      "He Zha",
+      "Kaifeng Wu",
+      "Shifei Yao"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572721/",
+    "doi": "10.1073/pnas.2400446121",
+    "score": 0.3544,
+    "fetched_at": "2026-08-10"
+  },
+  {
     "id": "pubmed:42558998",
     "source": "pubmed",
     "title": "Mitochondrial genome evolution of the hemiparasitic plant",
@@ -923,6 +988,24 @@
     "doi": "10.1016/S0140-6736(24)00876-6",
     "score": 0.3222,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42573160",
+    "source": "pubmed",
+    "title": "Antimicrobial resistance in Ecuador, 2000-2024: a systematic review within a One Health framework.",
+    "abstract": "Antimicrobial resistance (AMR) is a major global public health threat, particularly in low- and middle-income countries. In Ecuador, AMR research has expanded during the last two decades, but evidence remains fragmented and largely restricted to the human health sector. We systematically reviewed studies reporting laboratory-confirmed bacterial resistance in Ecuador between 2000 and 2024, including evidence from human, animal, food, and environmental sources. Eighty studies met the inclusion criteria. Most were hospital-based and conducted in urban areas, with limited evidence from rural, Amazonian, and insular regions. Gram-negative bacteria accounted for the greatest resistance burden, particularly Escherichia coli (56.6%), Klebsiella pneumoniae, Salmonella spp. (22.3%), the Acinetobacter baumannii complex, and Pseudomonas aeruginosa, together with resistant Staphylococcus aureus and Mycobacterium tuberculosis. Resistance to beta-lactams and fluoroquinolones predominated, whereas carbapenem resistance was especially notable among WHO priority pathogens. Evidence from animal, food, and environmental sectors was scarce and heterogeneous, and molecular characterization was inconsistently reported. These findings highlight important surveillance gaps beyond hospital settings and underscore the need for integrated multisectoral surveillance to strengthen public health policy, antimicrobial stewardship, and AMR prevention in Ecuador.",
+    "authors": [
+      "Carlos Bastidas-Caldes",
+      "Fernanda Hernández-Alomía",
+      "Francisco Bolaños",
+      "Emily Cisneros-Vásquez",
+      "Daniel Romero-Alvarez"
+    ],
+    "date": "2026-Aug-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573160/",
+    "doi": "10.1080/1040841X.2026.2709521",
+    "score": 0.3104,
+    "fetched_at": "2026-08-10"
   },
   {
     "id": "pubmed:42554515",
@@ -1275,6 +1358,53 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42573902",
+    "source": "pubmed",
+    "title": "The Dutch cardiomyopathy registry (DCR); rationale and registry design.",
+    "abstract": "Cardiomyopathies are important causes of arrhythmias, sudden cardiac death, and heart failure. With accumulating knowledge in clinical, genetic, and molecular phenotyping, the number of distinct disease entities is growing. There is a need for broad, inclusive, high-quality prospective multi-center registries to better analyze these phenotypes, provide accurate risk stratification, and tailor therapies. The Dutch Cardiomyopathy Registry (DCR) will serve as a longitudinal registry for all cardiomyopathy patients, exploiting previously built local databases, allowing adequately powered research studies. The DCR is a multi-center observational registry that unites all Dutch University Medical centers. The registry will have local and central shared databases, which will be hosted and coordinated by the Netherlands Heart Institute. Patients with an established cardiomyopathy diagnosis and carriers of pathogenic or likely-pathogenic cardiomyopathy gene variants will be included. Furthermore, selected family members and individuals who are referred for screening for potential cardiomyopathy are eligible for inclusion. The subjects will receive, per best clinical practice, guideline-recommended diagnostics and treatment. Clinical data will be collected from clinical care at baseline and follow-up, including clinical visits, imaging studies, laboratory assessments, ECG, and additional functional tests. Outcome data consists of clinical performance status, cardiovascular complications and major adverse events, recorded through regular electronic health record files. The DCR will function as a national database, providing relevant information on epidemiology, demographics, natural history, diagnosis, and treatment. This will aid risk prediction and monitoring of new therapies. The DCR can identify patients who are eligible for future studies, including registry-based research.",
+    "authors": [
+      "Peter-Paul Zwetsloot",
+      "Michiel T H M Henkens",
+      "Erik P A van Iperen",
+      "Michiel Minten",
+      "Evelien van der Schaaf-de Wolf",
+      "Linda W van Laake",
+      "Anneline S J M Te Riele",
+      "Pim van der Harst",
+      "Jessica van Setten",
+      "Vanessa P M van Empel",
+      "Hans-Peter Brunner-La Rocca",
+      "D Job A J Verdonschot",
+      "Moniek G P J Cox",
+      "Imke Christiaans",
+      "Nina Ajmone Marsan",
+      "Karin van Spaendonck-Zwarts",
+      "Daniela Qcm Barge-Schaapveld",
+      "Etienne Cramer",
+      "Yvonne M Hoedemakers",
+      "Michelle Michels",
+      "Judith M A Verhagen",
+      "Henk S Schipper",
+      "Malou van den Boogaard",
+      "Folkert W Asselbergs",
+      "Dennis van Veghel",
+      "Katja Zeppenfeld",
+      "Robin Nijveldt",
+      "Peter van Tintelen",
+      "Peter van der Meer",
+      "J Wouter Jukema",
+      "Jolanda van der Velden",
+      "Connie R Bezzina",
+      "Rudolf A de Boer",
+      "Stephane R B Heymans"
+    ],
+    "date": "2026-Aug-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573902/",
+    "doi": "10.1007/s12471-026-02063-5",
+    "score": 0.2137,
+    "fetched_at": "2026-08-10"
+  },
+  {
     "id": "pubmed:42570800",
     "source": "pubmed",
     "title": "Establishment and characterization of a Monochamus alternatus cell line for molecular biological analyses.",
@@ -1407,6 +1537,26 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42571940",
+    "source": "pubmed",
+    "title": "Alpha-gal syndrome: Mechanisms, global epidemiology, and implications for meat science.",
+    "abstract": "Galactose-α-1,3-galactose (α-Gal) is a carbohydrate epitope conjugated to glycoproteins and glycolipids and ubiquitously expressed in non-primate mammalian tissues. α-Gal has emerged as the causative antigen of alpha-gal syndrome (AGS), a delayed IgE-mediated food allergy to mammalian-derived products, including red meat. Clinical symptoms are highly variable among AGS patients and influenced by factors such as α-Gal content and structure, molecular carrier, and host-specific immune responses. Emerging evidence indicates that α-Gal content and structure may vary across tissues and product types, with higher concentrations frequently reported in organ meats and lipid-rich fractions. Additionally, α-Gal epitopes exhibit notable thermal stability, suggesting that conventional cooking and processing methods may not effectively reduce allergenicity. Current analytical approaches have improved detection and characterization of α-Gal; however, methodological standardization and functional assays linking molecular presence to clinical reactivity remain limited. Epidemiological data indicate that AGS is a globally emerging condition, with geographic variation driven by tick distribution, environmental factors, and differences in surveillance and clinical recognition. Despite increasing recognition, knowledge gaps persist regarding α-Gal occurrence in food systems, the impact of processing on allergenicity, and effective mitigation strategies. Therefore, the objective of this review is to synthesize current knowledge on the biochemical basis, immunological mechanisms, and global epidemiology of AGS, and to evaluate the occurrence, distribution, and stability of α-Gal in meat systems. In particular, meat scientists are uniquely positioned to advance understanding of α-Gal distribution, stability, and mitigation in food systems, thereby contributing to improved risk assessment and management of AGS.",
+    "authors": [
+      "Sara R Hene",
+      "Jordan T Looper",
+      "Karl J Clark",
+      "Paulina Maldonado-Ruiz",
+      "Yoonseong Park",
+      "Priscilla Brenes",
+      "Michael D Chao"
+    ],
+    "date": "2026-Aug-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571940/",
+    "doi": "10.1016/j.meatsci.2026.110133",
+    "score": 0.1534,
+    "fetched_at": "2026-08-10"
+  },
+  {
     "id": "pubmed:42566009",
     "source": "pubmed",
     "title": "Advances in nucleotide-based P2Y₁ antagonism: implications for cardiovascular therapeutics.",
@@ -1462,5 +1612,22 @@
     "doi": "10.1016/j.mycmed.2026.101642",
     "score": 0.0808,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42551154",
+    "source": "pubmed",
+    "title": "Effects of thermal and non-thermal processing on the structure and function of food proteins: A review.",
+    "abstract": "Food proteins play important roles in determining the nutritional quality and functional properties of food systems. However, many native proteins exhibit limited solubility, digestibility, and bioactivity, restricting their industrial applications and nutritional utilization. Although numerous studies have investigated the effects of thermal and non-thermal processing on protein modification, current understanding remains fragmented, and systematic comparisons of the underlying structure-function relationships across different processing technologies are still limited. This review provides a comparative and mechanistic perspective on how thermal treatments (e.g., traditional heating methods, ohmic heating, microwave and radio frequency) and non-thermal technologies (e.g., high hydrostatic processing, cold plasma, pulsed electric fields, ultrasound and irradiation) regulate the structural evolution and functional properties of food proteins. Particular emphasis is placed on the relationships between processing-induced changes in secondary and tertiary structures and the consequent alterations in protein solubility, digestibility, and bioactivity, thereby providing insights for the rational design of protein modification strategies.",
+    "authors": [
+      "Zixi Wang",
+      "Xin Ren",
+      "Qun Shen",
+      "Qingyu Zhao"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551154/",
+    "doi": "10.1016/j.foodchem.2026.150591",
+    "score": -0.0149,
+    "fetched_at": "2026-08-10"
   }
 ]
