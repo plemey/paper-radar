@@ -424,6 +424,28 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42593170",
+    "source": "pubmed",
+    "title": "Molecular Detection and Phylogenetic Characterization of Spotted Fever Group Rickettsiae in",
+    "abstract": "The Malayan pangolin (Manis javanica) is a critically endangered species that may harbor diverse zoonotic pathogens. This study aimed to characterize tick species parasitizing confiscated Malayan pangolins and determine the prevalence and genetic diversity of spotted fever group rickettsiae (SFGR) associated with these ticks. We employed morphological and molecular approaches to identify ticks parasitizing pangolins confiscated in Guangdong Province between 2021 and 2024. A total of 435 adult ticks were collected from 32 pangolins and pooled into 87 groups (5 ticks per pool). Pooled tick samples were screened for SFGR by PCR targeting three rickettsial genes (gltA, ompA, and ompB), followed by Sanger sequencing and phylogenetic analysis. All collected ticks were identified as Amblyomma javanense. The pool positivity rate for SFGR was 41.4% (36/87), with a minimum infection rate of 8.3% (36/435; 95% CI: 5.8-11.2%). Molecular characterization identified the detected agent as Candidatus Rickettsia jingxinensis (Ca. Rickettsia jingxinensis), an agent recently confirmed to infect humans. These findings provide baseline data for tick-borne pathogen surveillance in the context of pangolin conservation and illegal wildlife trade control, highlighting the potential public health relevance of the pangolin-tick interface.",
+    "authors": [
+      "Liyang Li",
+      "Jieling Zhang",
+      "Tingting Hu",
+      "Kai Wang",
+      "Lu Liu",
+      "Xitong Su",
+      "Min Lei",
+      "Hao Liu",
+      "Yan Hua"
+    ],
+    "date": "2026-Aug-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42593170/",
+    "doi": "10.1177/15303667261477658",
+    "score": 0.4633,
+    "fetched_at": "2026-08-13"
+  },
+  {
     "id": "pubmed:42575447",
     "source": "pubmed",
     "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
@@ -491,6 +513,25 @@
     "doi": "10.1002/vms3.70815",
     "score": 0.4542,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42588952",
+    "source": "pubmed",
+    "title": "Classification Evolution and Epitope Prediction of the Porcine Epidemic Diarrhea Virus (PEDV) Spike Protein in Thailand (2008-2024): Updated Insights for Preventive Strategies.",
+    "abstract": "This study analyzed Porcine epidemic diarrhea virus (PEDV) spike protein sequences and structures in Thailand from 2008 to 2024 to provide predicted structural templates that could inform regional vaccine selection and planned exposure frameworks. Using an in-silico approach, the researchers reduced sequence redundancy via CD-HIT (v4.8.1), established evolutionary lineages with BEAST (v1.10.4), and reconstructed protein structures using SWISS-MODEL. Structural comparisons and clustering were performed using DALI Z-scores and DBSCAN (v1.2.2), while Discotope 3 (v3.0) and ElliPro mapped B-cell epitope landscapes against a G1 reference strain. The results revealed a major lineage shift from G2a to G2b strains around 2017, with the spike proteins categorized into 14 subtypes and 6 eigenvalue clusters. Notably, minor amino acid substitutions altered properties such as hydrophobicity without disrupting the core structure, and certain deletions caused minimal structural deviations, indicating that sequence data or predicted structures alone do not fully dictate viral virulence or immunogenicity. Furthermore, primitive TH2 strains shared evolutionary links with G1 or US-InDel strains despite their G2 classification, identifying Cluster 1 as a potential ancestral structural type. In conclusion, this updated analysis provides crucial baseline data to optimize regional PEDV preventative measures, though further rigorous structural investigations are needed to definitively link specific spike alterations to virulence and host immune response.",
+    "authors": [
+      "Christopher James Stott",
+      "Tanakamol Mahawan",
+      "Pablo Piñeyro",
+      "Hongyao Lin",
+      "Angkana Tantituvanont",
+      "Dachrit Nilubol"
+    ],
+    "date": "2026-Jul-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42588952/",
+    "doi": "10.3390/ani16152314",
+    "score": 0.448,
+    "fetched_at": "2026-08-13"
   },
   {
     "id": "pubmed:42569331",
@@ -757,6 +798,24 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42592558",
+    "source": "pubmed",
+    "title": "Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes.",
+    "abstract": "Accurate epidemic forecasting is crucial for outbreak preparedness, but existing data-driven models are often brittle. Typically trained on a single pathogen, they struggle with data scarcity during new outbreaks and fail under distribution shifts caused by viral evolution or interventions. However, decades of surveillance data and the design of various compartmental models from diverse diseases offer an untapped source of transferable knowledge. To leverage the collective lessons from history, we propose CAPE, the first open-source pre-trained model for epidemic forecasting. Unlike existing time series foundation models that overlook epidemiological challenges, CAPE models epidemic dynamics as mixtures of latent compartmental population states, termed compartmental prototypes. It models a flexible dictionary of compartment prototypes directly from a large collection of simulation data, enabling each outbreak to be expressed as a time-varying mixture that links observed infections to latent population states. To promote robust generalization, CAPE adopts the next-token-prediction paradigm during pre-training with lightweight epidemic-aware regularization that aligns the learned prototypes with epidemiological semantics. On a comprehensive benchmark spanning 17 diseases, CAPE significantly outperforms strong baselines with zero-shot forecasting. This work represents a principled step toward pre-trained epidemic models that are both transferable and epidemiologically grounded. We provide our code in: https://github.com/nuuuh/CAPE.",
+    "authors": [
+      "Zewen Liu",
+      "Juntong Ni",
+      "Bohan Wang",
+      "Max S Y Lau",
+      "Wei Jin"
+    ],
+    "date": "2026-Aug-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42592558/",
+    "doi": "10.1145/3770855.3818928",
+    "score": 0.3985,
+    "fetched_at": "2026-08-13"
+  },
+  {
     "id": "pubmed:42576656",
     "source": "pubmed",
     "title": "Strengthening Regional Control of Transboundary Animal Diseases in the Greater Mekong Subregion of Southeast Asia: Four Decades of Diagnostics, Surveillance, Field Epidemiology, and Policy Translation.",
@@ -829,6 +888,27 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42592680",
+    "source": "pubmed",
+    "title": "SARS-CoV-2 Neutralization Breadth Is Shaped by Variant Exposure and Immune History.",
+    "abstract": "Despite widespread COVID-19 vaccination, emerging SARS-CoV-2 variants continue to evade neutralizing responses. To determine how exposure history influences neutralizing breadth against SARS-CoV-2, plasma collected from 46 participants in the Clinical, Virological and Immunological COVID-19 study cohort (CVIC) was analyzed. Participants were categorized into six groups reflecting distinct SARS-CoV-2 exposure profiles: individuals infected with either Wuhan-Hu-1 or Delta variants, infection-naïve individuals who received two or four doses of mRNA vaccine (including a bivalent BA.4/5 booster), previously infected individuals subsequently vaccinated, and individuals with four vaccine doses plus breakthrough Omicron infection. Neutralizing breadth was assessed using a pseudoparticle panel representing major variants of interest/concern (Alpha, Beta, Gamma, Delta, Lambda, and Kappa) and a panel of representative Omicron subvariants (BA.1, BA.2, BA.5, BA.2.75, BA.2.86, BQ.1, XBB.1.5, EG.5, HV.1, and JN.1). Primary exposure through infection elicited potent homologous but variable heterologous neutralization, whereas vaccination alone induced lower yet more consistent responses across variants. Additional antigenic exposures, through either repeated vaccination or breakthrough infection, markedly enhanced cross-variant neutralization, with the greatest potency and breadth of neutralizing responses observed in individuals with the highest number of SARS-CoV-2 exposures. Nonetheless, neutralizing activity against more recently emerged Omicron subvariants, including EG.5, HV.1, and JN.1, remained low. Taken together, these findings demonstrate that both the nature and number of antigenic exposures can shape the potency and breadth of SARS-CoV-2 neutralizing responses. While cumulative exposures improve cross-variant immunity, ongoing viral evolution continues to erode neutralization capacity, emphasizing the need for continued variant monitoring and periodic vaccine reformulation to maintain population-level protection.",
+    "authors": [
+      "Greta Vizgirda",
+      "Alexander P Underwood",
+      "Ulrik Fahnøe",
+      "Christina Sølund",
+      "Signe Lysemose Villadsen",
+      "Andrea Galli",
+      "Nina Weis",
+      "Jens Bukh"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42592680/",
+    "doi": "10.1002/jmv.71054",
+    "score": 0.3923,
+    "fetched_at": "2026-08-13"
+  },
+  {
     "id": "pubmed:42562629",
     "source": "pubmed",
     "title": "Evolution of South Asian mountain biota: dispersal, fine-scale biogeography, phylogenetics and systematics of Nannenini jumping spiders.",
@@ -898,6 +978,36 @@
     "doi": "10.1016/j.biopha.2026.119831",
     "score": 0.3765,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42586783",
+    "source": "pubmed",
+    "title": "Actionable genotypes beyond the coding sequence and their association with lifespan in the UK Biobank.",
+    "abstract": "The identification and reporting of actionable genotypes in the American College of Medical Genetics and Genomics (ACMG)-recommended secondary findings (SF) genes represent a key preventive strategy for hereditary diseases. Robust evidence quantifying their association with lifespan remains limited, particularly for non-coding regulatory variants, due to functional interpretation challenges. Using data from the UK Biobank, we investigated associations between genetic variants and all-cause mortality in 490 086 participants with whole-genome sequencing. We systematically interpreted pathogenic or likely pathogenic coding variants in the 81 genes listed in the ACMG SF V.3.2. In parallel, we conducted saturation mutagenesis combined with a massively parallel reporter assay on the core promoters of these genes to generate a functional map of every potential variant, which we then used to interpret the functionally promoter variants in the cohort and evaluated their associations with mortality and disease incidence. Coding actionable genotypes were present in 3.40% of participants and were associated with increased all-cause mortality (HR in females, 1.42; 95% CI 1.34 to 1.52; HR in males, 1.31; 95% CI 1.24 to 1.39). All rare variants within the core promoter regions of these genes revealed no significant association with survival. Functionally promoter variants with downregulating activity of cancer genes were associated with elevated mortality risk (HR in females, 1.15; 95% CI 1.01 to 1.31; HR in males, 1.12; 95% CI 1.00 to 1.26). Furthermore, our findings provide clues that functional promoter variants may merit consideration when expanding actionable genotype lists. Our findings demonstrate that functionally verified promoter variants represent a previously unrecognised determinant of mortality risk, highlighting the potential value of looking beyond coding sequences in future studies.",
+    "authors": [
+      "Congcong Chen",
+      "Jiawen Zhu",
+      "Ziye Xu",
+      "Xinyu Gu",
+      "Yanan Shi",
+      "Yingjia Chen",
+      "Yuan Xie",
+      "Xin Yuan",
+      "Qiqi Zhai",
+      "Jun Zhou",
+      "Na Qin",
+      "Juncheng Dai",
+      "Hongxia Ma",
+      "Guangfu Jin",
+      "Hongbing Shen",
+      "Zhibin Hu",
+      "Cheng Wang"
+    ],
+    "date": "2026-Aug-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42586783/",
+    "doi": "10.1136/jmg-2026-111659",
+    "score": 0.3728,
+    "fetched_at": "2026-08-13"
   },
   {
     "id": "pubmed:42551610",
@@ -1615,6 +1725,21 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42575612/",
     "doi": "10.1016/j.vprsr.2026.101534",
     "score": 0.2803,
+    "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42589196",
+    "source": "pubmed",
+    "title": "The Evolution of Molecular Clocks: Concepts, Calibrations, and Challenges.",
+    "abstract": "Molecular clocks use the accumulation of genetic changes to estimate the timing of evolutionary and demographic events. Since their formulation in the 1960s, molecular clocks have evolved from relatively simple strict-rate assumptions into a diverse set of statistical frameworks that include strict, relaxed, local and time-dependent models. In this review, we examine the conceptual basis of molecular-clock inference and the biological, demographic and methodological factors that influence clock estimates. We distinguish mutation rates from substitution rates and discuss how molecular, genomic, life-history, environmental and population-level processes can affect estimated evolutionary rates. We then review the main analytical approaches used to estimate branch lengths and divergence times, including maximum likelihood, Bayesian inference, parsimony-based methods and regression-based techniques; we also focus on the statistical evaluation of clock-like behaviour. Particular attention is given to calibration, as molecular clocks only become informative for absolute time estimation when genetic distances are anchored to an external temporal framework. We review calibration strategies based on fossils, geological and biogeographic events, founder events, ancient sequences, pedigrees, direct mutation-rate estimates, longitudinal sampling, secondary calibrations and externally estimated substitution rates. Finally, we discuss cases in which molecular-clock estimates show concordance or discordance with independent archaeological, palaeontological or epidemiological evidence, as well as cases where apparent agreement may reflect circular reasoning. We argue that molecular clocks remain essential tools for evolutionary biology, but that their reliability depends on explicit model testing, transparent calibration choices and careful interpretation of the results.",
+    "authors": [
+      "Pedro Soares",
+      "Teresa Rito"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42589196/",
+    "doi": "10.3390/biology15151329",
+    "score": 0.2711,
     "fetched_at": "2026-08-13"
   },
   {
