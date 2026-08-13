@@ -23,6 +23,22 @@ import feedparser
 UA = {"User-Agent": "paper-radar/1.0 (personal research feed; contact: you@example.com)"}
 
 
+def _get_with_retries(url, *, params=None, timeout=30, retries=3, backoff=5):
+    """GET with a few retries on network/timeout errors, since bioRxiv/medRxiv/PubMed
+    APIs are occasionally slow or flaky. Raises the last exception if all attempts fail."""
+    last_exc = None
+    for attempt in range(1, retries + 1):
+        try:
+            return requests.get(url, params=params, headers=UA, timeout=timeout)
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            last_exc = exc
+            if attempt < retries:
+                print(f"  ...request to {url} failed ({exc.__class__.__name__}), "
+                      f"retry {attempt}/{retries - 1} in {backoff}s")
+                time.sleep(backoff)
+    raise last_exc
+
+
 def _today_and_lookback(days_back: int):
     end = dt.date.today()
     start = end - dt.timedelta(days=days_back)
@@ -59,7 +75,7 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
     if api_key:
         params["api_key"] = api_key
 
-    r = requests.get(f"{base}/esearch.fcgi", params=params, headers=UA, timeout=30)
+    r = _get_with_retries(f"{base}/esearch.fcgi", params=params, timeout=30)
     r.raise_for_status()
     ids = r.json().get("esearchresult", {}).get("idlist", [])
     if not ids:
@@ -75,7 +91,7 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
     }
     if api_key:
         fetch_params["api_key"] = api_key
-    r = requests.get(f"{base}/efetch.fcgi", params=fetch_params, headers=UA, timeout=30)
+    r = _get_with_retries(f"{base}/efetch.fcgi", params=fetch_params, timeout=30)
     r.raise_for_status()
 
     root = ET.fromstring(r.content)
@@ -136,7 +152,7 @@ def fetch_arxiv(keywords, categories, max_results, days_back=4):
         "sortOrder": "descending",
         "max_results": max(max_results, 100),  # fetch a wider pool before date-filtering locally
     }
-    r = requests.get("http://export.arxiv.org/api/query", params=params, headers=UA, timeout=30)
+    r = _get_with_retries("http://export.arxiv.org/api/query", params=params, timeout=30)
     r.raise_for_status()
     feed = feedparser.parse(r.content)
 
@@ -171,7 +187,12 @@ def _fetch_rxiv(server, keywords, max_results, days_back=4):
     keywords_lower = [k.lower() for k in keywords]
     while True:
         url = f"https://api.biorxiv.org/details/{server}/{start:%Y-%m-%d}/{end:%Y-%m-%d}/{cursor}"
-        r = requests.get(url, headers=UA, timeout=30)
+        try:
+            r = _get_with_retries(url, timeout=30)
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            print(f"  {server}: giving up on page at cursor={cursor} after retries ({exc.__class__.__name__}); "
+                  f"returning {len(papers)} papers fetched so far")
+            break
         if r.status_code != 200:
             break
         data = r.json()

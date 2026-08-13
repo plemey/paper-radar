@@ -49,19 +49,32 @@ def main():
 
     seen_ids = set(load_json(DATA / "seen_ids.json", []))
 
+    def fetch_source(name, fn, *args, **kwargs):
+        """Run one source's fetch; on failure, log and return [] so the other
+        sources still run and the daily job doesn't come back empty-handed."""
+        try:
+            papers = fn(*args, **kwargs)
+            print(f"  {name}: {len(papers)} papers")
+            return papers
+        except Exception as exc:
+            print(f"  {name}: FAILED ({exc.__class__.__name__}: {exc}); skipping this source today")
+            return []
+
     fetched = []
     if "pubmed" in sources_enabled:
-        fetched += sources.fetch_pubmed(
-            keywords, max_per_source,
+        fetched += fetch_source(
+            "pubmed", sources.fetch_pubmed, keywords, max_per_source,
             email=config.get("pubmed_email", ""),
             api_key=config.get("pubmed_api_key", ""),
         )
     if "arxiv" in sources_enabled:
-        fetched += sources.fetch_arxiv(keywords, config.get("arxiv_categories", []), max_per_source)
+        fetched += fetch_source(
+            "arxiv", sources.fetch_arxiv, keywords, config.get("arxiv_categories", []), max_per_source
+        )
     if "biorxiv" in sources_enabled:
-        fetched += sources.fetch_biorxiv(keywords, max_per_source)
+        fetched += fetch_source("biorxiv", sources.fetch_biorxiv, keywords, max_per_source)
     if "medrxiv" in sources_enabled:
-        fetched += sources.fetch_medrxiv(keywords, max_per_source)
+        fetched += fetch_source("medrxiv", sources.fetch_medrxiv, keywords, max_per_source)
 
     new_papers = [p for p in fetched if p["id"] not in seen_ids]
     # dedupe within this batch too (same paper can appear via multiple keyword hits)
