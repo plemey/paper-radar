@@ -56,18 +56,34 @@ async function ghPutFile(path, contentStr, sha, message) {
     },
     body: JSON.stringify(body),
   });
-  if (!res.ok) throw new Error(`GitHub PUT ${path} failed: ${res.status} ${await res.text()}`);
+  if (!res.ok) {
+    const text = await res.text();
+    const err = new Error(`GitHub PUT ${path} failed: ${res.status} ${text}`);
+    err.status = res.status;
+    throw err;
+  }
   return res.json();
 }
 
-async function submitRating(id, rating) {
+async function submitRating(id, rating, attempt = 1) {
   // 1 = interesting, -1 = not interesting, 0 = dismissed/neutral
   const { sha, content } = await ghGetFile("data/ratings.json");
   const ratings = content ? JSON.parse(content) : [];
   ratings.push({ id, rating, ts: new Date().toISOString() });
-  await ghPutFile("data/ratings.json", JSON.stringify(ratings, null, 2), sha,
-    `Rate ${id}: ${rating > 0 ? "up" : rating < 0 ? "down" : "skip"}`);
-  ratedIds.add(id);
+  try {
+    await ghPutFile("data/ratings.json", JSON.stringify(ratings, null, 2), sha,
+      `Rate ${id}: ${rating > 0 ? "up" : rating < 0 ? "down" : "skip"}`);
+    ratedIds.add(id);
+  } catch (err) {
+    // 409 = ratings.json changed since our GET (e.g. another rating landed just before this
+    // one — quick double-taps, or another device). Re-fetch the latest file and retry with
+    // a fresh SHA rather than losing the rating.
+    if (err.status === 409 && attempt < 5) {
+      await new Promise(r => setTimeout(r, 300 * attempt + Math.random() * 200));
+      return submitRating(id, rating, attempt + 1);
+    }
+    throw err;
+  }
 }
 
 async function uploadBib(file) {
