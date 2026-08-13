@@ -52,12 +52,12 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
     # print "Date - Publication", which is often set weeks/months away from when the
     # paper actually appeared and silently zeroes out a tight recency window.
     start, end = _today_and_lookback(days_back)
-    # AND-of-words per keyword (not exact-phrase match) — "molecular epidemiology virus"
-    # rarely appears as that literal string in an abstract, but the three words together
-    # (in any order/position) are a much more realistic match.
+    # Exact-phrase match per keyword — "molecular epidemiology" must appear as that
+    # literal phrase in title/abstract, not just as co-occurring words anywhere. This
+    # matches how bioRxiv/medRxiv already filter (substring match) so all four sources
+    # now apply the same strictness.
     def kw_clause(k):
-        words = k.split()
-        return "(" + " AND ".join(f'{w}[Title/Abstract]' for w in words) + ")"
+        return f'"{k}"[Title/Abstract]'
     query = "(" + " OR ".join(kw_clause(k) for k in keywords) + ")"
 
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
@@ -136,11 +136,9 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
 # ----------------------------------------------------------------- arXiv ---
 
 def fetch_arxiv(keywords, categories, max_results, days_back=4):
-    # AND-of-words per keyword phrase (not exact-phrase match) is much less likely to
-    # zero out over a short window than requiring the literal quoted phrase.
+    # Exact-phrase match per keyword, consistent with PubMed/bioRxiv/medRxiv.
     def kw_clause(k):
-        words = k.split()
-        return "(" + " AND ".join(f'abs:{w}' for w in words) + ")"
+        return f'abs:"{k}"'
 
     kw_query = " OR ".join(kw_clause(k) for k in keywords)
     cat_query = " OR ".join(f"cat:{c}" for c in categories) if categories else ""
