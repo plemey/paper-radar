@@ -620,6 +620,30 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42595815",
+    "source": "pubmed",
+    "title": "Genomic catalogue of giant viruses reveals expanded diversity and functional potential.",
+    "abstract": "Nucleocytoplasmic large DNA and Mirusviricota viruses exhibit taxonomic richness which continually expands due to metagenomic sequencing. Here we curate a database of giant virus metagenome-assembled genomes (GVMAGs V2), comprising 8,508 species-level representatives from 18,727 GVMAGs, a sixfold increase from the previous giant virus phylogenetic frameworks. Phylogenomics revealed 712 previously undescribed genera, 13 previously unknown viral families and an order we propose named Mycodnavirales. By accounting for alternative and custom genetic codes, we improved gene calling in over 1,300 GVMAGs, enabling more accurate identification of protein-coding genes. Database mining uncovered putative endogenous viral elements in hosts spanning algae, fungi and parasitic protists, highlighting that giant virus integration is widespread and evolutionarily persistent. Protein-level analysis revealed enriched genes for pollutant degradation in Algavirales and widespread biosynthetic gene clusters linked to antimicrobial-like and antibiotic resistance gene-like activity. This public resource will serve as a foundation for expanding giant virus diversity, uncovering virus-host interactions and exploring viral evolution.",
+    "authors": [
+      "Yumary M Vasquez",
+      "Tiago Nardi",
+      "Gbocho Masato Terasaki",
+      "Petra Byl",
+      "Tomáš Brůna",
+      "Juan C Villada",
+      "Miguel F Romero-Gutiérrez",
+      "Thomas Mock",
+      "Timothy Y James",
+      "Tanja Woyke",
+      "Frederik Schulz"
+    ],
+    "date": "2026-Aug-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42595815/",
+    "doi": "10.1093/molbev/msab199",
+    "score": 0.4318,
+    "fetched_at": "2026-08-14"
+  },
+  {
     "id": "pubmed:42564763",
     "source": "pubmed",
     "title": "Molecular and serological characterization of SARS-CoV-2 strains associated with viral encephalitis in Senegal during the COVID-19 pandemic.",
@@ -796,6 +820,23 @@
     "doi": "10.1093/infdis/jiag406",
     "score": 0.4046,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42599520",
+    "source": "pubmed",
+    "title": "Emerging and Re-Emerging Viral Infections in Poultry: Integrating Traditional and AI-Based Control Strategies.",
+    "abstract": "Poultry production remains significantly challenged by emerging and re-emerging avian viral diseases, which are influenced by host-pathogen interactions, viral evolution, and intensified farming systems. Viruses like avian influenza viruses (AIV) and Newcastle disease virus (NDV) remain the most persistent threats, while chicken anaemia virus (CAV), avian metapneumovirus (aMPV), adenoviruses, and astroviruses are increasingly recognized for their potential to affect poultry health and productivity. Despite the continued use of vaccination, biosecurity, and conventional diagnostics, effective control is often limited by delayed detection and inadequate integration of surveillance data. This review aims to critically examine the limitations of existing control strategies for major avian viral diseases and to evaluate the potential of artificial intelligence (AI) in improving disease surveillance and management. The current knowledge is synthesized on the basis of epidemiology and drivers of key viral infections and how AI-based tools can enhance predictive surveillance, real-time diagnostics, outbreak risk assessment, and vaccine development. The analysis indicates that AI-driven approaches can improve early detection and enable more effective use of heterogeneous data sources across animal, environmental, and public health domains. Integrating these approaches within a One Health framework offers opportunities to strengthen preparedness and response systems. Notwithstanding these benefits many issues regarding use of AI still need to be addressed for successful deployment of AI in diagnosing diseases.",
+    "authors": [
+      "Asiya Mushtaq",
+      "Maliha Gulzar",
+      "Syedah Asma Andrabi",
+      "Priyanka Syal"
+    ],
+    "date": "2026-Aug-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599520/",
+    "doi": "10.2478/jvetres-2021-0069",
+    "score": 0.4039,
+    "fetched_at": "2026-08-14"
   },
   {
     "id": "pubmed:42592558",
@@ -1176,6 +1217,27 @@
     "doi": "10.1093/gbe/evae027",
     "score": 0.3508,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42595088",
+    "source": "pubmed",
+    "title": "Longitudinal Changes in Clonal Distribution and Fluoroquinolone Resistance of Ocular MRSA.",
+    "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) is a major cause of ocular infections, with evolving molecular epidemiology observed in systemic infections in Taiwan. However, longitudinal data on clonal distribution and antibiotic susceptibility in ocular MRSA isolates remain limited. Patients with culture-proven S. aureus ocular infection at Chang Gung Memorial Hospital between 2013 and 2022 were included. MRSA isolates were characterized by pulsed-field gel electrophoresis, multilocus sequence typing, and staphylococcal cassette chromosome mec typing, and Panton-Valentine leucocidin genes detection. Antibiotic susceptibility was examined using disk diffusion method and E-test. Temporal trends were analyzed using chi-square tests for trend. A total of 154 MRSA ocular isolates were identified. The predominant clone complex (CC) was CC59 (80/154, 52.0%), followed by CC8 (30/154, 19.5%) and CC45 (25/154, 16.2%). Over the decade, CC59 declined while CC8 increased significantly (P = 0.005 and P = 0.002, respectively), paralleling nationwide systemic MRSA trends. CC8 isolates were more frequently associated with eyelid disorders than CC59 (50.0% vs 28.8%; P = 0.045). CC59 isolates remained highly susceptible to fluoroquinolones (> 95%), while CC8 demonstrated marked resistance (≤ 11% susceptible; P < 0.0001). All isolates were susceptible to vancomycin and teicoplanin. Ocular MRSA infections in Taiwan demonstrate longitudinal changes in clonal distribution, characterized by declining CC59 and increasing CC8, and a concurrent increase in fluoroquinolone-resistant CC8. This evolution may compromise fluoroquinolone-based empirical therapy, a cornerstone of first-line treatment for ocular infections, and highlights the importance of continued molecular surveillance.",
+    "authors": [
+      "Ching-Hsi Hsiao",
+      "Eugene Yu-Chuan Kang",
+      "Ya-Tung Liu",
+      "Hung-Chi Chen",
+      "Lung-Kun Yeh",
+      "David H K Ma",
+      "Kuo-Hsuan Hung",
+      "Yhu-Chering Huang"
+    ],
+    "date": "2026-Aug-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42595088/",
+    "doi": "10.1016/j.bj.2026.101033",
+    "score": 0.3506,
+    "fetched_at": "2026-08-14"
   },
   {
     "id": "pubmed:42575608",
@@ -2522,6 +2584,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42593684",
+    "source": "pubmed",
+    "title": "Concentration-dependent dual effects of bacterial nanocellulose on Staphylococcus aureus virulence and human dermal fibroblast function: implications for wound healing.",
+    "abstract": "Antibiotic-resistant Staphylococcus aureus biofilms in skin wounds require therapies targeting both virulence and host repair. The wound biomaterial bacterial nanocellulose (BNC) has unclear effects on bacteria and host cells. We studied clinical S. aureus molecular epidemiology and BNC's concentration-dependent dual effects on bacterial virulence and human dermal fibroblast (HDF-1) inflammation, apoptosis, and proliferation. 150 non-duplicate S. aureus isolates from skin/soft tissue infections were characterized (antibiogram, biofilm, virulence/resistance genes, MLVA). BNC MIC and sub-MIC (500 µg/mL) effects on hla, icaA, mecA expression, biofilm biomass, and oxacillin synergy were assessed. MTT assay identified non-cytotoxic BNC doses (10, 25, 50 µg/mL). In uninfected and infected HDF-1, RT-qPCR, ELISA, flow cytometry, and Western blot measured IL-6, IL-10, Bax, CDK1. Isolates showed high genetic diversity (Simpson index 0.94), 54% MRSA, universal biofilm formation, and complete icaB absence, suggesting ica-independent biofilms. BNC MIC was 1000 µg/mL. Sub-MIC (500 µg/mL) downregulated hla, icaA, mecA and reduced biofilm by 41%, but was cytotoxic (IC₅₀ 55 µg/mL). At non-cytotoxic doses (10-50 µg/mL), BNC downregulated IL-6 (0.42-fold), upregulated IL-10 (2.64-fold), Bax (2.12-fold), and CDK1 (1.84-fold), leading to increased early apoptosis (3.2% to 8.7%) and proliferation (1.7-fold). BNC exhibits opposing concentration-dependent effects: antivirulence at cytotoxic concentrations versus immunomodulatory and pro-regenerative at safe concentrations. Unmodified BNC is unsuitable as a direct antibacterial but promising as an immunomodulatory scaffold and drug delivery platform.",
+    "authors": [
+      "Hesam Sorori",
+      "Kumarss Amini",
+      "Farzaneh Hosseini",
+      "Pedram Heidari"
+    ],
+    "date": "2026-Aug-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42593684/",
+    "doi": "10.1016/j.ijpharm.2024.124560",
+    "score": 0.0747,
+    "fetched_at": "2026-08-14"
+  },
+  {
     "id": "pubmed:42577908",
     "source": "pubmed",
     "title": "Miliary Tuberculosis: A Comprehensive Review of Epidemiology, Clinical Manifestations, Diagnosis, Treatment, and Complications.",
@@ -2636,6 +2715,25 @@
     "doi": "10.1111/1541-4337.70590",
     "score": -0.1456,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42594666",
+    "source": "pubmed",
+    "title": "Synergistic modification of wheat bran by fungal-enzymes: From wheat bran composition and properties modulation, gluten protein structure evolution, to wheat dough and noodle quality improvement.",
+    "abstract": "This study employed a synergistic modification using cellulase, xylanase, and Basidiomycetes to modify wheat bran, elucidating how this enhanced gluten protein structure and improved dough and noodle quality. Results showed that the modification increased soluble dietary fiber content of wheat bran, while reducing its particle size, water holding capacity, and water swelling capacity. Fourier transform infrared spectroscopy and laser diffraction particle size analysis revealed that these changes led to a more ordered gluten protein structure (α-helix content increased from 13.50% to 18.62%) and enhanced aggregation behavior (average particle size increased from 554.87 nm to 700.59 nm). The structural evolution improved dough extension and texture properties. It also improved noodle cooking performance (cooking loss ratio decreased from 10.62% to 9.05%) and extension properties (extension distance increased from 17.77 mm to 38.72 mm). These findings provide a theoretical basis for applying fungal-enzymatic synergistic modification technology in wheat bran processing to improve noodle quality.",
+    "authors": [
+      "Mengyuan Li",
+      "Yanhua Li",
+      "Li Li",
+      "Xueling Zheng",
+      "Binghua Sun",
+      "Sen Ma"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42594666/",
+    "doi": "10.1016/j.foodchem.2026.150698",
+    "score": -0.2761,
+    "fetched_at": "2026-08-14"
   },
   {
     "id": "pubmed:42551154",
