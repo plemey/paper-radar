@@ -154,6 +154,26 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42601999",
+    "source": "pubmed",
+    "title": "First detection and transatlantic introduction of Influenza A(H3N2) subclade K (J.2.4.1) into Ecuador: insights from genomic sentinel surveillance.",
+    "abstract": "The rapid evolution of Influenza A(H3N2) requires constant global monitoring. This study analyzes the genomic characteristics and the first introduction of the emerging subclade K (J.2.4.1) in Ecuador, utilizing publicly available data to trace its intercontinental movement. The hemagglutinin (HA) protein of an Influenza A(H3N2) strain isolated from an Ecuadorian patient was analyzed. A Bayesian phylogenetic reconstruction was performed using BEAST v1.10.4 with 251 global sequences. A molecular clock was applied to estimate the time of most recent common ancestor (TMRCA). Substitutions were screened using the FluSurver tool. Phylogenetic analysis clustered the Ecuadorian isolate within a monophyletic group of European origin (Northern Spain). The estimated introduction occurred in late November 2025, aligning with epidemiological links to Ecuadorian migrants travelling from Spain for Christmas holidays. Molecular screening identified HA1 substitutions annotated in FluSurver as mutations of interest, including S160N, N174D, I176K, Q189R, and Y211F. S160N was associated with the creation of a potential N-glycosylation site. The NA protein harbored the N358D substitution, which was annotated in FluSurver as having a reported association with neuraminidase inhibitor susceptibility. The introduction of subclade K into South America illustrates the high efficiency of transatlantic travel as a conduit for viral dispersal. This study supports the use of open-access genomic surveillance as a critical sentinel tool for global health security.",
+    "authors": [
+      "Alfredo Bruno",
+      "Domenica de Mora",
+      "Maritza Olmedo",
+      "Jimmy Garcés",
+      "Denisses Portugal",
+      "Lourdes Pardo",
+      "Miguel Angel Garcia-Bereguiain"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601999/",
+    "doi": "10.1038/s41467-024-45205-2",
+    "score": 0.5871,
+    "fetched_at": "2026-08-15"
+  },
+  {
     "id": "pubmed:42551977",
     "source": "pubmed",
     "title": "Whole-genome characterization and phylogenetic analysis of Equine Rotavirus A isolated from Jeju Island, Korea.",
@@ -422,6 +442,23 @@
     "doi": "10.1016/j.jinf.2026.106827",
     "score": 0.4852,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42600670",
+    "source": "pubmed",
+    "title": "Detection and structural characterization of bat-associated dengue virus serotype 2: A country-level first detection in Pakistan.",
+    "abstract": "Bats (order Chiroptera) are recognized as reservoirs for diverse zoonotic viruses, including members of the Flavivirus genus. Despite global reports of bat-associated Dengue Virus (DENV), its presence in Pakistan has remained undocumented. This study investigates DENV circulation in bat populations across Islamabad/Rawalpindi, Lahore, Mardan, Swat, and Lower Dir. Fecal samples were screened using CprM-specific primers, yielding 14 amplified viral isolates (BatDENV01-BatDENV14). Phylogenetic analysis confirmed all sequences as Dengue Virus serotype 2 (DENV-2), clustering with bat-associated isolates from Costa Rica (KY461760-KY461769), mosquito-derived (KY461759), and human-derived strains (AY692466, AY692469), and suggests a potential cross-species viral link. Comparative amino acid analysis revealed several substitutions in the CprM region, some of which were unique to the Pakistani bat isolates. These substitutions may reflect host-specific adaptation or regional viral evolution. Secondary structure prediction using SOPMA and PSIPRED indicated conserved α-helices and β-strands, while tertiary modeling via Robetta and visualization in PyMol showed structural homology with reference DENV-2 proteins, and minor modifications were observed. This study provides the first molecular and structural evidence of DENV-2 circulation in Pakistani bats, suggesting a possible ecological link between bat, mosquito, and human transmission cycles. These findings underscore the need for expanded molecular surveillance and structural characterization of bat-associated Flaviviruses to better understand their zoonotic potential and inform public health strategies.",
+    "authors": [
+      "Sajid Ali Shah",
+      "Saad Ullah",
+      "Sidra Rahman",
+      "Muhammad Ali"
+    ],
+    "date": "2026-Aug-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600670/",
+    "doi": "10.1016/j.gene.2026.150356",
+    "score": 0.4744,
+    "fetched_at": "2026-08-15"
   },
   {
     "id": "pubmed:42593170",
@@ -1343,6 +1380,24 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42602979",
+    "source": "pubmed",
+    "title": "Global trends and molecular epidemiology of Azithromycin-resistant",
+    "abstract": "Salmonella infections pose a significant public health challenge, affecting both social and economic dimensions across various countries. Different animal species serve as reservoirs for Salmonella and contribute to drug resistance in human isolates. The improper use of antimicrobials in livestock, companion animals, and humans has led to the rise of multidrug-resistant (MDR), extensively drug-resistant (XDR), and azithromycin-resistant Salmonella serovars globally. This systematic review and meta-analysis aim to evaluate heterogeneity, estimate pooled proportions, and outline the molecular epidemiology of these resistant Salmonella serovars worldwide. We analyzed data from 15,514 Salmonella isolates, focusing on their genetic and phenotypic characteristics. Our analysis included meta-analyses and frequency analyses based on the studies' geographical locations, the types of isolates, and potential biases. We employed a random-effects model, specifically the DerSimonian-Laird method, to evaluate heterogeneity and estimate pooled proportions. The result is presented as a proportion and confidence interval after the inverse of the Freeman-Tukey transformation; otherwise, all the calculations were made using the Freeman-Tukey double arcsine transformation. The pooled prevalence of azithromycin resistance among Salmonella isolates was 9.12% (95% CI: 6.53-12.07). Among azithromycin-resistant isolates, multidrug-resistant (MDR) and extensively drug-resistant (XDR) serovars accounted for 31.10% (95% CI: 18.82-44.86) and 19.30% (95% CI: 6.90-35.75), respectively. Resistance mechanisms involved multiple genetic factors, including efflux pumps (mefA, acrB gene mutation), enzymatic phosphorylation (mphA), and class 1 integrons gene cassettes. Notably, resistance rates varied by region and serovar, with high prevalence in Southern Asia and Eastern Europe. Azithromycin resistance in Salmonella is a growing global health concern, complicated by the presence of MDR and XDR strains and diverse resistance mechanisms. Urgent, coordinated efforts encompassing enhanced surveillance, antimicrobial stewardship, and research are critical to controlling resistance and preserving azithromycin's efficacy in treating invasive salmonellosis through a One Health approach. Additionally, addressing antimicrobial use in the agriculture and veterinary sectors is critical to safeguarding public health. We conducted a systematic review and meta-analysis after registering the protocol with PROSPERO (CRD420251047985), following the MOOSE (Meta-Analysis of Observational Studies in Epidemiology) guidelines.",
+    "authors": [
+      "Getachew Mengistu",
+      "Mekuanint Geta",
+      "Anwar Nuru",
+      "Baye Gelaw",
+      "Feleke Moges"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602979/",
+    "doi": "10.1016/j.onehlt.2026.101535",
+    "score": 0.3418,
+    "fetched_at": "2026-08-15"
+  },
+  {
     "id": "pubmed:42583258",
     "source": "pubmed",
     "title": "Genomic Epidemiology and Plasmid-Mediated Dissemination of Carbapenem-Resistant",
@@ -1716,6 +1771,39 @@
     "doi": "10.1186/s13059-025-03676-6",
     "score": 0.3023,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42601614",
+    "source": "pubmed",
+    "title": "Safety and antiviral activity of inhaled siRNA SNS812 for treatment of mild-to-moderate COVID-19: a phase 2 randomized trial.",
+    "abstract": "SARS-CoV-2 remains a global health threat because ongoing viral evolution and immune evasion reduce the effectiveness of existing therapies. SNS812 is an inhaled small interfering RNA targeting a highly conserved region of the viral RNA-dependent RNA polymerase gene, representing a strategy that may enable broader antiviral activity against emerging variants. In this phase 2, double-blind, randomised, placebo-controlled trial, adults with mild-to-moderate COVID-19 within 3 days of symptom onset were randomly assigned (1:1:1) to receive placebo or inhaled SNS812 (100 mg or 200 mg) once daily for 7 days (ClinicalTrials.gov identifier: NCT05941793). Safety was the primary endpoint. Secondary endpoints included the time to sustained alleviation (TTSA) and resolution (TTSR) for prespecified composite target symptoms and individual symptoms. Virological outcomes were exploratory. A total of 135 participants were enrolled, with more than 90% infected with immune-evasive SARS-CoV-2 variants. No treatment-related adverse events or serious adverse events were reported. In exploratory analyses, the 200 mg SNS812 group showed a shorter median time to SARS-CoV-2 antigen negativity (2.9 vs 3.6 days; p = 0.007) and a faster viral load reduction rate (- 0.755 vs - 0.652; p = 0.040), demonstrating dose-dependent virological effects. In the modified intention-to-treat population, exploratory symptom analyses showed shorter TTSA and TTSR for prespecified target symptoms with SNS812 200 mg compared with placebo (median TTSR 6.1 vs 8.1 days; adjusted hazard ratio 2.07, 95% CI 1.30-3.29; median TTSA 3.6 vs 6.5 days; adjusted hazard ratio 1.81, 95% CI 1.14-2.88). Inhaled SNS812 was safe and well tolerated and showed dose-dependent antiviral activity, with exploratory signals of symptomatic improvement in adults with mild-to-moderate COVID-19 infected with immune-evasive variants. These findings support further evaluation in larger, adequately powered trials, including older and higher-risk populations.",
+    "authors": [
+      "Shey-Ying Chen",
+      "Sui-Yuan Chang",
+      "Yi-Chung Chang",
+      "Ming-Che Liu",
+      "Kuan-Yuan Chen",
+      "Jer-Hwa Chang",
+      "Wen-Pin Tseng",
+      "Chien-Hao Lin",
+      "Jhong-Lin Wu",
+      "Pai-Chien Chou",
+      "Tsong-Yih Ou",
+      "Chin-Wang Hsu",
+      "Feng-Yi Chou",
+      "Hui-Ju Ho",
+      "Jen-Fu Yang",
+      "Chi-Fan Yang",
+      "Yi-Fen Chen",
+      "Kang-Yun Lee",
+      "William Lu",
+      "Pan-Chyr Yang"
+    ],
+    "date": "2026-Aug-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601614/",
+    "doi": "10.1007/s13346-025-01788-x",
+    "score": 0.2888,
+    "fetched_at": "2026-08-15"
   },
   {
     "id": "pubmed:42581360",
@@ -2349,6 +2437,31 @@
     "doi": "10.1016/j.virol.2026.111044",
     "score": 0.1456,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42602526",
+    "source": "pubmed",
+    "title": "Gender and region disparities in plasma PCSK9 levels: a systematic review and meta-analysis.",
+    "abstract": "Circulating proprotein convertase subtilisin/kexin 9 (PCSK9) levels may differ by sex and geographic region, but evidence remains inconsistent. This systematic review and meta-analysis quantifies these differences in adults with hyperlipidaemia, atherosclerotic cardiovascular disease (ASCVD) or elevated ASCVD risk. We searched MEDLINE, Web of Science, Cochrane Central and EMBASE through August 2024 for studies reporting plasma PCSK9 in ≥10 adults. Two reviewers extracted data and assessed bias. Random-effects models pooled standardised mean differences (SMDs) or means; heterogeneity was evaluated by I2, with subgroup and sensitivity analyses exploring its sources. For gender, 13 studies (5 706 participants) showed significantly higher PCSK9 in females than males (SMD -0.35, 95% CI -0.49 to -0.20; p=0.033; I2=54%). Single-sex studies corroborated this: female-only mean 350.66 ng/mL (95% CI 301.86 to 399.46) versus male-only 228.36 ng/mL (95% CI 176.33 to 280.39). For region, 63 studies (34 802 participants) from Asia, Europe and North America yielded no significant overall difference (p=0.569); after outlier exclusion, pooled means were 250.39 (95% CI 217.70 to 283.08), 269.27 (95% CI 230.24 to 308.31) and 301.76 (95% CI 194.28 to 409.23) ng/mL, with I2=0% within subgroups. Sensitivity analyses confirmed robustness; most studies were high quality. GRADE (Grading of Recommendations, Assessment, Development and Evaluation) certainty was moderate for sex and low for region. In these clinical populations, women have higher circulating PCSK9 levels than men, while regional differences were not statistically significant. These findings support gender-conscious interpretation of baseline PCSK9 values but do not establish PCSK9 inhibitor dosing or treatment strategies.",
+    "authors": [
+      "Tongyue Li",
+      "Zhengyu Wang",
+      "Haozhi Gong",
+      "Tao Wang",
+      "Xue Wang",
+      "Yifan Yang",
+      "Renjie Yang",
+      "Ran Xu",
+      "Bin Yang",
+      "Yan Ma",
+      "Jichang Luo",
+      "Liqun Jiao"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602526/",
+    "doi": "10.1136/bmjph-2024-002372",
+    "score": 0.1439,
+    "fetched_at": "2026-08-15"
   },
   {
     "id": "pubmed:42565642",
