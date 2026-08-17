@@ -12,6 +12,7 @@ Daily entry point, run by .github/workflows/daily.yml
 8. Update data/seen_ids.json
 """
 import json
+import os
 import datetime as dt
 from pathlib import Path
 
@@ -84,6 +85,11 @@ def main():
     new_papers = list(dedup.values())
 
     print(f"Fetched {len(fetched)} total, {len(new_papers)} new after dedup.")
+
+    gh_output = os.environ.get("GITHUB_OUTPUT")
+    if gh_output:
+        with open(gh_output, "a") as f:
+            f.write(f"new_paper_count={len(new_papers)}\n")
 
     if not new_papers:
         return

@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: paper-radar-data
@@ -35,6 +36,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Fetch and score new papers
+        id: fetch
         run: python scripts/fetch_and_score.py
 
       - name: Commit results
@@ -52,3 +54,26 @@ jobs:
               sleep $((RANDOM % 10 + 5))
             done
           fi
+
+      - name: Notify via GitHub issue (triggers email through GitHub notifications)
+        if: steps.fetch.outputs.new_paper_count > 0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COUNT: ${{ steps.fetch.outputs.new_paper_count }}
+        run: |
+          gh label create daily-digest --repo "$GITHUB_REPOSITORY" --color BFD4F2 \
+            --description "Automated daily new-papers notification" 2>/dev/null || true
+
+          # Close any still-open digest from a previous day so these don't pile up.
+          gh issue list --repo "$GITHUB_REPOSITORY" --label daily-digest --state open --json number -q '.[].number' \
+            | xargs -r -n1 -I{} gh issue close {} --repo "$GITHUB_REPOSITORY" --comment "Superseded by today's digest."
+
+          PAGES_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/"
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "🧪 $COUNT new paper(s) to rate — $(date -u +%Y-%m-%d)" \
+            --body "$COUNT new paper(s) landed in your feed today.
+
+          👉 Rate them: $PAGES_URL
+
+          (Close this issue once you're done — it'll be superseded automatically by tomorrow's digest either way.)" \
+            --label daily-digest
