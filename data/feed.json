@@ -1148,6 +1148,30 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42604733",
+    "source": "pubmed",
+    "title": "Using Ongoing Wildlife Surveillance Programs to Monitor Antibiotic Resistant Bacteria in the Environment.",
+    "abstract": "The need to include wildlife in surveillance programs for antibiotic resistance has been previously highlighted. In the present study, we explored the possibility of sampling Swedish wildlife in conjunction with ongoing monitoring programs for wildlife health and disease to evaluate the occurrence of antibiotic resistance. The animals included in the study represented different trophic levels and degrees of interaction with humans, namely bears, eagles, wolves, foxes, otters, and hares. Samples were screened for ESBL-, pAmpC-, and carbapenemase-producing Escherichia coli using selective media, and indicator E. coli was also isolated from each sample. All isolates were tested for antimicrobial susceptibility, and a subset of isolates was genome sequenced. Two samples from foxes were found to carry ESBL- or pAmpC-producing isolates, while no carbapenemase-producing E. coli could be detected. Geographical information on the samples and genetic characterization of the ESBL- and pAmpC-producing isolates suggest that proximity to anthropogenic settings could play a role in the occurrence of antibiotic resistance in wildlife. In addition, the study demonstrated that the use of ongoing wildlife surveillance programs presents a cost-efficient possibility to monitor antibiotic resistance in wild animals. However, future studies and monitoring programs should take careful consideration regarding selection of animal species and distribution.",
+    "authors": [
+      "María Rincón-Gracia",
+      "Stefan Börjesson",
+      "Robert Söderlund",
+      "Hanna Woksepp",
+      "Aleksija Neimanis",
+      "Henrik Uhlhorn",
+      "Thomas Rosendal",
+      "David Winlund",
+      "Hugo Uddströmer",
+      "Josef D Järhult",
+      "Jonas Bonnedahl"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604733/",
+    "doi": "10.1111/1758-2229.70404",
+    "score": 0.3616,
+    "fetched_at": "2026-08-17"
+  },
+  {
     "id": "pubmed:42564151",
     "source": "pubmed",
     "title": "Epidemiology of viral and atypical bacterial respiratory infections among children hospitalised at a Kenyan tertiary referral centre: a cross sectional multiplex PCR study.",
@@ -1876,6 +1900,38 @@
     "doi": "10.1016/j.vprsr.2026.101534",
     "score": 0.2803,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42607266",
+    "source": "pubmed",
+    "title": "High-Throughput On-Chip Screening Enables Rapid Adaptation of DNA Aptamers to SARS-CoV-2 Evolution.",
+    "abstract": "Rapid pathogen evolution threatens public health by eroding the effectiveness of vaccines, therapeutics, and diagnostic tools. Although spike-protein-targeting monoclonal antibodies (mAbs) were developed within 10-12 months of the initial outbreak to serve as key theranostic agents, their redesign has struggled to keep pace with viral evolution, rendering many neutralizing antibodies ineffective. Here, we demonstrate a high-throughput aptamer engineering platform that combines a random-rational hybrid library diversification with repurposed MiSeq screening to rapidly reprogram aptamers against emerging SARS-CoV-2 spike variants. Interactions between 3 different spike proteins and 11,792 unique aptamer variant designs were profiled within days (a single run from pool amplification to screen analysis). Starting from a 40-nt aptamer originally selected against wild-type (WT) spike protein, our screen identified a Delta-binding mutant with a 4-fold affinity improvement and an Omicron-binding mutant that converted undetectable binding into nanomolar affinity. We also identified a WT-selective mutant with substantially reduced affinity for Delta as well as bases that contribute to spike recognition. Integrating high-throughput binding data with molecular dynamics simulations further helped to rationalize the sequence-dependent structural features underlying variant-specific aptamer-spike interactions. Finally, we developed fluorescent strand-displacement sensors based on both WT- and Omicron-selective mutants, enabling highly specific detection of spike protein variants with robust performance. Together, these findings demonstrate a rapid and sequence-resolved aptamer engineering platform for adapting aptamers to evolving pathogens.",
+    "authors": [
+      "Yujie He",
+      "Zhenglin Yang",
+      "Yu-An Kuo",
+      "Yuting Wu",
+      "Diego Fonseca-Albert",
+      "Kyle K Le",
+      "Jeffrey Guo",
+      "Yanxing Wang",
+      "Anh-Thu Nguyen",
+      "Yuan-I Chen",
+      "Sohyun Kim",
+      "Wei-Ru Chen",
+      "Saeed Seifi",
+      "Soonwoo Hong",
+      "Trung Duc Nguyen",
+      "Yinong Chen",
+      "Pengyu Ren",
+      "Yi Lu",
+      "Hsin-Chih Yeh"
+    ],
+    "date": "2026-Aug-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42607266/",
+    "doi": "10.1021/acsnano.6c08330",
+    "score": 0.2798,
+    "fetched_at": "2026-08-17"
   },
   {
     "id": "pubmed:42589196",
