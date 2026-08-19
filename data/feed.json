@@ -211,6 +211,32 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42612749",
+    "source": "pubmed",
+    "title": "ORF5-Based Molecular Characterization of PRRSV Reveals Multiple Co-circulating Lineages in Vietnam, 2021-2026.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) continues to pose a major challenge to swine production in Vietnam because of its rapid evolution and genetic diversity. Here, we analyzed 69 PRRSV-positive samples collected from 20 provinces in Vietnam between 2021 and 2026 using ORF5 gene sequencing to characterize the genetic diversity of circulating strains. Phylogenetic analysis demonstrated the co-circulation of multiple PRRSV-2 lineages (L1, L3, L5, L8, and L10), together with a limited presence of PRRSV-1, indicating a genetically diverse PRRSV population within the analyzed diagnostic samples. Among the PRRSV-2 strains, lineage 8 (L8), particularly sub-lineage L8E, was the most frequently detected, whereas lineage 10 (L10) accounted for 24.6% of the sequenced isolates and was detected only in samples collected from 2023 onwards. Independent maximum-likelihood phylogenetic and pairwise ORF5 distance analyses showed that the Vietnamese L10 strains formed a distinct monophyletic cluster within lineage 10. Analysis of the GP5 protein identified amino acid variation in previously described antigenic regions, providing descriptive information on the genetic diversity of circulating Vietnamese PRRSV strains. Collectively, these findings provide updated insights into the molecular epidemiology of PRRSV in Vietnam and highlight the value of continuous molecular surveillance for monitoring the emergence and distribution of PRRSV lineages.",
+    "authors": [
+      "Nguyen Tuan Anh Mai",
+      "Thi Chau Giang Tran",
+      "Thi Thu Hang Vu",
+      "Thi Bich Ngoc Trinh",
+      "Van Tam Nguyen",
+      "Csaba Varga",
+      "Thanh H Nguyen",
+      "Guehwan Jang",
+      "Su-Hwa You",
+      "Yeon-Kyung Shin",
+      "Jae-Myung Kim",
+      "Seok-Jin Kang",
+      "Van Phan Le"
+    ],
+    "date": "2026-Aug-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612749/",
+    "doi": "10.1016/j.tvjl.2026.106830",
+    "score": 0.553,
+    "fetched_at": "2026-08-19"
+  },
+  {
     "id": "pubmed:42562267",
     "source": "pubmed",
     "title": "Integrated molecular, epidemiological, and bioinformatics perspectives on the Mpox virus: Implications for surveillance and Global Health preparedness.",
@@ -849,6 +875,32 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42616572",
+    "source": "pubmed",
+    "title": "Dose-dependent effects of recombinant spike protein-based vaccination on SARS-CoV-2 evolutionary dynamics and the emergence of variants in hamster models.",
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has continued to circulate globally through the persistent emergence of novel variants. Vaccination has been regarded as one of the selective environments that can influence SARS-CoV-2 evolution by exerting immune pressure. This study investigated the evolutionary dynamics of the SARS-CoV-2 Delta variant in hamsters immunized with varying doses of a full-length spike protein vaccine, potentially reflecting the heterogeneous levels of immunity. In hamster models, higher vaccine doses prevented viral replication in the lungs but only partially suppressed replication in the nasal passages. After excluding intra-host single-nucleotide variants (iSNVs) detected in non-vaccinated controls, a negative binomial model adjusting for read depth revealed a significant vaccine dose-dependent increase in iSNV occurrence in the Spike, ORF1a, ORF1b and ORF3a genes in nasal samples and positive selection signals were predominantly observed in the highest vaccine dose group. The iSNVs were observed in diverse and distinct combinations that were unique to each individual, reflecting host-specific intra-host mutation patterns. Some aa substitutions detected in at least two individuals in the vaccinated group were more frequently observed in the Omicron variant. In silico analyses incorporating individual-specific iSNVs demonstrated that reduced binding affinity to class 1 and 3 neutralizing antibodies was observed exclusively in variants identified from certain vaccinated individuals. In conclusion, these findings indicate that heterogeneous vaccine-induced immune pressure can shape intra-host SARS-CoV-2 evolution in a dose-dependent and host-specific manner and highlight the potential role of partial immunity and increased iSNVs in the upper respiratory tract in driving the emergence of putative immune-evasive viral variants.",
+    "authors": [
+      "Kyuyoung Shim",
+      "Jeong Hwa Choi",
+      "Eun-Ha Hwang",
+      "Green Kim",
+      "Gyu-Seo Bae",
+      "Eunsu Jeon",
+      "Seung Ho Baek",
+      "Hee-Sung Kim",
+      "Seok Hwan Kim",
+      "Dae-Soo Kim",
+      "Kiwon Jang",
+      "Jung Joo Hong",
+      "Bon-Sang Koo"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616572/",
+    "doi": "10.1099/jgv.0.002314",
+    "score": 0.4049,
+    "fetched_at": "2026-08-19"
+  },
+  {
     "id": "pubmed:42566283",
     "source": "pubmed",
     "title": "Changing molecular epidemiology and resistance patterns of carbapenem-resistant Klebsiella pneumoniae in California long-term acute care hospitals.",
@@ -889,6 +941,27 @@
     "doi": "10.2478/jvetres-2021-0069",
     "score": 0.4039,
     "fetched_at": "2026-08-14"
+  },
+  {
+    "id": "pubmed:42614286",
+    "source": "pubmed",
+    "title": "Clinical and molecular epidemiology of",
+    "abstract": "Clostridioides difficile infection (CDI) remains an important healthcare-associated infection worldwide. However, the molecular epidemiology of CDI in county-level hospitals across China remains poorly understood. Therefore, this study aimed to investigate the clinical and molecular epidemiology of CDI in a county-level hospital in Zhejiang Province, China. Between January and December 2025, we conducted a genomic epidemiology study of C. difficile isolates recovered from patients with clinically suspected CDI at a county-level hospital in Zhejiang Province, China. C. difficile strains were isolated and identified, typed by multi-locus sequence typing (MLST), and phylogenetic analysis, core-genome single-nucleotide polymorphism (cgSNP) analysis, and antimicrobial resistance (AMR) genes identification were extracted from whole genome sequencing. Antimicrobial susceptibility testing was performed using the agar dilution method according to CLSI guidelines. Statistical analysis was performed using R/Python. In total, 50 (3.8%) toxigenic C. difficile isolates were identified from a total 1,315 stool samples. Among them, 40 (80.0%) exhibited the tcdA+/tcdB+/CDT- profile, 8 (16.0%) exhibited the tcdA-/tcdB+/CDT- profile, and 2 (4.0%) exhibited the tcdA+/tcdB+/CDT+ profile. And 16 (32.0%) strains were isolated from the Digestive department, followed by 8 (16.0%) strains from the Rehabilitation department. The most sequence type of the toxigenic C. difficile was ST2 (14.0%) and ST3 (14.0%), followed by ST81 (12.0%), ST35 (10.0%) and ST129 (8.0%). cgSNP-based minimum spanning tree analysis provided genomic evidence compatible with potential nosocomial transmission, including ST3, ST35, ST81, and ST129, with closely related isolates identified both within and between departments. Furthermore, all toxigenic isolates were successfully analyzed for antimicrobial susceptibility phenotype and remained susceptible to vancomycin, metronidazole, tigecycline, daptomycin, and fidaxomicin. High resistance rates were observed for clindamycin and erythromycin, while moderate resistance to tetracycline and moxifloxacin was also detected. Resistance phenotypes generally correlated with the presence of corresponding resistance determinants, including ermB, tetM, and the gyrA (Thr82Ile) mutation. This study provides insight into the molecular epidemiology and antimicrobial resistance characteristics of toxigenic C. difficile in a county-level hospital in China. Our findings show potential healthcare-associated transmission of several predominant lineages and highlight the importance of continuous genomic surveillance and strengthened infection prevention and control strategies to limit the dissemination of epidemic and multidrug-resistant C. difficile strains in healthcare settings.",
+    "authors": [
+      "Meihong Wang",
+      "Liping Yu",
+      "Lisi Zheng",
+      "Xiajing Bi",
+      "Xiaobei Xu",
+      "Haiying Fang",
+      "Tao Lv",
+      "Yunbo Chen"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42614286/",
+    "doi": "10.3389/fmicb.2026.1882254",
+    "score": 0.3996,
+    "fetched_at": "2026-08-19"
   },
   {
     "id": "pubmed:42592558",
@@ -1056,6 +1129,30 @@
     "doi": "10.1016/j.exppara.2026.109183",
     "score": 0.3873,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42612415",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and multilocus characterization of canine hemoplasmas in Thailand reveal the first 23S rRNA gene sequences of 'Candidatus Mycoplasma haematoparvum'.",
+    "abstract": "Hemotropic Mycoplasma spp., also known as hemoplasmas, are blood-borne pathogens that infect red blood cells and can cause hemolytic anemia in mammals, including dogs. Mycoplasma haemocanis (Mhc) and 'Candidatus Mycoplasma haematoparvum' (CMhp) are the two most common canine hemoplasma species. However, molecular epidemiological data and information on their genetic diversity remain scarce in Thailand. This study investigated hemoplasma PCR positivity in 472 client-owned dogs from Bangkok and Nakhon Pathom and 199 community dogs from Chiang Mai using a polymerase chain reaction (PCR) assay targeting the 16S rRNA gene. The 23S rRNA and RNase P RNA (rnpB) genes were additionally amplified from positive samples for multilocus characterization. Overall, 48 of 671 dogs were PCR-positive (7.2%; 95% confidence interval: 5.4%-9.3%). PCR positivity was higher in the community-dog/Chiang Mai cohort than in the client-owned cohorts; however, dog type and sampling location were fully confounded, and these comparisons should therefore be interpreted descriptively. Sequence analyses identified Mhc and CMhp. Sequence data suitable for analysis at both the 16S and 23S rRNA genes were obtained from 29 positive samples, and rnpB sequences were obtained from nine of these samples. To the best of our knowledge, this study provides the first 23S rRNA gene sequences of CMhp; no homologous CMhp 23S rRNA gene sequence was available in GenBank for direct comparison.",
+    "authors": [
+      "Kritsada Thongmeesee",
+      "Aung Aung",
+      "Thuong Thi Huyen Bui",
+      "Wittawat Wechtaisong",
+      "Duriyang Narapakdeesakul",
+      "Patchana Kamkong",
+      "Cherdpong Phupolphan",
+      "Vito Colella",
+      "Manusvee Kaikuntod",
+      "Saruda Tiwananthagorn",
+      "Sonthaya Tiawsirisup"
+    ],
+    "date": "2026-Aug-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612415/",
+    "doi": "10.1016/j.cimid.2026.102514",
+    "score": 0.3852,
+    "fetched_at": "2026-08-19"
   },
   {
     "id": "pubmed:42609616",
@@ -1545,6 +1642,23 @@
     "doi": "10.1002/ajb2.70232",
     "score": 0.3346,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42612222",
+    "source": "pubmed",
+    "title": "Morphology and molecular taxonomy of endoparasitic nematodes associated with",
+    "abstract": "Yam (Dioscorea spp.) is an economically important tuber crop in China, yet the identity, relative abundance, and molecular characterization of the dominant endoparasitic nematode taxa constraining its production remain insufficiently documented. Rhizosphere soil (n = 110) and yam tubers (n = 48) were sampled from nine localities across Jiangxi and Shandong provinces between April 2020 and January 2021. Community structure was quantified using prominence value (PV), mean population density (MPD), and frequency of occurrence (FO). Morphological identification used standard taxonomic keys and light microscopy for the primary focal taxon, Pratylenchus coffeae. Species-level confirmation employed PCR amplification of the internal transcribed spacer (ITS) and D2-D3 expansion segment of 28S ribosomal DNA (rDNA), followed by Bayesian phylogenetic inference, with full morpho-molecular characterization applied to P. coffeae as the principal endoparasitic taxon and supporting molecular confirmation provided for co-occurring taxa. Three primary endoparasitic taxa were recovered: Pratylenchus coffeae was the most abundant and prominent endoparasitic nematode recovered from yam tubers, followed by M. incognita, with R. reniformis recovered at comparatively low abundance; P. coffeae likewise dominated the rhizosphere soil community. At the aggregate level, Pratylenchus coffeae was the most prominent endoparasitic nematode across surveyed Chinese yam systems, surpassing M. incognita in both prominence value and frequency of occurrence. However, dominance patterns varied between provinces: P. coffeae was overwhelmingly prevalent in Jiangxi, while M. incognita dominated in Shandong. Thus, no single species is the principal endoparasite across both provinces. This study delivers the first molecularly verified baseline for the prominent endoparasitic nematode complex of Chinese yams, providing a replicable diagnostic framework for surveillance, phytosanitary monitoring, and integrated pest management.",
+    "authors": [
+      "Sulaiman Abdulsalam",
+      "Ru Jiang",
+      "Huan Peng",
+      "Deliang Peng"
+    ],
+    "date": "2026-Aug-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612222/",
+    "doi": "10.1094/PDIS-04-26-0782-RE",
+    "score": 0.3317,
+    "fetched_at": "2026-08-19"
   },
   {
     "id": "pubmed:42575611",
@@ -2146,6 +2260,31 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42617055",
+    "source": "pubmed",
+    "title": "Characterization of Immune Responses to RBD-SD1 Nanoparticle Vaccines Derived From ACE2-Capable HKU5-CoV-2, NeoCoV, and HKU5 Merbecoviruses.",
+    "abstract": "Recent discoveries of merbecoviruses such as HKU5, NeoCoV, and HKU5-CoV-2 that use angiotensin-converting enzyme 2 (ACE2) as their entry receptor underscore the potential for future spillover to humans. To combat these ACE2-utilizing merbecoviruses, we developed virus-like particle (VLP) vaccines displaying their receptor-binding domain and subdomain 1 (RBD-SD1) antigens fused to SpyTags. These antigens were then conjugated to SpyCatcher-mi3 nanoparticles. Immunization of mice with each RBD-SD1-mi3 vaccine produced robust IgG responses against homologous antigens and measurable but reduced binding to heterologous RBD-SD1 proteins. Antigenic cartography showed that antigenic relationships broadly reflected sequence identity with HKU5 positioned between NeoCoV and HKU5-CoV-2. Despite HKU5 and HKU5-CoV-2 sharing the greatest genetic similarity, cross-reactive titers between these two groups were not substantially higher than those observed with NeoCoV. In a surrogate virus neutralization test (sVNT), sera from mice vaccinated with NeoCoV RBD-SD1-mi3 or HKU5-CoV-2 RBD-SD1-mi3 showed strong inhibition of receptor binding by their respective Fc-fused RBD-SD1 proteins. Sera from mice vaccinated with HKU5 RBD-SD1-mi3 exhibited some cross-inhibition activity against both NeoCoV and HKU5-CoV-2 Fc-fused RBD-SD1. Together, these findings show that the RBD-SD1-displaying nanoparticle vaccine can elicit cross-reactive antibodies against ACE2-binding merbecoviruses and that antigenic relationships are shaped by more than sequence similarity.",
+    "authors": [
+      "Peter J Halfmann",
+      "Jeong Soo Lee",
+      "Augustine Duffy",
+      "Tong Wang",
+      "Bingcheng Huang",
+      "James Z Kurdi",
+      "Ajay Inampudi",
+      "Natasha Chen",
+      "Elizabeth Frimpong",
+      "Carmen Rai",
+      "Yoshihiro Kawaoka",
+      "Ravi S Kane"
+    ],
+    "date": "2026-Aug-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617055/",
+    "doi": "10.1002/bit.70356",
+    "score": 0.2515,
+    "fetched_at": "2026-08-19"
+  },
+  {
     "id": "pubmed:42581833",
     "source": "pubmed",
     "title": "Carbapenem Resistance in India: A Systematic Review of Epidemiology, Diagnostic Strategies, and Therapeutic Approaches.",
@@ -2605,6 +2744,32 @@
     "doi": "10.1093/bioinformatics/btq249",
     "score": 0.1385,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42614319",
+    "source": "pubmed",
+    "title": "Longitudinal malacological monitoring, with a parasitological survey, reveals new schistosomiasis transmission foci in deforested sites in Western Uganda.",
+    "abstract": "In sub-Saharan Africa, the epidemiology of schistosomiasis, a waterborne parasitic disease, is often altered by environmental and land-use changes. In the upland area of Western Uganda, ongoing destruction of the Bugoma Forest is transforming many lotic freshwater habitats, potentially favouring intermediate hosts of schistosomes. We therefore undertook a longitudinal malacological monitoring study for Biomphalaria and Bulinus, keystone intermediate host snails, to describe actual or potential transmission of schistosomiasis. Starting in June 2023, snail sampling was conducted regularly, every other month, at nine sites for eighteen months, until October 2024. To bolster this, an analysis of satellite imagery of vegetation and land-use change over the previous 20 years was undertaken. At each inspection site water temperature, conductivity and pH were noted, alongside on-site observations of human and animal activities. Snails were identified by morphology, with inspection for shedding Schistosoma cercariae, which were later identified by molecular analysis. Mean water temperature, conductivity and pH were 23.5 °C (± 1.8), 235.0µS (± 81.7) and 6.9 (± 0.3), respectively. A total of 2524 Biomphalaria snails at seven sites and 422 Bulinus snails at one site were examined. Abundance of Biomphalaria snails was greater (p < 0.01) in sites where the forest had been cleared, with human encroachment evident. Schistosoma cercariae were shed from 0.4% of Biomphalaria and 1.9% of Bulinus with monthly maxima of 3.1% and 3.7%, in December 2023 respectively. In August 2024, among local school-aged children (n = 41), the prevalence of intestinal schistosomiasis was 56.1% whereas urogenital schistosomiasis was absent. Further to the presence of Schistosoma mansoni cercariae, molecular analyses also revealed Schistosoma bovis and Schistosoma rodhaini. Satellite imagery showed land-use change with the Bugoma central Forest reduced by 18.0% and shrub land by 57.0% due to human agricultural activities, revealing an expanding zone of putative schistosomiasis transmission in upland areas. This changing endemicity of human and animal schistosomiasis to new areas, some 15 Km away from Lake Albert, needs to be addressed by the Uganda Ministry of Health and National Forestry Authority. Further targeted malacological and schistosomiasis surveillance, at finer geographical resolutions, will pinpoint new foci and better guide local interventions. The online version contains supplementary material available at 10.1186/s44329-026-00061-x.",
+    "authors": [
+      "David W Oguttu",
+      "Clinton Nkolokosa",
+      "Davis Kiberu",
+      "Mathew Odongo",
+      "Fred Besigye",
+      "Alexandra Juhasz",
+      "Wilson Barungi",
+      "Tine Huyse",
+      "Narcis B Kabatereine",
+      "Casim Umba Tolo",
+      "Alison M Elliott",
+      "Bonnie L Webster",
+      "J Russell Stothard"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42614319/",
+    "doi": "10.1186/s44329-026-00061-x",
+    "score": 0.1373,
+    "fetched_at": "2026-08-19"
   },
   {
     "id": "pubmed:42563495",
