@@ -11,6 +11,7 @@ Each fetch_* function returns a list of dicts with a common schema:
         "date": str,          # ISO date
         "url": str,
         "doi": str | None,
+        "journal": str,        # journal name; only populated for pubmed, "" otherwise
     }
 """
 import time
@@ -117,6 +118,7 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
         month = art.findtext(".//PubDate/Month") or "01"
         day = art.findtext(".//PubDate/Day") or "01"
         date = f"{year}-{month}-{day}" if year else ""
+        journal = art.findtext(".//Journal/Title") or art.findtext(".//Journal/ISOAbbreviation") or ""
 
         if not title or not abstract:
             continue
@@ -129,6 +131,7 @@ def fetch_pubmed(keywords, max_results, email, api_key="", days_back=4):
             "date": date,
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "doi": doi,
+            "journal": journal,
         })
     return papers
 
