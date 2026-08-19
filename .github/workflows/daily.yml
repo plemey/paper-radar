@@ -76,4 +76,5 @@ jobs:
           👉 Rate them: $PAGES_URL
 
           (Close this issue once you're done — it'll be superseded automatically by tomorrow's digest either way.)" \
-            --label daily-digest
+            --label daily-digest \
+            --assignee "$GITHUB_REPOSITORY_OWNER"
