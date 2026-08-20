@@ -65,7 +65,23 @@ async function ghPutFile(path, contentStr, sha, message) {
   return res.json();
 }
 
-async function submitRating(id, rating, attempt = 1) {
+// Ratings submitted from this tab are queued and sent one at a time, in order. Without
+// this, rating two different papers in quick succession fires two concurrent GET+PUT
+// sequences that repeatedly collide on data/ratings.json's SHA — the 409 retry below
+// recovers from a single collision, but rapid rating can chain enough of them to exhaust
+// the retry budget. Serializing removes that race for same-tab use entirely; retries
+// remain as a backstop for genuinely concurrent edits (e.g. rating from another device).
+let ratingQueue = Promise.resolve();
+
+function submitRating(id, rating) {
+  const result = ratingQueue.then(() => submitRatingNow(id, rating));
+  // Swallow errors here so one failed rating doesn't jam the queue for the next one;
+  // the caller's own await/catch still sees the rejection via `result`.
+  ratingQueue = result.catch(() => {});
+  return result;
+}
+
+async function submitRatingNow(id, rating, attempt = 1) {
   // 1 = interesting, -1 = not interesting, 0 = dismissed/neutral
   const { sha, content } = await ghGetFile("data/ratings.json");
   const ratings = content ? JSON.parse(content) : [];
@@ -75,12 +91,11 @@ async function submitRating(id, rating, attempt = 1) {
       `Rate ${id}: ${rating > 0 ? "up" : rating < 0 ? "down" : "skip"}`);
     ratedIds.add(id);
   } catch (err) {
-    // 409 = ratings.json changed since our GET (e.g. another rating landed just before this
-    // one — quick double-taps, or another device). Re-fetch the latest file and retry with
-    // a fresh SHA rather than losing the rating.
+    // 409 = ratings.json changed since our GET (e.g. another device rated something
+    // just before this). Re-fetch the latest file and retry with a fresh SHA.
     if (err.status === 409 && attempt < 5) {
       await new Promise(r => setTimeout(r, 300 * attempt + Math.random() * 200));
-      return submitRating(id, rating, attempt + 1);
+      return submitRatingNow(id, rating, attempt + 1);
     }
     throw err;
   }
