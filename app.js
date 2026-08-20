@@ -35,6 +35,7 @@ let activeSource = "all";
 async function ghGetFile(path) {
   const res = await fetch(`${API_BASE()}/contents/${path}?ref=${cfg.branch}`, {
     headers: { Authorization: `Bearer ${cfg.token}`, Accept: "application/vnd.github+json" },
+    cache: "no-store",
   });
   if (res.status === 404) return { sha: null, content: null };
   if (!res.ok) throw new Error(`GitHub GET ${path} failed: ${res.status}`);
