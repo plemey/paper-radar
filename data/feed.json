@@ -666,6 +666,31 @@
     "fetched_at": "2026-08-14"
   },
   {
+    "id": "pubmed:42623297",
+    "source": "pubmed",
+    "title": "Monkeypox Virus Surveillance - United States, 2024-2025.",
+    "abstract": "Since the onset of a global outbreak of monkeypox virus (MPXV) infections in 2022, cases have declined substantially in the United States; however, ongoing low-level transmission has persisted. To assess trends in cases of MPXV infection in the United States during 2024-2025, investigators analyzed data from the One CDC Data Platform and the National Notifiable Diseases Surveillance System. In 2024, a total of 2,803 cases of MPXV infection were reported in the United States, including one travel-associated clade Ib case. In 2025, a total of 2,519 cases were reported, including 10 clade Ib cases. The number of reported cases of MPXV infection during September-October 2025 was double that during the same period in 2024, although cases returned to background levels by the end of December 2025. Demographic characteristics of patients with MPXV infections, including distributions by sex, race and ethnicity, sexual orientation, lesion location, and age, were similar to those reported in previous years. Among 860 patients with complete information, the odds of hospitalization among those who were unvaccinated were 9.73 times those who were fully vaccinated when controlling for age group and HIV status. Encouraging completion of the recommended 2-dose vaccination series for persons at risk for MPXV exposure, including travelers to specific countries with ongoing clade I or clade II transmission, could reduce the risk for severe illness and hospitalization. Continued routine surveillance remains important to limiting future spread, monitoring changes in viral evolution, and focusing vaccination efforts on affected areas.",
+    "authors": [
+      "Ryan Sandford",
+      "Alexandra Tuttle",
+      "Leah Aeschleman",
+      "Crystal M Gigante",
+      "Whitni Davidson",
+      "Kimberly Wilkins",
+      "Panayampalli S Satheshkumar",
+      "Agha Ajmal",
+      "Christina L Hutson",
+      "Faisal S Minhaj",
+      "Christine M Hughes"
+    ],
+    "date": "2026-Aug-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623297/",
+    "doi": "10.15585/mmwr.mm7532a1",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "score": 0.5005,
+    "fetched_at": "2026-08-20"
+  },
+  {
     "id": "pubmed:42551610",
     "source": "pubmed",
     "title": "A strain of high cell-adapted porcine deltacoronavirus: Isolation, genetic evolution, and pathogenicity analysis.",
@@ -1222,6 +1247,39 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42620149",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of HIV in an African Epidemic with Declining HIV incidence but High Prevalence: A Longitudinal, Population-based Study in Uganda.",
+    "abstract": "As HIV incidence declines in African settings with high treatment coverage, it remains unclear how transmission is structured within populations and whether new infections arise from external introductions or local transmission. We characterized the molecular epidemiology of ongoing transmission in a mature multi-subtype epidemic in Uganda. We analyzed HIV genome sequences and survey data from the Rakai Community Cohort Study collected between 1994 and 2019. We identified phylogenetic clusters at 5·3% and 2·5% genetic distance thresholds and inferred long-horizon transmission chains with phylogeographic models. Newly diagnosed infections identified between 2016 and 2019 were mapped onto subtype- specific phylogenies to assess their origins and transmission context. A Bayesian negative binomial branching process model estimated undersampled chain sizes and case reproduction numbers. Among 4215 participants living with HIV between December 2016 and May 2019, 474 were newly diagnosed, of whom 269 had at least one pure-subtype sequence available. We identified 649 phylogenetic clusters at 5·3% genetic distance and 673 phylogeographic chains including ≥2 individuals. Most clusters and chains were small (median sizes 2 [IQR 2-3] and 3 [2-4], respectively), with new diagnoses rarely clustered together. Only 46/269 (17·1%) new diagnoses had phylogeographic external origins, while the remaining 82·9% were partially or fully linked to local chains. Mixed-subtypes/recombinant chains were larger and had higher case reproduction numbers (A1/D: 0.84 [95% CrI: 0.79-0.93]; mixed: 0.84 [0.73-0.97]) than single- subtype chains (A1: 0.56 [0.51-0.60]; D: 0.63 [0.59-0.66]; C: 0.55 [0.41-0.71]), yet all estimates were less than one. HIV transmission was fragmented across numerous, slowly propagating lineages, maintained by local clusters with occasional introduction. Continued transmission across many chains suggests that further reductions in HIV incidence will require maintaining high levels of population-wide treatment and prevention coverage. The National Institute of Allergy and Infectious Diseases, the Gates Foundation, and the HIV Prevention Trials Network Laboratory Center.",
+    "authors": [
+      "Seungwon Kim",
+      "Alexandra Blenkinsop",
+      "Michael A Martin",
+      "Batsirai M Mabvakure",
+      "Robert Ssekubugu",
+      "Oliver Laeyendecker",
+      "Thomas C Quinn",
+      "Edward N Kankaka",
+      "Gertrude Nakigozi",
+      "Godfrey Kigozi",
+      "Andrew Rambaut",
+      "Lucie Abeler-Dörner",
+      "Christophe Fraser",
+      "David Bonsall",
+      "Steven J Reynolds",
+      "Larry W Chang",
+      "Oliver Ratmann",
+      "Ronald M Galiwango",
+      "M Kate Grabowski"
+    ],
+    "date": "2026-Aug-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620149/",
+    "doi": "10.64898/2026.08.04.26359711",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "score": 0.397,
+    "fetched_at": "2026-08-20"
+  },
+  {
     "id": "pubmed:42560576",
     "source": "pubmed",
     "title": "Hepatitis E virus surveillance in wild ruminants from northwestern Italy: results of a three-year molecular survey.",
@@ -1695,6 +1753,41 @@
     "fetched_at": "2026-08-10"
   },
   {
+    "id": "pubmed:42620237",
+    "source": "pubmed",
+    "title": "Prolonged SARS-CoV-2 infection in hematologic malignancies: clinical impact, risk factors and intra-host viral evolution.",
+    "abstract": "Prolonged SARS-CoV-2 infection in hematologic patients may go unrecognized. The aim of the study is to describe the incidence, risk factors, viral evolution and clinical outcomes of prolonged SARS-CoV-2 infection in patients with hematologic malignancies. This is a prospective, observational study. We performed a longitudinal follow-up rRT-PCR with cycle threshold (Ct) assessment until negativization to 500 patients diagnosed with hematologic malignancies who suffered SARS-CoV-2 infection between March 2020 and August 2023. We considered prolonged COVID-19 to a positive rRT-PCR with a Ct <35 beyond 30 days after microbiological diagnosis with the same viral variant. Prolonged SARS-CoV-2 infection is a complication in 44.8% (156/348) of patients diagnosed with hematologic malignancies with a median time of rRT-PCR positivity of 58 days (IQR 43-88). Active treatment with bispecific antibodies, anti-CD20 antibodies, BTK inhibitors and immunosuppressive drugs for GvHD are significantly associated with prolonged viral shedding; as well as lack of vaccination, lesser booster vaccine doses, absence of anti-S seroconversion after immunization, severe acute infection and delayed antiviral treatment. A 56.4% (88/156) of patients exhibit a pattern of remitting and relapsing symptoms and fluctuant viral load. During those exacerbations, 70.5% of patients experienced an increase in the severity of the acute infection and 34% developed pneumopathy, particularly organizing pneumonia. Persistent COVID-19 caused 54.5% (85/156) of patients to interrupt and 19.9% (31/156) to suspend indefinitely their hematologic treatments. Viral intra-host mutations across the entire viral genome, predominantly within the spike were detected in most patients with prolonged COVID-19, especially in those who received anti-SARS-CoV-2 mAb as sotrovimab (E340, R346, K356) and tixagevimab/cilgavimab (R346, K444 and G446). These substitutions are associated with reduced viral susceptibility. Prolonged SARS-CoV-2 infection in hematologic patients is frequent and leads to persistent viral replication, significant morbidity and the emergence of intra-host viral mutations. Optimizing treatments and monitoring viral clearance are medical needs for high-risk patients.",
+    "authors": [
+      "Moraima Jiménez",
+      "Cristina Andrés",
+      "Alejandra González-Sánchez",
+      "Víctor Navarro",
+      "Irene Medina",
+      "Ignasi Prats-Méndez",
+      "Andrés Antón",
+      "Mónica Martinez-Gallo",
+      "Adaia Albasanz",
+      "Pamela Arenas",
+      "Ana Pérez",
+      "Sandra Novoa",
+      "Ángel Serna",
+      "Tomás Pumarola",
+      "Manuel Hernández",
+      "Isabel Ruiz-Camps",
+      "David Valcárcel",
+      "Marta Crespo",
+      "Juliana Esperalba",
+      "Francesc Bosch",
+      "Pau Abrisqueta"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620237/",
+    "doi": "10.1128/spectrum.00066-25",
+    "journal": "Frontiers in immunology",
+    "score": 0.3152,
+    "fetched_at": "2026-08-20"
+  },
+  {
     "id": "pubmed:42575611",
     "source": "pubmed",
     "title": "Tick-borne pathogens infecting urban domestic dogs from a highland swamp area from Paraíba, northeastern Brazil.",
@@ -1965,6 +2058,39 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42606111",
+    "source": "pubmed",
+    "title": "Rainfall Shapes the Diversity of Soil Nitrogen-Fixing Microorganisms Worldwide.",
+    "abstract": "Soil nitrogen-fixing microorganisms naturally fertilize terrestrial ecosystems, but the primary driver of their diversity across the globe and the underlying mechanisms remain unclear. We analyzed the nifH gene in 1257 (1137 publicly available + 120 self-generated) soil metagenomes from 318 terrestrial ecosystems globally. Mean annual precipitation was identified as the key factor influencing the relative abundance, richness, and composition of the potential nitrogen-fixers. Precipitation was directly associated with nitrogen-fixers (e.g., water availability) rather than indirectly via other soil variables (e.g., pH). Lower precipitation increased the contribution of deterministic processes (e.g., interspecific competition) in driving their community assembly and selected species with larger genomes, while higher precipitation increased the contribution of stochastic processes (e.g., random birth/death) and favored smaller-genome species. A multifactorial experiment further demonstrated that precipitation increase had a larger regulatory effect on the stochastic processes than other factors (e.g., climate warming). eXtreme Gradient Boosting (XGBoost) projections under future global change scenarios indicate a general increase in their relative abundance across most regions worldwide, with declines only in specific areas. These findings reveal distinct patterns and mechanisms governing the global biodiversity and biogeography of soil nitrogen-fixers, providing valuable insights for developing region-specific management strategies aimed at maintaining ecosystem productivity.",
+    "authors": [
+      "Bin Hua",
+      "Shuang Pang",
+      "Ang Li",
+      "Zonghao Hu",
+      "Honghui Wu",
+      "Shuhan Zhang",
+      "Yi Fan",
+      "Yi Wu",
+      "Wei Yang",
+      "Yachao Zhao",
+      "Yupeng Guan",
+      "Baoming Ji",
+      "Deliang Kong",
+      "Yong Zhao",
+      "Anton A Goncharov",
+      "Anastasia Yu Korotkevich",
+      "Rong Mao",
+      "Yang Zhang",
+      "Ximei Zhang"
+    ],
+    "date": "2026-Aug-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606111/",
+    "doi": "10.1145/2939672.2939785",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "score": 0.2837,
+    "fetched_at": "2026-08-20"
+  },
+  {
     "id": "pubmed:42566283",
     "source": "pubmed",
     "title": "Changing molecular epidemiology and resistance patterns of carbapenem-resistant Klebsiella pneumoniae in California long-term acute care hospitals.",
@@ -2204,6 +2330,25 @@
     "doi": "10.1158/1055-9965.EPI-05-0456",
     "score": 0.2458,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42621391",
+    "source": "pubmed",
+    "title": "Genetic diversity and clinical spectrum of",
+    "abstract": "The Mycobacterium abscessus complex is a rapidly growing nontuberculous mycobacterium that causes chronic lung, skin, and soft-tissue infections. Disease management is challenging because of prolonged antibiotic therapy and resistance, making knowledge of local strain diversity and resistance patterns essential. However, the molecular epidemiology of M. abscessus in India remains largely unreported. Whole-genome sequencing and multilocus sequence typing (MLST) were performed on 50 clinical isolates collected from patients across 10 Indian states (2019-2024). Genomic DNA was extracted, and sequencing was performed using the Illumina platform. MLST was conducted according to the PubMLST scheme based on seven housekeeping genes. Analysis of the 50 isolates from 10 states across India showed a predominance of M. abscessus subsp. abscessus (76%), with extrapulmonary infections, particularly skin and soft-tissue infections. No isolates of subsp. bolletii were detected. MLST revealed genetic heterogeneity. M. abscessus subsp. abscessus isolates were distributed across 8 known and 18 novel sequence types (STs), with ST-5 being the most common, while M. abscessus subsp. massiliense isolates were predominantly assigned to ST-46, ST-33, and ST-37, along with two novel STs. Overall, 40% of the isolates represented novel STs. This study revealed extensive genomic diversity, with 40% of the isolates representing novel STs. The predominance of subsp. abscessus and the high frequency of extrapulmonary infections highlight region-specific trends and underscore the need for strengthened genomic surveillance.",
+    "authors": [
+      "Vignesh Balaji",
+      "Marilyn Mary Ninan",
+      "Suchitha Chase",
+      "Richa Gupta",
+      "Joy Sarojini Michael"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42621391/",
+    "doi": "10.1371/journal.pone.0179237",
+    "journal": "IJID regions",
+    "score": 0.2457,
+    "fetched_at": "2026-08-20"
   },
   {
     "id": "pubmed:42552743",
@@ -2585,6 +2730,25 @@
     "doi": "10.1093/trstmh/trag085",
     "score": 0.1995,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42617936",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Multidrug-Resistant, Biofilm-Producing Vibrio parahaemolyticus from a Brackish water Aquaculture-Estuarine Interface.",
+    "abstract": "Vibrio parahaemolyticus represents a contaminant of emerging concern in coastal aquaculture ecosystems, where antibiotic residues associated with intensive shrimp farming can drive the co-selection of antimicrobial resistance (AMR), virulence, and environmental persistence. The Vedaranyam Canal in Tamil Nadu, India, forms a critical interface linking estuarine ecology, brackishwater aquaculture, and seafood supply chains. In this study, 356 confirmed V. parahaemolyticus isolates recovered from canal water (n = 165), shrimp farm pond shrimp (n = 102), and retail seafood shrimp (n = 89) were subjected to comprehensive phenotypic and molecular characterization. Antimicrobial susceptibility testing revealed a high prevalence of multidrug resistance (80.6%), with multiple antibiotic resistance (MAR) indices ranging from 0.16 to 0.96; pond shrimp isolates exhibited the greatest resistance burden. Elevated resistance frequencies were observed against penicillin (97%), methicillin (91%), erythromycin (84%), and norfloxacin (82%). Virulence gene screening showed universal detection of toxR and tlh, whereas tdh and trh were detected in 15.2% and 7.3% of isolates, respectively. Among AMR determinants, tetA (41.6%), blaTEM (39.6%), and sul1 (34.3%) predominated. Biofilm formation was detected in 77.0% of isolates, including 12.6% strong biofilm producers, while efflux pump activity was observed in 41.0%. Significant associations were identified between strong biofilm formation and MDR phenotype (OR = 6.2, p < 0.001), and between efflux pump activity and MDR (OR = 4.8, p < 0.001). Seasonal prevalence increased during summer and monsoon periods and showed a positive correlation with temperature (r = 0.45, p < 0.05). These findings identify the Vedaranyam canal-aquaculture continuum as a hotspot for AMR dissemination and persistence, highlighting the need for integrated One Health surveillance.",
+    "authors": [
+      "Abisha Juliet Mary Sj",
+      "M Petchimuthu",
+      "S Deepika",
+      "G Ferolin Jessina",
+      "S Balasundari"
+    ],
+    "date": "2026-Aug-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617936/",
+    "doi": "10.1016/j.envpol.2026.128990",
+    "journal": "Environmental pollution (Barking, Essex : 1987)",
+    "score": 0.199,
+    "fetched_at": "2026-08-20"
   },
   {
     "id": "pubmed:42563495",
