@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pubmed:42627181",
+    "source": "pubmed",
+    "title": "Characterization of",
+    "abstract": "Tigecycline-non-susceptible Klebsiella pneumoniae (TNSKP) is a significant global public health threat. The molecular epidemiological characteristics of the novel resistance mechanisms mediated by the mobile resistance-nodulation-cell division-type efflux pump gene cluster tmexCD-toprJ remain incompletely understood. Our study aims to investigate the epidemiological characteristics and genetic traits of tmexCD-toprJ in TNSKP. We collected 980 KP isolates from a tertiary teaching hospital between 2020 and 2021, screening for TNSKP strains by microbroth dilution. Whole-genome sequencing was used to analyze the molecular epidemiological characteristics and resistance mechanisms of TNSKP and to resolve the genetic structure of the plasmid carrying tmexCD-toprJ. We identified 25 TNSKP strains, including 17 carbapenem-resistant Klebsiella pneumoniae (CRKP) and 8 non-CRKP strains. The tigecycline MIC values were 4 µg/mL (14 strains), 8 µg/mL (nine strains), and 16 µg/mL (two strains). Multiple resistance mechanisms were detected, including AcrR, RamR, tet(A) mutations, and tmexCD-toprJ. The tmexCD-toprJ gene cluster was found in three strains: ST334 CRKP and ST39 CRKP (both carrying tmexCD2-toprJ2) and ST656 CRKP (carrying tmexCD1-toprJ1). ST39 CRKP also harbored blaNDM-1, tmexCD2-toprJ2, and iuc3 on IncFIB(K), IncU, and IncFII(K) plasmids, with a complete conjugation element. Our research identified multiple complex tigecycline resistance mechanisms in K. pneumoniae, including new ST types carrying tmexCD2-toprJ2. A fusion plasmid harboring virulence genes, carbapenem resistance genes, and tigecycline resistance genes was discovered. Continuous molecular epidemiological monitoring plays a crucial role in elucidating the mechanisms of tigecycline resistance. Tigecycline-non-susceptible Klebsiella pneumoniae (TNSKP) poses a significant global public health threat. The molecular epidemiological characteristics of the novel resistance mechanisms mediated by the mobile resistance-nodulation-cell division-type efflux pump gene cluster tmexCD-toprJ remain incompletely understood. Our study aims to investigate the epidemiological characteristics and genetic traits of tmexCD-toprJ cluster in TNSKP. This study has revealed the coexistence of multiple mechanisms contributing to tigecycline resistance. In clinical settings, we have identified various types of the tmexCD-toprJ gene cluster, among which two ST types (ST334 and ST39) carrying the tmexCD2-toprJ2 gene cluster are reported for the first time. Additionally, a fusion plasmid containing both the tmexCD2-toprJ2 gene cluster and carbapenemase resistance gene blaNDM-1 as well as virulence gene iuc3 has been detected. These findings highlight that molecular epidemiological monitoring provides important evidence for bacterial resistance and evolution. Continuous monitoring and controlling the spread of resistance from a One Health perspective are meaningful.",
+    "authors": [
+      "Yanjun Liu",
+      "Zhiqian Wang",
+      "Zijuan Jian",
+      "Peilin Liu",
+      "Qun Yan",
+      "Wenen Liu"
+    ],
+    "date": "2026-Aug-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627181/",
+    "doi": "10.1128/spectrum.00689-26",
+    "journal": "Microbiology spectrum",
+    "score": 0.2376,
+    "fetched_at": "2026-08-21"
+  },
+  {
+    "id": "pubmed:42625105",
+    "source": "pubmed",
+    "title": "Molecular characterization of a rare norovirus GII.8[P8] strain detected during pediatric acute gastroenteritis surveillance in Harbin, China.",
+    "abstract": "Norovirus is a major causative agent of pediatric acute gastroenteritis, whereas GII.8[P8] represents a rare, non-dominant genotype with limited publicly available whole-genome data. We characterized a GII.8[P8] norovirus strain, Harbin-Nov-076-2022, detected through routine surveillance of pediatric acute gastroenteritis in Harbin, China. The strain was obtained from a stool sample of a 15-month-old female patient and subjected to whole-genome sequencing using the DNBSEQ-T7 platform. Integrated analyses included phylogenetic reconstruction, amino acid entropy profiling, selection pressure assessment, homology modeling of the capsid P protein, and B-cell epitope prediction. The near-complete genome of Harbin-Nov-076-2022 is 7486 nt in length, with a GC content of 53.81%, and displays the canonical three-open-reading-frame organization of human noroviruses. The sequence was deposited in GenBank under accession number PV416744. Phylogenetic analysis assigned the strain to the GII.8[P8] lineage, with the highest nucleotide identity of 97.52% to the Thai 2018 strain GII/Hu/TH/2018/GII.8[P8]/B6213 (ACCN: OR546393). Amino acid variability was highest in the VP2 region, with three variable sites (residues 15, 122, and 229) identified among the aligned GII.8[P8] VP2 sequences, whereas selection pressure analysis indicated that the genome was largely constrained by purifying selection. Same-template P-domain modeling predicted localized sequence-associated variations in the P2 subdomain and HBGA-binding-associated surface loops, with 59 predicted B-cell epitopes. These findings expand whole-genome evidence for rare GII.8[P8] norovirus in Northeast China and provide regional genomic data for molecular surveillance, evolutionary assessment, and antigenic characterization of non-dominant norovirus genotypes.",
+    "authors": [
+      "Yuan Tian",
+      "Xiqiao Du",
+      "Tuo Dong",
+      "Zhe Zhang"
+    ],
+    "date": "2026-Aug-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625105/",
+    "doi": "10.3389/fpubh.2024.1373322",
+    "journal": "Virus genes",
+    "score": 0.6113,
+    "fetched_at": "2026-08-21"
+  },
+  {
+    "id": "pubmed:42624328",
+    "source": "pubmed",
+    "title": "Genomic Characterisation of ST233 Pseudomonas aeruginosa Co-producing KPC-2 and VIM-2 in Northeastern Brazil During the COVID-19 Pandemic: Evidence of Independent Horizontal Acquisition Events.",
+    "abstract": "Dual-carbapenemase-producing Pseudomonas aeruginosa poses a major therapeutic and epidemiological challenge worldwide, yet systematic data on KPC and VIM co-production in Brazil remain limited. The COVID-19 pandemic intensified antimicrobial use, a period temporally associated with increased carbapenemase detection globally. To characterise the molecular epidemiology and resistance profiles of KPC and VIM co-producing P. aeruginosa isolates from Brazil (2019-2023). Between 2019 and 2023, 1,489 multidrug-resistant P. aeruginosa isolates were screened by multiplex PCR for carbapenemase-encoding genes. Co-producing isolates underwent pulsed-field gel electrophoresis (PFGE) for clonal profiling, followed by whole-genome sequencing (WGS) for high-resolution phylogenomic analysis. Antimicrobial susceptibility testing and plasmid characterisation using next-generation sequencing platforms were also performed. Forty-two isolates (2.8%) harboured both blaKPC-2 and blaVIM-2, with detection occurring exclusively between 2020 and 2023, temporally coinciding with the COVID-19 pandemic. PFGE identified eight distinct clonal groups, providing evidence for independent horizontal gene transfer (HGT) events, whilst WGS confirmed all isolates as the high-risk ST233 lineage. Chromosomally integrated blaVIM-2 within class 1 integrons predominated; two isolates carried dual chromosomal copies. Plasmid-borne blaKPC-2 was identified across heterogeneous replicons (43.3-430.1 kb), suggesting multiple independent acquisition events. All co-producing isolates displayed extensive drug resistance, retaining in vitro susceptibility only to cefiderocol and colistin. ST233 co-producing KPC and VIM, represents a high-risk resistance phenotype of epidemiological significance. Divergent genomic architectures suggest active horizontal dissemination across diverse genetic backgrounds rather than clonal expansion, highlighting the need for enhanced surveillance and infection control strategies.",
+    "authors": [
+      "Joanderson Cadena da Silva",
+      "Ivson Cassiano de Oliveira Santos",
+      "Orlando Carlos da Conceição-Neto",
+      "Melise Chaves Silveira",
+      "Bruna Ribeiro Sued-Karam",
+      "Daiana Cristina Silva Rodrigues",
+      "Gabriela Alves da Silva",
+      "Stefany Mendes Dimas",
+      "Irys Hany Lima Gonzalez",
+      "Bruno Rocha Pribul",
+      "Ana Paula D'Alincourt Carvalho-Assef",
+      "Cláudio Marcos Rocha-de-Souza"
+    ],
+    "date": "2026-Aug-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624328/",
+    "doi": "10.1016/j.jgar.2026.08.014",
+    "journal": "Journal of global antimicrobial resistance",
+    "score": 0.3411,
+    "fetched_at": "2026-08-21"
+  }
+]
