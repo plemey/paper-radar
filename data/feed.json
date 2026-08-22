@@ -316,6 +316,50 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42628301",
+    "source": "pubmed",
+    "title": "Integrating genomic evolution and reported outbreak occurrence in foot-and-mouth disease in Asia: Cross-border lineage connectivity and exploratory prediction of reported outbreak occurrence.",
+    "abstract": "Foot-and-mouth disease (FMD) remains endemic across much of Asia and continues to threaten livestock production, trade, and transboundary disease control. To clarify how viral evolution, geographic connectivity, and reported outbreak occurrence can be interpreted at the regional scale, we analyzed 489 Asian foot-and-mouth disease virus (FMDV) complete genomes retrieved from GenBank using phylogenetic, molecular clock, recombination, and fixed-tree Bayesian stochastic search variable selection (BSSVS) approaches, and compared these results with exploratory presence-background modeling implemented with the MaxEnt algorithm using FAO EMPRES-i + outbreak records. Serotype O was the most frequently represented serotype, whereas covariation-aware time-scaled analyses produced the highest substitution rate point estimate for serotype A. Separate RDP5 recombination screening detected putative recombination signals most often among Indian isolates. Fixed-tree BSSVS identified associations among sampled countries supported by the model; these associations were not interpreted as direct transmission routes or movement direction. The selected occurrence model based on reported outbreak records included climatic and livestock density predictors, with annual mean temperature, cattle density, and minimum temperature of the coldest month contributing most strongly within the evaluated predictor set. Comparison of genomic and reported-occurrence results showed overlapping signals in some regions and contrasting patterns in others, indicating that sampled lineage associations and reported outbreak occurrence did not always coincide. Overall, this exploratory framework poses interesting questions about how FMDV evolutionary patterns in Asia can be interpreted alongside reported outbreak occurrence and provides a hypothesis-generating basis for future genomic sampling, outbreak-metadata improvement, and surveillance validation with denser serotype-specific and movement and control data.",
+    "authors": [
+      "Xiaoyu Ge",
+      "Yize Li",
+      "Jiaxuan Li",
+      "Yanping Jiang",
+      "Wen Cui",
+      "Xiaona Wang",
+      "Lijie Tang"
+    ],
+    "date": "2026-Aug-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628301/",
+    "doi": "10.1016/j.prevetmed.2026.106990",
+    "journal": "Preventive veterinary medicine",
+    "score": 0.5952,
+    "fetched_at": "2026-08-22"
+  },
+  {
+    "id": "pubmed:42628886",
+    "source": "pubmed",
+    "title": "Emergence and molecular characterization of bovine alphaherpesvirus 1 subtype 1.1 in China, with in vivo characterization in a rabbit model.",
+    "abstract": "Bovine alphaherpesvirus 1 (BoAHV-1; formerly bovine herpesvirus 1, BoHV-1) remains endemic in China, whereas available surveillance and genomic data have largely suggested predominance of genotype 1.2. In this study, molecular subtyping using a 451-nt fragment from the UL44 carboxyl terminal region identified 15 genotype 1.1 viruses among 60 recent BoAHV-1 positive clinical specimens. This proportion (25%) contrasts with previous Chinese surveillance studies that have predominantly reported genotype 1.2, particularly subtype 1.2b, suggesting that genotype 1.1 may have been underrecognized in earlier molecular epidemiological surveys. On this basis, a genotype 1.1 strain, designated China BoAHV BC01, was isolated from a respiratory disease outbreak in an unvaccinated dairy herd and subjected to complete genome sequencing and annotation. The BC01 genome is 132,061 bp in length and has been deposited in GenBank under accession number PV550781.1. Whole-genome and gene-based phylogenetic analyses of UL27, UL44, and US6 consistently classified BC01 as genotype 1.1. Comparative analysis showed high overall genomic similarity to published BoAHV-1 strains, with localized sequence variation in specific genomic regions. Structure and epitope analysis of US6, together with docking to bovine nectin 1 based on the published 6LSA structure, indicated broadly similar surface features and receptor interface geometry between BC01 and a genotype 1.2 reference strain. In female rabbits, intranasal challenge with BC01 was associated with fever, respiratory signs, detectable viral DNA in nasal swabs and tissues, and histopathological changes, especially in the lung. To our knowledge, BC01 represents the first completely sequenced and systematically annotated domestic BoAHV-1.1 clinical isolate from China. Together with the exploratory rabbit data, this study provides a genomic resource for future molecular surveillance and comparative studies of BoAHV-1 subtype diversity.",
+    "authors": [
+      "Hongzuo Duan",
+      "Yiping Gu",
+      "Hanyu Lin",
+      "Jianwei Zhang",
+      "Yuxin Lai",
+      "Yinchu Zhu",
+      "Chengyuan Ji",
+      "Huochun Yao",
+      "Zihao Pan"
+    ],
+    "date": "2026-Aug-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628886/",
+    "doi": "10.1016/j.micpath.2026.108787",
+    "journal": "Microbial pathogenesis",
+    "score": 0.5932,
+    "fetched_at": "2026-08-22"
+  },
+  {
     "id": "pubmed:42582832",
     "source": "pubmed",
     "title": "Heterogeneous viral-host response at single-cell resolution and viral adaptive mutational atlas in birds and mammals upon H5 influenza virus infection.",
@@ -2657,6 +2701,31 @@
     "doi": "10.1002/jcc.21759",
     "score": 0.2222,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42628130",
+    "source": "pubmed",
+    "title": "Breaking the Chain: HIV-1 Transmission Clusters among People who Inject Drugs in North Carolina, 2010 to 2023.",
+    "abstract": "Injection drug use (IDU) remains a major mode of HIV transmission in the United States, with rising use putting more people who inject drugs (PWID) at risk for HIV. Understanding HIV transmission clusters in this population can inform public health outreach strategies. We examined factors associated with linkage to HIV clusters among PWID in North Carolina (NC). NC maintains a statewide molecular HIV surveillance system, enabling identification of transmission clusters across diverse urban and rural communities. We analyzed data from people ≥13 years old, diagnosed with HIV, residing in NC, with ≥1 HIV sequence collected between April 2010 and March 2023. Genetic clusters were defined as ≥2 sequences with a pairwise genetic distance <1.5%. Poisson regression was used to estimate prevalence ratios for factors associated with cluster linkage. A logistic generalized additive model was then used to analyze the trend in cluster linkage among PWID over time. Among 21,245 people with a sequence, 1,526 clusters were identified; 284 (19%) included ≥1 PWID (size range 2-218). Cluster linkage was associated with non-Hispanic White race/ethnicity, recent sequence collection, and factors associated with early HIV infection (high CD4 T-cell count, high viral load, and acute infection). The proportion of PWID linked to a cluster increased by year of HIV sequence collection. Early HIV testing and care are important for reducing transmission among PWID. Increased linkage of PWID to clusters likely reflects expansion of sequencing, which supports use of molecular clustering to identify groups needing additional outreach.",
+    "authors": [
+      "Theppharit Panichsillapakit",
+      "Cara J Broshkevitch",
+      "Kimberly Enders",
+      "Annalea Greifinger",
+      "Shuntai Zhou",
+      "Simon D W Frost",
+      "Erik Volz",
+      "Joseph J Eron",
+      "Victoria Mobley",
+      "Erika Samoff",
+      "Ann M Dennis"
+    ],
+    "date": "2026-Aug-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628130/",
+    "doi": "10.1097/QAI.0000000000003955",
+    "journal": "Journal of acquired immune deficiency syndromes (1999)",
+    "score": 0.2208,
+    "fetched_at": "2026-08-22"
   },
   {
     "id": "pubmed:42560585",
