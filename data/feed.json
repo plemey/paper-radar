@@ -855,6 +855,34 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42632374",
+    "source": "pubmed",
+    "title": "Synergistic effect of AddaS03 and poly I:C adjuvants on antibody titers and Th1-biased T cell responses following RBD vaccination in BALB/c mice.",
+    "abstract": "The COVID-19 pandemic caused over seven million deaths, and disease control relied largely on mass immunization campaigns. Although diverse vaccine platforms were used, most formulations targeted the Spike protein because of its central role in virus entry. Persistent viral evolution and global vaccine inequity highlight the need for alternative strategies, particularly for low- and middle-income countries. In this scenario, recombinant protein-based vaccines are attractive due to low cost, established manufacturing pipelines and well-characterized safety profiles. The receptor binding domain (RBD) of Spike is an appealing antigen due to its relatively simple structure, proven immunogenicity - especially in multimerized formats - and because it harbors most neutralizing antibody epitopes. Protein-based vaccines, however, rely on the use of adjuvants to optimize antigen-specific immunity. We used an RBD dimer derived from the ancestral Wuhan strain as a well-characterized protein to evaluate the humoral and cellular immunogenicity of combined AddaS03 and Poly I:C adjuvants in BALB/c mice. The adjuvant combination preserved the strong humoral responses typically induced by AddaS03 while conferring the Th1-skewing properties of Poly I:C, producing a synergistic effect that exceed those of each adjuvant alone. Specifically, the combination improved antibody affinity, increased the generation of antibody- secreting cells in spleen and bone marrow, and enhanced the induction of polyfunctional, cytokine-producing CD4+ T cells. Additionally, we mapped and characterized three class II T cell epitopes within RBD: peptide 6 (351-YAWNRKRISNCVADYSV-367), peptide 19 (442-SKVGGNYNYLYRLFRK-458) and peptide 20 (449-YNYLYRLFRKSNLKPFE-465). Combining AddaS03 and Poly I:C adjuvants is a potent strategy to modulate and enhance immune responses elicited by an RBD-based vaccine.",
+    "authors": [
+      "João Pedro da Silva Nunes",
+      "Isabela Pazotti Daher",
+      "Armando da Silva Pires",
+      "Marcio Massao Yamamoto",
+      "Fernando Bandeira Sulczewski",
+      "Brenno Fernandes da Cunha Lima",
+      "Beatriz Moreira Rodrigues",
+      "Rodolfo Ferreira Marques",
+      "Luiz Mario Ramos Janini",
+      "Juliana Terzi Maricato",
+      "Edecio Cunha-Neto",
+      "Jorge Kalil",
+      "Silvia Beatriz Boscardin",
+      "Daniela Santoro Rosa"
+    ],
+    "date": "2026-Aug-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632374/",
+    "doi": "10.1016/j.vaccine.2026.129073",
+    "journal": "Vaccine",
+    "score": 0.4818,
+    "fetched_at": "2026-08-23"
+  },
+  {
     "id": "pubmed:42559139",
     "source": "pubmed",
     "title": "Case Report: Prolonged nOPV2 shedding in an immunocompetent child from Tunisia border with Algeria, North African region.",
@@ -966,6 +994,32 @@
     "doi": "10.1155/2016/1486824",
     "score": 0.4647,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42630966",
+    "source": "pubmed",
+    "title": "Enterovirus infections in children.",
+    "abstract": "Enteroviruses (EVs), which include numerous types, are among the most common pathogens causing infections in children. EVs can cause diverse diseases, including herpangina, hand-foot-and-mouth disease, myocarditis, pneumonia, meningitis, encephalitis, and acute flaccid paralysis. Severe cases may result in pediatric mortality, posing substantial threats to child health and public health. The diversity of EV types combined with rapid viral evolution and antigenic variation presents formidable challenges for EV prevention and control, with dominant genotypes being continuously replaced by emerging variants and novel subtypes. EV invades host cells through specific receptors and hijacks cellular machinery for self-replication, engaging in complex interactions with the host while evolving multiple mechanisms to evade host immune responses. Currently, no specific anti-EV agents are available, and treatment remains primarily supportive and symptomatic. Effective prevention and control strategies for EV are limited, and vaccines are currently available only against selected EV serotypes. This review systematically examines EV infections from multiple perspectives, including epidemiology, virology, viral entry mechanisms, virus-host interactions, clinical diagnosis and management, prevention and control measures, with the aim of providing insights and references for research on EV pathogenesis, precision clinical diagnosis and treatment, and the development of antiviral therapies and vaccines.",
+    "authors": [
+      "Xiangpeng Chen",
+      "Lingyun Guo",
+      "Xiaobo Lei",
+      "Linqing Zhao",
+      "Mingyan Hei",
+      "Jun Shen",
+      "Ju Yin",
+      "Fei Li",
+      "Jikui Deng",
+      "Gang Liu",
+      "Yong Zhang",
+      "Zhengde Xie"
+    ],
+    "date": "2026-Aug-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630966/",
+    "doi": "10.1016/S2352-4642(19)30185-3",
+    "journal": "Pediatric investigation",
+    "score": 0.4636,
+    "fetched_at": "2026-08-23"
   },
   {
     "id": "pubmed:42551727",
