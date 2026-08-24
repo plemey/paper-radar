@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pubmed:42634831",
+    "source": "pubmed",
+    "title": "Molecular detection, characterization, and cross-species circulation of feline and canine parvoviruses in Gujarat, India: Emergence of a novel canine parvovirus-2c variant and enhanced diagnostic sensitivity of quantitative polymerase chain reaction.",
+    "abstract": "Feline parvovirus (FPV) and canine parvovirus (CPV) are highly contagious pathogens that cause severe enteritis in companion animals, leading to considerable morbidity and mortality, particularly in young and unvaccinated animals. The continuous evolution of CPV variants and increasing evidence of cross-species transmission present major challenges for disease diagnosis, surveillance, and control. This study aimed to determine the prevalence of FPV and CPV infections among cats and dogs in Gujarat, India, compare the diagnostic performance of rapid antigen testing (RAT), conventional polymerase chain reaction (PCR), and quantitative PCR (qPCR), characterize circulating viral variants through VP2 gene sequencing and phylogenetic analysis, and investigate evidence of cross-species circulation. A cross-sectional study was conducted between September 2024 and September 2025 using 200 fecal samples collected from 100 cats and 100 dogs presented to veterinary clinics, shelters, and rescue organizations in Gujarat, India. Samples were examined using RAT, conventional PCR targeting the VP2 gene, and duplex probe-based qPCR to differentially detect FPV and CPV. Representative positive samples were subjected to VP2 gene sequencing, phylogenetic analysis, and virus isolation in Crandell-Rees feline kidney cell cultures to evaluate viral replication. Epidemiological characteristics, including species, age, breed, vaccination status, and clinical presentation, were also assessed. RAT detected FPV and CPV in 10 (5.0%) and 80 (40.0%) samples, respectively, whereas conventional PCR identified 39 (19.5%) parvovirus-positive samples. Duplex qPCR demonstrated markedly superior sensitivity, detecting 124 (62.0%) positive samples, comprising 27 FPV and 97 CPV infections. Cross-species circulation was demonstrated by detection of CPV in 12% of cats and FPV in 1% of dogs. Sequencing of the VP2 gene revealed genetically conserved FPV isolates and predominance of CPV-2c among canine isolates, including a novel CPV-2c variant carrying unique amino acid substitutions suggestive of ongoing viral evolution. Virus isolation successfully confirmed replication in four of nine inoculated samples, producing characteristic cytopathic effects in Crandell-Rees feline kidney cells. FPV and CPV co-circulate among companion animals in Gujarat, with molecular evidence of cross-species transmission and predominance of CPV-2c variants. Duplex qPCR substantially outperformed RAT and conventional PCR, supporting its routine application for accurate diagnosis, epidemiological surveillance, and early detection of emerging parvovirus variants. Continuous molecular surveillance combined with sustained vaccination programs is essential to limit viral dissemination and improve control of parvoviral infections.",
+    "authors": [
+      "Fatimazohra Abdulrashidkhan Pathan",
+      "Arunkumar C Patel",
+      "Niyati M Rana",
+      "Sejal P Antiya",
+      "Prakash G Koringa",
+      "Rafiyuddin A Mathakiya",
+      "Vipul R Nimavat",
+      "Ankit S Prajapati"
+    ],
+    "date": "2026-Jul-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634831/",
+    "doi": "10.14202/vetworld.2026.3138-3155",
+    "journal": "Veterinary world",
+    "score": 0.4797,
+    "fetched_at": "2026-08-24"
+  },
+  {
+    "id": "pubmed:42634768",
+    "source": "pubmed",
+    "title": "First report of molecular genotyping, pathotyping, and histopathological characterization of lentogenic genotype II Newcastle disease virus circulating in young ostrich flocks in Egypt.",
+    "abstract": "Newcastle disease virus (NDV) is one of the most economically important avian pathogens worldwide, yet information regarding its molecular epidemiology and pathological characteristics in ostriches remains limited. This study investigated the prevalence, molecular characteristics, pathotype, phylogenetic relationships, and histopathological changes associated with NDV circulating in young ostrich flocks in Egypt. A total of 60 tissue samples were collected from diseased, non-vaccinated ostriches aged 3 weeks to 2 months from eight farms across four Egyptian governorates during 2024. Virus isolation was performed using specific-pathogen-free embryonated chicken eggs, followed by hemagglutination and hemagglutination inhibition assays. Pathogenicity was determined using the mean death time (MDT) and intracerebral pathogenicity index (ICPI). Molecular detection was conducted by real-time reverse-transcription polymerase chain reaction targeting the matrix gene, followed by partial fusion gene amplification, sequencing, and phylogenetic analysis. Histopathological examination was performed on major organs, and positive samples were additionally screened for avian influenza virus, infectious bronchitis virus, and infectious bursal disease virus to exclude coinfections. Eight of 60 samples tested positive for NDV, with the highest prevalence detected in Ismailia governorate. All positive samples were negative for the tested coinfecting viruses. The isolates exhibited a hemagglutination titer of 9 log₂ hemagglutination units/mL and a hemagglutination inhibition titer of 6 log₂. Biological pathotyping confirmed a lentogenic pathotype with an MDT of 96 h and an ICPI of 0.4. Phylogenetic analysis classified the isolates within genotype II, class II, possessing the characteristic lentogenic fusion protein cleavage motif ¹¹²GRQGRL¹¹⁷. The isolates shared 97%-99% nucleotide identity with commonly used vaccine strains, including LaSota, Hitchner, and Clone 30. Histopathological examination revealed marked lesions in the respiratory and digestive systems, including epithelial degeneration, hemorrhage, inflammatory infiltrates, lymphoid depletion, hepatic necrosis, and intestinal villous damage, despite the lentogenic nature of the virus. This study provides the first comprehensive molecular, pathotyping, phylogenetic, and histopathological characterization of lentogenic genotype II NDV circulating in young ostriches in Egypt. The findings demonstrate that lentogenic vaccine-related genotype II strains can induce clinically relevant pathological alterations in ostriches, emphasizing the need for continuous molecular surveillance, host-specific vaccination strategies, enhanced biosecurity, and integrated monitoring of ostriches, poultry, and wild birds to reduce NDV transmission and evolution.",
+    "authors": [
+      "Eman Abd-El Monum Shosha",
+      "Ibrahim Eldaghayes",
+      "Ali Mahmoud Zanaty",
+      "Rania M Elbatawy",
+      "Sara Abdelnaser",
+      "Ahmed Fotouh"
+    ],
+    "date": "2026-Jul-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634768/",
+    "doi": "10.14202/vetworld.2026.2951-2970",
+    "journal": "Veterinary world",
+    "score": 0.534,
+    "fetched_at": "2026-08-24"
+  },
+  {
+    "id": "pubmed:42634754",
+    "source": "pubmed",
+    "title": "Molecular detection, genetic characterization, and phylogenetic relationships of <em>Theileria orientalis</em> in cattle and associated ticks from Wasit Province, Iraq.",
+    "abstract": "Theileria orientalis is an emerging tick-borne hemoprotozoan that has become a major cause of bovine theileriosis, leading to anemia, reduced productivity, and substantial economic losses in cattle. Despite increasing reports from neighboring countries, molecular epidemiological information and phylogenetic evidence for T. orientalis in Iraq remain scarce. This study aimed to determine the molecular prevalence of T. orientalis in cattle and their naturally infesting ticks in Wasit Province, Iraq; identify host-associated risk factors; and characterize the genetic diversity and phylogenetic relationships of local isolates relative to global reference strains. A cross-sectional study was conducted on 170 naturally tick-infested cattle from Wasit Province, Iraq, during July-August 2025. Whole blood and corresponding tick samples were collected from each animal. Genomic DNA was extracted and screened for T. orientalis using conventional polymerase chain reaction targeting the 18S rRNA gene. Positive amplicons were sequenced by Sanger sequencing, followed by sequence alignment, GenBank submission, and phylogenetic analysis using MEGA 11. Associations between infection and animal-related risk factors were evaluated using Chi-square analysis, odds ratio, relative risk, and 95% confidence intervals. Molecular analysis detected T. orientalis DNA in 21/170 (12.35%) cattle and 16/170 (9.41%) tick samples. Infection prevalence differed significantly according to age and sex. Cattle aged >3-6 years exhibited the highest infection risk, whereas male cattle showed significantly greater positivity and relative risk than females. Sequence analysis demonstrated high genetic conservation among Iraqi isolates. Phylogenetic reconstruction revealed that all cattle isolates clustered closely with a Turkish T. orientalis isolate (HQ197736.1), whereas tick isolates showed close genetic relationships with Turkish isolates (HQ197736.1 and OR211412.1) and a Chinese isolate (PQ207062.1), suggesting regional genetic connectivity and possible transboundary circulation of T. orientalis lineages. This study provides the first molecular detection and comprehensive phylogenetic characterization of T. orientalis simultaneously in cattle and associated tick vectors from Wasit Province, Iraq. The findings establish the first molecular evidence linking genetically related cattle and tick isolates in the country and provide an important baseline for understanding the epidemiology of oriental theileriosis. Expanded nationwide molecular surveillance, genotype-specific characterization using additional genetic markers, and integrated tick management programs are warranted to improve disease monitoring and reduce the impact of T. orientalis infection on the Iraqi cattle industry.",
+    "authors": [
+      "Abbas H K Sray",
+      "Ghassan J K Al-Abedi",
+      "Thuraya Khaled Abdulwahed",
+      "Israa M Essa",
+      "Zeid Alsadoon",
+      "Hasanain A J Gharban"
+    ],
+    "date": "2026-Jul-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634754/",
+    "doi": "10.14202/vetworld.2026.2850-2863",
+    "journal": "Veterinary world",
+    "score": 0.378,
+    "fetched_at": "2026-08-24"
+  },
+  {
+    "id": "pubmed:42633788",
+    "source": "pubmed",
+    "title": "ACE2 decoy Fc-fusions and bispecific killer engagers require Fc engagement for in vivo efficacy against SARS-CoV-2.",
+    "abstract": "SARS-CoV-2 has continued to evolve over time, necessitating the adaptation of vaccines to maintain efficacy. Monoclonal antibodies (mAbs) against SARS-CoV-2 were a key line of defense for unvaccinated or immunocompromised individuals. However, these mAbs are now ineffective against current SARS-CoV-2 variants. Here, we tested 3 aspects of αSARS-CoV-2 therapeutics. First, we tested whether Fc engagement is necessary for in vivo clearance of SARS-CoV-2. Second, we tested bispecific killer engagers (BiKEs) that simultaneously engage SARS-CoV-2 and a specific Fc receptor. Benefits of these engagers include the ease of manufacturing, stability, more cell-specific targeting, and high affinity binding to Fc receptors. Using both mAbs and BiKEs, we found that both neutralization and Fc receptor engagement were necessary for effective SARS-CoV-2 clearance. Third, due to ACE2 being necessary for viral entry, ACE2 will maintain binding to SARS-CoV-2 despite viral evolution. Therefore, we used an ACE2 decoy Fc-fusion or BiKE, instead of an αSARS-CoV-2 antibody sequence, as a potential therapeutic that would withstand viral evolution. We found that the ACE2 decoy approach also required Fc receptor engagement and, unlike traditional neutralizing antibodies against specific variants, enabled the clearance of two distinct SARS-CoV-2 variants. These data show the importance of Fc engagement for mAbs, the utility of BiKEs as therapies for infectious disease, and the in vivo effectiveness of the ACE2 decoy approach. With further studies, we predict that combining neutralization, the cellular response, and this ACE2 decoy approach will benefit individuals with ineffective antibody levels.",
+    "authors": [
+      "Jenna K Dick",
+      "Venkatramana D Krishna",
+      "Dustin Hicks",
+      "Jules A Sangala",
+      "Robert J Oldham",
+      "Benjamin T Zandstra",
+      "Carly Baehr",
+      "J Sjef Verbeek",
+      "Mark S Cragg",
+      "Marco Pravetoni",
+      "Maxim C-J Cheeran",
+      "Geoffrey T Hart"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633788/",
+    "doi": "10.1093/jimmun/vkag235",
+    "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+    "score": 0.3464,
+    "fetched_at": "2026-08-24"
+  }
+]
