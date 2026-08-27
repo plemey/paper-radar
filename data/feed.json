@@ -23,6 +23,40 @@
     "fetched_at": "2026-08-07"
   },
   {
+    "id": "pubmed:42642433",
+    "source": "pubmed",
+    "title": "Evolving dynamics of H5Nx avian influenza in China revealed by long-term wild bird surveillance.",
+    "abstract": "H5Nx highly pathogenic avian influenza viruses pose persistent threats to poultry, wildlife, and public health. Over the past two decades, their geographic and host ranges have expanded across migratory networks whose epidemiological connectivity has become increasingly apparent through recent surveillance and genomic analyses. To elucidate these dynamics, we conduct long-term nationwide wild-bird surveillance in China, integrating active and passive monitoring. Our analyses reveal the maintenance, reassortment, and transmission of H5Nx viruses in wild birds, highlighting the value of sustained surveillance in capturing viral evolution. We identify distinct ecological patterns among major clades, with 2.3.4.4b showing the widest distribution and acting as the main lineage mediating intercontinental spread. Since 2020, most 2.3.4.4b viruses detected in wild birds in China have clustered with lineages originating outside China, consistent with repeated reintroduction rather than sustained local circulation. This shift underscores the growing role of migratory connectivity in shaping global viral exchange and the need for coordinated international active surveillance.",
+    "authors": [
+      "Xiang Li",
+      "Xinru Lv",
+      "Yi Li",
+      "Mengdan Fei",
+      "Sipei Zhang",
+      "Qing An",
+      "Siyuan Qin",
+      "Peng Peng",
+      "Jinghao Li",
+      "Hongrui Liang",
+      "Yang Xiu",
+      "Zhuoyan Li",
+      "Yulong Wang",
+      "Yajun Wang",
+      "Xiangwei Zeng",
+      "Zhijun Hou",
+      "Heting Sun",
+      "Yu Xu",
+      "Yanbing Li",
+      "Hongliang Chai"
+    ],
+    "date": "2026-Jul-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642433/",
+    "doi": "10.1126/sciadv.aat5869",
+    "journal": "Nature communications",
+    "score": 0.8019,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42566313",
     "source": "pubmed",
     "title": "Genetic characterization and zoonotic potential of G1-Lineage H9N2 avian influenza viruses isolated from poultry in Pakistan, 2023.",
@@ -174,6 +208,32 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42644280",
+    "source": "pubmed",
+    "title": "Phylogenetic and phylogeographic analysis of equine influenza in Colombia.",
+    "abstract": "In 2022, Colombia experienced an outbreak of equine influenza (EI) that primarily affected competition horses. Despite the epidemiological relevance of equine influenza virus (EIV) in the country, no previous phylogenetic or phylogeographic analyses based on complete genomes have been reported. To perform phylogenetic and phylogeographic analyses of complete EIV genomes obtained from horses with clinical signs in two Colombian regions between 2020 and 2023. Molecular epidemiological study based on whole-genome sequencing and evolutionary analyses. Nasopharyngeal samples were collected from horses presenting clinical signs compatible with EI. Infection was confirmed by quantitative PCR (qPCR). Two complete EIV genomes were generated using Oxford Nanopore sequencing technology. Phylogenetic relationships were inferred using reference sequences from global databases. Time-scaled phylogenetic analyses were conducted to estimate the time to the most recent common ancestor (tMRCA). Amino acid substitutions were analysed across all gene segments. Two complete EIV genomes were obtained. Both sequences shared >90% nucleotide identity with contemporary strains circulating in the United States, including A/equine/Missouri/1/2022 (H3N8), A/equine/Florida/2/2022 (H3N8), and Ohio/OH21-6023/2021 (H3N8). A time-scaled analysis estimated a tMRCA in 2020 (95% highest posterior density interval: 2019-2021). A greater number of amino acid substitutions were identified in the HA and NA genes, followed by those in PB2, PA, and PB1, including novel substitutions in the Colombian sequences. The limited number of complete genomes restricts inference regarding nationwide viral diversity and transmission dynamics. Colombian EIV strains are closely related to recent North American lineages, supporting the role of international horse movement in viral introduction and dissemination. These findings underscore the importance of genomic surveillance for monitoring viral evolution and informing prevention strategies.",
+    "authors": [
+      "Juliana Gonzalez-Obando",
+      "Marlen Carrillo",
+      "Francisco J Diaz",
+      "Marie Garvey",
+      "Jaime Usuga",
+      "Isabel Moreno",
+      "Juan Pablo Hernandez-Ortiz",
+      "Jorge E Forero",
+      "Andrés Diaz",
+      "Carlos Rojas-Arbeláez",
+      "Ann Cullinane",
+      "Julian Ruiz-Saenz"
+    ],
+    "date": "2026-Aug-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42644280/",
+    "doi": "10.1002/evj.70314",
+    "journal": "Equine veterinary journal",
+    "score": 0.672,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42570535",
     "source": "pubmed",
     "title": "Functional divergence of feline calicivirus genotypes shapes virulence and antigenic diversity.",
@@ -277,6 +337,28 @@
     "doi": "10.1128/spectrum.01005-26",
     "score": 0.6289,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42643680",
+    "source": "pubmed",
+    "title": "Spatiotemporal dynamics and genotypic shift of Coxsackievirus A16 in Fujian, China, from 2010 to 2025.",
+    "abstract": "Despite the diverse etiology of hand, foot, and mouth disease (HFMD), Coxsackievirus A16 (CVA16) persists as a dominant pathogen in the Asia-Pacific region. This study characterizes the molecular epidemiological evolution of CVA16 in Fujian Province from 2010 to 2025 to understand its changing prevalence and genetic evolution. We analyzed the temporal, spatial, and demographic distributions of CVA16-HFMD in Fujian Province from 2010 to 2025, and further investigated the phylogenetic characteristics via MEGA and BEAST software. From 2010 to 2025, laboratory-confirmed CVA16 cases accounted for 25.96% of HFMD pathogen spectrum in Fujian, with periodic biennial fluctuations characterized by increases in even-numbered years and decreases in odd-numbered years and a post-2023 surged to >50%. CVA16 Cases peaked during spring-summer, with a male-to-female ratio of 1.69:1, predominantly in children aged 1-3 years. Genetically, B1 subgenotype (cluster B1a-c) co-circulated. B1b dominated before 2018, gradually shifting to B1a thereafter, and to B1c (emerging in late 2023) after mid-2023. These findings clarify the long-term distribution and genetic shifts of CVA16 in Fujian, identifying the emerging B1c as a major driver of recent outbreaks and providing a baseline for regional HFMD prevention and vaccine development.",
+    "authors": [
+      "Ying Zhu",
+      "Wenxiang He",
+      "Linfeng Li",
+      "Shaoyong Xu",
+      "Shujing Li",
+      "Mezige Qiesha",
+      "Jianfeng Xie",
+      "Wei Chen"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42643680/",
+    "doi": "10.1186/s12929-023-00908-4",
+    "journal": "Frontiers in microbiology",
+    "score": 0.6253,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42625105",
@@ -576,6 +658,25 @@
     "doi": "10.1099/0022-1317-81-8-2067",
     "score": 0.5536,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42646719",
+    "source": "pubmed",
+    "title": "The Vaccine-Field Strain Gap in Bovine Neonatal Diarrhea: Molecular Epidemiology of Rotavirus, Coronavirus, and Enterotoxigenic",
+    "abstract": "Bovine neonatal diarrhea (BND) is a leading cause of morbidity and mortality in pre-weaned calves. Commercial maternal vaccines targeting bovine rotavirus (BRV), bovine coronavirus (BCoV), and enterotoxigenic Escherichia coli (ETEC) have been available for decades, yet field outbreaks continue in vaccinated herds. This review examined peer-reviewed literature published between January 2019 and March 2026, identified through a structured PubMed search supplemented by reference-list screening. For BRV, a field strain sharing its VP7 genotype with a vaccine component was not neutralized by vaccine-induced antiserum, indicating that genotype concordance does not predict serologic coverage. For BCoV, hemagglutinin-esterase variation and regional lineage divergence indicate surface-protein evolution, although data linking these changes to reduced efficacy are not available. For ETEC, adhesin diversity and antimicrobial resistance affect both vaccination strategy and case management. Maternal vaccination retains biological value, but field performance is constrained by colostral variability, incomplete passive transfer, and product-to-product immunogenic differences. For all three pathogens, antigenic divergence from vaccine strains is located at individual epitopes, receptor-binding domains, or adhesins rather than at the level of whole-pathogen identity. Subunit and multi-epitope antigen designs, for which proof-of-concept constructs have been reported, operate at this level, and their selection requires characterization of candidate antigens for efficacy, diversity, polymorphism, and cross-protective breadth. Such antigen improvements address the pathogen-side gap but not the passive-transfer and mucosal constraints. Functional surveillance to guide antigen updating, field trials that measure passive-transfer efficiency, and adjunctive strategies are identified as priorities for BND control.",
+    "authors": [
+      "Gyeong-Seo Park",
+      "Minsung Park",
+      "Somin Lee",
+      "Chonghan Kim",
+      "Byoung Joo Seo"
+    ],
+    "date": "2026-Aug-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42646719/",
+    "doi": "10.3390/vaccines14080702",
+    "journal": "Vaccines",
+    "score": 0.5359,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42634768",
@@ -1018,6 +1119,22 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42643861",
+    "source": "pubmed",
+    "title": "Stochastic intracellular replication dynamics shape population-level evolution in Influenza A Virus.",
+    "abstract": "Understanding the sources of genetic diversity in Influenza A Virus (IAV) infections is crucial for understanding the mechanisms of viral evolution and immune escape. Whereas prior studies have characterized the effects of population bottlenecks during host-to-host transmission and intrahost tissue-to-tissue dissemination, the role of intracellular replication processes on IAV genetic diversity remains largely unexplored. In this study, we used stochastic mathematical modelling to simulate the replication of genetically distinct IAV strains within individual cells and tissues. Our results reveal significant bottleneck effects within a single infection cycle of individual cells. Intracellular bottleneck effects are driven by stochastic molecular processes and lead to the expansion or elimination of neutral variants creating large-scale differences between the initial and final frequencies of genetic variants in individual cells. By expanding our findings to a population-level model, we show that IAV intracellular replication reduces the effective population size, thereby diminishing the impact of selection and increasing the role of genetic drift. Our findings highlight the impact of intracellular replication processes on IAV genetic diversity.",
+    "authors": [
+      "Ernesto Alejandro Segredo-Otero",
+      "David Gresham"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42643861/",
+    "doi": "10.1146/annurev-virology-100114-055135",
+    "journal": "Virus evolution",
+    "score": 0.4677,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42617055",
     "source": "pubmed",
     "title": "Characterization of Immune Responses to RBD-SD1 Nanoparticle Vaccines Derived From ACE2-Capable HKU5-CoV-2, NeoCoV, and HKU5 Merbecoviruses.",
@@ -1243,6 +1360,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42646672",
+    "source": "pubmed",
+    "title": "Equity and Pandemic Influenza Vaccine Response: The PIP Framework as a Model for an Efficient Pandemic Influenza Response Through Equitable Vaccine Access.",
+    "abstract": "Equity is fundamental to an effective pandemic vaccination response, yet the COVID-19 pandemic demonstrated how inequitable access, driven by purchasing power and delayed supply for low- and middle-income countries (LMICs), prolonged transmission and enabled viral evolution. The Pandemic Influenza Preparedness (PIP) Framework offers a model for providing timely and equitable access to pandemic influenza vaccines. Through legally binding advance supply agreements, the PIP Framework secures real-time access by the WHO to a proportion of global vaccine production and mandates allocation based on public health risk and need. In doing so, it addresses the two axes of inequity observed in previous pandemics-distribution and timeliness-by ensuring that affected populations that do not have access, irrespective of income status, are not at the back of the queue.",
+    "authors": [
+      "Kate S Rawlings",
+      "Olga Kim",
+      "Anne Huvos"
+    ],
+    "date": "2026-Jul-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42646672/",
+    "doi": "10.3390/vaccines14080653",
+    "journal": "Vaccines",
+    "score": 0.4323,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42559980",
     "source": "pubmed",
     "title": "Molecular Detection and Phylogenetic Characterization of Bartonella bovis in Dairy Cattle From Central Thailand.",
@@ -1278,6 +1412,31 @@
     "doi": "10.1016/j.clinmicnews.2015.07.004",
     "score": 0.4262,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42643749",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of",
+    "abstract": "The emergence of mcr-1-harboring avian pathogenic Escherichia coli (APEC) poses a significant One Health challenge due to its zoonotic potential and adverse effects on poultry production. A total of 50 mcr-1-positive APEC isolates were recovered from diseased chickens in Shanxi Province, China, between 2021 and 2024. All isolates were subjected to serotyping, phylogenetic grouping, antimicrobial susceptibility testing, detection of resistance and virulence-associated genes, and biofilm formation assessment. Serotyping identified O18 (28%) and O78 (20%) as the predominant serotypes, with no O1 detected. Phylogenetic analysis showed that phylogroup A was most prevalent (32.0%), followed by B2 (12.0%), D (12.0%), and B1 (10.0%); the remaining isolates (34.0%) were untypeable. All isolates were multidrug-resistant (resistant to ≥3 drug classes), with universal resistance to tetracycline and trimethoprim-sulfamethoxazole, and over 85% resistance to kanamycin, amoxicillin, florfenicol, and chloramphenicol. The resistance genes tetA, blaTEM, aphA, and sul2, as well as the virulence genes ibeB and ompA, were detected in all isolates (100%). Biofilm formation was observed in 96% of the isolates, though its correlation with individual resistance or virulence genes was weak. The findings demonstrate that mcr-1-positive APEC isolates in Shanxi Province exhibit high-level multidrug resistance, widespread virulence gene carriage, and strong biofilm-forming capacity, underscoring their potential public health risk through animal-to-human transmission. These data provide a baseline for local surveillance and highlight the need for enhanced antimicrobial stewardship in poultry production.).",
+    "authors": [
+      "Li Fangfang",
+      "Wang Haiyang",
+      "Shan Pengju",
+      "Wang Jingying",
+      "Hu Jiangang",
+      "Lian Liyan",
+      "Wang Zhihao",
+      "Saqib Nawaz",
+      "Bao Yinli",
+      "Han Xiangan",
+      "Wang Haidong"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42643749/",
+    "doi": "10.1128/spectrum.01595-22",
+    "journal": "Frontiers in microbiology",
+    "score": 0.4234,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42575225",
@@ -1375,6 +1534,45 @@
     "fetched_at": "2026-08-17"
   },
   {
+    "id": "pubmed:42644605",
+    "source": "pubmed",
+    "title": "Immunological imprinting shapes the cross-reactive antibody responses to the KP.2 and LP.8.1 vaccine doses.",
+    "abstract": "The emergence of the SARS-CoV-2 Omicron BA.2.86 subvariant, a lineage derived from the BA.2 strain, led to the 2024-2025 COVID-19 vaccine update to include KP.2 or related JN.1-lineage spike antigens. We evaluated the magnitude, breadth, and durability of humoral immune responses following a single KP.2 vaccine dose in a longitudinal cohort of 21 individuals up to 6 months. KP.2 vaccination increased spike-specific binding and neutralizing antibodies against the ancestral WA.1 strain, as well as against the BA.5, XBB.1.5, and KP.2 variants. Power-law modeling estimated half-lives for WA.1- and KP.2-specific IgG responses at 770 and 248 days, respectively. Additionally, the KP.2 dose increased IgG1 and IgG4 subclasses more than IgG2 and IgG3 responses to both spike proteins. Serum-depletion experiments using WA.1 or KP.2 proteins demonstrated that most vaccine-elicited antibodies were cross-reactive. Consequently, KP.2 vaccine-induced antibodies retained broad neutralizing activity against recently circulating Omicron subvariants (BA.2.86, KP.3.1.1, XEC, LP.8.1, LF.7, XFG.3.12, PQ.1, BA.3.2.1, and RE.2). Using a live virus neutralization assay, XFG.3.12 showed the greatest reduction in neutralizing titers relative to KP.2 (4.2-fold). In a small subset, an LP.8.1 vaccine dose increased neutralizing activity against the matched variant while maintaining WA.1 and KP.2 cross-reactivity, but only modestly increased antibodies to divergent variants BA.3.2.1 and RE.2. Ultimately, these data indicate the KP.2 mRNA vaccine generates durable, cross-reactive responses against current Omicron subvariants. However, ongoing spike evolution impacts the neutralization of emerging lineages, highlighting the need for continued viral monitoring and timely vaccine updates. SARS-CoV-2 continues to evolve, raising ongoing concerns about how well updated vaccines protect against emerging variants. This study evaluates antibody responses after a KP.2 spike mRNA vaccine dose. It shows that a single dose induces durable and broadly cross-reactive immunity against both earlier strains and recently circulating Omicron subvariants. Despite this breadth, reduced neutralizing activity against certain emerging variants indicates that ongoing antigenic changes can impact vaccine-induced antibody effectiveness. These findings provide insight into how current vaccines perform over time and highlight the need to track viral evolution and update vaccine antigens to maintain broad protection against severe disease, hospitalization, and death.",
+    "authors": [
+      "Sanjeev Kumar",
+      "Lilin Lai",
+      "Madison L Ellis",
+      "Anamika Patel",
+      "Devyani Joshi",
+      "Jacob W Vander Velden",
+      "Jana Ziad Abu Faraj",
+      "Sonia T Wimalasena",
+      "Ramitha R Pallavi",
+      "Jad Iriss",
+      "Kareem Bechnak",
+      "Peter Cook",
+      "Meredith E Gardner",
+      "Heather N Hicks",
+      "Azaibi Tamin",
+      "Clint Paden",
+      "Jennifer L Harcourt",
+      "Sri Edupuganti",
+      "Nadine Rouphael",
+      "Eric A Ortlund",
+      "Alberto Moreno",
+      "Vineet D Menachery",
+      "Veronika I Zarnitsyna",
+      "Jens Wrammert",
+      "Mehul S Suthar"
+    ],
+    "date": "2026-Aug-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42644605/",
+    "doi": "10.1128/jvi.00749-26",
+    "journal": "Journal of virology",
+    "score": 0.4046,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42611043",
     "source": "pubmed",
     "title": "Phylogenetic inference with not-so-rare mutations and tiny organisms.",
@@ -1409,6 +1607,24 @@
     "doi": "10.1016/j.vprsr.2026.101515",
     "score": 0.4003,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42644715",
+    "source": "pubmed",
+    "title": "Pathogenicity and virulence of PRRSV: From regulated cell death reprogramming landscape and immune subversion to precision vaccinology.",
+    "abstract": "PRRSV remains a major challenge because pathogenicity arises from the convergence of rapid viral evolution, immune evasion, and maladaptive host responses rather than from isolated virulence determinants. This review synthesizes evidence from molecular and cellular studies, arguing that recurrent recombination, lineage turnover, and antigenic diversification continuously reshape viral fitness, tissue tropism, and vaccine efficacy. PRRSV suppresses interferon‑driven antiviral programs while rewiring inflammatory signaling and intertwined lytic and non-lytic regulated cell death cascades. The virus induces a phenotypic convergence akin to PANoptosis, notably marked by hyper-inflammatory pyroptotic responses in macrophages, which in turn facilitates immune dysfunction, delays the development of protective immunity, and contributes to persistent infection. We assess emerging intervention strategies, including consensus antigen design, rational attenuation, and nonreplicating platforms such as mRNA and protein nanoparticles. This framework explores regulated cell death pathways as a basis for identifying diagnostic biomarkers and developing precision vaccines for PRRSV.",
+    "authors": [
+      "Shinuo Cao",
+      "Mo Zhou",
+      "Zhi Wu",
+      "Shanyuan Zhu"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42644715/",
+    "doi": "10.1080/21505594.2026.2718552",
+    "journal": "Virulence",
+    "score": 0.3998,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42574991",
@@ -1532,6 +1748,24 @@
     "journal": "Veterinary world",
     "score": 0.378,
     "fetched_at": "2026-08-24"
+  },
+  {
+    "id": "pubmed:42642063",
+    "source": "pubmed",
+    "title": "Simulation-based inference of epidemiological and phylodynamic models via neural posterior estimation.",
+    "abstract": "Mathematical models play a central role in understanding and forecasting infectious disease dynamics, but parameter inference is often difficult when likelihoods are intractable. Simulation-based inference (SBI) circumvents this limitation by relying on model simulations. Traditional SBI methods, such as approximate Bayesian computation, typically depend on handcrafted summary statistics and scale poorly in high-dimensional settings. Recent advances address these challenges by using flexible statistical and machine-learning surrogates to approximate likelihoods or posterior distributions. Neural posterior estimation (NPE) directly learns the posterior from simulated data using neural density estimators, automatically extracting informative representations without ad hoc summaries. Despite its potential, NPE has been rarely applied in infectious disease epidemiology and phylodynamics. Here, we evaluate NPE for parameter inference in mechanistic models using data from the 2014 Ebola outbreak in Sierra Leone. We consider two case studies: a compartmental transmission model fitted to case and death time series and a birth-death phylodynamic model fitted to an early Ebola phylogeny. In both settings, NPE yields accurate and reliable posterior estimates. Its amortized nature further enables efficient model calibration and criticism. We conclude that NPE is a flexible and scalable tool for epidemiological and phylodynamic inference, and provide detailed online tutorials illustrating the workflow.",
+    "authors": [
+      "Francesco Pinotti",
+      "Julien Thézé",
+      "Xavier Bailly",
+      "Guillaume Fournié"
+    ],
+    "date": "2026-Aug-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642063/",
+    "doi": "10.1098/rspb.2026.1059",
+    "journal": "Proceedings. Biological sciences",
+    "score": 0.3647,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42554515",
@@ -2010,6 +2244,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42646692",
+    "source": "pubmed",
+    "title": "Respiratory Syncytial Virus Prophylaxis: Maternal Vaccination or Long-Acting Monoclonal Antibodies? A Brief Narrative Review of Current Status.",
+    "abstract": "Respiratory syncytial virus (RSV) remains a leading cause of severe lower respiratory tract infection in early infancy, with the highest burden concentrated in the first months of life. Two immunoprophylactic strategies-maternal RSVpreF vaccination and long-acting monoclonal antibodies-now offer effective early life protection, yet differ in biological mechanisms, operational requirements, and programmatic implications. Maternal vaccination induces high-quality neutralizing antibodies that are transferred transplacentally, providing immediate protection from birth and integrating efficiently into antenatal care platforms. However, its effectiveness is constrained by gestational timing, physiological antibody waning, and reduced protection when vaccination occurs shortly before delivery. Long-acting monoclonal antibodies, including nirsevimab and clesrovimab, bypass maternal immune variability and provide standardized, season-long protection across gestational ages, including preterm infants. Economic evaluations demonstrate that both strategies can be cost-effective, though their relative value depends on local epidemiology, pricing, and coverage patterns. Economic outcomes for monoclonal antibodies and maternal vaccination are highly context-dependent and influenced by regional RSV epidemiology, healthcare utilization, product pricing, and implementation capacity, rather than universally favoring one strategy over the other. Global equity considerations remain critical: disparities in antenatal care access, supply chain fragility, and pricing differentials may widen gaps between high- and low-income countries. Remaining evidence gaps-including long-term safety monitoring, durability of protection, viral evolution, and implementation challenges-underscore the need for continued research and careful integration of these tools into national immunization programs.",
+    "authors": [
+      "Fani Ladomenou",
+      "Ioanna-Andriana Psarra",
+      "Despoina Gkentzi"
+    ],
+    "date": "2026-Aug-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42646692/",
+    "doi": "10.3390/vaccines14080673",
+    "journal": "Vaccines",
+    "score": 0.3184,
+    "fetched_at": "2026-08-27"
+  },
+  {
     "id": "pubmed:42551586",
     "source": "pubmed",
     "title": "Molecular surveillance of chicken Eimeria species in commercial poultry farms in the Philippines.",
@@ -2110,6 +2361,23 @@
     "doi": "10.3389/fmicb.2026.1882254",
     "score": 0.3053,
     "fetched_at": "2026-08-19"
+  },
+  {
+    "id": "pubmed:42645644",
+    "source": "pubmed",
+    "title": "A genomic snapshot of hospital-adapted CC17 vancomycin-resistant Enterococcus faecium colonising high-risk patients in Serbia.",
+    "abstract": "Intestinal colonisation with vancomycin-resistant Enterococcus faecium (VREfm) represents an important reservoir for hospital transmission and subsequent infection. The aim of this study was to investigate the molecular epidemiology and population structure of VREfm colonising isolates among high-risk inpatients in three university hospitals in Serbia. To our knowledge, this study provides the first whole-genome sequencing (WGS)-based insight into the molecular epidemiology of intestinal VREfm colonisation in Serbia and one of the first such studies from Southeast Europe. A total of 29 VREfm isolates obtained through intestinal carriage screening in three university hospitals in Belgrade were analysed by WGS. Sequence types (STs) were assigned using the PubMLST database. Genetic relatedness was assessed using goeBURST analysis based on the global Enterococcus faecium MLST database. MLST identified 16 STs among 29 isolates, indicating considerable genetic diversity. The most frequent STs were ST203 (n = 7) and ST125 (n = 5), followed by ST18, ST80, and ST375 (n = 2 each), while the remaining STs were represented by singletons. goeBURST analysis demonstrated that 27/29 isolates belonged to the hospital-associated clonal complex CC17, with most STs showing close allelic relationships to internationally disseminated CC17-associated lineages, including ST117, ST18, ST80, ST17, and ST78. Four novel sequence types (ST2858, ST2978, ST3161, and ST3162) were identified, with ST3162 containing a novel atpA allele (atpA-234). Two isolates (ST545 and ST2858) belonged to distant non-CC17 lineages. Intestinal VREfm colonisation in Serbian university hospitals was characterised by a genetically diverse but predominantly CC17-associated population structure. These findings highlight intestinal colonisation as an important reservoir of hospital-adapted VREfm lineages and support the need for intensified surveillance and targeted monitoring of high-risk patients.",
+    "authors": [
+      "Ana Janjusevic",
+      "Rajna Minic",
+      "Ivana Cirkovic"
+    ],
+    "date": "2026-Aug-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42645644/",
+    "doi": "10.1016/S0140-6736(00)04205-7",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "score": 0.3013,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42567975",
@@ -2470,6 +2738,26 @@
     "doi": "10.1016/j.bmc.2007.07.039",
     "score": 0.2646,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42646804",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Genotyping of",
+    "abstract": "Blastocystis sp. is an anaerobic intestinal protozoan with extensive genetic diversity and controversial pathogenicity. The distribution and molecular subtypes of this entity in Guilan province, northern Iran, remain under-investigated. This study aimed to determine the prevalence and molecular subtypes of Blastocystis sp. in Rasht, Guilan Province, Iran. In this cross-sectional study (2023-2024), 300 stool samples were collected from patients referred to the medical laboratory at Razi Hospital. Microscopic examination and PCR amplification targeting the SSU rDNA gene were performed. Sequencing was performed on the positive isolates, and subtyping was achieved through BLAST alignment and subsequent phylogenetic analysis. The overall prevalence of Blastocystis sp. was 12.3% (n = 37). No significant associations were found between infection and age, sex, or place of residence (p > 0.05). Molecular characterisation (23.08%). No statistically significant correlation was observed between subtypes and clinical symptoms, although ST1 and ST7 were more frequently detected in symptomatic individuals. Blastocystis sp. showed notable subtype diversity in the studied population, including the potentially zoonotic ST7. However, no significant association was found between subtypes and clinical manifestations. These findings support sustained molecular epidemiological surveillance and larger-scale studies to clarify subtype-specific pathogenesis and transmission dynamics.",
+    "authors": [
+      "Mohammad Reza Mahmoudi",
+      "Zahra Naemi",
+      "Meysam Sharifdini",
+      "Nozhat Zebardast",
+      "Somayeh Abbaszadeh",
+      "Panagiotis Karanis"
+    ],
+    "date": "2026-Aug-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42646804/",
+    "doi": "10.3390/tropicalmed11080227",
+    "journal": "Tropical medicine and infectious disease",
+    "score": 0.2642,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42575612",
@@ -3503,6 +3791,22 @@
     "doi": "10.15585/mmwr.rr5417a1",
     "score": 0.0684,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42645086",
+    "source": "pubmed",
+    "title": "Association Between",
+    "abstract": "Melanoma is an aggressive skin malignancy characterized by significant molecular heterogeneity. Among the molecular alterations identified in melanoma, BRAF mutations represent one of the most common genetic abnormalities and play an important role in activating the MAPK signaling pathway. BRAF mutation status has become clinically important because of its prognostic significance and implications for targeted therapy. This study aimed to evaluate the frequency of BRAF mutations and their associations with demographic, histopathological, and clinicopathological characteristics in melanoma patients at the only referral center for BRAF testing in Kosova, the Institute of Pathology, University Clinical Center of Kosova (UCCK). This retrospective study included 127 melanoma patients. Descriptive statistics, frequency analysis, Spearman's correlation and multivariable binary logistic regression analyses were performed to evaluate associations between BRAF mutation status and clinicopathological variables, including age, gender, Breslow thickness, histological type, ulceration, and anatomical localization. BRAF mutation was identified in 76 of 127 melanoma patients (59.8%). The BRAF V600E/V600E2/V600D variants represented the predominant molecular subtype (75%). BRAF-positive melanoma was more frequently observed in younger patients and was significantly associated with increased Breslow thickness, nodular melanoma, ulceration, and trunk localization. BRAF mutations were highly prevalent in melanoma patients from Kosova and were associated with clinicopathological features of a more aggressive disease. The findings establish an important baseline for molecular epidemiology in the country and support the integration of routine BRAF testing into personalized melanoma management and future regional research.",
+    "authors": [
+      "Merita Hashani",
+      "Arjeta Podrimaj-Bytyqi"
+    ],
+    "date": "2026-Aug-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42645086/",
+    "doi": "10.3390/diseases14080278",
+    "journal": "Diseases (Basel, Switzerland)",
+    "score": 0.0662,
+    "fetched_at": "2026-08-27"
   },
   {
     "id": "pubmed:42584515",
