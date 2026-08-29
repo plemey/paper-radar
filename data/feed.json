@@ -3034,6 +3034,32 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42665982",
+    "source": "pubmed",
+    "title": "The digital map of homologous gene clusters across Poaceae species unveils the complex evolutionary trajectories of genes in Triticeae.",
+    "abstract": "Gene origin, duplication, and loss are key drivers that shape genome evolution, phenotypic diversification, and plant adaptation. Nevertheless, the fine-scale evolutionary trajectories of genes within their local genomic contexts across diverse genera remain poorly characterized. Here, we developed an approach, GoldMiner, that uses homologous gene clusters (HOCs) as evolutionary units for investigating gene evolution and enables hierarchical alignment of pan-genomic HOCs across species and genera. We constructed a genus-level pangenomic map of half a million indexed HOCs across 248 diploid genomes from 25 Poaceae species. We found that most newborn HOCs were derived from existing homologous HOCs. The newborn HOCs in Triticeae were strongly associated with stress response and defense pathways. Two-thirds of Triticeae HOCs, including those containing NLR genes, underwent substantial expansions during evolution, contributing to disease resistance in wheat and barley. Genomic redundancy between wheat subgenomes drives HOC loss associated with genetic variation of wheat populations. We dissected seed storage protein (SSP) gene evolution at two scales: inter-HOC turnover, which governs the origin and amplification of distinct loci across Triticeae, and intra-HOC divergence, which drives functional diversification among paralogous copies. Finally, an interactive web platform, waGOLD (https://wheat.cau.edu.cn/TGT/waGOLD), was developed for the community to explore evolutionary trajectories of HOCs. Overall, we presented a digital atlas of gene evolution for Poaceae species as a resource that opens new avenues for fine-scale gene family evolution and provides a practical framework for constructing genus-level gene-based pangenomes.",
+    "authors": [
+      "Xiaoming Xie",
+      "Yongming Chen",
+      "Yuqi Zhang",
+      "Zihao Wang",
+      "Yibo Wang",
+      "Peng Zhao",
+      "Huiru Peng",
+      "Chaojie Xie",
+      "Yingyin Yao",
+      "Zhongfu Ni",
+      "Qixin Sun",
+      "Weilong Guo"
+    ],
+    "date": "2026-Aug-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665982/",
+    "doi": "10.1016/j.molp.2026.08.021",
+    "journal": "Molecular plant",
+    "score": 0.2942,
+    "fetched_at": "2026-08-29"
+  },
+  {
     "id": "pubmed:42565907",
     "source": "pubmed",
     "title": "Envisaging the role of plant Small RNAs: A comprehensive review on antiviral defense mechanisms.",
@@ -4390,28 +4416,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42566009/",
     "doi": "10.1021/acs.jmedchem.5c01780",
     "score": 0.1517,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42570692",
-    "source": "pubmed",
-    "title": "Generation of 4-hydroxyphenylpyruvate dioxygenase (HPPD)-inhibiting herbicide-resistant rice (Oryza sativa L.) germplasm based on enhanced DNA shuffling and CRISPR-mediated base editing.",
-    "abstract": "Weeds significantly threaten rice production. While herbicides are the most efficient weed-control method, prolonged use accelerates resistant weed emergence. 4-Hydroxyphenylpyruvate dioxygenase (HPPD)-inhibiting herbicides offer potential for managing resistant weeds in rice, but the availability of resistant rice mutants is limited. This study aimed to optimize the method of DNA shuffling to conduct directed evolution of the rice HPPD gene, discover novel resistance mutations, and generate herbicide-resistant rice germplasm. We developed an efficient DNA shuffling method utilizing flanking sequences and segmented amplification to construct random mutation libraries of rice HPPD and maize (Zea mays L.) HPPD genes. Mutant libraries were screened via chromogenic reaction in Escherichia coli. CRISPR-mediated adenine base editing was adopted to generate rice mutants, and hydroponic assays were conducted to evaluate herbicide resistance. The crystal structure of rice HPPD was determined by X-ray crystallography, while mutant structures and ligand docking were simulated with AlphaFold3. Flanking sequences enhanced single-stranded DNA amplification efficiency, and segmented amplification reduced nonsense mutations. A resistant mutant, OsHPPD-mHelix, was obtained. Enzyme kinetics analysis demonstrated that its Ki for mesotrione was increased approximately 2.5-fold compared to that of wild-type OsHPPD, while its enzyme activity was not significantly affected. Using the mutation sites contained in OsHPPD-mHelix as hotspots, genome-edited rice was further generated. It was found that the mesotrione resistance of rice carrying the E423G mutation was approximately 2.2-fold higher than that of wild-type rice. Structural and molecular dynamics analyses suggested the E423G mutation promotes a closed terminal α-helix conformation, with free energy landscapes indicating reduced mesotrione binding stability, potentially explaining the resistance mechanism. This study provides an efficient DNA shuffling technology and novel herbicide-resistant rice germplasm, enriching the toolbox for rice gene-directed evolution and resistant variety cultivation.",
-    "authors": [
-      "Le Chen",
-      "Dongshu Guo",
-      "Zhou Yang",
-      "Yaru Jin",
-      "Xiao Li",
-      "Jingjing Deng",
-      "Weiwu Wang",
-      "Baolong Zhang",
-      "Yuwen Yang"
-    ],
-    "date": "2026-Aug-08",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42570692/",
-    "doi": "10.1016/j.jare.2026.08.011",
-    "score": 0.143,
     "fetched_at": "2026-08-09"
   }
 ]
