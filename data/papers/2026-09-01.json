@@ -1,0 +1,64 @@
+[
+  {
+    "id": "pubmed:42672123",
+    "source": "pubmed",
+    "title": "Economic factors promoting vaccine nationalism in the face of viral evolution.",
+    "abstract": "The increasing interconnectedness of the modern world calls for globally equitable solutions to combat pandemic challenges. However, we have seen a tendency in recent decades for high-income countries to resort to \"vaccine nationalism,\" hoarding vaccine production to the detriment of lower-income countries. In addition, vaccine nationalism can prove detrimental to hoarding countries in the long term, as inequitable global vaccine distribution during the COVID-19 risked exacerbating the rise of harmful immune-escape variants that largely counteracted the original benefits of vaccine hoarding. Thus, vaccine hoarding may create a problem of time preference for a vaccine-producing country, where countries heavily discounting the future would opt for vaccine hoarding while countries lightly discounting the future would opt for vaccine sharing. Using a novel modeling framework integrating epidemiological, evolutionary, and economic processes, we demonstrate how high temporal discounting, low levels of outgroup prosociality, and high vaccine-distribution costs for low-income countries can promote vaccine-hoarding tendencies. We further show how these factors interact with epidemiological and evolutionary parameters to incentivize vaccine sharing in different ways: in some parameter regimes, vaccine sharing helps by reducing variant infections, while in others, vaccine sharing helps by reducing the probability of initial variant emergence. As a result, the optimal fraction of vaccines a country should share in our model is a bimodal function of the pathogen's transmissibility. We thus provide a nuanced, model-based exploration of how various factors may contribute to vaccine nationalism's emergence, emphasizing the need for international organizations to coordinate global vaccination responses to future pandemics.",
+    "authors": [
+      "Ari S Freedman",
+      "Bjarke Frost Nielsen",
+      "Chadi M Saad-Roy",
+      "Bryan T Grenfell",
+      "C Jessica E Metcalf",
+      "Simon A Levin"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42672123/",
+    "doi": "10.1371/journal.pcbi.1014466",
+    "journal": "PLoS computational biology",
+    "score": 0.4233,
+    "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42671493",
+    "source": "pubmed",
+    "title": "Predominance of M1",
+    "abstract": "The clinical relevance of M1UK type strains of Streptococcus pyogenes in Japan remains insufficiently defined. We investigated the molecular epidemiology of M1UK type strains and evaluated their clinical associations among adults with invasive group A Streptococcus (iGAS) infections. We conducted a nationwide multicenter surveillance study of iGAS infections from December 2023 to March 2025. Molecular typing, profiling of M1UK-associated single-nucleotide polymorphisms (SNPs) in the rofA, gldA, and pstB regions, and emm-cluster assignment were performed. Adult clinical characteristics and outcomes were compared between M1UK type and non-M1 type infections after exclusion of the single adult M1global case. Among 155 patients in the molecular epidemiology cohort, M1UK type strains accounted for 58 isolates, whereas only one M1global isolate was identified. Historical analysis showed that M1global predominated among isolates collected in the early 2010s, whereas M1UK type strains were detected mainly in recent periods. In adult clinical comparisons, M1UK type infection was associated with streptococcal toxic shock syndrome (STSS; p = 0.004) and necrotizing fasciitis (p < 0.001). In multivariable analysis, younger age, necrotizing fasciitis, and serum creatinine ≥ 2.0 mg/dL were associated with M1UK type infection. M1UK type strains were important contributors to contemporary iGAS infections in Japan and were associated with severe clinical presentations, supporting sustained molecular surveillance beyond conventional emm typing.",
+    "authors": [
+      "Shigeo Hanada",
+      "Misako Takata",
+      "Miyuki Baba-Morozumi",
+      "Junichi Sasaki",
+      "Satoshi Iwata",
+      "Shigeki Nakamura",
+      "Kimiko Ubukata"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42671493/",
+    "doi": "10.1093/infdis/jiae437",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "score": 0.3063,
+    "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42670690",
+    "source": "pubmed",
+    "title": "Prevalence and Molecular Characterization of Enterocytozoon bieneusi in Horses From Northern and Eastern China: Investigation of Associated Risk Factors and Assessment of Zoonotic Potential.",
+    "abstract": "Enterocytozoon bieneusi is a zoonotic microsporidian threatening public health, yet epidemiological data on equine infections in China are scarce despite frequent human-horse contact. In this study, 412 fresh horse fecal samples were collected from four Chinese regions covering four rearing systems and were screened for E. bieneusi internal transcribed spacer (ITS) sequences via nested PCR, with risk factor and phylogenetic analyses conducted. The overall infection prevalence reached 15.0% (62/412), varying geographically from 9.7% (Wenzhou) to 29.3% (Qiqihar). Foals <1 year and male horses exhibited significantly higher infection risks, with crude prevalence ratios (PRs) of 4.47 and 2.28, respectively, while prevalence did not differ statistically across rearing modes (p = 0.182). Eighteen genotypes were identified: 11 known (D, horse1, Peru8, Type IV, EbpC, CAF1, GX3, HNR-VI, SHWR5, SYSWR18, SYSWR23) and seven novel (HRBM1, KDM1, KDM2, QQHRM1, QQHRM2, QQHRM3, WZM1). Genotype D was dominant, accounting for 58.1% (36/62) of positive isolates, followed by genotype horse1 at 14.5% (9/62) and genotype EbpC at 3.2% (2/62). The other eight known genotypes and all seven novel genotypes each had one isolate. All seven novel genotypes clustered within zoonotic Group 1 with all the known genotypes except HNR-VI identified here. This study confirms widespread equine E. bieneusi circulation across eastern and northern China, modulated by geography, age, and sex. The predominance of zoonotic genotypes implies horses serve as potential reservoirs for human transmission, supplying baseline epidemiological evidence for equine One Health biosecurity management.",
+    "authors": [
+      "Xin Peng",
+      "Zhongkai Zhang",
+      "Chuhan Yan",
+      "Fanggu Zhu",
+      "Weimeng Qin",
+      "Wei Zhao",
+      "Jiangqiong Ke"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42670690/",
+    "doi": "10.1155/tbed/1144348",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.3947,
+    "fetched_at": "2026-09-01"
+  }
+]
