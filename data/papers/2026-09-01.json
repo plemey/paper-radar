@@ -1,64 +1,85 @@
 [
   {
-    "id": "pubmed:42672123",
+    "id": "pubmed:42679004",
     "source": "pubmed",
-    "title": "Economic factors promoting vaccine nationalism in the face of viral evolution.",
-    "abstract": "The increasing interconnectedness of the modern world calls for globally equitable solutions to combat pandemic challenges. However, we have seen a tendency in recent decades for high-income countries to resort to \"vaccine nationalism,\" hoarding vaccine production to the detriment of lower-income countries. In addition, vaccine nationalism can prove detrimental to hoarding countries in the long term, as inequitable global vaccine distribution during the COVID-19 risked exacerbating the rise of harmful immune-escape variants that largely counteracted the original benefits of vaccine hoarding. Thus, vaccine hoarding may create a problem of time preference for a vaccine-producing country, where countries heavily discounting the future would opt for vaccine hoarding while countries lightly discounting the future would opt for vaccine sharing. Using a novel modeling framework integrating epidemiological, evolutionary, and economic processes, we demonstrate how high temporal discounting, low levels of outgroup prosociality, and high vaccine-distribution costs for low-income countries can promote vaccine-hoarding tendencies. We further show how these factors interact with epidemiological and evolutionary parameters to incentivize vaccine sharing in different ways: in some parameter regimes, vaccine sharing helps by reducing variant infections, while in others, vaccine sharing helps by reducing the probability of initial variant emergence. As a result, the optimal fraction of vaccines a country should share in our model is a bimodal function of the pathogen's transmissibility. We thus provide a nuanced, model-based exploration of how various factors may contribute to vaccine nationalism's emergence, emphasizing the need for international organizations to coordinate global vaccination responses to future pandemics.",
+    "title": "From sequences to strategies: Early detection of new SARS-CoV-2 variants via genetic distance to reduce hospitalizations.",
+    "abstract": "The COVID-19 pandemic highlighted the critical need for robust methods to monitor viral evolution and detect emerging variants of concern (VOCs). This study expanded an unsupervised clustering algorithm, based on Levenshtein distance, to track and predict variant predominance across six European countries from 2020 to January 2024. We also investigated the influence of genetic distances and containment strategies on hospitalization rates. Spike protein sequences were transformed into temporal chains. A deep neural network (DNN) was trained to classify emerging chains as likely dominant, while a CatBoost model assessed important variables, and simulations explored modifying vaccine genetic distance, containment measures, and vaccination coverage. Approximately 5,000 sequences per week enabled early chain detection within four weeks. The DNN achieved high classification performance for identifying future predominant chains within 3-4 weeks of detection. Genetic distance metrics between consecutive chains and between circulating and vaccine strains were among the most informative variables associated with hospitalization patterns. Model-based simulations suggested that scenarios involving improved vaccine matching or stronger containment measures were associated with lower predicted hospitalization burdens. Doubling vaccination coverage alone had minimal effect but showed additional reductions when combined with strict containment. Our findings from this integrated framework highlight the potential relevance of genetic distance metrics and public health interventions when assessing hospitalization risk associated with emerging variants.",
     "authors": [
-      "Ari S Freedman",
-      "Bjarke Frost Nielsen",
-      "Chadi M Saad-Roy",
-      "Bryan T Grenfell",
-      "C Jessica E Metcalf",
-      "Simon A Levin"
+      "Marika D'Avanzo",
+      "Aung Pone Myint",
+      "Giacomo Cacciapaglia",
+      "Stefan Hohenegger",
+      "Francesco Conventi",
+      "Marta Nunes"
     ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42672123/",
-    "doi": "10.1371/journal.pcbi.1014466",
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679004/",
+    "doi": "10.1371/journal.pcbi.1014707",
     "journal": "PLoS computational biology",
-    "score": 0.4233,
+    "score": 0.5658,
     "fetched_at": "2026-09-01"
   },
   {
-    "id": "pubmed:42671493",
+    "id": "pubmed:42677149",
     "source": "pubmed",
-    "title": "Predominance of M1",
-    "abstract": "The clinical relevance of M1UK type strains of Streptococcus pyogenes in Japan remains insufficiently defined. We investigated the molecular epidemiology of M1UK type strains and evaluated their clinical associations among adults with invasive group A Streptococcus (iGAS) infections. We conducted a nationwide multicenter surveillance study of iGAS infections from December 2023 to March 2025. Molecular typing, profiling of M1UK-associated single-nucleotide polymorphisms (SNPs) in the rofA, gldA, and pstB regions, and emm-cluster assignment were performed. Adult clinical characteristics and outcomes were compared between M1UK type and non-M1 type infections after exclusion of the single adult M1global case. Among 155 patients in the molecular epidemiology cohort, M1UK type strains accounted for 58 isolates, whereas only one M1global isolate was identified. Historical analysis showed that M1global predominated among isolates collected in the early 2010s, whereas M1UK type strains were detected mainly in recent periods. In adult clinical comparisons, M1UK type infection was associated with streptococcal toxic shock syndrome (STSS; p = 0.004) and necrotizing fasciitis (p < 0.001). In multivariable analysis, younger age, necrotizing fasciitis, and serum creatinine ≥ 2.0 mg/dL were associated with M1UK type infection. M1UK type strains were important contributors to contemporary iGAS infections in Japan and were associated with severe clinical presentations, supporting sustained molecular surveillance beyond conventional emm typing.",
+    "title": "An almost fully resolved phylogeny for the Dutch Angiosperm Flora.",
+    "abstract": "For several regions, ecologists and taxonomists have assembled information on phenotypes for almost all species of the megadiverse angiosperms. However, testing hypotheses on regional evolutionary and biogeographic history requires highly resolved and dated phylogenies covering the same taxa, which are often lacking at regional scales. Here, we filled this knowledge gap for one of the best-studied regional floras: the native angiosperms of the Netherlands. We provide a molecular phylogenetic dataset and two time-calibrated trees (based on BEAST and MrBayes approaches) of the native angiosperm flora of the Netherlands, reconstructed from publicly available DNA sequences. The resulting phylogenies include 1178 species from the 2017 species list on SynBioSys NL, a national database that provides a curated checklist of native vascular plant species occurring in the Netherlands (also core to the flora of adjacent countries), and are provided in multiple formats (Newick, Nexus), along with alignments, BEAST and MrBayes input files, and metadata linking taxa to GenBank accession numbers. This dataset offers a phylogenetic framework that is based on molecular data covering more than 95% of the native species included in the checklist, reproducible and extremely well-resolved phylogeny (99.92% of nodes resolved in the maximum clade credibility tree; reflecting the absence of polytomies; 67.9% of nodes with posterior probability above 0.95 and 92.3% above 0.50) for researchers. These data will permit the signal of evolutionary history in patterns of biodiversity across the Netherlands, such as the age structure of habitat species pools or functional groups, where a focus on native species is essential. All resources are openly available via IDiv (https://doi.org/10.25829/idiv.3600-myr3t3) under a CC-BY license.",
     "authors": [
-      "Shigeo Hanada",
-      "Misako Takata",
-      "Miyuki Baba-Morozumi",
-      "Junichi Sasaki",
-      "Satoshi Iwata",
-      "Shigeki Nakamura",
-      "Kimiko Ubukata"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42671493/",
-    "doi": "10.1093/infdis/jiae437",
-    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
-    "score": 0.3063,
-    "fetched_at": "2026-09-01"
-  },
-  {
-    "id": "pubmed:42670690",
-    "source": "pubmed",
-    "title": "Prevalence and Molecular Characterization of Enterocytozoon bieneusi in Horses From Northern and Eastern China: Investigation of Associated Risk Factors and Assessment of Zoonotic Potential.",
-    "abstract": "Enterocytozoon bieneusi is a zoonotic microsporidian threatening public health, yet epidemiological data on equine infections in China are scarce despite frequent human-horse contact. In this study, 412 fresh horse fecal samples were collected from four Chinese regions covering four rearing systems and were screened for E. bieneusi internal transcribed spacer (ITS) sequences via nested PCR, with risk factor and phylogenetic analyses conducted. The overall infection prevalence reached 15.0% (62/412), varying geographically from 9.7% (Wenzhou) to 29.3% (Qiqihar). Foals <1 year and male horses exhibited significantly higher infection risks, with crude prevalence ratios (PRs) of 4.47 and 2.28, respectively, while prevalence did not differ statistically across rearing modes (p = 0.182). Eighteen genotypes were identified: 11 known (D, horse1, Peru8, Type IV, EbpC, CAF1, GX3, HNR-VI, SHWR5, SYSWR18, SYSWR23) and seven novel (HRBM1, KDM1, KDM2, QQHRM1, QQHRM2, QQHRM3, WZM1). Genotype D was dominant, accounting for 58.1% (36/62) of positive isolates, followed by genotype horse1 at 14.5% (9/62) and genotype EbpC at 3.2% (2/62). The other eight known genotypes and all seven novel genotypes each had one isolate. All seven novel genotypes clustered within zoonotic Group 1 with all the known genotypes except HNR-VI identified here. This study confirms widespread equine E. bieneusi circulation across eastern and northern China, modulated by geography, age, and sex. The predominance of zoonotic genotypes implies horses serve as potential reservoirs for human transmission, supplying baseline epidemiological evidence for equine One Health biosecurity management.",
-    "authors": [
-      "Xin Peng",
-      "Zhongkai Zhang",
-      "Chuhan Yan",
-      "Fanggu Zhu",
-      "Weimeng Qin",
-      "Wei Zhao",
-      "Jiangqiong Ke"
+      "Thomas Leclère",
+      "Andreas Prinzing",
+      "Pille Gerhold",
+      "Igor Bartish"
     ],
     "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42670690/",
-    "doi": "10.1155/tbed/1144348",
-    "journal": "Transboundary and emerging diseases",
-    "score": 0.3947,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677149/",
+    "doi": "10.1016/j.pld.2022.09.001",
+    "journal": "Biodiversity data journal",
+    "score": 0.2646,
+    "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42676516",
+    "source": "pubmed",
+    "title": "Hepatitis A and E in rural northern India: clinico-epidemiological and molecular surveillance from a tertiary care hospital.",
+    "abstract": "HAV and HEV cause substantial preventable morbidity across India, yet contemporary clinico-epidemiological and molecular surveillance from the rural Indo-Gangetic plain is sparse, with no published series from the eastern Uttar Pradesh catchment of AIIMS Raebareli. We addressed this gap through an integrated hospital-based study of acute viral hepatitis (AVH) combining seroprevalence, clinical phenotyping, seasonality and molecular genotyping, with public deposit of all newly generated sequences. Serum samples from 554 consecutive patients with clinically suspected AVH at AIIMS Raebareli between January 2023 and October 2024 were screened for anti-HAV and anti-HEV IgM by enzyme-linked immunosorbent assay. Seropositive samples underwent RT-PCR targeting the HAV VP1-VP3 and HEV ORF2 regions, and representative amplicons were Sanger-sequenced. Phylogenetic relationships were reconstructed using maximum likelihood in MEGA 11 with 1,000 bootstrap replicates. Anti-HAV IgM was detected in 50 patients (9.0%) and anti-HEV IgM in 18 (3.2%); four (0.7%) showed dual seropositivity. The HAV-positive cohort was predominantly pediatric (median 14 years, IQR 7-19), with 44.0% aged 6-15 and 38.0% aged 16-40 years. HEV-positive patients spanned a wider age range (median 13, IQR 4-30). HAV cases peaked pre-monsoon (May-June); HEV occurred year-round. Severe disease was uncommon: one HAV-positive patient developed acute liver failure and died in hospital. RT-PCR confirmed HAV viremia in 11/50 (22.0%) and HEV in 7/18 (38.9%). All sequenced HAV strains were HAV genotype IIIA and HEV strains HEV genotype 1a, with 98-99% nucleotide identity to Indian references. HAV remains the dominant cause of enterically transmitted AVH in this previously unstudied rural catchment, with disease now concentrated in older children, adolescents and young adults; HEV-1a circulates at lower volume but year-round. Genotypic uniformity (HAV-IIIA, HEV-1a) indicates a stable transmission pattern, and the present sequences (GenBank PV454657-PV454670) extend the molecular record from northern India. Three operational priorities follow: structured HAV immunization of older children and adolescents, a focused pre-monsoon (March-May) WASH outreach window, and routine anti-HEV IgM screening of pregnant women presenting with jaundice.",
+    "authors": [
+      "Shefali Gupta",
+      "Priyanka Priyanka",
+      "Sana Islahi",
+      "Anirudh Mukherjee",
+      "Mritunjay Kumar",
+      "Sweta Singh",
+      "Arti Dwivedi",
+      "Niraj Kumar Srivastava",
+      "Parul Sinha",
+      "Abhijeet Chaudhary",
+      "Mukesh Shukla",
+      "Namita Mishra",
+      "Niraj Kumari"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676516/",
+    "doi": "10.3390/v15010214",
+    "journal": "Frontiers in public health",
+    "score": 0.4587,
+    "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42674547",
+    "source": "pubmed",
+    "title": "Assessing the Validity of the Fixed Tree Topology Assumption in Phylodynamic Inference.",
+    "abstract": "Fixed tree topologies are widely used in phylodynamic analyses to reduce computational burden, yet the consequences of this assumption remain insufficiently understood. Here, we systematically assess the impact of various fixed-topology strategies on phylogenetic and phylodynamic parameter estimates across a diverse set of viral datasets. We compare fully Bayesian joint inference with fixed-topology strategies, including conditioning on maximum likelihood trees subsequently dated with LSD or TreeTime. Our analyses show that global parameters of the substitution and site models are largely robust to the fixed-topology assumption, whereas parameters that depend on the temporal structure of the tree, such as molecular clock rates, node ages, and demographic histories, can exhibit substantial systematic differences in their estimates. We do treat unconstrained Bayesian analyses as the reference, although we recognize that these too are model-based approximations. Nevertheless, our results highlight serious discordance associated with fixing the topology and underscore the need for faster, time-aware methods that simultaneously integrate topology and parameter estimation. These findings raise important questions about the balance between computational efficiency and inferential accuracy in phylodynamic studies. phylodynamic, tree topology, Bayesian inference, BEAST.",
+    "authors": [
+      "Mathieu Fourment",
+      "Jiansi Gao",
+      "Marc A Suchard",
+      "Frederick A Matsen Iv"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42674547/",
+    "doi": "10.1093/sysbio/syag069",
+    "journal": "Systematic biology",
+    "score": 0.4205,
     "fetched_at": "2026-09-01"
   }
 ]

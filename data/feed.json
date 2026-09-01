@@ -620,6 +620,26 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42679004",
+    "source": "pubmed",
+    "title": "From sequences to strategies: Early detection of new SARS-CoV-2 variants via genetic distance to reduce hospitalizations.",
+    "abstract": "The COVID-19 pandemic highlighted the critical need for robust methods to monitor viral evolution and detect emerging variants of concern (VOCs). This study expanded an unsupervised clustering algorithm, based on Levenshtein distance, to track and predict variant predominance across six European countries from 2020 to January 2024. We also investigated the influence of genetic distances and containment strategies on hospitalization rates. Spike protein sequences were transformed into temporal chains. A deep neural network (DNN) was trained to classify emerging chains as likely dominant, while a CatBoost model assessed important variables, and simulations explored modifying vaccine genetic distance, containment measures, and vaccination coverage. Approximately 5,000 sequences per week enabled early chain detection within four weeks. The DNN achieved high classification performance for identifying future predominant chains within 3-4 weeks of detection. Genetic distance metrics between consecutive chains and between circulating and vaccine strains were among the most informative variables associated with hospitalization patterns. Model-based simulations suggested that scenarios involving improved vaccine matching or stronger containment measures were associated with lower predicted hospitalization burdens. Doubling vaccination coverage alone had minimal effect but showed additional reductions when combined with strict containment. Our findings from this integrated framework highlight the potential relevance of genetic distance metrics and public health interventions when assessing hospitalization risk associated with emerging variants.",
+    "authors": [
+      "Marika D'Avanzo",
+      "Aung Pone Myint",
+      "Giacomo Cacciapaglia",
+      "Stefan Hohenegger",
+      "Francesco Conventi",
+      "Marta Nunes"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679004/",
+    "doi": "10.1371/journal.pcbi.1014707",
+    "journal": "PLoS computational biology",
+    "score": 0.5658,
+    "fetched_at": "2026-09-01"
+  },
+  {
     "id": "pubmed:42655726",
     "source": "pubmed",
     "title": "A Review: Bovine Coronavirus Evolution, Molecular Epidemiology, and Genetic Variation.",
@@ -1493,6 +1513,33 @@
     "fetched_at": "2026-08-23"
   },
   {
+    "id": "pubmed:42676516",
+    "source": "pubmed",
+    "title": "Hepatitis A and E in rural northern India: clinico-epidemiological and molecular surveillance from a tertiary care hospital.",
+    "abstract": "HAV and HEV cause substantial preventable morbidity across India, yet contemporary clinico-epidemiological and molecular surveillance from the rural Indo-Gangetic plain is sparse, with no published series from the eastern Uttar Pradesh catchment of AIIMS Raebareli. We addressed this gap through an integrated hospital-based study of acute viral hepatitis (AVH) combining seroprevalence, clinical phenotyping, seasonality and molecular genotyping, with public deposit of all newly generated sequences. Serum samples from 554 consecutive patients with clinically suspected AVH at AIIMS Raebareli between January 2023 and October 2024 were screened for anti-HAV and anti-HEV IgM by enzyme-linked immunosorbent assay. Seropositive samples underwent RT-PCR targeting the HAV VP1-VP3 and HEV ORF2 regions, and representative amplicons were Sanger-sequenced. Phylogenetic relationships were reconstructed using maximum likelihood in MEGA 11 with 1,000 bootstrap replicates. Anti-HAV IgM was detected in 50 patients (9.0%) and anti-HEV IgM in 18 (3.2%); four (0.7%) showed dual seropositivity. The HAV-positive cohort was predominantly pediatric (median 14 years, IQR 7-19), with 44.0% aged 6-15 and 38.0% aged 16-40 years. HEV-positive patients spanned a wider age range (median 13, IQR 4-30). HAV cases peaked pre-monsoon (May-June); HEV occurred year-round. Severe disease was uncommon: one HAV-positive patient developed acute liver failure and died in hospital. RT-PCR confirmed HAV viremia in 11/50 (22.0%) and HEV in 7/18 (38.9%). All sequenced HAV strains were HAV genotype IIIA and HEV strains HEV genotype 1a, with 98-99% nucleotide identity to Indian references. HAV remains the dominant cause of enterically transmitted AVH in this previously unstudied rural catchment, with disease now concentrated in older children, adolescents and young adults; HEV-1a circulates at lower volume but year-round. Genotypic uniformity (HAV-IIIA, HEV-1a) indicates a stable transmission pattern, and the present sequences (GenBank PV454657-PV454670) extend the molecular record from northern India. Three operational priorities follow: structured HAV immunization of older children and adolescents, a focused pre-monsoon (March-May) WASH outreach window, and routine anti-HEV IgM screening of pregnant women presenting with jaundice.",
+    "authors": [
+      "Shefali Gupta",
+      "Priyanka Priyanka",
+      "Sana Islahi",
+      "Anirudh Mukherjee",
+      "Mritunjay Kumar",
+      "Sweta Singh",
+      "Arti Dwivedi",
+      "Niraj Kumar Srivastava",
+      "Parul Sinha",
+      "Abhijeet Chaudhary",
+      "Mukesh Shukla",
+      "Namita Mishra",
+      "Niraj Kumari"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676516/",
+    "doi": "10.3390/v15010214",
+    "journal": "Frontiers in public health",
+    "score": 0.4587,
+    "fetched_at": "2026-09-01"
+  },
+  {
     "id": "pubmed:42655741",
     "source": "pubmed",
     "title": "Chikungunya Virus: What a Transfusion Service Needs to Know.",
@@ -1809,6 +1856,24 @@
     "doi": "10.1016/j.micpath.2026.108755",
     "score": 0.4228,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42674547",
+    "source": "pubmed",
+    "title": "Assessing the Validity of the Fixed Tree Topology Assumption in Phylodynamic Inference.",
+    "abstract": "Fixed tree topologies are widely used in phylodynamic analyses to reduce computational burden, yet the consequences of this assumption remain insufficiently understood. Here, we systematically assess the impact of various fixed-topology strategies on phylogenetic and phylodynamic parameter estimates across a diverse set of viral datasets. We compare fully Bayesian joint inference with fixed-topology strategies, including conditioning on maximum likelihood trees subsequently dated with LSD or TreeTime. Our analyses show that global parameters of the substitution and site models are largely robust to the fixed-topology assumption, whereas parameters that depend on the temporal structure of the tree, such as molecular clock rates, node ages, and demographic histories, can exhibit substantial systematic differences in their estimates. We do treat unconstrained Bayesian analyses as the reference, although we recognize that these too are model-based approximations. Nevertheless, our results highlight serious discordance associated with fixing the topology and underscore the need for faster, time-aware methods that simultaneously integrate topology and parameter estimation. These findings raise important questions about the balance between computational efficiency and inferential accuracy in phylodynamic studies. phylodynamic, tree topology, Bayesian inference, BEAST.",
+    "authors": [
+      "Mathieu Fourment",
+      "Jiansi Gao",
+      "Marc A Suchard",
+      "Frederick A Matsen Iv"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42674547/",
+    "doi": "10.1093/sysbio/syag069",
+    "journal": "Systematic biology",
+    "score": 0.4205,
+    "fetched_at": "2026-09-01"
   },
   {
     "id": "pubmed:42655674",
@@ -3419,6 +3484,24 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42677149",
+    "source": "pubmed",
+    "title": "An almost fully resolved phylogeny for the Dutch Angiosperm Flora.",
+    "abstract": "For several regions, ecologists and taxonomists have assembled information on phenotypes for almost all species of the megadiverse angiosperms. However, testing hypotheses on regional evolutionary and biogeographic history requires highly resolved and dated phylogenies covering the same taxa, which are often lacking at regional scales. Here, we filled this knowledge gap for one of the best-studied regional floras: the native angiosperms of the Netherlands. We provide a molecular phylogenetic dataset and two time-calibrated trees (based on BEAST and MrBayes approaches) of the native angiosperm flora of the Netherlands, reconstructed from publicly available DNA sequences. The resulting phylogenies include 1178 species from the 2017 species list on SynBioSys NL, a national database that provides a curated checklist of native vascular plant species occurring in the Netherlands (also core to the flora of adjacent countries), and are provided in multiple formats (Newick, Nexus), along with alignments, BEAST and MrBayes input files, and metadata linking taxa to GenBank accession numbers. This dataset offers a phylogenetic framework that is based on molecular data covering more than 95% of the native species included in the checklist, reproducible and extremely well-resolved phylogeny (99.92% of nodes resolved in the maximum clade credibility tree; reflecting the absence of polytomies; 67.9% of nodes with posterior probability above 0.95 and 92.3% above 0.50) for researchers. These data will permit the signal of evolutionary history in patterns of biodiversity across the Netherlands, such as the age structure of habitat species pools or functional groups, where a focus on native species is essential. All resources are openly available via IDiv (https://doi.org/10.25829/idiv.3600-myr3t3) under a CC-BY license.",
+    "authors": [
+      "Thomas Leclère",
+      "Andreas Prinzing",
+      "Pille Gerhold",
+      "Igor Bartish"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677149/",
+    "doi": "10.1016/j.pld.2022.09.001",
+    "journal": "Biodiversity data journal",
+    "score": 0.2646,
+    "fetched_at": "2026-09-01"
+  },
+  {
     "id": "pubmed:42646804",
     "source": "pubmed",
     "title": "Molecular Epidemiology and Genotyping of",
@@ -4317,114 +4400,5 @@
     "doi": "10.1136/bmjph-2024-002372",
     "score": 0.1717,
     "fetched_at": "2026-08-15"
-  },
-  {
-    "id": "pubmed:42584066",
-    "source": "pubmed",
-    "title": "mGem: Toxins from killer plasmids as a universal killing system in the fungal kingdom.",
-    "abstract": "Killer plasmids are cytosolic linear dsDNA plasmids found in many species of Saccharomycotina, the budding yeasts. They encode toxins that give their hosts an advantage against competitor yeasts in the environment. They cause cell death in their prey by targeting non-coding RNAs of the translation apparatus, either tRNAs or rRNAs. We recently discovered that similar toxin systems are integrated into the nuclear genomes of many filamentous ascomycetes. Cytosolic linear plasmids similar to killer plasmids are also present in two deeply divergent phyla of terrestrial fungi (Zoopagomycota and Mucoromycota), although they have not yet been shown to have killing activity. It is becoming apparent that plasmid-encoded toxin systems or toxin-like systems are far more widespread than previously considered and have impacted upon fungal biology and evolution for hundreds of millions of years.",
-    "authors": [
-      "Padraic G Heneghan",
-      "Kenneth H Wolfe"
-    ],
-    "date": "2026-Aug-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42584066/",
-    "doi": "10.1128/mbio.01034-25",
-    "score": 0.1716,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42561497",
-    "source": "pubmed",
-    "title": "Suppression of HIV-1 replication in CEM-A cell cultures by trans-splicing group I introns targeting PAS/PBS sequences and conditionally expressing ΔN-Bax.",
-    "abstract": "Anti-HIV group I introns containing antisense guide sequences directed against the HIV-1 primer activation signal and primer-binding site (PAS/PBS) were designed and evaluated. Because PAS/PBS sequences are present in the viral RNA species examined, these RNAs can serve as trans-splicing substrates. The introns were active against both artificial target RNAs and viral RNA generated during infection. Cleavage and degradation of targeted viral RNA may have contributed to suppression, whereas inclusion of a 3' exon encoding the proapoptotic protein ΔN-Bax was associated with increased programmed cell death and may have augmented suppression of viral replication. In cultured CEM-A cells, transgene expression of these introns markedly suppressed HIV-1 replication, with p24 levels falling below the assay detection limit in selected clones. RESULTS: RT-PCR and sequence analysis detected splice products containing the expected PAS/PBS junctions. In the dual-luciferase assay, intron expression reduced normalized Gaussia luciferase signal by approximately 70% relative to the negative control. Qualitative Annexin V imaging and caspase-3 assays were consistent with infection-dependent apoptosis after ΔN-Bax splice-product formation. Transient expression of each intron in HEK293T cells followed by infection with VSV-G-pseudotyped HIV-1NL4-3 at an MOI of 2 reduced p24 levels by approximately 50% at 4 days post-infection. Construct 128L produced the strongest RT-PCR band under the tested conditions and was selected for subsequent experiments. A canonical splice product and a low-abundance noncanonical splice product were detected; both involved the intended HIV-derived target RNA, although transcriptome-wide off-target splicing was not assessed. Heterogeneous transformed HEK293T populations showed an approximately 2-log10 reduction in p24. In selected clonal HEK293T and CEM-A lines, p24 was below the assay detection limit at the measured endpoints, including up to 90 days after infection in some CEM-A clones. CONCLUSIONS: PAS/PBS-targeting group I introns suppressed HIV-1-associated p24 production in the tested cell-culture models. Linking the introns to a ΔN-Bax 3' exon was associated with infection-dependent apoptosis and may further limit viral replication and spread. The use of highly conserved, functionally constrained target sequences may reduce the likelihood of escape, but viral evolution and transcriptome-wide off-target effects were not assessed. This conditional death-upon-infection strategy warrants further evaluation in primary-cell and in vivo models.",
-    "authors": [
-      "Mark E Fraser",
-      "Andrew Martin",
-      "John Mulvahill",
-      "James Dawson",
-      "Arwa Mohammed",
-      "Teresa McDonald",
-      "Georges-Ibraham Cisse",
-      "Andrea Rivera-Luna",
-      "Malcolm J Fraser"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561497/",
-    "doi": "10.1016/j.virol.2026.111044",
-    "score": 0.1709,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42573902",
-    "source": "pubmed",
-    "title": "The Dutch cardiomyopathy registry (DCR); rationale and registry design.",
-    "abstract": "Cardiomyopathies are important causes of arrhythmias, sudden cardiac death, and heart failure. With accumulating knowledge in clinical, genetic, and molecular phenotyping, the number of distinct disease entities is growing. There is a need for broad, inclusive, high-quality prospective multi-center registries to better analyze these phenotypes, provide accurate risk stratification, and tailor therapies. The Dutch Cardiomyopathy Registry (DCR) will serve as a longitudinal registry for all cardiomyopathy patients, exploiting previously built local databases, allowing adequately powered research studies. The DCR is a multi-center observational registry that unites all Dutch University Medical centers. The registry will have local and central shared databases, which will be hosted and coordinated by the Netherlands Heart Institute. Patients with an established cardiomyopathy diagnosis and carriers of pathogenic or likely-pathogenic cardiomyopathy gene variants will be included. Furthermore, selected family members and individuals who are referred for screening for potential cardiomyopathy are eligible for inclusion. The subjects will receive, per best clinical practice, guideline-recommended diagnostics and treatment. Clinical data will be collected from clinical care at baseline and follow-up, including clinical visits, imaging studies, laboratory assessments, ECG, and additional functional tests. Outcome data consists of clinical performance status, cardiovascular complications and major adverse events, recorded through regular electronic health record files. The DCR will function as a national database, providing relevant information on epidemiology, demographics, natural history, diagnosis, and treatment. This will aid risk prediction and monitoring of new therapies. The DCR can identify patients who are eligible for future studies, including registry-based research.",
-    "authors": [
-      "Peter-Paul Zwetsloot",
-      "Michiel T H M Henkens",
-      "Erik P A van Iperen",
-      "Michiel Minten",
-      "Evelien van der Schaaf-de Wolf",
-      "Linda W van Laake",
-      "Anneline S J M Te Riele",
-      "Pim van der Harst",
-      "Jessica van Setten",
-      "Vanessa P M van Empel",
-      "Hans-Peter Brunner-La Rocca",
-      "D Job A J Verdonschot",
-      "Moniek G P J Cox",
-      "Imke Christiaans",
-      "Nina Ajmone Marsan",
-      "Karin van Spaendonck-Zwarts",
-      "Daniela Qcm Barge-Schaapveld",
-      "Etienne Cramer",
-      "Yvonne M Hoedemakers",
-      "Michelle Michels",
-      "Judith M A Verhagen",
-      "Henk S Schipper",
-      "Malou van den Boogaard",
-      "Folkert W Asselbergs",
-      "Dennis van Veghel",
-      "Katja Zeppenfeld",
-      "Robin Nijveldt",
-      "Peter van Tintelen",
-      "Peter van der Meer",
-      "J Wouter Jukema",
-      "Jolanda van der Velden",
-      "Connie R Bezzina",
-      "Rudolf A de Boer",
-      "Stephane R B Heymans"
-    ],
-    "date": "2026-Aug-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573902/",
-    "doi": "10.1007/s12471-026-02063-5",
-    "score": 0.1692,
-    "fetched_at": "2026-08-10"
-  },
-  {
-    "id": "pubmed:42581833",
-    "source": "pubmed",
-    "title": "Carbapenem Resistance in India: A Systematic Review of Epidemiology, Diagnostic Strategies, and Therapeutic Approaches.",
-    "abstract": "Carbapenem-resistant gram-negative infections pose a major public health challenge in India due to high antibiotic consumption, limited diagnostic access, and regional variation in resistance mechanisms. We systematically reviewed recent data to evaluate prevalence, diagnostics, and therapeutic strategies. Following PRISMA 2020 guidelines, we searched PubMed, Scopus, Embase, and Google Scholar for studies (January 2019-December 2024) reporting carbapenem resistance in clinical gram-negative isolates from India. Data on prevalence, molecular mechanisms, diagnostics, and treatment outcomes were extracted. Study quality was assessed using the Joanna Briggs Institute (JBI) Checklist. From 75 studies (> 25,000 isolates), pooled resistance rates were K. pneumoniae 42.3%, E. coli 35.6%, A. baumannii 58.9%, and P. aeruginosa 41.7%. NDM (65%) and OXA-48-like (20%) enzymes predominated. Only 38% of studies employed rapid molecular diagnostics. Treatment strategies included ceftazidime-avibactam ± aztreonam, colistin-based regimens, and cefiderocol, but outcomes were inconsistent. Carbapenem resistance in India remains alarmingly high, primarily driven by NDM and OXA-type carbapenemases. Optimised diagnostics, improved access to effective antimicrobials, robust antimicrobial stewardship, and national surveillance are critical to mitigate its growing clinical and public health impact.",
-    "authors": [
-      "Akhil Kapoor",
-      "Anuj Gupta",
-      "Bipinesh Sansar",
-      "Bal Krishna Mishra",
-      "Madhu Singh",
-      "Rahul Sarode",
-      "Vijeta Bajpai",
-      "Anil Singh",
-      "Sujit Bharti",
-      "Anwita Mishra",
-      "Ankita Chaurasia",
-      "Satyajit Pradhan"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581833/",
-    "doi": "10.1155/bmri/6806493",
-    "score": 0.162,
-    "fetched_at": "2026-08-13"
   }
 ]
