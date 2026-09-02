@@ -345,6 +345,26 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42682318",
+    "source": "pubmed",
+    "title": "Emergence of novel highly pathogenic H5N1 avian influenza in slender-billed gulls (",
+    "abstract": "Highly pathogenic avian influenza (HPAI) H5N1 continues to cause severe mortality among wild birds globally. The present study aimed to investigate the mass mortality in Slender-billed Gulls (Chroicocephalus genei) and Gull-billed Terns (Gelochelidon nilotica) at Dukan Lake, Iraq, during the 2024 breeding season. Field monitoring was conducted at breeding colonies, and dead carcasses were collected for necropsy, histopathology, and molecular analysis. Virus detection and genetic characterization were performed by reverse transcription polymerase chain reaction and sequencing. In addition, the viral lineage was inferred by phylogenetic analysis of the hemagglutinin (HA) and neuraminidase (NA) genes. More than 3,200 gulls and terns were found dead, exhibiting severe neurological signs and systemic illness. Necropsy and histopathological investigations indicated significant multi-organ damage, with gulls showing more pronounced visceral lesions than terns, while terns exhibited greater neurological damage. Molecular characterization confirmed the virus as HPAI H5N1, and analysis of the HA and NA genes revealed that the strain from Dukan Lake falls within clade 2.3.4.4b, displaying a high genetic resemblance (>98%) with the recently identified H5N1 strain isolated from Mute swans in Kazakhstan. The virus showed multibasic cleavage sites characteristic of high pathogenicity but maintained receptor-binding specificity for avian hosts. Moreover, the results demonstrate the recent introduction of the virus via migratory flyways and the significance of gulls and terns in the disease ecology of HPAI virus (HPAIV). This outbreak is the first recorded mass mortality of gulls and terns due to HPAI H5N1 in Iraq. The results emphasize the need for improved surveillance at migratory stopover and breeding sites to observe viral evolution, host susceptibility, and potential risks for cross-species transmission.",
+    "authors": [
+      "Nasih Ali",
+      "Harem Mustafa",
+      "Nadia Salih",
+      "Pavel Qader",
+      "Snur Hassan",
+      "Dashty Amin"
+    ],
+    "date": "2026-Feb-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42682318/",
+    "doi": "10.1177/0192623308315832",
+    "journal": "Open veterinary journal",
+    "score": 0.6354,
+    "fetched_at": "2026-09-02"
+  },
+  {
     "id": "pubmed:42584091",
     "source": "pubmed",
     "title": "Genomic surveillance of enterovirus D68 circulating in 2025 reveals the emergence of a novel A2/B3 recombinant lineage.",
@@ -1315,6 +1335,37 @@
     "fetched_at": "2026-08-23"
   },
   {
+    "id": "pubmed:42680782",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of foot-and-mouth disease viruses collected from Khartoum, Blue Nile, and Northern States of Sudan (2019-2022).",
+    "abstract": "Foot-and-mouth disease (FMD) is a highly contagious transboundary viral disease causing significant economic losses in livestock. This study investigated the serotype distribution and molecular epidemiology of FMD viruses (FMDV) circulating in Sudan between 2019 and 2022. A total of 51 epithelial tissue samples were collected from outbreaks in Khartoum, Blue Nile and Northern States. Samples were analyzed via virus isolation in bovine thyroid cell culture (BTY), antigen detection ELISA, and real-time reverse transcription PCR (rRT-PCR). Antigen detection ELISA successfully typed 13 of 51 (25.5%) epithelial tissue samples, of which 10 were identified as serotype A and 3 as serotype O. In contrast, rRT-PCR detected FMDV RNA in 33 of the 35 samples (94.3%) that were suitable for molecular analysis, showing the superior diagnostic sensitivity of this molecular method. FMDV positive samples were further characterized by sequencing the VP1-coding region. These data demonstrated the presence of two serotypes (A and O), while SAT serotypes were not detected during the study period. Serotype A was detected in outbreaks during 2019, 2021 and 2022, while serotype O predominated in 2020. Phylogenetic analysis of VP1-coding sequences showed that serotype A sequences clustered within the A/AFRICA topotype, lineage G-IV and were closely related to strains from Egypt and Ethiopia. Serotype O sequences were clustered within the EAST AFRICA-3 (EA-3) topotype and showed ≥ 96% identity with the Egyptian isolates. VP1 analysis revealed conserved functional motifs alongside variability within the immunodominant antigenic region, suggestive of ongoing viral evolution with potential implications for vaccine effectiveness. These results suggested the persistent circulation of FMDV serotypes A and O in Sudan with close genetic relationships to viruses recovered from neighboring countries. These findings suggested the transboundary transmission of FMDVs and a role for cross-border livestock movements in virus dissemination. Continuous molecular surveillance and regional cooperation are essential to improve vaccine matching and strengthen FMD control strategies in endemic regions.",
+    "authors": [
+      "Maysa Ragab",
+      "Yassir A Almofti",
+      "Yazeed A Rauouf",
+      "Nick J Knowles",
+      "Donald P King",
+      "Jemma Wadsworth",
+      "Hayley M Hicks",
+      "Haitham Saeed",
+      "Omima Abd Algalil",
+      "Ibrahim Albokhadaim",
+      "Ahmed O Alameen",
+      "Mahmoud Kandeel",
+      "Samir Alhojaily",
+      "Mohammed Ali Al-Hammadi",
+      "Jamal Hussen",
+      "Mustafa Shukry",
+      "Bahaa Al-Trad"
+    ],
+    "date": "2026-Aug-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42680782/",
+    "doi": "10.1128/JCM.42.5.2108-2114.2004",
+    "journal": "Scientific reports",
+    "score": 0.4814,
+    "fetched_at": "2026-09-02"
+  },
+  {
     "id": "pubmed:42634831",
     "source": "pubmed",
     "title": "Molecular detection, characterization, and cross-species circulation of feline and canine parvoviruses in Gujarat, India: Emergence of a novel canine parvovirus-2c variant and enhanced diagnostic sensitivity of quantitative polymerase chain reaction.",
@@ -1582,6 +1633,26 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42683047",
+    "source": "pubmed",
+    "title": "Molecular and Clinical Study of Bovine Coronavirus and",
+    "abstract": "Bovine respiratory disease (BRD) is a multifactorial syndrome causing major economic losses in cattle production worldwide. The present study investigated the prevalence, molecular characterization, and phylogenetic relationship of bovine coronavirus (BCoV) and Staphylococcus aureus co-infection in calves exhibiting respiratory and enteric signs. A total of 80 nasal and fecal samples were collected from calves aged 2 weeks to 2 months, showing clinical signs ranging from mild to acute disease. Clinical severity was categorized according to fever, dehydration, diarrhea, and respiratory distress. Molecular detection of BCoV was performed using real-time RT-PCR and conventional PCR targeting the N gene, while S. aureus isolates were identified by bacteriological culture, biochemical tests, and 16S rRNA gene amplification. Phylogenetic analysis was conducted using MEGA software and sequence alignment tools. The results showed that BCoV was detected in 35% of examined samples, while S. aureus was identified in 28% of cases. Co-infection was observed in 15% of calves and was significantly associated with severe clinical manifestations (p < 0.05). Acute and moderate cases demonstrated markedly higher BCoV positivity compared with mild cases. Agarose gel electrophoresis confirmed amplification of the BCoV N gene at 205 bp and the S. aureus 16S rRNA gene at approximately 1500 bp. Sequence alignment of local S. aureus isolates revealed highly conserved nucleotide regions, whereas phylogenetic analysis demonstrated genetic diversity among both bacterial and viral isolates. Local BCoV strains showed considerable sequence divergence compared with international reference strains, suggesting ongoing viral evolution. In conclusion, co-infection between BCoV and S. aureus significantly increases disease severity in calves and highlights the importance of integrated molecular diagnostics and continuous phylogenetic surveillance for effective BRD control strategies.",
+    "authors": [
+      "Karrar Jasim Hamzah",
+      "Noor R Abady",
+      "Diyar Khlaif Flaifel",
+      "Sumod Abdul Kadhem Salman",
+      "Dhay Ali Abed",
+      "Ahmed Hamzah Mosa"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42683047/",
+    "doi": "10.1186/s13620-021-00200-7",
+    "journal": "Veterinary medicine international",
+    "score": 0.4459,
+    "fetched_at": "2026-09-02"
+  },
+  {
     "id": "pubmed:42583397",
     "source": "pubmed",
     "title": "Dynamic evolution of retroviral envelope-derived sequences in primates.",
@@ -1711,6 +1782,31 @@
     "doi": "10.1002/cyto.a.21015",
     "score": 0.4377,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42682518",
+    "source": "pubmed",
+    "title": "Dengue outbreaks in China during 2005-2023: a systematic analysis.",
+    "abstract": "Dengue fever is a major global public health concern. While China has not yet established stable, local transmission of the disease, imported cases frequently lead to local dengue epidemics throughout the year. This paper aims to outline the characteristics of dengue outbreaks in China between 2005 and 2023. We collected literature on dengue in China from various databases and extracted relevant data for analysis. This data included patients' sociodemographic characteristics, serotype composition, and clinical manifestations, which we then summarized and compared, evaluating the relationship between dengue virus (DENV) serotypes and clinical manifestations, and analyzing the monthly and regional distribution patterns of dengue fever cases based on case data obtained from the China Public Science and Health Data Center (CPC). In the included studies, the ratio of male to female was approximately 1:1, The age group with the highest proportion of dengue patients is those aged 30 to 39. Their occupations were predominantly business service, and the predominant serotype of the infection was DENV-1, followed by DENV-2. The major clinical signs and symptoms in dengue patients were fever, asthenia, and headache. Patients infected with DENV-1, 3 were associated with some specific clinical phenotypes. Dengue cases typically peak between September and October each year. Although these cases are primarily concentrated in the southern regions of China, there is a noticeable trend of increasing incidence in northern areas over time. This study offers an in-depth examination of the molecular epidemiology, clinical characteristics, and the seasonal and geographic distribution of dengue cases in China from 2005 to 2023. The findings provide valuable insights for future research on dengue epidemics.",
+    "authors": [
+      "Kun Peng",
+      "Xiaodan Huang",
+      "Pengxiang Huang",
+      "Hongli Zhao",
+      "Xiao Pan",
+      "Nuo Xu",
+      "Hao Yin",
+      "Yingchun Yang",
+      "Chenxin Han",
+      "Maoqing Gong",
+      "Hongmei Liu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42682518/",
+    "doi": "10.1371/journal.pntd.0013702",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4347,
+    "fetched_at": "2026-09-02"
   },
   {
     "id": "pubmed:42646672",
@@ -2893,6 +2989,23 @@
     "journal": "Vaccines",
     "score": 0.3184,
     "fetched_at": "2026-08-27"
+  },
+  {
+    "id": "pubmed:42681295",
+    "source": "pubmed",
+    "title": "An Introduction to Structural Phylogenetics for Biomedical Sciences.",
+    "abstract": "Structural phylogenetics offers a powerful framework for understanding the molecular basis of neural function and disease by combining evolutionary analysis with three-dimensional protein structure. While traditional protein-based phylogenetics relies mostly on amino acid sequences, recent advances in computational structure prediction have accelerated the integration of protein tertiary structures into phylogenetic studies. Since structure is more conserved than sequence, this approach may provide increased resolution in cases of high sequence divergence or mutational saturation, common issues in the study of complex, ancient, or fast-evolving protein families. In biomedical research, phylogenetics is a powerful approach for tracing the evolutionary origins and diversification of disease-related proteins. It provides a comparative framework to identify conserved structural motifs, function shifts, and predict potential targets for drug discovery and innovation. In neuroscience, these insights are especially valuable for uncovering the evolutionary basis of neural signaling, plasticity, and dysfunction. This chapter serves as a user-friendly practical tutorial for conducting structural phylogenetic analyses using accessible and computationally efficient tools, using synaptotagmins-calcium-sensing proteins essential for synaptic vesicle fusion-as a running example. This resource is designed for biomedical researchers seeking to integrate phylogenetics as a tool to build a comparative basis to strengthen their experimental design and improve their understanding of protein diversity and function.",
+    "authors": [
+      "Caroline Puente-Lelievre",
+      "Nicholas Matzke",
+      "Jordan Douglas"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42681295/",
+    "doi": "10.1093/molbev/msh112",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.3181,
+    "fetched_at": "2026-09-02"
   },
   {
     "id": "pubmed:42551586",
@@ -4120,6 +4233,31 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42680057",
+    "source": "pubmed",
+    "title": "Tracking Blastocystis sp. in mussels from Northern France in a One Health context: Seasonal dynamics, implications in marine fecal pollution and risk in human health.",
+    "abstract": "Blastocystis sp. is an intestinal protozoan with recognized zoonotic potential that is increasingly investigated in animals closely associated with humans or intended for food production. However, studies on mollusks remain limited, despite their high filtration capacity and ability to accumulate biological contaminants, making them valuable indicators of environmental pollution. Within a One Health framework, this study investigated the seasonal circulation of Blastocystis sp. in a coastal ecosystem in northern France through the analysis of mussels, cattle, and river water samples using real-time PCR. A total of 892 samples were analyzed, of which 14.5% tested positive. Mussels showed a prevalence of 22.7%, with marked seasonal variations suggesting fluctuations in environmental contamination. Cattle exhibited the highest prevalence (38.3%), while 18.8% of river water samples were contaminated. Sanger and next-generation sequencing of positive samples revealed substantial genetic diversity, with 14 subtypes (STs) identified in mussels, 8 in cattle, and 3 in water samples. The lack of host-specific STs, together with the low parasite loads assessed in mussels, suggests that these organisms act as passive accumulators rather than true hosts. Moreover, the broad ST diversity observed highlights ongoing circulation of Blastocystis sp. within this aquatic environment and widespread fecal contamination consistent with human, bovine, and avian sources. Overall, mussels appear to be effective bioindicators of multisource fecal pollution across interconnected ecosystems, emphasizing the potential risk of exposure to Blastocystis sp. through the handling or consumption of raw shellfish and the importance of strengthened environmental and public health surveillance.",
+    "authors": [
+      "Manon Ryckman",
+      "Constance Denoyelle",
+      "Magali Chabé",
+      "Nausicaa Gantois",
+      "Jeremy Desramaut",
+      "Luen-Luen Li",
+      "Ruben Garcia Dominguez",
+      "Christophe Audebert",
+      "Sébastien Monchy",
+      "Gabriela Certad",
+      "Eric Viscogliosi"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42680057/",
+    "doi": "10.1016/j.envpol.2026.129071",
+    "journal": "Environmental pollution (Barking, Essex : 1987)",
+    "score": 0.2069,
+    "fetched_at": "2026-09-02"
+  },
+  {
     "id": "pubmed:42579495",
     "source": "pubmed",
     "title": "The history of enzyme evolution embedded in metabolism.",
@@ -4205,6 +4343,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42683082",
+    "source": "pubmed",
+    "title": "Carbapenem-resistant Gram-negative pathogens: molecular epidemiology, diagnostic advances, and emerging therapeutic strategies.",
+    "abstract": "Carbapenem-resistant Gram-negative pathogens (CR-GNPs) have become an important global health problem, contributing significantly to healthcare-associated infections, extended hospital stays, high mortality rates, and higher healthcare costs. The dissemination of carbapenem resistance is mainly attributed to the spread of carbapenemase-encoding genes, such as the Klebsiella pneumoniae carbapenemase (KPC), the New Delhi metallo-β-lactamase (NDM), the Verona integron-encoded metallo-β-lactamase (VIM), the imipenemase (IMP), and the oxacillinase-48 (OXA-48)-like enzymes associated with clinically important Gram-negative pathogens, including Klebsiella pneumoniae, Escherichia coli, Acinetobacter baumannii, and Pseudomonas aeruginosa. As well as carbapenemase production, resistance can also develop via alteration of porins, upregulation of efflux pumps, and the buildup of several resistance factors, generating highly adaptable and hard-to-treat microbes. Phenotypic resistance patterns may not predict the underlying mechanism and accurate laboratory detection remains challenging. The identification and monitoring of carbapenem-resistant organisms have undergone improvement in recent years thanks to molecular diagnostics, rapid phenotypic tests, whole-genome sequencing and metagenomics. At the same time, new drugs have been developed, such as ceftazidime-avibactam, meropenem-vaborbactam, imipenem-relebactam, cefiderocol and combinations of aztreonam, offering increased treatment options, but with emerging resistance an issue. This mini review covers the molecular epidemiology of CR-GNPs, the latest developments and challenges in diagnosing these infections, new therapeutic options, and future perspectives on genomic surveillance, antimicrobial stewardship, and precision medicine strategies to address the increasing threat of carbapenem resistance.",
+    "authors": [
+      "Musharraf Khan",
+      "Praful Patil",
+      "Jaishriram Rathored"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42683082/",
+    "doi": "10.1016/j.ijid.2020.05.075",
+    "journal": "Frontiers in microbiology",
+    "score": 0.2043,
+    "fetched_at": "2026-09-02"
+  },
+  {
     "id": "pubmed:42565274",
     "source": "pubmed",
     "title": "Geographical and temporal patterns of cutaneous leishmaniasis in Pakistan: insight from a decade of epidemiology.",
@@ -4261,144 +4416,5 @@
     "doi": "10.1093/nar/gky949",
     "score": 0.1981,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42562967",
-    "source": "pubmed",
-    "title": "The Acute Respiratory Distress Syndrome (ARDS): epidemiology, etiology, molecular mechanisms, diagnosis and therapeutic strategies.",
-    "abstract": "Acute respiratory distress syndrome (ARDS) is a severe clinical condition characterized by acute hypoxemic respiratory failure (AHRF) and diffuse pulmonary inflammation, which can be triggered by diverse intrapulmonary, extrapulmonary, and host-related factors. Over recent decades, basic research and clinical trials have significantly advanced our understanding of ARDS mechanisms, and effective comprehensive critical care interventions, including lung-protective ventilation, prone positioning, and individualized fluid management, have been widely implemented. Nevertheless, ARDS continues to be associated with substantial morbidity and mortality, and its marked clinical and biological heterogeneity remains a major obstacle to effective management and therapeutic translation. This review summarizes current evidence on ARDS epidemiology, etiology, pathophysiology, diagnosis, and clinical management. We also trace the evolution of diagnostic criteria, including the latest global definition, and critically examine disease heterogeneity, recent advances in critical care strategies, emerging therapeutic approaches, barriers to clinical translation, and future research priorities. Particular emphasis is placed on integrating clinical, physiological, and multi-omics data to support biologically and clinically meaningful patient phenotyping grounded in disease mechanisms. Building on this phenotypic stratification, innovative trial designs, including predictive enrichment and adaptive platform trials, may facilitate the development of more individualized, targeted, and dynamically adjusted treatment strategies for ARDS. In summary, establishing a precision medicine framework for ARDS that integrates etiology, mechanistic insights, phenotype-based patient stratification, individualized therapeutic strategies, and long-term management will be essential to address current challenges and improve patient outcomes.",
-    "authors": [
-      "Defei Tan",
-      "Junlan Zhou",
-      "Lingling Li",
-      "Yanan Zhong",
-      "Ziping Cheng",
-      "Tao Yang"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42562967/",
-    "doi": "10.1097/CCM.0000000000002175",
-    "score": 0.1973,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42560298",
-    "source": "pubmed",
-    "title": "Multidrug-Resistant",
-    "abstract": "The review article is a critical examination of the growing global problem of multidrug-resistant (MDR) Salmonella and Shigella, focusing on their epidemiology, molecular resistance mechanisms, and clinical effects. It compiles current information on increasing resistance to major antibiotics, such as fluoroquinolones, third-generation cephalosporins, and sulfonamides, that is caused by a variety of factors, including ESBL production and plasmid-mediated gene transfer, especially in Asia, Africa, and the Middle East. The minireview discusses the new therapeutic approaches such as bacteriophage therapy, antimicrobial peptides, antimicrobials based on nanotechnology, and a combination of antibiotic regimens and their mechanisms, efficacy, and some limitations that exist in these approaches. In addition, it discusses the issues of diagnostic challenges, infection control practices, and antibiotic stewardship as part and parcel of resistance management. It will be a focused, evidence-based review to inform research, clinical practices, and policy to turn the trend of resistance around and enhance patient outcomes. The presented multidisciplinary review shows that MDR Salmonella and Shigella infections have become a threatening problem in the world, which requires urgent measures, including multilateral cooperation, improved molecular tracking, fast diagnostics, and new therapeutic options.",
-    "authors": [
-      "Abdullah Ali Almrwani",
-      "Bassam O Al-Johny",
-      "Ali Ahmad Shaibah",
-      "Adel M Qumusani",
-      "Saleh M Al-Maaqar"
-    ],
-    "date": "2026-Jun-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42560298/",
-    "doi": "10.3389/fmicb.2023.1176317",
-    "score": 0.1892,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42663045",
-    "source": "pubmed",
-    "title": "Total-evidence dating analysis of Osmundaceae reveals long-term extinction amid global climatic and palaeogeographic changes.",
-    "abstract": "Research efforts have focused on assessing how diversification, morphological evolution, and biogeographic history drive diversity across a wide array of taxonomic groups; however, their interplay remains poorly understood in ferns. Here, we conduct total-evidence dating analyses of Osmundaceae-an iconic species-poor lineage that once dominated Mesozoic forest understories. Based on dense fossil sampling and a skyline fossilised birth-death model, we assess changes in diversification rates and morphological disparity through time. Further, by using a novel diffusion-based approach, we reconstruct the biogeographic history of Osmundaceae under a dynamic palaeogeographic context. To perform dating analyses, we combined a novel morphological dataset of 31 characters with seven plastid markers, covering 17 extant taxa and 27 fossils. Divergence times were inferred across alternative variations of skyline fossilised birth-death (sFBD) tree model. Disparity-through-time analyses were performed by reconstructing ancestral character states in the dated phylogeny inferred using the best-fit model. Biogeographic diffusion models were reconstructed by estimating presence probabilities for each pixel across a dynamic paleogeographic landscape, and considering Earth's sphericity. Our analyses support an Early Permian radiation of fertile leptopteroids (289.32 Ma). We identified low diversification and elevated relative extinction rates, and a contraction of the morphospace, following the Toarcian Oceanic Anoxic (TOA) event. High extinction rates persisted throughout the Mesozoic, delaying recovery until the Miocene. Character change rates decelerated after the Early Jurassic, coinciding with a long-term decline in lineage number and morphospace contraction. Antarctica is reconstructed as the primary centre of radiation for crown leptopteroids. The evolutionary history of Osmundaceae is marked by prolonged high extinction, decelerated character change rates, and morphospace contraction following the TOA event. Our analyses reveal that Antarctica served as the primary centre of radiation for crown leptopteroids, which diversified from an Antarctic relict population rather than via dispersal through the continent.",
-    "authors": [
-      "María José Urrea",
-      "Agustina Yañez",
-      "Jorge R Flores"
-    ],
-    "date": "2026-Aug-28",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42663045/",
-    "doi": "10.1093/aob/mcag269",
-    "journal": "Annals of botany",
-    "score": 0.1798,
-    "fetched_at": "2026-08-29"
-  },
-  {
-    "id": "pubmed:42570800",
-    "source": "pubmed",
-    "title": "Establishment and characterization of a Monochamus alternatus cell line for molecular biological analyses.",
-    "abstract": "Pine wilt disease (PWD) is one of the most destructive global forest diseases, causing extensive mortality in pine trees and severe economic and ecological damage. PWD is caused by the pinewood nematode Bursaphelenchus xylophilus, which is transmitted by Monochamus beetles. Despite the critical role of M. alternatus in PWD epidemiology, molecular and cellular studies of this species have been severely limited by the lack of a continuous cell line suitable for functional analyses. In this study, the first continuous insect cell line derived from M. alternatus, designated NARO-Moal, was produced from prepupal fat bodies. The cell line has been stably maintained for over 50 passages and adapted to the commercially available Grace's Insect Medium. To provide a molecular framework for functional studies, de novo transcriptome sequencing of NARO-Moal cells generated an assembly of 14,141 genes with 89.5% completeness, based on BUSCO analysis. The NARO-Moal cells supported transient gene expression following plasmid transfection and showed efficient RNA interference in response to simple soaking with double-stranded RNA. Moreover, this cell line responded to juvenile hormone at the gene expression level and supported stable infection with Wolbachia. These results revealed that the NARO-Moal cell line is a versatile molecular and cellular platform for gene functional analysis, endocrine signaling, and symbiotic research in M. alternatus, providing new opportunities for mechanistic studies and the development of innovative strategies to control pine wilt disease.",
-    "authors": [
-      "Kazuyo Watanabe",
-      "Jun Takatsuka",
-      "Takuya Aikawa",
-      "Takumi Kayukawa"
-    ],
-    "date": "2026-Aug-08",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42570800/",
-    "doi": "10.1016/j.ibmb.2026.104657",
-    "score": 0.1751,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42568067",
-    "source": "pubmed",
-    "title": "Proteomic Mediators of Chronic Obstructive Pulmonary Disease Phenotypes and Coronary Artery Calcification Burden in Ever Smokers.",
-    "abstract": "Chronic obstructive pulmonary disease (COPD) increases cardiovascular disease risk. Coronary artery calcification (CAC) predicts cardiovascular events and mortality in COPD. We hypothesized that plasma proteins linked to pulmonary phenotypes mediate CAC burden. Pulmonary function, emphysema, airway wall thickening, Agatston CAC scores (inverse normal transformed), and relative abundance of 1305 plasma proteins (log-transformed) were assessed in 989 Phase 1 COPDGene (Genetic Epidemiology of COPD) participants. Proteins associated with both pulmonary phenotypes (FEV1[forced expiratory volume in 1 second]%predicted, FVC [forced vital capacity], FEV1/FVC, emphysema, airway wall thickness, wall area percentage) and CAC (false discovery rate P≤0.20) were evaluated using multivariable mediation. Model adjustments included sex, age, race, body mass index, smoking, comorbidities, and medications. Adjustment for pulmonary artery-to-aortic diameter ratio-a marker of pulmonary vascular pressure-was also explored. The95% bootstrap CIs that excluded zero were considered significant. FEV1%predicted (P=0.026) and FEV1/FVC (P=0.010) were associated with CAC. After adjusting for FEV1, visual emphysema, and visual airway wall thickening remained associated with CAC. Five proteins (TSP2 [thrombospondin-2], renin, MMP-7 [matrix metalloproteinase-7], ERBB1 [epidermal growth factor receptor], MIC-1 [macrophage inhibitory cytokine-1]) mediated the FEV1%predicted and CAC association. All except MIC-1 mediated FEV1/FVC and CAC. All except renin mediated quantitative airway wall thickness or wall area percentage and CAC. Additionally, α2-antiplasmin (alpha-2 antiplasmin) mediated airway wall thickness and CAC. ERBB1 mediated visual paraseptal emphysema and CAC. Pulmonary artery-to-aortic diameter ratio adjustment reduced or eliminated some mediation effects. ERBB1 remained an independent mediator across multiple phenotypes. Six plasma proteins mediated associations between COPD phenotypes and CAC burden. These effects were partially influenced by pulmonary artery-to-aortic diameter ratio A, suggesting shared molecular pathways linking lung dysfunction to cardiovascular risk in COPD.",
-    "authors": [
-      "Asghar Abbasi",
-      "Khadije Ahmad",
-      "Katherine A Pratte",
-      "Jeff Moore",
-      "Dawn L DeMeo",
-      "Venkat S Manubolu",
-      "April Kinninger",
-      "Nicholas B Tiller",
-      "Russell P Bowler",
-      "Mathew Budoff",
-      "Richard Casaburi",
-      "Harry B Rossiter"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568067/",
-    "doi": "10.1161/JAHA.125.046201",
-    "score": 0.1747,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42557930",
-    "source": "pubmed",
-    "title": "Epidemiology, Diversity, Physiology, and Chemical Management of Rhizoctonia solani Causing Web Blight in Country Bean.",
-    "abstract": "Country bean (Lablab purpureus L.) is an economically significant legume vegetable in Bangladesh, but its production is threatened by a new disease, web blight caused by Rhizoctonia solani. This study presented a comprehensive analysis of the pathogen's epidemiology, genetic diversity, physiology, host resistance, and chemical control strategies. Field surveys in six upazilas of Gazipur district revealed high disease prevalence (50%-80%), with incidence and severity ranging from 59%-92% to 38%-52%, respectively, peaking in October-November. Thirty isolates of R. solani were collected, and molecular characterization of four representative isolates identified AG-1 IA, AG-1 ID, and AG-5, indicating preliminary genetic variability among representative isolates. The detection of AG-1 ID and AG-5 is the first report on country bean. Optimal fungal growth occurred at 25°C-30°C and pH 7.0-9.0, with peptone, L-arginine, sodium nitrate, sorbitol, mannitol, and galactose as preferred nutrient sources. Maximum virulence, as measured by disease incidence, severity, and lesion development, was observed at 30°C. The pathogen exhibited a broad host range, infecting crops across Fabaceae, Poaceae, and Solanaceae. Screening of 94 country bean genotypes revealed a general lack of resistance, with most exhibiting moderate to high susceptibility. Among tested fungicides, Autostin 50 WG (carbendazim) and Nativo 75 WG (tebuconazole + trifloxystrobin) showed complete inhibition of mycelial growth in vitro. In planta application significantly reduced disease severity, achieving 83%-85% protection in preventive and 77%-81% in curative treatments, with efficacy lasting up to 15 days. These findings offer a novel insight into the web blight pathosystem in country bean, supporting the development of effective disease management strategies.",
-    "authors": [
-      "Sayed Shahidul Islam",
-      "Md Abdul Kader",
-      "Umakanta Sarker",
-      "Shaikh Sharmin Siddique",
-      "Md Motaher Hossain"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42557930/",
-    "doi": "10.1094/pdis-08-20-1806-re",
-    "score": 0.1726,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42602526",
-    "source": "pubmed",
-    "title": "Gender and region disparities in plasma PCSK9 levels: a systematic review and meta-analysis.",
-    "abstract": "Circulating proprotein convertase subtilisin/kexin 9 (PCSK9) levels may differ by sex and geographic region, but evidence remains inconsistent. This systematic review and meta-analysis quantifies these differences in adults with hyperlipidaemia, atherosclerotic cardiovascular disease (ASCVD) or elevated ASCVD risk. We searched MEDLINE, Web of Science, Cochrane Central and EMBASE through August 2024 for studies reporting plasma PCSK9 in ≥10 adults. Two reviewers extracted data and assessed bias. Random-effects models pooled standardised mean differences (SMDs) or means; heterogeneity was evaluated by I2, with subgroup and sensitivity analyses exploring its sources. For gender, 13 studies (5 706 participants) showed significantly higher PCSK9 in females than males (SMD -0.35, 95% CI -0.49 to -0.20; p=0.033; I2=54%). Single-sex studies corroborated this: female-only mean 350.66 ng/mL (95% CI 301.86 to 399.46) versus male-only 228.36 ng/mL (95% CI 176.33 to 280.39). For region, 63 studies (34 802 participants) from Asia, Europe and North America yielded no significant overall difference (p=0.569); after outlier exclusion, pooled means were 250.39 (95% CI 217.70 to 283.08), 269.27 (95% CI 230.24 to 308.31) and 301.76 (95% CI 194.28 to 409.23) ng/mL, with I2=0% within subgroups. Sensitivity analyses confirmed robustness; most studies were high quality. GRADE (Grading of Recommendations, Assessment, Development and Evaluation) certainty was moderate for sex and low for region. In these clinical populations, women have higher circulating PCSK9 levels than men, while regional differences were not statistically significant. These findings support gender-conscious interpretation of baseline PCSK9 values but do not establish PCSK9 inhibitor dosing or treatment strategies.",
-    "authors": [
-      "Tongyue Li",
-      "Zhengyu Wang",
-      "Haozhi Gong",
-      "Tao Wang",
-      "Xue Wang",
-      "Yifan Yang",
-      "Renjie Yang",
-      "Ran Xu",
-      "Bin Yang",
-      "Yan Ma",
-      "Jichang Luo",
-      "Liqun Jiao"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42602526/",
-    "doi": "10.1136/bmjph-2024-002372",
-    "score": 0.1717,
-    "fetched_at": "2026-08-15"
   }
 ]

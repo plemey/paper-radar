@@ -1,0 +1,176 @@
+[
+  {
+    "id": "pubmed:42683082",
+    "source": "pubmed",
+    "title": "Carbapenem-resistant Gram-negative pathogens: molecular epidemiology, diagnostic advances, and emerging therapeutic strategies.",
+    "abstract": "Carbapenem-resistant Gram-negative pathogens (CR-GNPs) have become an important global health problem, contributing significantly to healthcare-associated infections, extended hospital stays, high mortality rates, and higher healthcare costs. The dissemination of carbapenem resistance is mainly attributed to the spread of carbapenemase-encoding genes, such as the Klebsiella pneumoniae carbapenemase (KPC), the New Delhi metallo-β-lactamase (NDM), the Verona integron-encoded metallo-β-lactamase (VIM), the imipenemase (IMP), and the oxacillinase-48 (OXA-48)-like enzymes associated with clinically important Gram-negative pathogens, including Klebsiella pneumoniae, Escherichia coli, Acinetobacter baumannii, and Pseudomonas aeruginosa. As well as carbapenemase production, resistance can also develop via alteration of porins, upregulation of efflux pumps, and the buildup of several resistance factors, generating highly adaptable and hard-to-treat microbes. Phenotypic resistance patterns may not predict the underlying mechanism and accurate laboratory detection remains challenging. The identification and monitoring of carbapenem-resistant organisms have undergone improvement in recent years thanks to molecular diagnostics, rapid phenotypic tests, whole-genome sequencing and metagenomics. At the same time, new drugs have been developed, such as ceftazidime-avibactam, meropenem-vaborbactam, imipenem-relebactam, cefiderocol and combinations of aztreonam, offering increased treatment options, but with emerging resistance an issue. This mini review covers the molecular epidemiology of CR-GNPs, the latest developments and challenges in diagnosing these infections, new therapeutic options, and future perspectives on genomic surveillance, antimicrobial stewardship, and precision medicine strategies to address the increasing threat of carbapenem resistance.",
+    "authors": [
+      "Musharraf Khan",
+      "Praful Patil",
+      "Jaishriram Rathored"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42683082/",
+    "doi": "10.1016/j.ijid.2020.05.075",
+    "journal": "Frontiers in microbiology",
+    "score": 0.2043,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42683047",
+    "source": "pubmed",
+    "title": "Molecular and Clinical Study of Bovine Coronavirus and",
+    "abstract": "Bovine respiratory disease (BRD) is a multifactorial syndrome causing major economic losses in cattle production worldwide. The present study investigated the prevalence, molecular characterization, and phylogenetic relationship of bovine coronavirus (BCoV) and Staphylococcus aureus co-infection in calves exhibiting respiratory and enteric signs. A total of 80 nasal and fecal samples were collected from calves aged 2 weeks to 2 months, showing clinical signs ranging from mild to acute disease. Clinical severity was categorized according to fever, dehydration, diarrhea, and respiratory distress. Molecular detection of BCoV was performed using real-time RT-PCR and conventional PCR targeting the N gene, while S. aureus isolates were identified by bacteriological culture, biochemical tests, and 16S rRNA gene amplification. Phylogenetic analysis was conducted using MEGA software and sequence alignment tools. The results showed that BCoV was detected in 35% of examined samples, while S. aureus was identified in 28% of cases. Co-infection was observed in 15% of calves and was significantly associated with severe clinical manifestations (p < 0.05). Acute and moderate cases demonstrated markedly higher BCoV positivity compared with mild cases. Agarose gel electrophoresis confirmed amplification of the BCoV N gene at 205 bp and the S. aureus 16S rRNA gene at approximately 1500 bp. Sequence alignment of local S. aureus isolates revealed highly conserved nucleotide regions, whereas phylogenetic analysis demonstrated genetic diversity among both bacterial and viral isolates. Local BCoV strains showed considerable sequence divergence compared with international reference strains, suggesting ongoing viral evolution. In conclusion, co-infection between BCoV and S. aureus significantly increases disease severity in calves and highlights the importance of integrated molecular diagnostics and continuous phylogenetic surveillance for effective BRD control strategies.",
+    "authors": [
+      "Karrar Jasim Hamzah",
+      "Noor R Abady",
+      "Diyar Khlaif Flaifel",
+      "Sumod Abdul Kadhem Salman",
+      "Dhay Ali Abed",
+      "Ahmed Hamzah Mosa"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42683047/",
+    "doi": "10.1186/s13620-021-00200-7",
+    "journal": "Veterinary medicine international",
+    "score": 0.4459,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42682518",
+    "source": "pubmed",
+    "title": "Dengue outbreaks in China during 2005-2023: a systematic analysis.",
+    "abstract": "Dengue fever is a major global public health concern. While China has not yet established stable, local transmission of the disease, imported cases frequently lead to local dengue epidemics throughout the year. This paper aims to outline the characteristics of dengue outbreaks in China between 2005 and 2023. We collected literature on dengue in China from various databases and extracted relevant data for analysis. This data included patients' sociodemographic characteristics, serotype composition, and clinical manifestations, which we then summarized and compared, evaluating the relationship between dengue virus (DENV) serotypes and clinical manifestations, and analyzing the monthly and regional distribution patterns of dengue fever cases based on case data obtained from the China Public Science and Health Data Center (CPC). In the included studies, the ratio of male to female was approximately 1:1, The age group with the highest proportion of dengue patients is those aged 30 to 39. Their occupations were predominantly business service, and the predominant serotype of the infection was DENV-1, followed by DENV-2. The major clinical signs and symptoms in dengue patients were fever, asthenia, and headache. Patients infected with DENV-1, 3 were associated with some specific clinical phenotypes. Dengue cases typically peak between September and October each year. Although these cases are primarily concentrated in the southern regions of China, there is a noticeable trend of increasing incidence in northern areas over time. This study offers an in-depth examination of the molecular epidemiology, clinical characteristics, and the seasonal and geographic distribution of dengue cases in China from 2005 to 2023. The findings provide valuable insights for future research on dengue epidemics.",
+    "authors": [
+      "Kun Peng",
+      "Xiaodan Huang",
+      "Pengxiang Huang",
+      "Hongli Zhao",
+      "Xiao Pan",
+      "Nuo Xu",
+      "Hao Yin",
+      "Yingchun Yang",
+      "Chenxin Han",
+      "Maoqing Gong",
+      "Hongmei Liu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42682518/",
+    "doi": "10.1371/journal.pntd.0013702",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4347,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42682318",
+    "source": "pubmed",
+    "title": "Emergence of novel highly pathogenic H5N1 avian influenza in slender-billed gulls (",
+    "abstract": "Highly pathogenic avian influenza (HPAI) H5N1 continues to cause severe mortality among wild birds globally. The present study aimed to investigate the mass mortality in Slender-billed Gulls (Chroicocephalus genei) and Gull-billed Terns (Gelochelidon nilotica) at Dukan Lake, Iraq, during the 2024 breeding season. Field monitoring was conducted at breeding colonies, and dead carcasses were collected for necropsy, histopathology, and molecular analysis. Virus detection and genetic characterization were performed by reverse transcription polymerase chain reaction and sequencing. In addition, the viral lineage was inferred by phylogenetic analysis of the hemagglutinin (HA) and neuraminidase (NA) genes. More than 3,200 gulls and terns were found dead, exhibiting severe neurological signs and systemic illness. Necropsy and histopathological investigations indicated significant multi-organ damage, with gulls showing more pronounced visceral lesions than terns, while terns exhibited greater neurological damage. Molecular characterization confirmed the virus as HPAI H5N1, and analysis of the HA and NA genes revealed that the strain from Dukan Lake falls within clade 2.3.4.4b, displaying a high genetic resemblance (>98%) with the recently identified H5N1 strain isolated from Mute swans in Kazakhstan. The virus showed multibasic cleavage sites characteristic of high pathogenicity but maintained receptor-binding specificity for avian hosts. Moreover, the results demonstrate the recent introduction of the virus via migratory flyways and the significance of gulls and terns in the disease ecology of HPAI virus (HPAIV). This outbreak is the first recorded mass mortality of gulls and terns due to HPAI H5N1 in Iraq. The results emphasize the need for improved surveillance at migratory stopover and breeding sites to observe viral evolution, host susceptibility, and potential risks for cross-species transmission.",
+    "authors": [
+      "Nasih Ali",
+      "Harem Mustafa",
+      "Nadia Salih",
+      "Pavel Qader",
+      "Snur Hassan",
+      "Dashty Amin"
+    ],
+    "date": "2026-Feb-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42682318/",
+    "doi": "10.1177/0192623308315832",
+    "journal": "Open veterinary journal",
+    "score": 0.6354,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42681295",
+    "source": "pubmed",
+    "title": "An Introduction to Structural Phylogenetics for Biomedical Sciences.",
+    "abstract": "Structural phylogenetics offers a powerful framework for understanding the molecular basis of neural function and disease by combining evolutionary analysis with three-dimensional protein structure. While traditional protein-based phylogenetics relies mostly on amino acid sequences, recent advances in computational structure prediction have accelerated the integration of protein tertiary structures into phylogenetic studies. Since structure is more conserved than sequence, this approach may provide increased resolution in cases of high sequence divergence or mutational saturation, common issues in the study of complex, ancient, or fast-evolving protein families. In biomedical research, phylogenetics is a powerful approach for tracing the evolutionary origins and diversification of disease-related proteins. It provides a comparative framework to identify conserved structural motifs, function shifts, and predict potential targets for drug discovery and innovation. In neuroscience, these insights are especially valuable for uncovering the evolutionary basis of neural signaling, plasticity, and dysfunction. This chapter serves as a user-friendly practical tutorial for conducting structural phylogenetic analyses using accessible and computationally efficient tools, using synaptotagmins-calcium-sensing proteins essential for synaptic vesicle fusion-as a running example. This resource is designed for biomedical researchers seeking to integrate phylogenetics as a tool to build a comparative basis to strengthen their experimental design and improve their understanding of protein diversity and function.",
+    "authors": [
+      "Caroline Puente-Lelievre",
+      "Nicholas Matzke",
+      "Jordan Douglas"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42681295/",
+    "doi": "10.1093/molbev/msh112",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.3181,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42681034",
+    "source": "pubmed",
+    "title": "Synchronous Induction and Microscopic Analysis of Hyphal Growth Using Laboratory Strain AB33.",
+    "abstract": "In nature, hyphal growth of Ustilago maydis is strictly coupled to plant infection and initiated after mating of two genetically compatible yeast cells on the plant surface. Compatibility is defined by mating type loci: the biallelic a locus mediates recognition and fusion through a pheromone/receptor system, whereas the multiallelic b locus, encoding transcription factor subunits bEast (bE) and bWest (bW), establishes and maintains the dikaryotic hypha controlled via the assembly of compatible subunits into active heterodimers after plasmogamy. The laboratory strain AB33 enables a controlled transition from yeast-like cells to monokaryotic hyphae in liquid culture without mating. This relies on a genetic trick where the expression of the compatible subunits bW2 and bE1 is under the control of a nitrate-inducible promoter, allowing synchronous hyphae induction by switching from ammonium- to nitrate-containing medium. This system allows the study of processes associated with hyphal growth independently of plant infection and permits microscopic and microfluidic observations, providing a powerful tool for addressing fundamental cell biological questions and beyond. Here, a protocol for synchronous induction of hyphal growth in liquid cultures is described, together with practical guidelines for obtaining high-quality microscopic images using formaldehyde fixation, agarose pad preparation, and mitochondrial staining with TMRE.",
+    "authors": [
+      "Johannes Postma",
+      "Pascal Künzel",
+      "Nick Wierckx",
+      "Kerstin Schipper",
+      "Michael Feldbrügge"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42681034/",
+    "doi": "10.1093/emboj/19.9.1974",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.1656,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42680782",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of foot-and-mouth disease viruses collected from Khartoum, Blue Nile, and Northern States of Sudan (2019-2022).",
+    "abstract": "Foot-and-mouth disease (FMD) is a highly contagious transboundary viral disease causing significant economic losses in livestock. This study investigated the serotype distribution and molecular epidemiology of FMD viruses (FMDV) circulating in Sudan between 2019 and 2022. A total of 51 epithelial tissue samples were collected from outbreaks in Khartoum, Blue Nile and Northern States. Samples were analyzed via virus isolation in bovine thyroid cell culture (BTY), antigen detection ELISA, and real-time reverse transcription PCR (rRT-PCR). Antigen detection ELISA successfully typed 13 of 51 (25.5%) epithelial tissue samples, of which 10 were identified as serotype A and 3 as serotype O. In contrast, rRT-PCR detected FMDV RNA in 33 of the 35 samples (94.3%) that were suitable for molecular analysis, showing the superior diagnostic sensitivity of this molecular method. FMDV positive samples were further characterized by sequencing the VP1-coding region. These data demonstrated the presence of two serotypes (A and O), while SAT serotypes were not detected during the study period. Serotype A was detected in outbreaks during 2019, 2021 and 2022, while serotype O predominated in 2020. Phylogenetic analysis of VP1-coding sequences showed that serotype A sequences clustered within the A/AFRICA topotype, lineage G-IV and were closely related to strains from Egypt and Ethiopia. Serotype O sequences were clustered within the EAST AFRICA-3 (EA-3) topotype and showed ≥ 96% identity with the Egyptian isolates. VP1 analysis revealed conserved functional motifs alongside variability within the immunodominant antigenic region, suggestive of ongoing viral evolution with potential implications for vaccine effectiveness. These results suggested the persistent circulation of FMDV serotypes A and O in Sudan with close genetic relationships to viruses recovered from neighboring countries. These findings suggested the transboundary transmission of FMDVs and a role for cross-border livestock movements in virus dissemination. Continuous molecular surveillance and regional cooperation are essential to improve vaccine matching and strengthen FMD control strategies in endemic regions.",
+    "authors": [
+      "Maysa Ragab",
+      "Yassir A Almofti",
+      "Yazeed A Rauouf",
+      "Nick J Knowles",
+      "Donald P King",
+      "Jemma Wadsworth",
+      "Hayley M Hicks",
+      "Haitham Saeed",
+      "Omima Abd Algalil",
+      "Ibrahim Albokhadaim",
+      "Ahmed O Alameen",
+      "Mahmoud Kandeel",
+      "Samir Alhojaily",
+      "Mohammed Ali Al-Hammadi",
+      "Jamal Hussen",
+      "Mustafa Shukry",
+      "Bahaa Al-Trad"
+    ],
+    "date": "2026-Aug-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42680782/",
+    "doi": "10.1128/JCM.42.5.2108-2114.2004",
+    "journal": "Scientific reports",
+    "score": 0.4814,
+    "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42680057",
+    "source": "pubmed",
+    "title": "Tracking Blastocystis sp. in mussels from Northern France in a One Health context: Seasonal dynamics, implications in marine fecal pollution and risk in human health.",
+    "abstract": "Blastocystis sp. is an intestinal protozoan with recognized zoonotic potential that is increasingly investigated in animals closely associated with humans or intended for food production. However, studies on mollusks remain limited, despite their high filtration capacity and ability to accumulate biological contaminants, making them valuable indicators of environmental pollution. Within a One Health framework, this study investigated the seasonal circulation of Blastocystis sp. in a coastal ecosystem in northern France through the analysis of mussels, cattle, and river water samples using real-time PCR. A total of 892 samples were analyzed, of which 14.5% tested positive. Mussels showed a prevalence of 22.7%, with marked seasonal variations suggesting fluctuations in environmental contamination. Cattle exhibited the highest prevalence (38.3%), while 18.8% of river water samples were contaminated. Sanger and next-generation sequencing of positive samples revealed substantial genetic diversity, with 14 subtypes (STs) identified in mussels, 8 in cattle, and 3 in water samples. The lack of host-specific STs, together with the low parasite loads assessed in mussels, suggests that these organisms act as passive accumulators rather than true hosts. Moreover, the broad ST diversity observed highlights ongoing circulation of Blastocystis sp. within this aquatic environment and widespread fecal contamination consistent with human, bovine, and avian sources. Overall, mussels appear to be effective bioindicators of multisource fecal pollution across interconnected ecosystems, emphasizing the potential risk of exposure to Blastocystis sp. through the handling or consumption of raw shellfish and the importance of strengthened environmental and public health surveillance.",
+    "authors": [
+      "Manon Ryckman",
+      "Constance Denoyelle",
+      "Magali Chabé",
+      "Nausicaa Gantois",
+      "Jeremy Desramaut",
+      "Luen-Luen Li",
+      "Ruben Garcia Dominguez",
+      "Christophe Audebert",
+      "Sébastien Monchy",
+      "Gabriela Certad",
+      "Eric Viscogliosi"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42680057/",
+    "doi": "10.1016/j.envpol.2026.129071",
+    "journal": "Environmental pollution (Barking, Essex : 1987)",
+    "score": 0.2069,
+    "fetched_at": "2026-09-02"
+  }
+]
