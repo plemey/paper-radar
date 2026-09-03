@@ -1,0 +1,133 @@
+[
+  {
+    "id": "pubmed:42690849",
+    "source": "pubmed",
+    "title": "HPV genotype distribution and associated risk factors in women from Karad, Maharashtra: A molecular characterisation study.",
+    "abstract": "Human papillomavirus (HPV) genotype distribution varies regionally, influencing vaccination and screening strategies. This molecular characterisation study determined HPV prevalence and circulating genotypes among 225 women (≥30 y) attending gynaecological clinics in Karad, Satara district, Maharashtra. HPV DNA was detected in 14 participants (6.2%) using polymerase chain reaction (PCR) and sequencing. Identified genotypes included HPV-6, HPV-59, HPV-66, and HPV-81, indicating circulation of both low-risk and high-risk types. Multiple sexual partners showed the strongest association with HPV infection. These preliminary findings highlight the need for region-specific genotype surveillance to inform prevention strategies.",
+    "authors": [
+      "Vinit Nitin Deshmukh",
+      "Satish R Patil",
+      "Dilip D Hinge",
+      "Priyanka S Jadhav"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42690849/",
+    "doi": "10.25259/IJMR_4_2026",
+    "journal": "The Indian journal of medical research",
+    "score": 0.3362,
+    "fetched_at": "2026-09-03"
+  },
+  {
+    "id": "pubmed:42690391",
+    "source": "pubmed",
+    "title": "Respiratory viral co-detection in paediatric SARS-CoV-2 infection: associations with viral co-circulation and clinical phenotypes.",
+    "abstract": "Respiratory viral infections in children are characterised by the co-circulation of multiple viral pathogens, but the relevance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) co-detection with other respiratory viruses remains unclear. To evaluate the clinical and epidemiological implications of respiratory viral co-detection and the impact of viral diversity in paediatric SARS-CoV-2 infection. We conducted a retrospective-prospective molecular epidemiology study including children (0-11 years) with reverse transcription-polymerase chain reaction (RT-PCR)-confirmed SARS-CoV-2 infection in Natal, northeast Brazil, between 2021 and 2024. Samples were analysed by multiplex RT-PCR for ten respiratory viruses. Associations between co-detection, the number of co-detected viruses, and clinical manifestations were assessed using multivariable logistic regression. Among 545 cases, 13.2% showed viral co-detection. Co-detection was associated with dyspnoea, respiratory distress, low oxygen saturation, and diarrhoea, and inversely associated with cough. An increasing number of co-detected viruses was linked to more severe manifestations. Distinct viral combinations were associated with different clinical profiles. SARS-CoV-2 viral load and variants were not associated with co-detection. Respiratory viral co-detection is associated with distinct clinical and epidemiological profiles influenced by the number of co-detected viruses and viral combinations. These findings highlight the role of viral co-circulation and suggest interactions among respiratory viruses in the clinical expression of disease in children.",
+    "authors": [
+      "Jayra Juliana Paiva Alves",
+      "Iago de Souza Gomes",
+      "Themis Rocha de Souza",
+      "Isabelle Cristina Clemente Santos",
+      "Pedro Henrique Ferreira Cavalcanti",
+      "Janaína Sonale Cavalcante Nogueira de Oliveira",
+      "Sônia Carmem Morais Leite",
+      "Ana Paula Ferreira Costa",
+      "Magaly Cristina Bezerra Câmara",
+      "Derley Galvão de Oliveira",
+      "Ana Helena Silva Moura",
+      "Wallace Pitanga Bezerra",
+      "Senei da Rocha Henrique",
+      "Karoline Ferreira Nascimento de Oliveira",
+      "Laiane Graziela Paulino da Costa",
+      "Paola Cristina Resende",
+      "Marcelo Ribeiro-Alves",
+      "Marilda Mendonça Siqueira",
+      "Josélio Maria Galvão de Araújo",
+      "Cristiana Couto Garcia"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42690391/",
+    "doi": "10.1590/0074-02760260121",
+    "journal": "Memorias do Instituto Oswaldo Cruz",
+    "score": 0.4676,
+    "fetched_at": "2026-09-03"
+  },
+  {
+    "id": "pubmed:42688907",
+    "source": "pubmed",
+    "title": "Near-Whole-Genome Sequencing of Peste Des Petits Ruminants Virus Lineage IV From the Savannah District, Northern Côte d'Ivoire in 2023.",
+    "abstract": "Peste des petits ruminants (PPR) is a highly contagious viral disease affecting sheep and goats, causing substantial economic losses in endemic countries. In the Savannah district of Côte d'Ivoire, knowledge of the genetic diversity and molecular epidemiology of the PPR virus (PPRV) remains limited. This study investigated the genetic diversity and phylogenetic relationships of PPRV circulating in this region using whole-genome sequencing (WGS). A cross-sectional survey was conducted between September and December 2023. Nasal swabs collected from sheep and goats were screened for PPRV ribonucleic acid (RNA) using real-time reverse transcription polymerase chain reaction (RT-qPCR). Samples with low quantification cycle (Cq) values of less than 35 and successful multiplex PCR amplification profiles were selected for sequencing using the Oxford Nanopore MinION platform. Near-complete consensus genomes were generated through reference-based assembly and analysed alongside representative strains from all recognised PPRV lineages. Of the 355 samples analysed, 25 (7.0%) tested positive for PPRV RNA, with positive detections in all three surveyed regions (Poro, Tchologo and Bagoué). The four samples with the lowest Cq values, originating from all three administrative regions, were successfully sequenced, generating genomes that covered 82.0%-86.2% of the reference genome at a depth of ≥ 10 ×. The missing regions were mainly located at the 5' and 3' genomic termini, as well as in limited internal regions associated with amplicon dropout. Phylogenetic analysis revealed that all four sequences belonged to lineage IV and exhibited high nucleotide similarity (98.1%-99.9%). The Ivorian strains clustered with recent lineage IV viruses from West, North and Central Africa, whereas historical Ivorian lineages I and II formed distinct clades. These findings confirm the predominance of lineage IV in northern Côte d'Ivoire and provide baseline genomic data to support molecular epidemiological surveillance in the region.",
+    "authors": [
+      "Konan Ange-Sylvestre Goli",
+      "Jean Nepomuscene Hakizimana",
+      "Augustino Alfred Chengula",
+      "Kiffopan Benjamin M'Bari",
+      "Charlie Franck Amoia",
+      "Melvyn Quan",
+      "Mariam Makange",
+      "Peter N Thompson",
+      "Gerald Misinzo"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42688907/",
+    "doi": "10.1371/journal.pone.0175461",
+    "journal": "Veterinary medicine international",
+    "score": 0.4785,
+    "fetched_at": "2026-09-03"
+  },
+  {
+    "id": "pubmed:42686647",
+    "source": "pubmed",
+    "title": "Structural Phylogenetics Identifies Conserved Effector Families and Cell Death-Inducing Proteins from",
+    "abstract": "Cercospora zeina causes gray leaf spot disease on maize in Africa. As a foliar fungal pathogen, C. zeina relies on effectors to facilitate successful infection and colonization of its host. Predicting effector function is therefore essential for understanding the molecular mechanisms underlying this plant-pathogen interaction. Although effector functions are typically predicted using sequence-based analyses, many effectors are subject to strong selection pressure and exhibit high sequence diversity, reducing the accuracy of such predictions. In this study, a structural phylogenetics approach was employed to identify effector structural families in C. zeina and to assign putative functions to C. zeina candidate secreted effector proteins based on their structural clustering with functionally characterized effectors from related phytopathogens. Twenty-two effector structural families were identified, several of which contained effectors shown to induce cell death in Nicotiana benthamiana. It was therefore hypothesized that C. zeina effectors belonging to these structural families would exhibit similar functions. Three families containing cell death-inducing effectors ZtCDI1, MgNLP, VdPEVD1with high structural similarity and low sequence identity to C. zeina effectors were selected for biological validation. Transient expression of C. zeina effectors from these families induced cell death in N. benthamiana. These C. zeina structural analogs were expressed in either the latent (CDI1-like) or necrotrophic (NLP-like, PevD1-like) phase of GLS disease in maize. This work shows that structural phylogenetics can be employed to predict effector function and identify structurally related, cell death-inducing effectors with divergent amino acid sequences in C. zeina.",
+    "authors": [
+      "Trystan Nadasen",
+      "Ingo Hein",
+      "Dave K Berger"
+    ],
+    "date": "2026-Sep-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42686647/",
+    "doi": "10.1094/MPMI-05-26-0048-R",
+    "journal": "Molecular plant-microbe interactions : MPMI",
+    "score": 0.2576,
+    "fetched_at": "2026-09-03"
+  },
+  {
+    "id": "pubmed:42684810",
+    "source": "pubmed",
+    "title": "Phylodynamic reconstruction of global evolution and geographic structure of maize chlorotic mottle virus.",
+    "abstract": "Maize chlorotic mottle virus (MCMV) represents a major quarantine pathogen that poses a serious threat to global maize production, yet its spatiotemporal evolutionary dynamics remain incompletely characterized. In this study, we reconstructed the global molecular epidemiology of MCMV by analysing 117 complete genome and 214 coat protein (CP) gene sequences. We employed whole-genome data for Bayesian phylodynamic inference while utilizing CP sequences for phylogenetic reconstruction and population genetic analyses. Our phylodynamic analyses estimated a mean evolutionary rate of 2.07×10-4 substitutions per site per year, with the global most recent common ancestor traced to the Americas around 1938. Following its emergence, the MCMV population diversified into two major clades: a basal American lineage (Clade I) and a recently emerged, rapidly diversifying lineage (Clade II, originating ~1952). Within Clade II, we identified a monophyletic East African cluster - representing the most extensively sampled geographic population - that is phylogenetically nested within a broader assemblage of Asian isolates. This East African population, dating to the mid-1980s, exhibits signatures of a recent founder effect, characterized by minimal intra-regional genetic differentiation and lower nucleotide diversity (π=0.003) relative to Asian (0.008) and American (0.026) populations. Phylodynamic demographic reconstructions reveal that regional establishment in East Africa coincided with a pronounced global expansion in effective population size (N e) from the mid-1990s through the mid-2000s, subsequently followed by demographic stabilization. These findings provide structural and temporal insights into the global population structure and spatiotemporal dynamics of MCMV, establishing a foundation for international surveillance strategies and phytosanitary control measures.",
+    "authors": [
+      "Jianguo Shen",
+      "Yujie Jin",
+      "Shayidan Wufuer",
+      "Zhenguo Du",
+      "Fangluan Gao"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684810/",
+    "doi": "10.1099/jgv.0.002323",
+    "journal": "The Journal of general virology",
+    "score": 0.5814,
+    "fetched_at": "2026-09-03"
+  },
+  {
+    "id": "arxiv:2609.02445v1",
+    "source": "arxiv",
+    "title": "An adaptive time-tree transition kernel for Bayesian phylogenetic inference",
+    "abstract": "Bayesian phylogenetic and phylodynamic analyses can be very time-consuming, owing to the combination of complex models that are used to estimate key parameters from increasingly large genomic data sets and their associated metadata. The use of high-performance computer hardware can -- to a certain extent -- alleviate the computational burden and markedly decrease the time to results. Still, even converging to the posterior can be a lengthy endeavour, with the burn-in aspect of such analyses potentially taking days or even weeks for large data sets. One of the key aspects that hampers performance in Bayesian phylogenetic inference is the efficiency with which tree topology proposals explore tree space. We here propose a novel adaptive tree transition kernel, which we call `subTreeLeap' (STL), which involves modifying the phylogeny by walking along patristic distance paths in the tree according to an adaptable radius parameter. STL is a general proposal, which can be used with contemporaneous or time-calibrated sequence data, being particularly suited to the latter due to respecting temporal precedence constraints. We carefully assess its impact on convergence and statistical mixing of the exploration of posterior tree space, by comparison to replicate ``golden runs'' obtained from lengthy analyses of empirical data under standard tree transition kernels. We find that STL successfully explores the same posterior tree space as standard kernels, but often does so in a more efficient manner. We discuss limitations as well as future potential improvements to STL that could substantially increase the speed at which Bayesian phylogenetic inferences are obtained.",
+    "authors": [
+      "Marius Brusselmans",
+      "Guy Baele",
+      "Samuel L. Hong",
+      "Jiansi Gao",
+      "Marc A. Suchard",
+      "Andrew Rambaut",
+      "Luiz Max Carvalho"
+    ],
+    "date": "2026-09-02",
+    "url": "https://arxiv.org/abs/2609.02445v1",
+    "doi": null,
+    "score": 0.3333,
+    "fetched_at": "2026-09-03"
+  }
+]
