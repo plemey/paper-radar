@@ -1,0 +1,159 @@
+[
+  {
+    "id": "pubmed:42695189",
+    "source": "pubmed",
+    "title": "Detection of nirsevimab-resistant RSV-B variants in children carrying the F:N201T substitution through genomic surveillance, Spain, 2025/26 season.",
+    "abstract": "During Spain's 2025/26 RSV season, three children were infected with RSV-B viruses carrying the F protein N201T substitution. Two who received nirsevimab that season were hospitalised (one required intensive care); the third was treated previously. Recombinant expression studies confirmed reduced nirsevimab recognition. Genomic data indicated sporadic emergence across distinct RSV-B backgrounds rather than expansion of a single lineage. Findings highlight the importance of combining genomic surveillance with antigenic characterisation to detect and interpret variants with reduced susceptibility to antibody-based prevention.",
+    "authors": [
+      "María Iglesias-Caballero",
+      "Jose A Infantes",
+      "Albert Campoy",
+      "Sara Camarero-Serrano",
+      "Silvia Moreno",
+      "Olga Cano",
+      "Germán Vallejo-Palma",
+      "Carmen González-Velasco",
+      "Cristina Gaona",
+      "Pedro Camacho-Martinez",
+      "Laura Merino-Diaz",
+      "Sonia Vázquez-Morón",
+      "Francisco Pozo",
+      "Jose A Lepe",
+      "Vicente Mas",
+      "Inmaculada Casas"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42695189/",
+    "doi": "10.2807/1560-7917.ES.2026.31.35.2600690",
+    "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+    "score": 0.4721,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42694949",
+    "source": "pubmed",
+    "title": "From Phenotype to Genotype: A Clonal Perspective on Virulence and Biofilm Formation in Bloodstream-Derived",
+    "abstract": "Bloodstream infections, BSIs caused by Escherichia coli are a major healthcare concern due to the increasing emergence of multidrug-resistant and virulent strains. This study aimed to investigate the phenotypic and genotypic characteristics of bloodstream-derived E. coli isolates, with a focus on antimicrobial resistance, biofilm formation, virulence-associated genes, phylogenetic distribution, and clonal diversity. A total of 150 blood culture samples were collected from patients with suspected BSIs, of which 60 (40%) E. coli isolates were recovered and confirmed using conventional microbiological methods. Antimicrobial susceptibility testing was performed according to the CLSI2026 guidelines, whereas biofilm formation was assessed using a microtiter plate assay. Virulence genes, phylogenetic groups, and clonal relationships were evaluated using polymerase chain reaction-based, PCR methods. High susceptibility rates were observed for colistin (96.7%) and meropenem (93.3%), whereas the highest rates of resistance were detected against ciprofloxacin (93.3%) and co-trimoxazole (61.7%). Multidrug resistance, MDR was detected in 41.7% of the isolates, while 31.7% were phenotypically characterized as Extended-Spectrum Beta-Lactamase, ESBL producers. Biofilm analysis revealed that 75% of the isolates were capable of biofilm formation. Among the investigated virulence genes, fimH (88.3%), ompT (73.3%), and irp2 (58.3%) were most prevalent. Phylogenetic analysis revealed a predominance of groups B2 (26.7%), B1 (23.3%), and D (23.3%). The ERIC-PCR analysis classified the isolates into 26 distinct ERIC types, indicating substantial genetic diversity. The coexistence of virulence-associated genes, biofilm-forming ability, antimicrobial resistance, and genetic diversity among bloodstream-derived E. coli isolates highlights the circulation of potentially high-risk lineages in healthcare environments. These observations underscore the necessity for ongoing molecular epidemiological monitoring and the implementation of effective infection control strategies.",
+    "authors": [
+      "Amirreza Shalipour",
+      "Niloofar Kiaheyrati",
+      "Hamseh Ali Hossien",
+      "Fatemeh Fardsanei",
+      "Mohammadmahdi Bahari",
+      "Farhad Nikkhahi"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42694949/",
+    "doi": "10.3390/microorganisms12091777",
+    "journal": "Infection and drug resistance",
+    "score": 0.2487,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42694259",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of respiratory viral infections in hospitalized children in Novosibirsk, Russia, 2021-2023.",
+    "abstract": "Acute respiratory infections (ARIs) are among the leading global causes of morbidity and mortality in children. While viral agents of ARI are rigorously monitored, other pathogenic organisms and pathobionts - bacteria and fungi native to the host microbiome - remain largely neglected. Adenoviral types also warrant particular attention especially given the widespread use of adenoviral vector vaccines during the COVID-19 pandemic. Oro-nasal swabs collected from 1679 children under the age of 18 hospitalized in Novosibirsk, Russia between February 2021 and June 2023, were tested for the presence of nucleic acids by the diagnostic panel targeting 17 viruses, 12 bacteria and one yeast. Adenovirus-positive samples were additionally fine-typed by Sanger sequencing. Overall, 79.15% of samples were positive for at least one of 17 viral pathogens, with RSV (22.87% positives) and RhV (24.54% positives) dominating the etiological structure. Oro-nasal presence for respiratory pathobionts and opportunistic pathogens was 67.96% and 11.49%, respectively. Generally, viral seasonality was typical for continental climate, with only two notable deviations: MpV absence in spring of 2022 followed by earlier December peaks in the same year; an earlier RSV maximum in October 2021 with extended circulation the next epidemic season. Overall, the epidemiology of the analyzed viruses was consistent with worldwide surveillance trends and largely stable between the two later epidemic seasons. In viral-bacterial association analysis we identified two significantly attracted pairs, in which virus is known to facilitate bacterial adherence to respiratory epithelium. Adenovirus fine-typing provided preliminary evidence that serotypes 1, 2, 3, and 7 are the most frequently detected among the typed samples, while vaccine serotype AdV-5 was identified in only two cases. Broad target coverage allowed for a comprehensive analysis of epidemiological patterns, highlighting a trend toward stabilization of the etiological structure to pre-pandemic levels, and allowed for prioritization of clinically relevant viral-bacterial associations. Preliminary findings in adenoviral fine-typing are consistent with global trends in serotype prevalence and help address an important gap in regional adenoviral epidemiology.",
+    "authors": [
+      "Denis Evgenievich Maslov",
+      "Ivan Dmitrievich Osipov",
+      "Daria Sergeevna Zabelina",
+      "Diana Sergeevna Demina",
+      "Yulia Eduardovna Tomilova",
+      "Sabokhat Bakhromovna Berdieva",
+      "Viktoriya Viktorovna Makukha",
+      "Tatiana Valerievna Komissarova",
+      "Eduard Felixovich Agletdinov",
+      "Sergey Viktorovich Netesov"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42694259/",
+    "doi": "10.3390/v18010136",
+    "journal": "Frontiers in pediatrics",
+    "score": 0.4402,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42693304",
+    "source": "pubmed",
+    "title": "Probability of Antibiotic Resistance During Treatment in Stochastic PK/PD-Based Bacterial Model with Distinct Drug and Mutation Modes.",
+    "abstract": "Mathematical models, e.g., differential equations and stochastic processes, have gained considerable attention for understanding evolution of antibiotic resistance. However, most existing models assume standing genetic variation and do not consider the possibility of random or drug-induced mutation of reference bacterial strains. Therefore, we propose a pharmacokinetics/pharmacodynamics (PK/PD)-based continuous-time Markov chain considering the competition and mutation between sensitive and resistant bacterial within an infected host during treatment. The proposed model is approximated as a generalized birth-death process with immigration, allowing for explicit derivation of the probability resistant population establishes during treatment. Besides capturing the stochasticity of de novo emergence of a resistant bacterial strain, we explore the effects of different antibiotic modes of action, horizontal gene transfer, nutrient availability and drug pharmacokinetics on antibiotic resistance. We find that replication-targeting (biostatic) drugs suppress resistance more than death-targeting (biocidal) drugs. Like prior works, we obtain maximized resistance at intermediate drug concentrations, however the consideration of de novo mutation magnifies the superiority of higher doses in preventing resistance emergence.",
+    "authors": [
+      "Chimezie Izuazu",
+      "Cameron Browne"
+    ],
+    "date": "2026-Sep-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42693304/",
+    "doi": "10.1073/pnas.1715874115",
+    "journal": "Bulletin of mathematical biology",
+    "score": 0.1514,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42693188",
+    "source": "pubmed",
+    "title": "Global transmission pathways and adaptive molecular evolution of avian infectious bronchitis GI-23 (Variant 2).",
+    "abstract": "The infectious bronchitis virus (IBV) causes significant losses in commercial poultry egg and meat production. Since its first emergence, the genotype GI-23 (Variant 2) has progressively increased its geographical distribution, shown a significant virulence, and challenged the vaccine efficacy. Global viral transmission could be attributed to multiple factors including human related activities such as poultry and vaccine trades while other contributing factors such as the role of wild birds cannot be neglected. Therefore, A total 260 full S1 GI-23 sequences were obtained from Genebank, structured and intensively analyzed. The recombination analyses were conducted using RDP5 and GARD on the total dataset to identify the possible recombinant events. The recombinant-free dataset (214 sequences) was phylogeographically analyzed using BEAST 1.10, then selection pressure analyses to identify the possible migration routes and selection pressure markers, respectively. Recombination analyses showed multiple internal recombination events in 17.6% of the sequences. Phylogeographic analysis suggested Central and Eastern European (CEE) countries (i.e., particularly Poland and Romania) as likely sources of American GI-23-like virus outbreaks. Interestingly, the selection pressure analyses indicated positive selection signals, identifying five codons in some previously distinguished critical positions such as 61, 94, 119, 127, and 197. The virus extended geographical spread as well as molecular evolution through recombination and positive selection in the spike gene poses a major concern for increased adaptation and enhanced pathogenicity in susceptible domesticated and probably wild birds. Further studies on the impact of both recombination events and the identified positive selection codons are highly recommended to elucidate the molecular evolution mechanisms of IBV GI-23.",
+    "authors": [
+      "Mohamed H Houta",
+      "Giovanni Franzo",
+      "Azza A El-Sawah",
+      "Matteo Legnardi",
+      "Kareem E Hassan",
+      "Ahmed Ali",
+      "Claudia M Tucciarone",
+      "Magdy F Elkady",
+      "Mattia Cecchinato",
+      "Salama A S Shany"
+    ],
+    "date": "2026-Jul-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42693188/",
+    "doi": "10.1016/j.snb.2025.137963",
+    "journal": "Scientific reports",
+    "score": 0.6536,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42692284",
+    "source": "pubmed",
+    "title": "Lineage-specific adaptation and resistance in Candida albicans.",
+    "abstract": "Candida albicans exhibits substantial phenotypic and ecological diversity; however, the exact relationship between its population structure, adaptation to specific niches, and antifungal resistance remains incompletely understood. To investigate these evolutionary dynamics, we analyzed the whole-genome sequences from 591 publicly available isolates, integrating nuclear and mitochondrial phylogenomics with ecological and resistance-associated genomic analyses. Phylogenomic analyses resolved 18 core nuclear clusters together with multiple admixed lineages. Strong cytonuclear concordance was noted in the majority of the central lineages, contrasting with a higher discordance among the admixed groups, consistent with recurrent genetic exchange. The analysis revealed that geographic origin explains a larger fraction of genetic variance than anatomical niche, supporting a predominantly generalist population structure. A notable exception was Cluster N16 (Candida africana), which presented a strict genital origin in our dataset (n = 34). Additionally, although the mitochondrial genome exhibits strong purifying selection, candidate residues under diversifying selection correlated with specific niches (e.g., bloodstream) have been identified. Analysis of five resistance-associated genes (ERG11, UPC2, FKS1, TAC1 and FUR1) revealed that resistance-associated variants were generally rare but exhibited distinct gene-specific patterns. In case of ERG11 and FUR1 they were concentrated in a specific clade (N11, N17, and their admixed Group A) and exhibit gene-dependent zygosity patterns. In summary, the evolution of C. albicans appears to be driven by a predominantly clonal model punctuated by episodic genetic exchange, where both ecological adaptation and antifungal resistance mutations exhibit genomic signatures marked by lineage specificity.",
+    "authors": [
+      "Mariana Zagalo Fernandes",
+      "Emanuel Maldonado",
+      "José de Martinez Oliveira",
+      "Joana Rolo",
+      "Ana de Palmeira Oliveira"
+    ],
+    "date": "2026-Sep-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42692284/",
+    "doi": "10.1016/j.fgb.2026.104116",
+    "journal": "Fungal genetics and biology : FG & B",
+    "score": 0.2946,
+    "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "biorxiv:10.64898/2025.12.16.694722",
+    "source": "biorxiv",
+    "title": "Synchronizing speciation, extinction, and dispersal to island paleodynamics through Bayesian phylogenetics in a Hawaiian plant radiation",
+    "abstract": "Islands are natural laboratories for studying dispersal, speciation, and extinction, yet the historical dynamics of many insular radiations remain poorly understood because of the difficulty aligning the tempo and mode of diversification with paleogeography during phylogenetic inference. We introduce a phylogenetic modeling framework, named TimeFIG, that combines data about species ranges and genetic variation with paleogeographic information to simultaneously infer divergence times, ancestral ranges, and historical diversification rates, without relying on fossils to time-calibrate the phylogeny. Applying TimeFIG to the spectacular radiation of Hawaiian Kadua (Rubiaceae) points to colonization of either modern Kaua'i or ancient now-eroded islands, with island isolation as the strongest correlate of dispersal, and with a tendency for net diversification to be highest on \"middle-aged\" islands. Modeling diversification within an explicit spatiotemporal context, while accounting for historical uncertainty regarding the timing and placement of phylogenetic and biogeographic events, enables the rigorous testing of foundational hypotheses in island biology and evolutionary theory for clades beyond Kadua.",
+    "authors": [
+      "Lichter-Marck, I.",
+      "Swiston, S. K.",
+      "Mendes, F. K.",
+      "May, M. R.",
+      "Neupane, S.",
+      "Baldwin, B. G.",
+      "Wood, K.",
+      "Ronsted, N.",
+      "Wagner, W. L.",
+      "Zapata, F.",
+      "Landis, M. J."
+    ],
+    "date": "2026-08-31",
+    "url": "https://doi.org/10.64898/2025.12.16.694722",
+    "doi": "10.64898/2025.12.16.694722",
+    "score": 0.2181,
+    "fetched_at": "2026-09-04"
+  }
+]

@@ -306,6 +306,30 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42693188",
+    "source": "pubmed",
+    "title": "Global transmission pathways and adaptive molecular evolution of avian infectious bronchitis GI-23 (Variant 2).",
+    "abstract": "The infectious bronchitis virus (IBV) causes significant losses in commercial poultry egg and meat production. Since its first emergence, the genotype GI-23 (Variant 2) has progressively increased its geographical distribution, shown a significant virulence, and challenged the vaccine efficacy. Global viral transmission could be attributed to multiple factors including human related activities such as poultry and vaccine trades while other contributing factors such as the role of wild birds cannot be neglected. Therefore, A total 260 full S1 GI-23 sequences were obtained from Genebank, structured and intensively analyzed. The recombination analyses were conducted using RDP5 and GARD on the total dataset to identify the possible recombinant events. The recombinant-free dataset (214 sequences) was phylogeographically analyzed using BEAST 1.10, then selection pressure analyses to identify the possible migration routes and selection pressure markers, respectively. Recombination analyses showed multiple internal recombination events in 17.6% of the sequences. Phylogeographic analysis suggested Central and Eastern European (CEE) countries (i.e., particularly Poland and Romania) as likely sources of American GI-23-like virus outbreaks. Interestingly, the selection pressure analyses indicated positive selection signals, identifying five codons in some previously distinguished critical positions such as 61, 94, 119, 127, and 197. The virus extended geographical spread as well as molecular evolution through recombination and positive selection in the spike gene poses a major concern for increased adaptation and enhanced pathogenicity in susceptible domesticated and probably wild birds. Further studies on the impact of both recombination events and the identified positive selection codons are highly recommended to elucidate the molecular evolution mechanisms of IBV GI-23.",
+    "authors": [
+      "Mohamed H Houta",
+      "Giovanni Franzo",
+      "Azza A El-Sawah",
+      "Matteo Legnardi",
+      "Kareem E Hassan",
+      "Ahmed Ali",
+      "Claudia M Tucciarone",
+      "Magdy F Elkady",
+      "Mattia Cecchinato",
+      "Salama A S Shany"
+    ],
+    "date": "2026-Jul-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42693188/",
+    "doi": "10.1016/j.snb.2025.137963",
+    "journal": "Scientific reports",
+    "score": 0.6536,
+    "fetched_at": "2026-09-04"
+  },
+  {
     "id": "pubmed:42560073",
     "source": "pubmed",
     "title": "Neutralizing and protective monoclonal antibodies identify antigenic sites in influenza H7 hemagglutinin and select for amino acid substitutions rarely observed at the global level.",
@@ -1498,6 +1522,36 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42695189",
+    "source": "pubmed",
+    "title": "Detection of nirsevimab-resistant RSV-B variants in children carrying the F:N201T substitution through genomic surveillance, Spain, 2025/26 season.",
+    "abstract": "During Spain's 2025/26 RSV season, three children were infected with RSV-B viruses carrying the F protein N201T substitution. Two who received nirsevimab that season were hospitalised (one required intensive care); the third was treated previously. Recombinant expression studies confirmed reduced nirsevimab recognition. Genomic data indicated sporadic emergence across distinct RSV-B backgrounds rather than expansion of a single lineage. Findings highlight the importance of combining genomic surveillance with antigenic characterisation to detect and interpret variants with reduced susceptibility to antibody-based prevention.",
+    "authors": [
+      "María Iglesias-Caballero",
+      "Jose A Infantes",
+      "Albert Campoy",
+      "Sara Camarero-Serrano",
+      "Silvia Moreno",
+      "Olga Cano",
+      "Germán Vallejo-Palma",
+      "Carmen González-Velasco",
+      "Cristina Gaona",
+      "Pedro Camacho-Martinez",
+      "Laura Merino-Diaz",
+      "Sonia Vázquez-Morón",
+      "Francisco Pozo",
+      "Jose A Lepe",
+      "Vicente Mas",
+      "Inmaculada Casas"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42695189/",
+    "doi": "10.2807/1560-7917.ES.2026.31.35.2600690",
+    "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+    "score": 0.4721,
+    "fetched_at": "2026-09-04"
+  },
+  {
     "id": "pubmed:42655655",
     "source": "pubmed",
     "title": "Using Lateral Flow Devices to Enhance Molecular Epidemiology and Evaluating the Rabies Surveillance System on Unguja Island, Zanzibar.",
@@ -1811,6 +1865,30 @@
     "doi": "10.1371/journal.pntd.0011244",
     "score": 0.4402,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42694259",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of respiratory viral infections in hospitalized children in Novosibirsk, Russia, 2021-2023.",
+    "abstract": "Acute respiratory infections (ARIs) are among the leading global causes of morbidity and mortality in children. While viral agents of ARI are rigorously monitored, other pathogenic organisms and pathobionts - bacteria and fungi native to the host microbiome - remain largely neglected. Adenoviral types also warrant particular attention especially given the widespread use of adenoviral vector vaccines during the COVID-19 pandemic. Oro-nasal swabs collected from 1679 children under the age of 18 hospitalized in Novosibirsk, Russia between February 2021 and June 2023, were tested for the presence of nucleic acids by the diagnostic panel targeting 17 viruses, 12 bacteria and one yeast. Adenovirus-positive samples were additionally fine-typed by Sanger sequencing. Overall, 79.15% of samples were positive for at least one of 17 viral pathogens, with RSV (22.87% positives) and RhV (24.54% positives) dominating the etiological structure. Oro-nasal presence for respiratory pathobionts and opportunistic pathogens was 67.96% and 11.49%, respectively. Generally, viral seasonality was typical for continental climate, with only two notable deviations: MpV absence in spring of 2022 followed by earlier December peaks in the same year; an earlier RSV maximum in October 2021 with extended circulation the next epidemic season. Overall, the epidemiology of the analyzed viruses was consistent with worldwide surveillance trends and largely stable between the two later epidemic seasons. In viral-bacterial association analysis we identified two significantly attracted pairs, in which virus is known to facilitate bacterial adherence to respiratory epithelium. Adenovirus fine-typing provided preliminary evidence that serotypes 1, 2, 3, and 7 are the most frequently detected among the typed samples, while vaccine serotype AdV-5 was identified in only two cases. Broad target coverage allowed for a comprehensive analysis of epidemiological patterns, highlighting a trend toward stabilization of the etiological structure to pre-pandemic levels, and allowed for prioritization of clinically relevant viral-bacterial associations. Preliminary findings in adenoviral fine-typing are consistent with global trends in serotype prevalence and help address an important gap in regional adenoviral epidemiology.",
+    "authors": [
+      "Denis Evgenievich Maslov",
+      "Ivan Dmitrievich Osipov",
+      "Daria Sergeevna Zabelina",
+      "Diana Sergeevna Demina",
+      "Yulia Eduardovna Tomilova",
+      "Sabokhat Bakhromovna Berdieva",
+      "Viktoriya Viktorovna Makukha",
+      "Tatiana Valerievna Komissarova",
+      "Eduard Felixovich Agletdinov",
+      "Sergey Viktorovich Netesov"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42694259/",
+    "doi": "10.3390/v18010136",
+    "journal": "Frontiers in pediatrics",
+    "score": 0.4402,
+    "fetched_at": "2026-09-04"
   },
   {
     "id": "pubmed:42592558",
@@ -3388,6 +3466,25 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42692284",
+    "source": "pubmed",
+    "title": "Lineage-specific adaptation and resistance in Candida albicans.",
+    "abstract": "Candida albicans exhibits substantial phenotypic and ecological diversity; however, the exact relationship between its population structure, adaptation to specific niches, and antifungal resistance remains incompletely understood. To investigate these evolutionary dynamics, we analyzed the whole-genome sequences from 591 publicly available isolates, integrating nuclear and mitochondrial phylogenomics with ecological and resistance-associated genomic analyses. Phylogenomic analyses resolved 18 core nuclear clusters together with multiple admixed lineages. Strong cytonuclear concordance was noted in the majority of the central lineages, contrasting with a higher discordance among the admixed groups, consistent with recurrent genetic exchange. The analysis revealed that geographic origin explains a larger fraction of genetic variance than anatomical niche, supporting a predominantly generalist population structure. A notable exception was Cluster N16 (Candida africana), which presented a strict genital origin in our dataset (n = 34). Additionally, although the mitochondrial genome exhibits strong purifying selection, candidate residues under diversifying selection correlated with specific niches (e.g., bloodstream) have been identified. Analysis of five resistance-associated genes (ERG11, UPC2, FKS1, TAC1 and FUR1) revealed that resistance-associated variants were generally rare but exhibited distinct gene-specific patterns. In case of ERG11 and FUR1 they were concentrated in a specific clade (N11, N17, and their admixed Group A) and exhibit gene-dependent zygosity patterns. In summary, the evolution of C. albicans appears to be driven by a predominantly clonal model punctuated by episodic genetic exchange, where both ecological adaptation and antifungal resistance mutations exhibit genomic signatures marked by lineage specificity.",
+    "authors": [
+      "Mariana Zagalo Fernandes",
+      "Emanuel Maldonado",
+      "José de Martinez Oliveira",
+      "Joana Rolo",
+      "Ana de Palmeira Oliveira"
+    ],
+    "date": "2026-Sep-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42692284/",
+    "doi": "10.1016/j.fgb.2026.104116",
+    "journal": "Fungal genetics and biology : FG & B",
+    "score": 0.2946,
+    "fetched_at": "2026-09-04"
+  },
+  {
     "id": "pubmed:42665982",
     "source": "pubmed",
     "title": "The digital map of homologous gene clusters across Poaceae species unveils the complex evolutionary trajectories of genes in Triticeae.",
@@ -3912,6 +4009,26 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42694949",
+    "source": "pubmed",
+    "title": "From Phenotype to Genotype: A Clonal Perspective on Virulence and Biofilm Formation in Bloodstream-Derived",
+    "abstract": "Bloodstream infections, BSIs caused by Escherichia coli are a major healthcare concern due to the increasing emergence of multidrug-resistant and virulent strains. This study aimed to investigate the phenotypic and genotypic characteristics of bloodstream-derived E. coli isolates, with a focus on antimicrobial resistance, biofilm formation, virulence-associated genes, phylogenetic distribution, and clonal diversity. A total of 150 blood culture samples were collected from patients with suspected BSIs, of which 60 (40%) E. coli isolates were recovered and confirmed using conventional microbiological methods. Antimicrobial susceptibility testing was performed according to the CLSI2026 guidelines, whereas biofilm formation was assessed using a microtiter plate assay. Virulence genes, phylogenetic groups, and clonal relationships were evaluated using polymerase chain reaction-based, PCR methods. High susceptibility rates were observed for colistin (96.7%) and meropenem (93.3%), whereas the highest rates of resistance were detected against ciprofloxacin (93.3%) and co-trimoxazole (61.7%). Multidrug resistance, MDR was detected in 41.7% of the isolates, while 31.7% were phenotypically characterized as Extended-Spectrum Beta-Lactamase, ESBL producers. Biofilm analysis revealed that 75% of the isolates were capable of biofilm formation. Among the investigated virulence genes, fimH (88.3%), ompT (73.3%), and irp2 (58.3%) were most prevalent. Phylogenetic analysis revealed a predominance of groups B2 (26.7%), B1 (23.3%), and D (23.3%). The ERIC-PCR analysis classified the isolates into 26 distinct ERIC types, indicating substantial genetic diversity. The coexistence of virulence-associated genes, biofilm-forming ability, antimicrobial resistance, and genetic diversity among bloodstream-derived E. coli isolates highlights the circulation of potentially high-risk lineages in healthcare environments. These observations underscore the necessity for ongoing molecular epidemiological monitoring and the implementation of effective infection control strategies.",
+    "authors": [
+      "Amirreza Shalipour",
+      "Niloofar Kiaheyrati",
+      "Hamseh Ali Hossien",
+      "Fatemeh Fardsanei",
+      "Mohammadmahdi Bahari",
+      "Farhad Nikkhahi"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42694949/",
+    "doi": "10.3390/microorganisms12091777",
+    "journal": "Infection and drug resistance",
+    "score": 0.2487,
+    "fetched_at": "2026-09-04"
+  },
+  {
     "id": "pubmed:42553316",
     "source": "pubmed",
     "title": "Lung cancer across borders: From molecular epidemiology to precision treatment strategies.",
@@ -4296,140 +4413,27 @@
     "fetched_at": "2026-08-09"
   },
   {
-    "id": "pubmed:42577527",
-    "source": "pubmed",
-    "title": "Pan-plantae aquaporin evolution: insights into",
-    "abstract": "Plant aquaporin (AQP), one of the ancient protein superfamilies with high diversity, plays a canonical role as water channel transporters to regulate seed germination, stomatal movement, cell elongation, reproduction, and environmental adaptation. Previously, we have demonstrated that two AQPs colocalize within a quantitative trait locus (QTL) linked to the genetic regulation of rose prickles, which function as water reservoirs at their early developmental stages. Here, we systematically characterize the diversity of AQPs in all plant lineages taking the Rosaceae as one example and establish a genetic link between PIP2;1 expression and prickle development. We reveal the ancient origin and remarkable deep conservation in AQP protein structure, the increase of copy number following the diversification of plant lineages and a strong positive selection of the PIP2 and the SIP subfamilies within Rosaceae. Intriguingly, this is contrasted by substantial expression divergence, which is accompanied with regulatory divergence, particularly in cis-regulatory elements associated with hormone responses and developmental regulation. Spatial-temporal expression profiling demonstrates dynamic AQP expression patterns during development of prickle and the underlying cortical tissue in the prickly Rosa gigantea, while also differ substantially in shoots and leaves of the prickly Rosa chinensis and prickle-free Rosa wichuraiana. Silencing the expression of PIP2;1 within the prickle QTL region significantly attenuates the prickle production along rose stems. Our findings not only highlight both evolutionary conservation in AQP protein architecture and lineage-specific regulatory innovation in Rosaceae but also uncover a novel regulatory role of PIP2;1 in epidermal differentiation of the non-model roses, and of likely many other spiny angiosperms.",
+    "id": "biorxiv:10.64898/2025.12.16.694722",
+    "source": "biorxiv",
+    "title": "Synchronizing speciation, extinction, and dispersal to island paleodynamics through Bayesian phylogenetics in a Hawaiian plant radiation",
+    "abstract": "Islands are natural laboratories for studying dispersal, speciation, and extinction, yet the historical dynamics of many insular radiations remain poorly understood because of the difficulty aligning the tempo and mode of diversification with paleogeography during phylogenetic inference. We introduce a phylogenetic modeling framework, named TimeFIG, that combines data about species ranges and genetic variation with paleogeographic information to simultaneously infer divergence times, ancestral ranges, and historical diversification rates, without relying on fossils to time-calibrate the phylogeny. Applying TimeFIG to the spectacular radiation of Hawaiian Kadua (Rubiaceae) points to colonization of either modern Kaua'i or ancient now-eroded islands, with island isolation as the strongest correlate of dispersal, and with a tendency for net diversification to be highest on \"middle-aged\" islands. Modeling diversification within an explicit spatiotemporal context, while accounting for historical uncertainty regarding the timing and placement of phylogenetic and biogeographic events, enables the rigorous testing of foundational hypotheses in island biology and evolutionary theory for clades beyond Kadua.",
     "authors": [
-      "Hong Zeng",
-      "Shi-Zhao Zhou",
-      "Hai-Ling Zhang",
-      "Bin-Yan Zhao",
-      "Yi-Liang Liu",
-      "Yan-Hong Zeng",
-      "Xiao-Dong Jiang",
-      "Wei-Hua Cui",
-      "Xue Dong",
-      "Jin-Yong Hu",
-      "Mi-Cai Zhong"
+      "Lichter-Marck, I.",
+      "Swiston, S. K.",
+      "Mendes, F. K.",
+      "May, M. R.",
+      "Neupane, S.",
+      "Baldwin, B. G.",
+      "Wood, K.",
+      "Ronsted, N.",
+      "Wagner, W. L.",
+      "Zapata, F.",
+      "Landis, M. J."
     ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42577527/",
-    "doi": "10.1093/hr/uhag143",
-    "score": 0.2119,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42661349",
-    "source": "pubmed",
-    "title": "Pediatric Rickettsia massiliae Infection, Spain, 2023.",
-    "abstract": "Rickettsial disease caused by Rickettsia massiliae is rare in humans; only 6 cases have been reported since 2006. We report a case of R. massiliae infection in a pediatric patient in Spain with symptoms suggestive of rickettsiosis. Our results suggest that R. massiliae is an emerging tickborne rickettsial pathogen.",
-    "authors": [
-      "Jorge Martín-Trueba",
-      "Isabel Jado",
-      "María Elena Andrés-Galván",
-      "Rosa M González-Martín-Niño",
-      "Inés Martín-Martín",
-      "Marcos López de-Felipe Escudero",
-      "María Teresa Llorente",
-      "José María Serrano-Romero",
-      "Antonio Sampedro",
-      "Raquel Andrade-Lobato",
-      "Coral García-Esteban",
-      "Judit Gil-Zamorano",
-      "María Isabel Hurtado-Gavilán",
-      "David González-Barrio"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661349/",
-    "doi": "10.3201/eid3209.260035",
-    "journal": "Emerging infectious diseases",
-    "score": 0.2112,
-    "fetched_at": "2026-08-29"
-  },
-  {
-    "id": "pubmed:42559732",
-    "source": "pubmed",
-    "title": "The present and future of nonviral delivery-based genome editing for hereditary hearing loss.",
-    "abstract": "This review summarizes nonviral genome-editing delivery platforms for hereditary hearing loss, focusing on lipid nanoparticles (LNPs) and engineered virus-like particles (eVLPs), and discusses their advantages over adeno-associated virus-based delivery, as well as the barriers to clinical translation. Recent advances have established LNPs as a clinically advanced nonviral platform, although challenges related to inner ear biodistribution, cell type specificity, endosomal escape, and immunogenicity remain to be addressed. In parallel, eVLPs have undergone substantial technical evolution, progressing from early low efficiency systems to advanced base editor- and prime editor-eVLP architectures that enhance cargo loading and editing efficiency. Extracellular vesicle-based genome editing has also emerged as an additional platform, although issues related to reproducibility, loading efficiency, and scalability remain major hurdles. Nonviral genome editing platforms expand the therapeutic toolkit for hereditary hearing loss by enabling transient delivery of genome editors with potential safety advantages. Future efforts should focus on characterizing biodistribution and immunogenicity, refining cell type-specific tropism, and establishing scalable manufacturing processes to enable successful clinical translation.",
-    "authors": [
-      "Seung Hyun Jang",
-      "Heon Yung Gee",
-      "Jinsei Jung"
-    ],
-    "date": "2026-Aug-06",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559732/",
-    "doi": "10.1097/MOO.0000000000001151",
-    "score": 0.2092,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42680057",
-    "source": "pubmed",
-    "title": "Tracking Blastocystis sp. in mussels from Northern France in a One Health context: Seasonal dynamics, implications in marine fecal pollution and risk in human health.",
-    "abstract": "Blastocystis sp. is an intestinal protozoan with recognized zoonotic potential that is increasingly investigated in animals closely associated with humans or intended for food production. However, studies on mollusks remain limited, despite their high filtration capacity and ability to accumulate biological contaminants, making them valuable indicators of environmental pollution. Within a One Health framework, this study investigated the seasonal circulation of Blastocystis sp. in a coastal ecosystem in northern France through the analysis of mussels, cattle, and river water samples using real-time PCR. A total of 892 samples were analyzed, of which 14.5% tested positive. Mussels showed a prevalence of 22.7%, with marked seasonal variations suggesting fluctuations in environmental contamination. Cattle exhibited the highest prevalence (38.3%), while 18.8% of river water samples were contaminated. Sanger and next-generation sequencing of positive samples revealed substantial genetic diversity, with 14 subtypes (STs) identified in mussels, 8 in cattle, and 3 in water samples. The lack of host-specific STs, together with the low parasite loads assessed in mussels, suggests that these organisms act as passive accumulators rather than true hosts. Moreover, the broad ST diversity observed highlights ongoing circulation of Blastocystis sp. within this aquatic environment and widespread fecal contamination consistent with human, bovine, and avian sources. Overall, mussels appear to be effective bioindicators of multisource fecal pollution across interconnected ecosystems, emphasizing the potential risk of exposure to Blastocystis sp. through the handling or consumption of raw shellfish and the importance of strengthened environmental and public health surveillance.",
-    "authors": [
-      "Manon Ryckman",
-      "Constance Denoyelle",
-      "Magali Chabé",
-      "Nausicaa Gantois",
-      "Jeremy Desramaut",
-      "Luen-Luen Li",
-      "Ruben Garcia Dominguez",
-      "Christophe Audebert",
-      "Sébastien Monchy",
-      "Gabriela Certad",
-      "Eric Viscogliosi"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42680057/",
-    "doi": "10.1016/j.envpol.2026.129071",
-    "journal": "Environmental pollution (Barking, Essex : 1987)",
-    "score": 0.2069,
-    "fetched_at": "2026-09-02"
-  },
-  {
-    "id": "pubmed:42579495",
-    "source": "pubmed",
-    "title": "The history of enzyme evolution embedded in metabolism.",
-    "abstract": "Whereas phylogenetic reconstructions are a primary record of protein evolution, it is unknown whether the deep history of enzymes is encoded at higher levels of biological organization. Here, we demonstrate that the emergence and reuse history of enzymatic folds is embedded within the web of metabolite-cofactor-enzyme interdependencies that comprise biosphere-scale metabolic reaction networks. Using a simple network analysis approach, we reconstruct the relative ordering of enzymatic fold emergence and, where possible, the first reaction(s) that each enzymatic fold catalyzed. We find that a large majority of enzymatic folds were sufficient as independent additions to open new avenues for metabolic growth. The resulting network-based histories are broadly concordant with enzyme phyletic distribution in prokaryotes, a proxy for enzyme age. Our results suggest that the earliest enzyme-mediated metabolisms were enriched for α/β proteins, likely due to their strong association with cofactor utilization, and that α-proteins preferentially emerge at later stages. The cradle-loop barrel, a member of the small β-barrel metafold, is predicted to be the founding β-fold, in agreement with analyses of ribosome structure. An examination of how the protein universe responded to the biological production of molecular oxygen reveals that the adaptation of existing enzymatic folds, not novel fold emergence, was the primary driver of metabolic evolution. This work presents a self-consistent model of metabolic and enzyme evolution, key progress toward integrating diverse perspectives into a unified history of protein evolution.",
-    "authors": [
-      "Tatsuya Corlett",
-      "Harrison B Smith",
-      "Eric Smith",
-      "Joshua E Goldford",
-      "Liam M Longo"
-    ],
-    "date": "2026-Aug-18",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579495/",
-    "doi": "10.1073/pnas.2609531123",
-    "score": 0.2059,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42660585",
-    "source": "pubmed",
-    "title": "Investigation of Mycobacterium abscessus Cluster in Hospital, Maryland, USA, 2024.",
-    "abstract": "Mycobacterium abscessus infections are frequently drug resistant and can cause severe disease, particularly among vulnerable populations in healthcare settings. In June 2024, a cluster of M. abscessus infection cases was reported at a hospital in Maryland, USA. An investigation involving hospital infection prevention staff, the Maryland Department of Health, the Centers for Disease Control and Prevention, and the Wadsworth Laboratory of the New York State Department of Health included initiation of mitigation efforts such as tap water use restrictions, point-of-use water filters, hospitalwide water flushing, and staff education regarding sink safety. Whole-genome sequencing of patient and environmental isolates, coupled with epidemiologic data, revealed a strong association (0-24 single-nucleotide polymorphism differences) between environmental and patient samples, indicating that infections were likely a result of patient exposure to M. abscessus. Ensuring initiation of mitigation initiatives likely prevented additional patient infections. Although effective in this investigation, not all mitigation strategies are equal or sustainable.",
-    "authors": [
-      "Sarah Ludmer",
-      "Monique Duwell",
-      "Tracie Harris",
-      "Surbhi Leekha",
-      "Allison Slater",
-      "Vincent Escuyer",
-      "Joseph Shea",
-      "Pascal Lapierre",
-      "Jamie Rubin",
-      "Rebecca Perlmutter",
-      "Donna Kohlershmidt",
-      "Michelle Dickinson"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42660585/",
-    "doi": "10.3201/eid3209.260093",
-    "journal": "Emerging infectious diseases",
-    "score": 0.2055,
-    "fetched_at": "2026-08-29"
+    "date": "2026-08-31",
+    "url": "https://doi.org/10.64898/2025.12.16.694722",
+    "doi": "10.64898/2025.12.16.694722",
+    "score": 0.2181,
+    "fetched_at": "2026-09-04"
   }
 ]
