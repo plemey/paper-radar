@@ -169,6 +169,22 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42698237",
+    "source": "pubmed",
+    "title": "Pre-Pandemic Scientific Insights into Influenza A (H3N2): Viral Evolution, Host Responses, and Evidence-Based Preventive Strategies.",
+    "abstract": "Null.",
+    "authors": [
+      "Mostafa Ahmed Abdellah Ahmed",
+      "Hafiz Muhammad Haseeb Khaliq"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42698237/",
+    "doi": "10.29271/jcpsp.2026.09.1105",
+    "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+    "score": 0.6846,
+    "fetched_at": "2026-09-05"
+  },
+  {
     "id": "pubmed:42580484",
     "source": "pubmed",
     "title": "Phylogeography and Molecular Evolution of Newcastle Disease Virus Across a Century of Global Surveillance.",
@@ -3450,6 +3466,37 @@
     "fetched_at": "2026-08-19"
   },
   {
+    "id": "pubmed:42696995",
+    "source": "pubmed",
+    "title": "First survey on the occurrence, subtype distribution and circulation of the enteric protozoan Blastocystis sp. in French broiler chicken farms.",
+    "abstract": "Blastocystis sp. is the most commonly detected enteric protozoan in humans, yet its presence in broiler chickens remains insufficiently characterized despite its clear zoonotic potential. Here, we present the first survey conducted in France-and the largest to date in Europe-aimed at assessing the frequency, subtype (ST) and genotype distribution, and circulation patterns of Blastocystis sp. in broiler chicken production. A total of 967 cecal samples were collected at a single slaughterhouse from 66 farms representing three production systems (Label Rouge, standard, and certified). Blastocystis sp. was detected by real-time PCR in 49.7% of samples and in 83.3% of farms. Statistical analyses identified production system-reflecting differences in bird age and outdoor access-together with season, as major factors associated with parasite prevalence. Among mono-colonizations characterized by Sanger sequencing, ST7 was by far the most predominant ST, followed by ST6, reinforcing their avian origin and their capacity to co-circulate within farms. Genotyping revealed substantial genetic diversity within ST7 and moderate diversity within ST6. The dominance of specific ST7 and ST6 genotypes, potentially \"adapted\" to broiler chickens, suggests extensive chicken-to-chicken transmission, whereas rarer genotypes could reflect sporadic contamination from transient wild bird species that frequently harbor the parasite. Mixed colonizations involving at least two STs were detected in nearly 20% of positive animals. Next-generation sequencing of selected samples confirmed either co-colonization with ST6 and ST7 or the presence of highly divergent ST7 genotypes. Although avian STs are generally considered non-pathogenic in poultry, this is not the case in humans. Consequently, the active circulation of Blastocystis sp. in French broiler chickens highlights the potential significant zoonotic reservoir represented by these flocks. Transmission could occur through direct contact between poultry workers and birds, through ingestion of water contaminated with bird feces, or potentially via handling of contaminated carcasses-an understudied route that warrants further investigation.",
+    "authors": [
+      "Constance Denoyelle",
+      "Laetitia Bonifait",
+      "Nausicaa Gantois",
+      "Ségolène Quesne",
+      "Louise Baugé",
+      "Jeremy Desramaut",
+      "Luen-Luen Li",
+      "Ruben Garcia Dominguez",
+      "Maëlle Lamisse",
+      "Magali Chabé",
+      "Franck Bonardi",
+      "Christophe Audebert",
+      "Sébastien Monchy",
+      "Gabriela Certad",
+      "Marianne Chemaly",
+      "Muriel Guyard-Nicodème",
+      "Eric Viscogliosi"
+    ],
+    "date": "2026-Jun-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42696995/",
+    "doi": "10.1016/j.psj.2026.107332",
+    "journal": "Poultry science",
+    "score": 0.2952,
+    "fetched_at": "2026-09-05"
+  },
+  {
     "id": "pubmed:42581360",
     "source": "pubmed",
     "title": "Actinobacillus pleuropneumoniae - today's perspective on advances and challenges (2017- 2026).",
@@ -4395,45 +4442,5 @@
     "doi": "10.1016/0378-1135(96)00023-5",
     "score": 0.2203,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42565642",
-    "source": "pubmed",
-    "title": "The modular evolution of multiheme cytochromes c bucks the general trend observed in most proteins.",
-    "abstract": "Multiheme cytochromes c are versatile enzymes which contribute to key steps in diverse biogeochemical cycles of chemical elements such as nitrogen, iron, and sulfur, and are also key players in microbial electrochemical technologies. Understanding how they evolved offers a blueprint on how nature tuned their sequence and heme c cofactors to accomplish this versatile chemistry. We previously focused our attention on the largest group of homologous multiheme cytochrome c and showed that these enzymes evolve by fusion and fission of cytochrome c modules. Here, we extended our analysis to all characterized multiheme cytochromes and found that, in general, the evolution of multiheme cytochromes is governed by the same principles of fusion and fission. In addition, here we show that fusion can also involve the incorporation of domains of other protein families and small peptide sequences that affect the heme coordination environment. We found that loss of heme-binding motifs is more prevalent than gain. The addition of hemes to multiheme cytochromes c occurs exclusively by integrating heme-binding peptides and not by gradual accumulation of mutations and is equally probable along the protein sequence. By contrast, heme loss occurs by the loss of heme-binding peptides and the accumulation of point mutations. Notably, heme-binding motif loss is disproportionately more prevalent at the position nearer to the N-terminus. This observation contrasts with the general trend observed in proteins, which are usually more conserved at the N-terminus, and likely reflects the way in which multiheme cytochromes c are assembled.",
-    "authors": [
-      "Ricardo Soares",
-      "Catarina M Paquete",
-      "Ricardo O Louro"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42565642/",
-    "doi": "10.1093/bioinformatics/btq249",
-    "score": 0.2189,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "biorxiv:10.64898/2025.12.16.694722",
-    "source": "biorxiv",
-    "title": "Synchronizing speciation, extinction, and dispersal to island paleodynamics through Bayesian phylogenetics in a Hawaiian plant radiation",
-    "abstract": "Islands are natural laboratories for studying dispersal, speciation, and extinction, yet the historical dynamics of many insular radiations remain poorly understood because of the difficulty aligning the tempo and mode of diversification with paleogeography during phylogenetic inference. We introduce a phylogenetic modeling framework, named TimeFIG, that combines data about species ranges and genetic variation with paleogeographic information to simultaneously infer divergence times, ancestral ranges, and historical diversification rates, without relying on fossils to time-calibrate the phylogeny. Applying TimeFIG to the spectacular radiation of Hawaiian Kadua (Rubiaceae) points to colonization of either modern Kaua'i or ancient now-eroded islands, with island isolation as the strongest correlate of dispersal, and with a tendency for net diversification to be highest on \"middle-aged\" islands. Modeling diversification within an explicit spatiotemporal context, while accounting for historical uncertainty regarding the timing and placement of phylogenetic and biogeographic events, enables the rigorous testing of foundational hypotheses in island biology and evolutionary theory for clades beyond Kadua.",
-    "authors": [
-      "Lichter-Marck, I.",
-      "Swiston, S. K.",
-      "Mendes, F. K.",
-      "May, M. R.",
-      "Neupane, S.",
-      "Baldwin, B. G.",
-      "Wood, K.",
-      "Ronsted, N.",
-      "Wagner, W. L.",
-      "Zapata, F.",
-      "Landis, M. J."
-    ],
-    "date": "2026-08-31",
-    "url": "https://doi.org/10.64898/2025.12.16.694722",
-    "doi": "10.64898/2025.12.16.694722",
-    "score": 0.2181,
-    "fetched_at": "2026-09-04"
   }
 ]

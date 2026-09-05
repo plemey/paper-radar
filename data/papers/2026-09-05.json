@@ -1,0 +1,49 @@
+[
+  {
+    "id": "pubmed:42698237",
+    "source": "pubmed",
+    "title": "Pre-Pandemic Scientific Insights into Influenza A (H3N2): Viral Evolution, Host Responses, and Evidence-Based Preventive Strategies.",
+    "abstract": "Null.",
+    "authors": [
+      "Mostafa Ahmed Abdellah Ahmed",
+      "Hafiz Muhammad Haseeb Khaliq"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42698237/",
+    "doi": "10.29271/jcpsp.2026.09.1105",
+    "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+    "score": 0.6846,
+    "fetched_at": "2026-09-05"
+  },
+  {
+    "id": "pubmed:42696995",
+    "source": "pubmed",
+    "title": "First survey on the occurrence, subtype distribution and circulation of the enteric protozoan Blastocystis sp. in French broiler chicken farms.",
+    "abstract": "Blastocystis sp. is the most commonly detected enteric protozoan in humans, yet its presence in broiler chickens remains insufficiently characterized despite its clear zoonotic potential. Here, we present the first survey conducted in France-and the largest to date in Europe-aimed at assessing the frequency, subtype (ST) and genotype distribution, and circulation patterns of Blastocystis sp. in broiler chicken production. A total of 967 cecal samples were collected at a single slaughterhouse from 66 farms representing three production systems (Label Rouge, standard, and certified). Blastocystis sp. was detected by real-time PCR in 49.7% of samples and in 83.3% of farms. Statistical analyses identified production system-reflecting differences in bird age and outdoor access-together with season, as major factors associated with parasite prevalence. Among mono-colonizations characterized by Sanger sequencing, ST7 was by far the most predominant ST, followed by ST6, reinforcing their avian origin and their capacity to co-circulate within farms. Genotyping revealed substantial genetic diversity within ST7 and moderate diversity within ST6. The dominance of specific ST7 and ST6 genotypes, potentially \"adapted\" to broiler chickens, suggests extensive chicken-to-chicken transmission, whereas rarer genotypes could reflect sporadic contamination from transient wild bird species that frequently harbor the parasite. Mixed colonizations involving at least two STs were detected in nearly 20% of positive animals. Next-generation sequencing of selected samples confirmed either co-colonization with ST6 and ST7 or the presence of highly divergent ST7 genotypes. Although avian STs are generally considered non-pathogenic in poultry, this is not the case in humans. Consequently, the active circulation of Blastocystis sp. in French broiler chickens highlights the potential significant zoonotic reservoir represented by these flocks. Transmission could occur through direct contact between poultry workers and birds, through ingestion of water contaminated with bird feces, or potentially via handling of contaminated carcasses-an understudied route that warrants further investigation.",
+    "authors": [
+      "Constance Denoyelle",
+      "Laetitia Bonifait",
+      "Nausicaa Gantois",
+      "Ségolène Quesne",
+      "Louise Baugé",
+      "Jeremy Desramaut",
+      "Luen-Luen Li",
+      "Ruben Garcia Dominguez",
+      "Maëlle Lamisse",
+      "Magali Chabé",
+      "Franck Bonardi",
+      "Christophe Audebert",
+      "Sébastien Monchy",
+      "Gabriela Certad",
+      "Marianne Chemaly",
+      "Muriel Guyard-Nicodème",
+      "Eric Viscogliosi"
+    ],
+    "date": "2026-Jun-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42696995/",
+    "doi": "10.1016/j.psj.2026.107332",
+    "journal": "Poultry science",
+    "score": 0.2952,
+    "fetched_at": "2026-09-05"
+  }
+]
