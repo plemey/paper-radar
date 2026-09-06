@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pubmed:42701398",
+    "source": "pubmed",
+    "title": "Detection of livestock-associated MRSA ST398/t011 and hospital-associated MRSA ST239/t037 in a referral hospital in northeastern Iran: A six-month cross-sectional surveillance study (July-December 2025).",
+    "abstract": "Following initial detection of livestock-associated MRSA (LA-MRSA) ST398/t011 and hospital-associated MRSA (HA-MRSA) ST239/t037 in early 2025, we conducted a cross-sectional six-month surveillance study to determine whether these clones represent transient introductions or continued detection in a referral hospital in Bojnurd, North Khorasan Province, northeastern Iran. From July to December 2025, we collected 258 consecutive clinical specimens at Imam Reza Hospital, Bojnurd. MRSA isolates underwent antimicrobial susceptibility testing, SCCmec typing, spa typing, and multilocus sequence typing. PCR detected genes encoding Panton-Valentine leukocidin (PVL), toxic shock syndrome toxin (TSST-1), and other virulence factors. Livestock exposure was defined using a structured questionnaire. Among 61 S. aureus isolates (23.6%), 11 (18.0%) were MRSA, all belonging exclusively to two previously identified clones: ST398/t011/SCCmec V/agr I (n = 6; 54.5%) and ST239/t037/SCCmec III/agr I (n = 5; 45.5%). Resistance patterns remained clone-specific, with all ST398 isolates resistant to tetracycline and trimethoprim/sulfamethoxazole. The PVL gene was detected in one ST398 isolate (16.7%). All ST239 isolates carried tst and sec. Livestock exposure was reported in 83.3% of ST398-infected patients. Clinically, all 11 patients survived; only one required ICU admission, and none experienced treatment failure. This study documents continued detection of LA-MRSA ST398/t011 at a referral hospital in Bojnurd, co-circulating with endemic HA-MRSA ST239/t037. The detection of a PVL-positive ST398 isolate warrants further investigation and underscores the importance of integrated One Health surveillance. Given the small sample size (n = 11), these findings are descriptive and hypothesis-generating rather than confirmatory.",
+    "authors": [
+      "Seyed Ahmad Hashemi",
+      "Ali Haghbin",
+      "Ahmad Vosughi Motlagh",
+      "Amir Azimian"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42701398/",
+    "doi": "10.1128/mbio.00305-11",
+    "journal": "New microbes and new infections",
+    "score": 0.3603,
+    "fetched_at": "2026-09-06"
+  },
+  {
+    "id": "pubmed:42700938",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and phylogeographic architecture of oncogenic intracellular bacteria in cervical cancer patients across Northern China.",
+    "abstract": "Oncogenic intracellular bacteria, including Chlamydia trachomatis, Mycoplasma genitalium, and Fusobacterium nucleatum, have emerged as significant contributors to cervical carcinogenesis. Despite growing interest in microbial oncology, the molecular epidemiological landscape and phylogeographic distribution of these pathogens in Northern China remain poorly characterized. This study aimed to determine the prevalence, co-infection patterns, genotypic diversity, and spatial phylogeographic clustering of oncogenic intracellular bacteria among cervical cancer patients across five provinces of Northern China. A cross-sectional, multi-center study was conducted between March 2022 and November 2024 across Shaanxi, Heilongjiang, Beijing, Shandong, and Inner Mongolia. Cervical swab specimens were collected from 1247 confirmed cervical cancer patients. Pathogen detection was performed using multiplex real-time polymerase chain reaction, 16S rRNA gene amplicon sequencing, and whole-genome sequencing. Phylogeographic analyses employed maximum likelihood and Bayesian evolutionary inference frameworks. Statistical analyses included multivariate logistic regression and geographic information system-based spatial clustering. The overall prevalence of at least one oncogenic intracellular bacterium was 68.3% (n = 852). Chlamydia trachomatis was the most prevalent pathogen detected in 41.2% of participants. Co-infection with two or more bacteria was identified in 29.7% of cases and was independently associated with advanced-stage cervical cancer (adjusted odds ratio = 2.87; 95% confidence interval: 1.94 to 4.23; p < 0.001). Phylogeographic analysis revealed three distinct molecular clades with evidence of bidirectional gene flow between Shaanxi and Heilongjiang. Whole-genome sequencing identified 14 novel virulence gene variants not previously characterized in Chinese clinical isolates. Oncogenic intracellular bacteria are highly prevalent and genotypically diverse among cervical cancer patients in Northern China. The identified phylogeographic clustering and novel virulence variants have direct implications for regional screening programs, targeted antimicrobial strategies, and the development of region-specific molecular diagnostic panels.",
+    "authors": [
+      "Min Li",
+      "Tianjiao Zhang",
+      "Zhen Shen",
+      "Xia Zhang"
+    ],
+    "date": "2026-Sep-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42700938/",
+    "doi": "10.1016/j.meegid.2026.106016",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.3432,
+    "fetched_at": "2026-09-06"
+  },
+  {
+    "id": "pubmed:42699591",
+    "source": "pubmed",
+    "title": "Assessing the pandemic potential of Nipah virus: From molecular pathogenesis to ecological spillover risks.",
+    "abstract": "Nipah virus, a highly lethal zoonotic paramyxovirus with a case‑fatality rate of 40-75%, poses a formidable threat to global health security. This review synthesizes its evolving epidemiology, contrasting the Malaysian and Bangladesh‑India strains, and dissects molecular pathogenesis focusing on G/F glycoprotein recognition of ephrin receptors and the multi‑layered immune evasion mediated by P gene products. Phylogenetic analyses reveal 8-10% nucleotide divergence between lineages, with positive selection in the G protein that may compromise vaccine cross‑protection. Ecological risk amplifiers-deforestation and climate‑driven habitat loss-reshape spillover dynamics through spatial expansion of bat foraging, prolonged risk windows, and pathway diversification. Deforestation exceeding 5% per decade correlates with a 2-3‑fold increase in spillover events in Bangladesh. A dynamic risk‑assessment framework is proposed that views pandemic potential as the convergence of viral evolution, ecological amplification, and geographic expansion-from South Asia to Pteropus‑bearing regions worldwide, including unrecognized risks in China. Current medical countermeasures (mRNA vaccines, m102.4 antibody, remdesivir) and deployment challenges (genetic diversity, biosafety level 4 constraints, regulatory dependence on the \"Animal Rule\") are evaluated. The conclusion calls for a \"One Health\"‑informed global defense system anchored on four pillars: intelligent forecasting that integrates ecological data; a broadly protective countermeasure repository; democratized rapid diagnostics; and translational bridges linking molecular insights to actionable interventions. Strengthening global collaboration is imperative to prevent Nipah virus from escalating into a pandemic.",
+    "authors": [
+      "Qikai Yin",
+      "Kai Nie",
+      "Shiwen Wang",
+      "Huanyu Wang"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42699591/",
+    "doi": "10.1002/hsr2.70239",
+    "journal": "Infectious medicine",
+    "score": 0.6401,
+    "fetched_at": "2026-09-06"
+  }
+]
