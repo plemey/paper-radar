@@ -185,6 +185,28 @@
     "fetched_at": "2026-09-05"
   },
   {
+    "id": "pubmed:42703780",
+    "source": "pubmed",
+    "title": "Consensus H3N2 HA immunogens incorporating key antigenic mutations elicit broad-spectrum neutralising responses.",
+    "abstract": "Seasonal influenza A/H3N2 poses a significant public health burden due to its rapid antigenic evolution, necessitating frequent vaccine updates. This study systematically analysed the antigenic evolution of 14 H3N2 vaccine strains (2000-2022) using pseudovirus-based neutralisation assays and antigenic cartography. Vaccine strains exhibited cross-neutralisation patterns, with higher reactivity among strains from adjacent years, forming six antigenic clusters. Key amino acid mutations (e.g., 144 K, 189N) were identified as critical drivers of antigenic variation, with clustering-specific effects on neutralisation sensitivity. Based on these findings, a consensus HA immunogen (consensus up-HA) was designed by combining mutations at key sites. This immunogen demonstrated broad-spectrum neutralisation against pseudoviruses representing circulating strains from 2011 to 2024, including recent variants. These results highlight the potential of targeted HA modifications to develop broadly cross-reactive H3N2 vaccine candidate, offering broader and more durable neutralising activity against evolving H3N2 strains.",
+    "authors": [
+      "Yimeng An",
+      "Meina Cai",
+      "Chenyan Zhao",
+      "Mengyi Zhang",
+      "Xi Wu",
+      "Weijin Huang",
+      "Xu Zhou",
+      "Youchun Wang"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703780/",
+    "doi": "10.1080/22221751.2026.2731497",
+    "journal": "Emerging microbes & infections",
+    "score": 0.6828,
+    "fetched_at": "2026-09-07"
+  },
+  {
     "id": "pubmed:42580484",
     "source": "pubmed",
     "title": "Phylogeography and Molecular Evolution of Newcastle Disease Virus Across a Century of Global Surveillance.",
@@ -696,6 +718,26 @@
     "fetched_at": "2026-09-03"
   },
   {
+    "id": "pubmed:42704657",
+    "source": "pubmed",
+    "title": "SARS-CoV-2 intra-host variation shows evidence of transmission and convergent evolution in a university surveillance cohort.",
+    "abstract": "Monitoring and understanding the transmission and evolution of SARS-CoV-2 remains a significant public health priority. Within-host genetic variation provides insight into viral evolution during infection and may help infer transmission events. In this study, we analysed intra-host variation in SARS-CoV-2 genome sequences from Boston University's testing mandate. Focusing on intra-host single nucleotide variants (iSNVs), we inferred transmission events and assessed the selective forces shaping within-host viral evolution. To minimize false-positive iSNVs resulting from systematic biases, we implemented stringent data filtering and developed a heuristic to exclude contamination-derived artefacts arising from batched sequencing. We find that intra-host variation is limited and infrequently transmitted during acute infections, suggesting that shared iSNVs serve as highly specific but insensitive markers of transmission. We also observed incomplete purifying selection shaping within-host diversity, with the loci most affected changing among variants of concern. Finally, we identified a highly recurrent iSNV (G11083T) which may represent a site of positive selection. Our results highlight that within-host variation provides insight into within-host pathogen evolution, in spite of its limited use in genomic epidemiology.",
+    "authors": [
+      "Léa Cavalli",
+      "Bradford P Taylor",
+      "Beau Schaeffer",
+      "Jacquelyn Turcinovic",
+      "John H Connor",
+      "William P Hanage"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704657/",
+    "doi": "10.1099/mgen.0.001784",
+    "journal": "Microbial genomics",
+    "score": 0.5814,
+    "fetched_at": "2026-09-07"
+  },
+  {
     "id": "pubmed:42655718",
     "source": "pubmed",
     "title": "Whole-Genome Sequencing of RSV and Phylogeographic Assessment of Viral Importations into Russia.",
@@ -1166,6 +1208,28 @@
     "doi": "10.17219/dmp/225755",
     "score": 0.5043,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42704694",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Pathogenicity Evaluation of Porcine Teschovirus in Tibetan Pigs on the Qinghai-Tibet Plateau of China.",
+    "abstract": "Porcine teschovirus (PTV) is the causative agent of porcine diarrhea and multisystem disorder and poses a global threat to the health of domestic pigs. However, its epidemic and pathogenic characteristics in Tibetan pigs, which are a unique indigenous breed in the Qinghai-Tibet Plateau of China, remain largely unexplored. Here, we conducted a comprehensive investigation during 2024-2025, in which 303 diarrheic fecal samples were collected from 21 farms across eight counties in Ganzi Tibetan Autonomous Prefecture, with an average altitude of 3433 m. RT-PCR testing identified 141 PTV-positive samples, yielding a high positivity rate of 46.5% (141/303). From these positives, 27 VP1 sequences were cloned and sequenced; phylogenetic analysis revealed that 16 strains belonged to Teschovirus A, three strains were divided into Teschovirus B, and three strains formed the interspecies recombinant genotypes (PTV-15/16). Interestingly, five novel strains were classified as undefined genotypes, indicating an extensive genetic diversity among PTV strains circulating in Tibetan pigs. Furthermore, a PTV strain, designated PTV-SCgz-01, was successfully isolated in PK-15 cells, with a near-complete genomic sequence of 7081 nucleotides. Phylogenetic analysis based on the polyprotein and the VP1 genes indicated that it belonged to genotype PTV-4, whereas recombination analysis revealed that PTV-SCgz-01 is a natural recombinant with parental strains derived from HNMY (PTV-4) and China/SWU-ZG2/2018 (PTV-6). Experimental infection of 17-day-old Tibetan piglets demonstrated that this isolate induces severe watery diarrhea. Notably, the virus also caused severe pulmonary hemorrhage and mild cerebral hyperemia with neuronal degeneration, and it had a high mortality rate (40%), suggesting that strain PTV-SCgz-01 has strong pathogenic potential for 17-day-old Tibetan piglets. Our findings provide a more comprehensive molecular epidemiology of PTVs in Tibetan pigs and underscore the need for viral surveillance and control in this unique pig population.",
+    "authors": [
+      "Haohao Lu",
+      "Min Zhang",
+      "Danjiao Yang",
+      "Xue Gao",
+      "Shuo Feng",
+      "Yiwen Pei",
+      "Zhidong Zhang",
+      "Long Zhou"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704694/",
+    "doi": "10.1155/tbed/8803438",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.5043,
+    "fetched_at": "2026-09-07"
   },
   {
     "id": "pubmed:42655667",
@@ -2032,6 +2096,29 @@
     "doi": "10.1002/vms3.70815",
     "score": 0.4321,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42703469",
+    "source": "pubmed",
+    "title": "Molecular characterization of peste des petits ruminants virus in small ruminants from the Savannah District, Northern Ivory Coast.",
+    "abstract": "Objectives: Peste des petits ruminants (PPR) is a highly contagious viral disease affecting sheep and goats, with significant socio-economic consequences. The disease is endemic in the Ivory Coast; molecular data on circulating strains, particularly in the northern Savannah district, remain limited. This study aimed to characterize the PPR virus (PPRV) strains circulating among sheep and goats in this area. Materials and Methods: A total of 355 nasal swabs were collected from unvaccinated small ruminants, regardless of clinical status, across three regions of the Savannah district (Poro, Tchologo, and Bagoué). Viral ribonucleic acid (RNA) was extracted and screened using real-time reverse transcription polymerase chain reaction (RT-qPCR) targeting the nucleoprotein (N) gene of PPRV, followed by conventional RT-PCR (RT-cPCR). Positive amplicons were sequenced using the Sanger method, and phylogenetic analysis was performed with PhyML and edited in MEGA X software. Results: Out of 355 samples analyzed, 25 (7%) tested positive by RT-qPCR, and 17 of these were amplified by RT-cPCR for nucleotide sequencing. Ten sequences were of sufficient quality for phylogenetic analysis. All sequences described in this study clustered within lineage IV of PPRV and shared high nucleotide identity (96-98%) with previously described West African PPRV strains. Phylogenetic reconstruction revealed two distinct sub-clusters, suggesting possible multiple viral introductions, likely facilitated by uncontrolled transboundary livestock movements. Conclusions: This study provides the first molecular evidence of PPRV circulation in the Savannah district, confirming the dominance of lineage IV. The findings underscore the need for enhanced molecular surveillance and cross-border collaboration to inform regional vaccination and eradication efforts.",
+    "authors": [
+      "Konan Ange-Sylvestre Goli",
+      "Aristide Anicet Zobo",
+      "Augustino Alfred Chengula",
+      "Melvyn Quan",
+      "Benjamin Kiffopan M'Bari",
+      "Mariam Makange",
+      "Jean Nepomuscene Hakizimana",
+      "Peter Thompson",
+      "Gerald Misinzo"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703469/",
+    "doi": "10.1007/978-3-030-25385-1_3",
+    "journal": "Journal of advanced veterinary and animal research",
+    "score": 0.4318,
+    "fetched_at": "2026-09-07"
   },
   {
     "id": "pubmed:42579070",
@@ -3195,6 +3282,31 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42704526",
+    "source": "pubmed",
+    "title": "Molecular Characterization and Genetic Diversity of Ehrlichia canis in Naturally Infected Dogs from the Unaí Microregion, Minas Gerais, Brazil.",
+    "abstract": "Ehrlichia canis is an obligate intracellular bacterium responsible for canine monocytic ehrlichiosis and is widely distributed in tropical and subtropical regions. This study investigated the occurrence and genetic diversity of E. canis in naturally infected dogs from the Unaí microregion, Minas Gerais, Brazil, using the trp19, p28, and trp36 genes as molecular markers. A total of 386 whole blood samples were initially screened by conventional PCR targeting the Anaplasmataceae 16S rRNA gene, yielding 38 positive samples (9.8%). Subsequent PCR targeting the E. canis trp19 gene confirmed infection in 21 samples (5.4%). Among these, 12 samples were positive for the p28 gene and eight for the trp36 gene. Sequence analysis of p28 revealed high nucleotide identity (99.27-99.88%) with reference strains and amino acid substitutions. Haplotype network analysis identified nine p28 haplotypes, indicating substantial intraspecific genetic diversity. Analysis of the trp36 gene demonstrated the co-circulation of Brazilian and American genogroups, with variation in tandem repeat copy number. These findings reveal a genetically heterogeneous E. canis population in the Unaí microregion and provide evidence of the co-circulation of distinct lineages. The combined use of multiple molecular markers improved the characterization of the circulating strains and contributes to a better understanding of the molecular epidemiology and population diversity of E. canis in Brazil.",
+    "authors": [
+      "Aroldo de Souza Junior",
+      "Jônathan David Ribas Chagas",
+      "Isadora Dos Santos Dias",
+      "Ellen Meireles Brandão",
+      "Luiza Sena Chalub",
+      "Laura Marques Batista",
+      "Julia Oliveira Amaral",
+      "Jenevaldo Barbosa da Silva",
+      "Matheus Dias Cordeiro",
+      "Claudia Bezerra da Silva",
+      "Bruna de Azevedo Baêta"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704526/",
+    "doi": "10.3390/vetsci10050316",
+    "journal": "Acta parasitologica",
+    "score": 0.32,
+    "fetched_at": "2026-09-07"
+  },
+  {
     "id": "pubmed:42584925",
     "source": "pubmed",
     "title": "Enlarging viral mutation estimation: a view from the distribution of mutation rates.",
@@ -4320,115 +4432,5 @@
     "doi": "10.1016/j.bbapap.2026.141170",
     "score": 0.2367,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42561989",
-    "source": "pubmed",
-    "title": "Streptococcus anginosus group as a cause of serious streptococcal infection in the UK: a retrospective population-based surveillance study.",
-    "abstract": "Despite emerging evidence indicating an increasing burden of invasive Streptococcus anginosus group (SAG) intracranial infections in children, their wider epidemiology remains inadequately explored. We aimed to describe the epidemiology of SAG infections in adults and children in the UK. We conducted a retrospective population-based surveillance study of microbiological laboratory samples, including all samples from which Streptococcus spp were identified, at Great Ormond Street Hospital (GOSH; London, UK), which processes local paediatric and national specimens from all ages, from Jan 1, 2000, to Dec 31, 2023, and at University College London Hospitals (UCLH; London, UK; all ages), from Jan 1, 2012, to Dec 31, 2023. Samples with missing data were excluded. We also analysed the nationally reported streptococcal bacteraemia data from Jan 1, 2015, to Dec 31, 2023, and calculated the annual rates of SAG sterile body site (SBS) infections per 1000 emergency admissions at each hospital. Temporal trends were analysed using negative-binomial regression with admission numbers as an offset. Descriptive statistics summarised infection characteristics by organism, species, body site, age, and sex. National bacteraemia trends were analysed relative to population denominators. Analyses included only records with complete routine laboratory data, and samples without sufficient information were excluded from relevant subgroup analyses. As we only included routinely collected laboratory data, comprehensive demographic and ethnicity data were not available. The median age of patients from whom Streptococcus spp of interest (SOI) were isolated was 44·41 years (IQR 12·327-64·32). 2215 (59·8%) of 3702 patients with SOI SBS infection (defined as an infection of an anatomical area expected to be devoid of microorganisms) were male. At both GOSH and UCLH, incidence of SAG sterile body site infections increased year-on-year from 2·12 per 1000 emergency hospital admissions in 2012 to 11·51 per 1000 emergency hospital admissions in 2023 at GOSH (p<0·0001) and from 0·97 per 1000 emergency hospital admissions in 2012 to 6·04 per 1000 emergency hospital admissions in 2023 at UCLH (p<0·0001). SAG diagnoses in external samples, which were referred to GOSH for molecular diagnostics, also increased markedly over time compared with other Streptococcus spp diagnoses. In all groups, SAG is the current dominant cause of streptococcal sterile body site infection. SAG sterile body site infections most frequently involved the CNS (222 [19·6%] of 1133), especially in children (87 [39·2%] of 222), intrathoracic sites (283 [24·9%] of 1133), and abdominal sites (202 [17·8%] of 1133). At the species level, all three SAG species contributed to the increase in infections. S intermedius was the dominant cause of CNS and intrathoracic infections, whereas S anginosus and S constellatus were the dominant causes of abdominal infections. SAG infections, predominantly deep pyogenic collections in SBSs, are increasing in both children and adults in the UK and represent a major cause of streptococcal SBS infections. This increase is unlikely to be explained solely by improved diagnostics or increased sampling and suggests a real change in epidemiology. Further work is urgently needed to understand whether this change is because of increasing virulence of SAG organisms, changes in carriage rates or dynamics, or the presence of alternative drivers. The European Society of Clinical Microbiology and Infectious Diseases (Europäische Gesellschaft für klinische Mikrobiologie und Infektionskrankheiten; ESCMID).",
-    "authors": [
-      "Eliza Gil",
-      "James Hatcher",
-      "Sophia De Saram",
-      "Trupti Patel",
-      "Theresa Lamagni",
-      "Rebecca Guy",
-      "Michael Marks",
-      "Jeremy Brown"
-    ],
-    "date": "2026-Aug-06",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561989/",
-    "doi": "10.1016/j.lanmic.2026.101436",
-    "score": 0.2364,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42561363",
-    "source": "pubmed",
-    "title": "Advances and Challenges Regarding American Tegumentary Leishmaniasis in the Amazon: Scientific, Epidemiological and Public Health Perspectives.",
-    "abstract": "American tegumentary leishmaniasis (ATL) remains a significant public health problem in the Americas, with the Amazon region standing out in Brazil for its high number of cases. This article aimed to present advances in the understanding of epidemiology, diagnosis, treatment and control of ATL in the state of Amazonas over the past decades. This study is a narrative review of scientific studies published in the literature between 2011 and 2025, retrieved from databases such as PubMed and SciELO, as well as public data from the Notifiable Diseases Information System (SINAN), official reports from the Ministry of Health and technical notes from the Amazonas Health Surveillance Foundation. The evolution of disease incidence is reported, highlighting the predominance of Leishmania (Viannia) guyanensis and the environmental factors associated with the increase in cases, such as deforestation and unplanned urbanization. Advances in diagnostic strategies include the expanded use of molecular techniques and the strengthening of the primary healthcare network. Regarding therapy, clinical trials with drugs such as pentamidine, miltefosine, tamoxifen and itraconazole have demonstrated their efficacy in treatment. The review also includes socio-environmental, genetic and experimental studies that have contributed to a better understanding of the disease. It emphasizes the need to establish a priority agenda that includes the use of telemedicine and the institutionalization of collaborative research for therapeutic innovation, integration between research and healthcare services and strategies adapted to the Amazonian context. Regional scientific advances can support more effective control policies and reduce the burden of ATL in this highly endemic setting.",
-    "authors": [
-      "Jorge Augusto de Oliveira Guerra",
-      "Débora Raysa Teixeira de Sousa",
-      "Silmara Navarro Pennini",
-      "Thamires Bastos Pinheiro",
-      "Melissa Melo Cavalcante",
-      "Luciana Mendes",
-      "Diego Carvalho",
-      "Fábio Borgonovo",
-      "Francisco Mateus João",
-      "Isolda Prado de Negreiros Nogueira Maduro",
-      "Luiz Carlos Cunha Marques",
-      "Silvia Cassia Brandão Justiniano",
-      "João Marcos Bemfica Barbosa Ferreira",
-      "Katia do Nascimento Couceiro",
-      "Maria das Graças Vale Barbosa Guerra"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561363/",
-    "doi": "10.3390/microorganisms13061304",
-    "score": 0.2342,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42577039",
-    "source": "pubmed",
-    "title": "Carriage rate of CPE, ESBL-producing coliforms and MRSA in community settings in Suriname.",
-    "abstract": "Colonization by antimicrobial-resistant bacteria can cause difficult-to-treat infections, yet their carriage prevalence in Suriname is unknown. This cross-sectional study assessed intestinal community carriage and the molecular epidemiology of pathogens of public health importance, including carbapenemase-producing Enterobacterales (CPE), ESBL-producing coliforms (ESBL-c) and MRSA. Faecal samples were collected from 310 non-hospitalized patients between October 2024 and February 2025 and analysed using selective culture and WGS. The prevalence of ESBL carriage was 12.3% (95% CI: 8.4%-15.6%). Most ESBL/plasmid-mediated AmpC genes belonged to the bla CTX-M-1-group. Among the detected ESBL-c isolates, four distinct genetic clusters were identified: two clusters had identical core genomes, and two clusters had related ones (≤10 allelic differences). No CPE were detected. Two MRSA and one Staphylococcus argenteus (MRSArg) with mecA genes were identified. This study demonstrated frequent ESBL carriage in community-dwelling individuals attending ambulatory care in Suriname. Genomic clustering suggests transmission or shared sources. In contrast, carriage of CPE and MRSA was uncommon. These findings may help clinicians and policymakers to make informed decisions and develop targeted strategies to limit the spread of antimicrobial resistance and improve global public health.",
-    "authors": [
-      "Carlotte M Rozemond",
-      "Malti R Adhin",
-      "Whitney Williams",
-      "Sabine C De Greeff",
-      "Engeline Van Duijkeren",
-      "Stephen G Vreden",
-      "Francis T Mawie",
-      "Ed Ijzerman",
-      "Joost Hordijk",
-      "Jaap T Van Dissel"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42577039/",
-    "doi": "10.14309/00000434-201310001-01342",
-    "score": 0.2334,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42650730",
-    "source": "pubmed",
-    "title": "Influence of COVID-19 on Clinical Outcomes of",
-    "abstract": "Backgroud/Objectives:Clostridioides difficile infection (CDI) remains a major problem for healthcare facilities. The COVID-19 pandemic was associated with increased hospitalizations, frequent antibiotic use, and changes in infection prevention and control regulations, which may have influenced the epidemiological and clinical characteristics of CDI. The aim of this study was to evaluate whether a history of COVID-19 was associated with clinical characteristics, treatment exposure, recurrence, ribotype distribution, and mortality in patients with CDI. Methods: This retrospective study included patients diagnosed with CDI during the period 2020-2022 at the Louis Pasteur University Hospital in Košice, Slovakia. We analyzed 324 patients, of whom 172 (53.1%) had no history of COVID-19 and 144 (44.4%) had previous or concurrent COVID-19, defined as documented infection within three months before or at the time of CDI diagnosis. Eight patients (2.5%) developed COVID-19 after CDI diagnosis and were excluded from the comparative analyses. Results: Patients with previous or concurrent COVID-19 had higher exposure to PPIs (88.2% vs. 73.3%; p = 0.0009), corticosteroids (70.1% vs. 26.2%; p < 0.0001), cephalosporins (72.9% vs. 61.6%; p = 0.034) and macrolides (37.5% vs. 20.3%; p = 0.0007). Overall antibiotic exposure was high (93.8%) and did not differ significantly between patients with previous or concurrent COVID-19 and those without COVID-19 (93.8% vs. 94.2%; p = 0.871). Previous or concurrent COVID-19 was not associated with increased 90-day mortality after CDI (42.4% vs. 43.6%; p = 0.824). Conclusions: Our findings suggest that a history of COVID-19 was associated with the risk factor profile, recurrence rate and the molecular epidemiology of CDI, rather than with a more severe clinical course or worse prognosis.",
-    "authors": [
-      "Martin Novotny",
-      "Daniela Javorska",
-      "Annamaria Toporova",
-      "Nicolas Kardos",
-      "Katarina Curova"
-    ],
-    "date": "2026-Aug-18",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42650730/",
-    "doi": "10.3390/antibiotics15080806",
-    "journal": "Antibiotics (Basel, Switzerland)",
-    "score": 0.2316,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42583324",
-    "source": "pubmed",
-    "title": "ChronoSort: Revealing Hidden Dynamics in AlphaFold3 Structure Predictions.",
-    "abstract": "Protein function emerges from dynamic conformational changes, yet structure prediction methods provide only static snapshots. While AlphaFold3 (AF3) predicts protein structures, the potential for extracting dynamic information from its ensemble predictions has remained underexplored. Here, we demonstrate that AF3 structural ensembles contain substantial dynamic information that correlates remarkably well with molecular dynamics simulations (MD). We developed ChronoSort, a novel algorithm that organizes static structure predictions into temporally coherent trajectories by minimizing structural differences between neighboring frames. Through systematic analysis of four diverse protein targets, we show that root-mean-square fluctuations derived from AF3 ensembles can correlate strongly with those from MD (r = 0.53 to 0.84). Principal component analysis reveals that AF3 predictions capture the same collective motion patterns observed in molecular dynamics trajectories, with eigenvector similarities significantly exceeding random distributions. ChronoSort trajectories exhibit structural evolution profiles comparable to MD. These findings suggest that modern AI-based structure prediction tools encode conformational flexibility information that can be systematically extracted without expensive MD. We provide ChronoSort as open-source software to enable broad community adoption. This work offers a novel approach to extracting functional insights from structure prediction tools in minutes, with significant implications for synthetic biology, protein engineering, drug discovery, and structure-function studies.",
-    "authors": [
-      "Matthew J Argyle",
-      "William P Heaps",
-      "Corbyn Kubalek",
-      "Spencer S Gardiner",
-      "Bradley C Bundy",
-      "Dennis Della Corte"
-    ],
-    "date": "2025-Dec-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42583324/",
-    "doi": "10.1038/s41592-020-0772-5",
-    "score": 0.227,
-    "fetched_at": "2026-08-13"
   }
 ]

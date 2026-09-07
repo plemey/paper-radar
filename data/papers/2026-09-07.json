@@ -1,0 +1,130 @@
+[
+  {
+    "id": "pubmed:42704694",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Pathogenicity Evaluation of Porcine Teschovirus in Tibetan Pigs on the Qinghai-Tibet Plateau of China.",
+    "abstract": "Porcine teschovirus (PTV) is the causative agent of porcine diarrhea and multisystem disorder and poses a global threat to the health of domestic pigs. However, its epidemic and pathogenic characteristics in Tibetan pigs, which are a unique indigenous breed in the Qinghai-Tibet Plateau of China, remain largely unexplored. Here, we conducted a comprehensive investigation during 2024-2025, in which 303 diarrheic fecal samples were collected from 21 farms across eight counties in Ganzi Tibetan Autonomous Prefecture, with an average altitude of 3433 m. RT-PCR testing identified 141 PTV-positive samples, yielding a high positivity rate of 46.5% (141/303). From these positives, 27 VP1 sequences were cloned and sequenced; phylogenetic analysis revealed that 16 strains belonged to Teschovirus A, three strains were divided into Teschovirus B, and three strains formed the interspecies recombinant genotypes (PTV-15/16). Interestingly, five novel strains were classified as undefined genotypes, indicating an extensive genetic diversity among PTV strains circulating in Tibetan pigs. Furthermore, a PTV strain, designated PTV-SCgz-01, was successfully isolated in PK-15 cells, with a near-complete genomic sequence of 7081 nucleotides. Phylogenetic analysis based on the polyprotein and the VP1 genes indicated that it belonged to genotype PTV-4, whereas recombination analysis revealed that PTV-SCgz-01 is a natural recombinant with parental strains derived from HNMY (PTV-4) and China/SWU-ZG2/2018 (PTV-6). Experimental infection of 17-day-old Tibetan piglets demonstrated that this isolate induces severe watery diarrhea. Notably, the virus also caused severe pulmonary hemorrhage and mild cerebral hyperemia with neuronal degeneration, and it had a high mortality rate (40%), suggesting that strain PTV-SCgz-01 has strong pathogenic potential for 17-day-old Tibetan piglets. Our findings provide a more comprehensive molecular epidemiology of PTVs in Tibetan pigs and underscore the need for viral surveillance and control in this unique pig population.",
+    "authors": [
+      "Haohao Lu",
+      "Min Zhang",
+      "Danjiao Yang",
+      "Xue Gao",
+      "Shuo Feng",
+      "Yiwen Pei",
+      "Zhidong Zhang",
+      "Long Zhou"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704694/",
+    "doi": "10.1155/tbed/8803438",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.5043,
+    "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "pubmed:42704657",
+    "source": "pubmed",
+    "title": "SARS-CoV-2 intra-host variation shows evidence of transmission and convergent evolution in a university surveillance cohort.",
+    "abstract": "Monitoring and understanding the transmission and evolution of SARS-CoV-2 remains a significant public health priority. Within-host genetic variation provides insight into viral evolution during infection and may help infer transmission events. In this study, we analysed intra-host variation in SARS-CoV-2 genome sequences from Boston University's testing mandate. Focusing on intra-host single nucleotide variants (iSNVs), we inferred transmission events and assessed the selective forces shaping within-host viral evolution. To minimize false-positive iSNVs resulting from systematic biases, we implemented stringent data filtering and developed a heuristic to exclude contamination-derived artefacts arising from batched sequencing. We find that intra-host variation is limited and infrequently transmitted during acute infections, suggesting that shared iSNVs serve as highly specific but insensitive markers of transmission. We also observed incomplete purifying selection shaping within-host diversity, with the loci most affected changing among variants of concern. Finally, we identified a highly recurrent iSNV (G11083T) which may represent a site of positive selection. Our results highlight that within-host variation provides insight into within-host pathogen evolution, in spite of its limited use in genomic epidemiology.",
+    "authors": [
+      "Léa Cavalli",
+      "Bradford P Taylor",
+      "Beau Schaeffer",
+      "Jacquelyn Turcinovic",
+      "John H Connor",
+      "William P Hanage"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704657/",
+    "doi": "10.1099/mgen.0.001784",
+    "journal": "Microbial genomics",
+    "score": 0.5814,
+    "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "pubmed:42704526",
+    "source": "pubmed",
+    "title": "Molecular Characterization and Genetic Diversity of Ehrlichia canis in Naturally Infected Dogs from the Unaí Microregion, Minas Gerais, Brazil.",
+    "abstract": "Ehrlichia canis is an obligate intracellular bacterium responsible for canine monocytic ehrlichiosis and is widely distributed in tropical and subtropical regions. This study investigated the occurrence and genetic diversity of E. canis in naturally infected dogs from the Unaí microregion, Minas Gerais, Brazil, using the trp19, p28, and trp36 genes as molecular markers. A total of 386 whole blood samples were initially screened by conventional PCR targeting the Anaplasmataceae 16S rRNA gene, yielding 38 positive samples (9.8%). Subsequent PCR targeting the E. canis trp19 gene confirmed infection in 21 samples (5.4%). Among these, 12 samples were positive for the p28 gene and eight for the trp36 gene. Sequence analysis of p28 revealed high nucleotide identity (99.27-99.88%) with reference strains and amino acid substitutions. Haplotype network analysis identified nine p28 haplotypes, indicating substantial intraspecific genetic diversity. Analysis of the trp36 gene demonstrated the co-circulation of Brazilian and American genogroups, with variation in tandem repeat copy number. These findings reveal a genetically heterogeneous E. canis population in the Unaí microregion and provide evidence of the co-circulation of distinct lineages. The combined use of multiple molecular markers improved the characterization of the circulating strains and contributes to a better understanding of the molecular epidemiology and population diversity of E. canis in Brazil.",
+    "authors": [
+      "Aroldo de Souza Junior",
+      "Jônathan David Ribas Chagas",
+      "Isadora Dos Santos Dias",
+      "Ellen Meireles Brandão",
+      "Luiza Sena Chalub",
+      "Laura Marques Batista",
+      "Julia Oliveira Amaral",
+      "Jenevaldo Barbosa da Silva",
+      "Matheus Dias Cordeiro",
+      "Claudia Bezerra da Silva",
+      "Bruna de Azevedo Baêta"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42704526/",
+    "doi": "10.3390/vetsci10050316",
+    "journal": "Acta parasitologica",
+    "score": 0.32,
+    "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "pubmed:42703780",
+    "source": "pubmed",
+    "title": "Consensus H3N2 HA immunogens incorporating key antigenic mutations elicit broad-spectrum neutralising responses.",
+    "abstract": "Seasonal influenza A/H3N2 poses a significant public health burden due to its rapid antigenic evolution, necessitating frequent vaccine updates. This study systematically analysed the antigenic evolution of 14 H3N2 vaccine strains (2000-2022) using pseudovirus-based neutralisation assays and antigenic cartography. Vaccine strains exhibited cross-neutralisation patterns, with higher reactivity among strains from adjacent years, forming six antigenic clusters. Key amino acid mutations (e.g., 144 K, 189N) were identified as critical drivers of antigenic variation, with clustering-specific effects on neutralisation sensitivity. Based on these findings, a consensus HA immunogen (consensus up-HA) was designed by combining mutations at key sites. This immunogen demonstrated broad-spectrum neutralisation against pseudoviruses representing circulating strains from 2011 to 2024, including recent variants. These results highlight the potential of targeted HA modifications to develop broadly cross-reactive H3N2 vaccine candidate, offering broader and more durable neutralising activity against evolving H3N2 strains.",
+    "authors": [
+      "Yimeng An",
+      "Meina Cai",
+      "Chenyan Zhao",
+      "Mengyi Zhang",
+      "Xi Wu",
+      "Weijin Huang",
+      "Xu Zhou",
+      "Youchun Wang"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703780/",
+    "doi": "10.1080/22221751.2026.2731497",
+    "journal": "Emerging microbes & infections",
+    "score": 0.6828,
+    "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "pubmed:42703469",
+    "source": "pubmed",
+    "title": "Molecular characterization of peste des petits ruminants virus in small ruminants from the Savannah District, Northern Ivory Coast.",
+    "abstract": "Objectives: Peste des petits ruminants (PPR) is a highly contagious viral disease affecting sheep and goats, with significant socio-economic consequences. The disease is endemic in the Ivory Coast; molecular data on circulating strains, particularly in the northern Savannah district, remain limited. This study aimed to characterize the PPR virus (PPRV) strains circulating among sheep and goats in this area. Materials and Methods: A total of 355 nasal swabs were collected from unvaccinated small ruminants, regardless of clinical status, across three regions of the Savannah district (Poro, Tchologo, and Bagoué). Viral ribonucleic acid (RNA) was extracted and screened using real-time reverse transcription polymerase chain reaction (RT-qPCR) targeting the nucleoprotein (N) gene of PPRV, followed by conventional RT-PCR (RT-cPCR). Positive amplicons were sequenced using the Sanger method, and phylogenetic analysis was performed with PhyML and edited in MEGA X software. Results: Out of 355 samples analyzed, 25 (7%) tested positive by RT-qPCR, and 17 of these were amplified by RT-cPCR for nucleotide sequencing. Ten sequences were of sufficient quality for phylogenetic analysis. All sequences described in this study clustered within lineage IV of PPRV and shared high nucleotide identity (96-98%) with previously described West African PPRV strains. Phylogenetic reconstruction revealed two distinct sub-clusters, suggesting possible multiple viral introductions, likely facilitated by uncontrolled transboundary livestock movements. Conclusions: This study provides the first molecular evidence of PPRV circulation in the Savannah district, confirming the dominance of lineage IV. The findings underscore the need for enhanced molecular surveillance and cross-border collaboration to inform regional vaccination and eradication efforts.",
+    "authors": [
+      "Konan Ange-Sylvestre Goli",
+      "Aristide Anicet Zobo",
+      "Augustino Alfred Chengula",
+      "Melvyn Quan",
+      "Benjamin Kiffopan M'Bari",
+      "Mariam Makange",
+      "Jean Nepomuscene Hakizimana",
+      "Peter Thompson",
+      "Gerald Misinzo"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42703469/",
+    "doi": "10.1007/978-3-030-25385-1_3",
+    "journal": "Journal of advanced veterinary and animal research",
+    "score": 0.4318,
+    "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "arxiv:2609.04834v1",
+    "source": "arxiv",
+    "title": "Eco-evolutionary cycles in a matching type predator-prey interaction",
+    "abstract": "We study the population dynamics of a predator-prey system with two types in each species. Within a species, predator or prey, dynamics are described by a neutral competitive Lotka-Volterra model, i.e., birth, death and competition parameters are equal for both types. Additionally, we assume that the intra- and inter-type competition parameters are equal. The predator-prey interaction is defined by a matching-types model where predators of type $i$ exclusively interact with prey of type $i$. The individual-based model is described by a birth-death process with immigration, where immigration reflects mutations between the types of the same species. We completely describe the deterministic dynamics arising as a large population limit of this birth-death process. We find that depending on the parameters, potential equilibria are the coexistence of all four types, coexistence of a non-matching or matching pair of predators and prey, or the extinction of the predator or prey species resulting in a line of two-type equilibria. When mutations are sufficiently rare, then the predator-prey dynamics are described by successive jumps between the different deterministic equilibria on this mutational time scale. These jumps describe eco-evolutionary cycles of repeated prey or predator invasions and declines. When coexistence of all the types is possible, we show that these cycles accumulate on this time scale. Lastly, to prove that after the accumulation point the system converges to the coexistence equilibrium, we consider a slightly modified model with unequal intra- and inter-type competition parameters. This modified setting allows us to conclude that after the accumulation point all four populations remain macroscopic and converge to the coexistence equilibrium.",
+    "authors": [
+      "Manon Costa",
+      "Peter Czuppon",
+      "Raphaël Forien"
+    ],
+    "date": "2026-09-04",
+    "url": "https://arxiv.org/abs/2609.04834v1",
+    "doi": null,
+    "score": 0.2049,
+    "fetched_at": "2026-09-07"
+  }
+]
