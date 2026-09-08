@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pubmed:42707568",
+    "source": "pubmed",
+    "title": "Antimicrobial resistance patterns in a Qatari tertiary care center in 2024: A retrospective study.",
+    "abstract": "Antimicrobial resistance (AMR) is a critical global health threat. Local, real-time epidemiological data are the cornerstone of effective antimicrobial stewardship. This study aimed to establish a 2024 baseline for AMR patterns at a major tertiary care center in Qatar to directly guide empirical therapy and stewardship interventions. We conducted a retrospective, cross-sectional analysis of 1,656 positive bacterial cultures from blood, urine, and wound samples collected from 1,218 patients between January 1 and December 31, 2024. Antibiotic susceptibility testing was interpreted per European Committee on Antimicrobial Susceptibility Testing (EUCAST) 2024 guidelines. Statistical analysis utilized descriptive statistics and Chi-square tests. The most common pathogens were Escherichia coli (30.0%), Staphylococcus aureus (25.0%), and Pseudomonas aeruginosa (15.0%). High resistance rates were observed, with E. coli exhibiting resistance to ceftriaxone (45.0%, 95% CI 40.5-49.5) and ciprofloxacin (50.0%, 95% CI 45.5-54.5). Methicillin-resistant S. aureus (MRSA) prevalence was 30.0% (95% CI 25.6-34.7). Carbapenem-resistant Klebsiella pneumoniae (CRKP) accounted for 5.5% (95% CI 4.4-6.7) of all isolates. Multidrug-resistant organisms (MDROs) were identified in 35.0% (95% CI 32.7-37.3) of samples, with a significantly higher prevalence in intensive care units (ICUs) (45.0%) compared to other wards (p < 0.001). This study documents a high burden of AMR, dominated by Gram-negative pathogens in critical care settings. These findings necessitate a multi-pronged response, including the revision of empirical antibiotic guidelines, enhanced stewardship focused on high-risk agents, and intensified infection control in ICUs. Integrating molecular epidemiology into future prospective surveillance is essential to combat this escalating crisis.",
+    "authors": [
+      "Bassem Al Hariri",
+      "Ahmad Eid Nazzal Alharafsheh",
+      "Joudi Alhariri",
+      "Ali Mousa Alnaimat",
+      "Manish Barman",
+      "Muad Abdi Hassan",
+      "Hatem Mabrouk Taher Abusriwil"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707568/",
+    "doi": "10.3390/md15060158",
+    "journal": "Qatar medical journal",
+    "score": 0.1478,
+    "fetched_at": "2026-09-08"
+  },
+  {
+    "id": "pubmed:42707236",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of",
+    "abstract": "Enterocytozoon bieneusi is a zoonotic parasite causing diarrheal disease in rural settings with frequent human-animal contact. We conducted a cross-sectional study in Heilongjiang, China, enrolling 69 households across 10 villages. Humans and domestic animals were sampled. Nested PCR targeting the ITS region was performed. Genotypes were determined by sequencing, and genetic diversity was assessed using DnaSP. Human prevalence was 11.0% (13/118), while overall animal prevalence was 23.4% (162/693), with sheep being the highest (66.7%), followed by pigs (46.1%) and geese (20.5%). Prevalence was significantly higher in mammals than poultry (32.9% vs. 13.9%; p < 0.001). Sequence analysis yielded 29 distinct genotypes (10 known, 19 novel), with EbpC (36.0%), BEB6 (13.7%), EbpA (13.7%), and D (11.4%) being the most prevalent, most clustering within zoonotic Group 1. Notably, zoonotic genotypes EbpC and EbpA were identified in chickens and geese, extending the known host range of these genotypes. Human-animal genotype sharing was observed in only one household (genotype EbpC between humans, pigs, chickens, and geese), while intraspecies circulation and occasional animal-animal genotype sharing were more common. Phylogenetic and network analyses suggested localized diversification, though single-locus ITS limits definitive evolutionary inference. E. bieneusi is highly prevalent in rural domestic animals in Heilongjiang, with genetically diverse and potentially zoonotic genotypes circulating in livestock and poultry. Although household-level human-animal transmission appears limited in this dataset, the presence of shared zoonotic genotypes highlights the need for expanded surveillance incorporating environmental sampling and multi-locus typing to clarify transmission pathways and inform One Health strategies.",
+    "authors": [
+      "Tao Hu",
+      "Feiyang Zheng",
+      "Weizhe Zhang",
+      "Yulu Sun",
+      "Hanyun Qin",
+      "Liang Zhao",
+      "Huazhang Lai",
+      "Jingwen Chen",
+      "He Li",
+      "Bo Yang",
+      "Xiaoli Zhang",
+      "Fengkun Yang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707236/",
+    "doi": "10.1051/parasite/2020009",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4679,
+    "fetched_at": "2026-09-08"
+  },
+  {
+    "id": "pubmed:42706181",
+    "source": "pubmed",
+    "title": "[Germline DDX41 mutations and myelodysplastic neoplasms].",
+    "abstract": "DDX41 mutations represent one of the most frequent germline mutations in patients with myelodysplastic neoplasms, conferring unique clinical features of age of onset, prognosis, pathogenic mechanisms, and treatment response. This review summarizes the molecular epidemiology and clinical features of germline DDX41-mutated MDS, with a particular focus on recent advances in the \"second-hit\" model underlying disease pathogenesis. We further review the efficacy of current therapeutic strategies and discuss the applicability and limitations of existing prognostic scoring systems for this unique patient population. This review aims to provide an updated overview of current evidence and to inform risk stratification, clinical management, and long-term care of patients with germline DDX41-mutated MDS.",
+    "authors": [
+      "Y Zhong",
+      "Z J Xiao"
+    ],
+    "date": "2026-Jul-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706181/",
+    "doi": "10.3760/cma.j.cn121090-20251118-00537",
+    "journal": "Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi",
+    "score": 0.1552,
+    "fetched_at": "2026-09-08"
+  },
+  {
+    "id": "pubmed:42705573",
+    "source": "pubmed",
+    "title": "Leishmania (Mundinia) martiniquensis beyond Southeast Asia: Molecular, clinico-pathological and entomological evidence of an emerging visceral leishmaniasis focus from Sri Lanka, South Asia.",
+    "abstract": "The subgenus Leishmania (Mundinia) is a recently recognized, phylogenetically distinct lineage whose species cause visceral, cutaneous and disseminated leishmaniasis, but autochthonous human transmission has been molecularly confirmed in only a few settings worldwide. This reports an integrated molecular, histopathological and entomological investigation of a 66-year-old Sri Lankan man with pancytopenia, hepatosplenomegaly and prolonged fever of initially unclear aetiology. Species identification used three molecular markers, the 18S ribosomal RNA gene, the ITS1 region and the heat shock protein 70 (HSP70) gene, followed by Sanger sequencing, BLASTn analysis and maximum likelihood phylogenetic reconstruction; a structured entomological survey combining cattle-baited net trapping, indoor hand collection and sticky trapping was conducted around the patient's residence over four months. Histopathology demonstrated Leishmania amastigotes within lymph node histiocytes and tingible body macrophages. All three markers concordantly identified L. martiniquensis, with greater than 99% nucleotide identity to reference sequences and phylogenetic support of 59% - 100% bootstrap values (GenBank accessions PQ727038, PZ578091 and PZ393726). The patient's travel history excluded exposure to any previously recognized endemic region, supporting autochthonous acquisition. Entomological surveys identified Phlebotomus argentipes and Sergentomyia zeylanica near the residence, with habitats consistent with established sand fly transmission ecology. The patient achieved full clinical recovery following intravenous amphotericin B therapy. This case provides molecular evidence of L. martiniquensis transmission outside its previously recognized endemic range, indicating that the geographic distribution of subgenus Mundinia is broader than appreciated, with implications for leishmaniasis surveillance, diagnostic algorithms and vector-borne disease research across South Asia and beyond.",
+    "authors": [
+      "Nayana Gunathilaka",
+      "Mangala Bopagoda",
+      "Thulangi Siriwardana",
+      "Isuru Anjana Hemachandra",
+      "Supipi P Karunarathne",
+      "Ranjan Premaratna",
+      "Nuwani Manamperi",
+      "Nilmini Chandrasena"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42705573/",
+    "doi": "10.1016/j.parint.2026.103385",
+    "journal": "Parasitology international",
+    "score": 0.3304,
+    "fetched_at": "2026-09-08"
+  }
+]

@@ -1671,6 +1671,32 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42707236",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of",
+    "abstract": "Enterocytozoon bieneusi is a zoonotic parasite causing diarrheal disease in rural settings with frequent human-animal contact. We conducted a cross-sectional study in Heilongjiang, China, enrolling 69 households across 10 villages. Humans and domestic animals were sampled. Nested PCR targeting the ITS region was performed. Genotypes were determined by sequencing, and genetic diversity was assessed using DnaSP. Human prevalence was 11.0% (13/118), while overall animal prevalence was 23.4% (162/693), with sheep being the highest (66.7%), followed by pigs (46.1%) and geese (20.5%). Prevalence was significantly higher in mammals than poultry (32.9% vs. 13.9%; p < 0.001). Sequence analysis yielded 29 distinct genotypes (10 known, 19 novel), with EbpC (36.0%), BEB6 (13.7%), EbpA (13.7%), and D (11.4%) being the most prevalent, most clustering within zoonotic Group 1. Notably, zoonotic genotypes EbpC and EbpA were identified in chickens and geese, extending the known host range of these genotypes. Human-animal genotype sharing was observed in only one household (genotype EbpC between humans, pigs, chickens, and geese), while intraspecies circulation and occasional animal-animal genotype sharing were more common. Phylogenetic and network analyses suggested localized diversification, though single-locus ITS limits definitive evolutionary inference. E. bieneusi is highly prevalent in rural domestic animals in Heilongjiang, with genetically diverse and potentially zoonotic genotypes circulating in livestock and poultry. Although household-level human-animal transmission appears limited in this dataset, the presence of shared zoonotic genotypes highlights the need for expanded surveillance incorporating environmental sampling and multi-locus typing to clarify transmission pathways and inform One Health strategies.",
+    "authors": [
+      "Tao Hu",
+      "Feiyang Zheng",
+      "Weizhe Zhang",
+      "Yulu Sun",
+      "Hanyun Qin",
+      "Liang Zhao",
+      "Huazhang Lai",
+      "Jingwen Chen",
+      "He Li",
+      "Bo Yang",
+      "Xiaoli Zhang",
+      "Fengkun Yang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707236/",
+    "doi": "10.1051/parasite/2020009",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4679,
+    "fetched_at": "2026-09-08"
+  },
+  {
     "id": "pubmed:42643861",
     "source": "pubmed",
     "title": "Stochastic intracellular replication dynamics shape population-level evolution in Influenza A Virus.",
@@ -3149,6 +3175,28 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42705573",
+    "source": "pubmed",
+    "title": "Leishmania (Mundinia) martiniquensis beyond Southeast Asia: Molecular, clinico-pathological and entomological evidence of an emerging visceral leishmaniasis focus from Sri Lanka, South Asia.",
+    "abstract": "The subgenus Leishmania (Mundinia) is a recently recognized, phylogenetically distinct lineage whose species cause visceral, cutaneous and disseminated leishmaniasis, but autochthonous human transmission has been molecularly confirmed in only a few settings worldwide. This reports an integrated molecular, histopathological and entomological investigation of a 66-year-old Sri Lankan man with pancytopenia, hepatosplenomegaly and prolonged fever of initially unclear aetiology. Species identification used three molecular markers, the 18S ribosomal RNA gene, the ITS1 region and the heat shock protein 70 (HSP70) gene, followed by Sanger sequencing, BLASTn analysis and maximum likelihood phylogenetic reconstruction; a structured entomological survey combining cattle-baited net trapping, indoor hand collection and sticky trapping was conducted around the patient's residence over four months. Histopathology demonstrated Leishmania amastigotes within lymph node histiocytes and tingible body macrophages. All three markers concordantly identified L. martiniquensis, with greater than 99% nucleotide identity to reference sequences and phylogenetic support of 59% - 100% bootstrap values (GenBank accessions PQ727038, PZ578091 and PZ393726). The patient's travel history excluded exposure to any previously recognized endemic region, supporting autochthonous acquisition. Entomological surveys identified Phlebotomus argentipes and Sergentomyia zeylanica near the residence, with habitats consistent with established sand fly transmission ecology. The patient achieved full clinical recovery following intravenous amphotericin B therapy. This case provides molecular evidence of L. martiniquensis transmission outside its previously recognized endemic range, indicating that the geographic distribution of subgenus Mundinia is broader than appreciated, with implications for leishmaniasis surveillance, diagnostic algorithms and vector-borne disease research across South Asia and beyond.",
+    "authors": [
+      "Nayana Gunathilaka",
+      "Mangala Bopagoda",
+      "Thulangi Siriwardana",
+      "Isuru Anjana Hemachandra",
+      "Supipi P Karunarathne",
+      "Ranjan Premaratna",
+      "Nuwani Manamperi",
+      "Nilmini Chandrasena"
+    ],
+    "date": "2026-Sep-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42705573/",
+    "doi": "10.1016/j.parint.2026.103385",
+    "journal": "Parasitology international",
+    "score": 0.3304,
+    "fetched_at": "2026-09-08"
+  },
+  {
     "id": "pubmed:42560108",
     "source": "pubmed",
     "title": "The halophilic archaeon",
@@ -4395,42 +4443,5 @@
     "doi": "10.1590/0004-282X20190097",
     "score": 0.2405,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42627181",
-    "source": "pubmed",
-    "title": "Characterization of",
-    "abstract": "Tigecycline-non-susceptible Klebsiella pneumoniae (TNSKP) is a significant global public health threat. The molecular epidemiological characteristics of the novel resistance mechanisms mediated by the mobile resistance-nodulation-cell division-type efflux pump gene cluster tmexCD-toprJ remain incompletely understood. Our study aims to investigate the epidemiological characteristics and genetic traits of tmexCD-toprJ in TNSKP. We collected 980 KP isolates from a tertiary teaching hospital between 2020 and 2021, screening for TNSKP strains by microbroth dilution. Whole-genome sequencing was used to analyze the molecular epidemiological characteristics and resistance mechanisms of TNSKP and to resolve the genetic structure of the plasmid carrying tmexCD-toprJ. We identified 25 TNSKP strains, including 17 carbapenem-resistant Klebsiella pneumoniae (CRKP) and 8 non-CRKP strains. The tigecycline MIC values were 4 µg/mL (14 strains), 8 µg/mL (nine strains), and 16 µg/mL (two strains). Multiple resistance mechanisms were detected, including AcrR, RamR, tet(A) mutations, and tmexCD-toprJ. The tmexCD-toprJ gene cluster was found in three strains: ST334 CRKP and ST39 CRKP (both carrying tmexCD2-toprJ2) and ST656 CRKP (carrying tmexCD1-toprJ1). ST39 CRKP also harbored blaNDM-1, tmexCD2-toprJ2, and iuc3 on IncFIB(K), IncU, and IncFII(K) plasmids, with a complete conjugation element. Our research identified multiple complex tigecycline resistance mechanisms in K. pneumoniae, including new ST types carrying tmexCD2-toprJ2. A fusion plasmid harboring virulence genes, carbapenem resistance genes, and tigecycline resistance genes was discovered. Continuous molecular epidemiological monitoring plays a crucial role in elucidating the mechanisms of tigecycline resistance. Tigecycline-non-susceptible Klebsiella pneumoniae (TNSKP) poses a significant global public health threat. The molecular epidemiological characteristics of the novel resistance mechanisms mediated by the mobile resistance-nodulation-cell division-type efflux pump gene cluster tmexCD-toprJ remain incompletely understood. Our study aims to investigate the epidemiological characteristics and genetic traits of tmexCD-toprJ cluster in TNSKP. This study has revealed the coexistence of multiple mechanisms contributing to tigecycline resistance. In clinical settings, we have identified various types of the tmexCD-toprJ gene cluster, among which two ST types (ST334 and ST39) carrying the tmexCD2-toprJ2 gene cluster are reported for the first time. Additionally, a fusion plasmid containing both the tmexCD2-toprJ2 gene cluster and carbapenemase resistance gene blaNDM-1 as well as virulence gene iuc3 has been detected. These findings highlight that molecular epidemiological monitoring provides important evidence for bacterial resistance and evolution. Continuous monitoring and controlling the spread of resistance from a One Health perspective are meaningful.",
-    "authors": [
-      "Yanjun Liu",
-      "Zhiqian Wang",
-      "Zijuan Jian",
-      "Peilin Liu",
-      "Qun Yan",
-      "Wenen Liu"
-    ],
-    "date": "2026-Aug-21",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42627181/",
-    "doi": "10.1128/spectrum.00689-26",
-    "journal": "Microbiology spectrum",
-    "score": 0.2376,
-    "fetched_at": "2026-08-21"
-  },
-  {
-    "id": "pubmed:42567392",
-    "source": "pubmed",
-    "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
-    "abstract": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the native states of proteins, identifying regions where interactions are optimized and others where energetic conflicts are retained to enable functional behavior. In recent years, the study of local frustration has expanded significantly, driven by the integration of large-scale structural datasets and advances in artificial intelligence methods. Comparative analyses have shown that frustration patterns encode evolutionary pressures across protein families, with minimally frustrated interactions stabilizing structural cores and highly frustrated regions often associated with catalysis, binding, conformational transitions as well as pathogenic phenotypes. At the same time, modern protein language models and structure prediction methods seem to implicitly capture the statistical and structural features underlying frustration, enabling its prediction directly from sequence or structure at proteome scale. These developments suggest that local energetic frustration may be interpreted as an emergent property of the evolutionary information learned by AI models. Here, we review recent advances in the analysis and prediction of local frustration and discuss how this framework could provide mechanistic insights into protein evolution, conformational dynamics, and design. We further argue that incorporating frustration into computational and experimental strategies will be essential to move beyond purely stability-driven approaches toward the rational engineering of functional proteins.",
-    "authors": [
-      "Franco L Simonetti",
-      "Eli J Draizen",
-      "Rocío Espada",
-      "R Gonzalo Parra"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42567392/",
-    "doi": "10.1016/j.bbapap.2026.141170",
-    "score": 0.2367,
-    "fetched_at": "2026-08-09"
   }
 ]
