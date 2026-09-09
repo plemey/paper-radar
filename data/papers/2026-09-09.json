@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pubmed:42715274",
+    "source": "pubmed",
+    "title": "Emergence of NDM and OXA-48-like producing Enterobacterales in Northern Morocco.",
+    "abstract": "Carbapenemase-producing Enterobacterales (CPE) have widely emerged as a global health threat due to the spread of resistance genes such as New Delhi metallo-β-lactamase (blaNDM) and oxacillinase-48-like β-lactamases (blaOXA-48-like). Data on the molecular epidemiology of CPE in northern Morocco remain limited. Hence, this study aimed to report the epidemiological profile of carbapenem-resistant Enterobacterales and their molecular analysis. A prospective study was conducted from July 2024 to July 2025 at Mohammed VI University Hospital, Tangier. Ninety-two non-duplicate Enterobacterales isolates were collected across different departments. Species were identified via the matrix-assisted laser desorption/ionization - time-of-flight (MALDI-TOF MS) technique and antimicrobial susceptibility testing was performed according to the guidelines of the European Committee on Antimicrobial Susceptibility Testing (EUCAST). Carbapenemase production was screened using GeneXpert® Carba-R (Cepheid, Sunnyvale, USA). Associations between clinical, microbiological, and molecular data were assessed using Chi square or Fisher's exact tests. Klebsiella pneumoniae dominated across all isolates (75/92; 81.5%), followed by Escherichia. coli (8/92; 8.7%). BlaNDM was found in 65/92 (70.6%), blaOXA-48-like in 17/92 (18.5%), and both in 10/92 (10.9%). Most cases occurred in neonatal (38%) and intensive care units (31.5%). Resistance exceeded 70% for several major antibiotics; 29.3% were colistin-resistant. Mortality was 46.7%. Diabetes (p < 0.01) and severe burns (p < 0.01) were significantly associated with carbapenemase carriage. CPE, especially NDM-producing Klebsiella pneumoniae, represent a major threat in northern Morocco, notably in neonatal and critical care units. Their high resistance and mortality highlight the urgent need for reinforced infection control, molecular surveillance, and rapid diagnostics.",
+    "authors": [
+      "Majda El-Hassouni",
+      "Asmae Hazzaz",
+      "Reda A Souhli",
+      "El Mehdi El Ghorba",
+      "Hanaa El Mamouny",
+      "Kawtar El Harrak",
+      "Nouhaila Chahid",
+      "Youssra Amekran",
+      "Karima Rissoul"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42715274/",
+    "doi": "10.3855/jidc.22277",
+    "journal": "Journal of infection in developing countries",
+    "score": 0.1823,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42714832",
+    "source": "pubmed",
+    "title": "Macroevolutionary Rates of Species Interactions: Approximate Bayesian Inference from Cophylogenies.",
+    "abstract": "Understanding the macroevolutionary dynamics of species interactions such as parasitisms, commensalisms, and mutualisms is an important goal in evolutionary ecology. To this end, statistical inference from time-calibrated cophylogenies holds promising potential. However, such inference cannot yet quantify the rates of different types of speciation and extinction that occur in the host and symbiont clades on the same timeline. Here we present an Approximate Bayesian Computation (ABC) approach that infers rates of six types of speciation or extinction from a cophylogenetic system: (i) host speciation, (ii) symbiont speciation without host-switching, (iii) symbiont speciation with host-switching, (iv) cospeciation, (v) host extinction, and (vi) symbiont extinction. The ABC approach relies on a novel design of summary statistics based on the density curves of pairwise Branch Length Differences (BLenD) of the cophylogeny, which are informative about the relative relationships (ratios) between the six speciation/extinction rates in a single cophylogeny. Here we describe two levels of inference that differ in informativeness and data requirement: the first level infers speciation/extinction rates relative to the total net diversification rate of the cophylogeny without needing information on the time frame of the cophylogeny; the second level infers absolute speciation/extinction rates in units of events per lineage per million years using information on the time frame of the cophylogeny. When the target cophylogeny is sufficiently large, both levels of inference achieve clearly improved accuracy relative to the prior, and both are reasonably honest about uncertainty. Using a cophylogenetic dataset of Batesian mimicry of Pachyrhynchus by Doliops weevils, we show (1) that the first level of inference is sufficient to quantify the relative rates of different speciation/extinction processes within the target cophylogeny and (2) that the second level of inference allows potentially comparing speciation/extinction rates in the target cophylogeny to those in another cophylogeny (i.e., cross-cophylogeny comparisons). We discuss potential improvements for the use of the BLenD curves as summary statistics for simulation-based inference, including potential applications in machine learning approaches. Understanding speciation and extinction rate variation within and between cophylogenetic systems, enabled by this approach and an increasing availability of time-calibrated cophylogenies, has potential implications for various areas in ecology and evolution such as host conservatism, trait-driven diversification, and pathogen spillover risk.",
+    "authors": [
+      "Yichao Zeng",
+      "Cristian Román-Palacios"
+    ],
+    "date": "2026-Sep-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714832/",
+    "doi": "10.1093/sysbio/syag070",
+    "journal": "Systematic biology",
+    "score": 0.2623,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42713834",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Phylogenetic Analysis of HTLV-1 in HIV-1-infected Patients in Tehran, Iran.",
+    "abstract": "Human T-lymphotropic virus 1 (HTLV-1) and Human Immunodeficiency Virus 1 (HIV-1) can be transmitted through similar routes, so co-infection may occur, especially in endemic regions. Since there is limited data on this co-infection, its genotypes, and genetic variations in Iran, we aimed to investigate HTLV-1/HIV-1 co-infection to gain a better understanding of its epidemiology. Whole blood and plasma of 282 HIV-1-infected patients were sampled in Tehran, Iran. Briefly, plasma samples were used to investigate HTLV I/II antibody seroprevalence by ELISA, and PBMCs were used for molecular analysis of Tax, LTR, and ENV regions. Then, amplified LTR and ENV were subjected to sequencing, phylogenetic analysis, and variation determination. Out of 282 HIV-1-infected individuals (31.9% female and 68.1% male, with a mean age of 43.80 ± 11.25), 6 samples (2.1%) were seropositive, and provirus was detected in 2 samples (0.7%). Both samples belonged to HTLV-1aTC, and after genetic variation analysis for both LTR and ENV regions, the ENV region displayed 6 and 7 point mutations in each isolate, respectively, relative to the ATK HTLV-1 prototype, with 5 and 4 of these mutations being nonsynonymous. Analysis of the LTR region identified 8 mutations in each isolate, comprising 7 point mutations and one deletion. This survey confirms the prevalence of HTLV-1 among people living with HIV-1, highlighting the need for ongoing monitoring of this population. Additionally, the findings in this study indicate that HTLV-1aTC is predominant among the studied population, consistent with previous reports worldwide, and nucleotide variations are present in both investigated HTLV-1 regions.",
+    "authors": [
+      "Sahel Abyar",
+      "Seyed Reza Mohebbi",
+      "Seyed Masoud Hosseini",
+      "Shabnam Kazemian",
+      "Amir Sadeghi",
+      "Mohammad Reza Zali"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713834/",
+    "doi": "10.1002/jmv.71107",
+    "journal": "Journal of medical virology",
+    "score": 0.4254,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42713061",
+    "source": "pubmed",
+    "title": "Sydney Phylogenetics Workshop: Lessons From the Past 15 Years.",
+    "abstract": "Phylogenetic analysis forms an important component of research in the life sciences, enabling the study of evolutionary relationships, timescales, patterns, and processes. Phylogenetic trees are used in a wide variety of research fields, including molecular ecology, taxonomy and systematics, conservation genetics, and microbiology. Accordingly, there is a strong demand for accessible training in phylogenetic analysis, especially among postgraduate students and other early career researchers. Although there are several regular workshops that provide opportunities for training in phylogenetics, these are predominantly held in Europe and North America, posing logistical and financial barriers for prospective participants in the Southern Hemisphere and Asia-Pacific region. The Sydney Phylogenetics Workshop has aimed to address this gap by offering an annual training opportunity suitable for early career researchers. The workshop blends theory with practical exercises using industry-standard software, while its content has evolved over its 15-year history to meet the changing needs of attendees. In this article, we provide an outline of the content and format of the workshop, the challenges associated with running such an event on a minimal budget, and the measures taken to improve accessibility and reduce environmental impact. We hope that the workshop provides a useful model for organizing effective training opportunities for early career researchers in the life sciences.",
+    "authors": [
+      "Simon Y W Ho"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713061/",
+    "doi": "10.1002/ece3.74242",
+    "journal": "Ecology and evolution",
+    "score": 0.3327,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42712620",
+    "source": "pubmed",
+    "title": "Comparative analysis of immune escape and BCR repertoire remodeling after Omicron BF.7 and JN.1 infections.",
+    "abstract": "SARS-CoV-2 Omicron evolution continues to erode antibody-mediated immunity, but whether infection with antigenically distinct lineages simply amplifies pre-existing memory or redirects humoral recognition toward newly evolved antigenic space remains unclear. Here, we analyzed paired early- and convalescent-phase plasma and whole-blood samples from individuals with sequencing-confirmed BF.7 or JN.1 infection. Integrated neutralization profiling, antigenic cartography, and bulk B cell receptor (BCR) repertoire analysis revealed lineage-associated humoral trajectories. Both breakthrough infections increased cross-variant neutralization, but their updated humoral profiles were not equivalent. BF.7 breakthrough infection broadly boosted neutralization from a BA.5-related background, whereas JN.1 breakthrough infection produced greater gains against BA.2.86, JN.1, and KP.2 and shifted humoral recognition toward late-Omicron antigenic space. Neutralization remained branch-structured, with BQ.1.1 and KP.2 acting as persistent escape nodes within the BA.2/BA.5-related and BA.2.86/JN.1-related branches, respectively. This humoral updating paralleled changes in IGH clonotype counts, repertoire diversity, V/J gene usage, isotype composition, and V-J pairing, whereas major CDR3 length distributions and sequence-logo patterns remained largely conserved. Overall, these findings indicate that antigenically distinct Omicron breakthrough infections generate non-equivalent humoral recall trajectories: BF.7 exposure preferentially reinforced BA.5-related antibody recognition, whereas JN.1 exposure more effectively redirected recognition toward BA.2.86/JN.1-derived variants.",
+    "authors": [
+      "Luanfeng Lin",
+      "Luxuan Yang",
+      "Yulei Sun",
+      "Jiayan Li",
+      "Yinying Lu",
+      "Hongyu Wang",
+      "Yabo Mi",
+      "Liangjiu Zhang",
+      "Binhuang Sun",
+      "Xinyi Yu",
+      "Tianmei Yu",
+      "Xiaoyu Zhao",
+      "Jingwen Ai",
+      "Wenhong Zhang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712620/",
+    "doi": "10.1093/nar/gkae978",
+    "journal": "Frontiers in immunology",
+    "score": 0.4545,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42710887",
+    "source": "pubmed",
+    "title": "Untangling the effects of within-host and between-host natural selection in viruses with applications to evolution of HIV-1 co-receptor usage.",
+    "abstract": "The fitness of a pathogen can be characterized at multiple levels corresponding to different life cycle stages. Typically, epidemiological studies for measuring pathogen fitness compute a single selection coefficient for pathogen variants that encompasses the entire lifecycle. However, evolution towards greater fitness within hosts can potentially compromise transmissibility. To address this, we develop a population-genetic model and software for the inference of multi-level selection coefficients. Our approach builds on population-genetic models previously applied to macro-evolution, whereby speciation and extinction rates are state-dependent. We relate this state dependence to within- and between-host selection. Evolution of beneficial phenotypes within hosts may occur rapidly (higher 'speciation'), but reduce rates of dispersal between hosts (higher 'extinction'). This new coalescent-based method improves on existing multi-state speciation and extinction models by accounting for highly nonlinear population dynamics and variable sampling through time, making it suitable for epidemiology. We characterize the accuracy of this method using birth-death and coalescent simulations before analysing a real dataset of HIV-1 genetic sequences. We quantified the multi-level relative fitness underlying HIV-1 'co-receptor switching'. In accordance with previous observations, we estimate that the relative transmissibility of X4-tropic virus is 9%, while within-host switching to X4-tropism is approximately 7-fold higher than switching to R5-tropism, indicating a strong within-host and between-host trade-off of co-receptor usage.",
+    "authors": [
+      "Kieran O Drake",
+      "Vinicius Bonetti Franceschi",
+      "Fabrícia F Nascimento",
+      "Erik Volz"
+    ],
+    "date": "2026-Sep-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710887/",
+    "doi": "10.1098/rsif.2025.1012",
+    "journal": "Journal of the Royal Society, Interface",
+    "score": 0.416,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42710746",
+    "source": "pubmed",
+    "title": "An enhanced Multisegment RT-PCR method for Influenza A Virus Sequencing: Improved Performance and Reduced Preparation Time Over Traditional Methods.",
+    "abstract": "Influenza A viruses (IAVs) remain a major global health threat, affecting both human and animal populations. Whole-genome sequencing is essential for monitoring viral evolution, zoonotic transmission, and emerging variants. However, conventional RT-PCR methods often result in incomplete gene coverage, amplification biases, and reduced sequencing accuracy, particularly in clinical samples. We developed a robust In-house method for IAV full-genome sequencing using the Oxford Nanopore Technologies (ONT) long-read sequencing platform. This method integrates an in-house multisegment Reverse Transcription PCR (RT-PCR) method with a streamlined 2-pool primer design targeting all eight IAV gene segments. RNA extracted from clinical and stock virus samples was reverse-transcribed and amplified using Superscript IV-based chemistry, followed by magnetic bead purification to ensure high-quality amplicons. Sequencing libraries were prepared with the Native Barcoding Kit 24 (SQK-NBD114.24) and sequenced on R10.4.1 flow cells on the MinION MK1C device. Data analysis using the Iterative Refinement Meta-Assembler (IRMA) confirmed improved read depth, uniform coverage, and complete genome recovery. Compared to conventional methods, our In-House Multisegment 2-Pool (IH-MS2P) RT-PCR method generated higher numbers of matched read counts, minimized chimeric artifacts, and delivered superior genome coverage across human, swine, and avian isolates. This optimized RT-PCR method provides a high-performance, time-efficient, and portable solution for influenza genomics, demonstrating robust applicability even with clinical samples of low RNA yield.",
+    "authors": [
+      "Shakiba Kazemian",
+      "Stephen Pedroza",
+      "Alinne L R Santana-Pereira",
+      "Peter J Neasham",
+      "James F North",
+      "Laura Huber",
+      "Miria F Criado",
+      "Constantinos S Kyriakis"
+    ],
+    "date": "2026-Sep-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710746/",
+    "doi": "10.1016/j.jviromet.2026.115453",
+    "journal": "Journal of virological methods",
+    "score": 0.5637,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "pubmed:42710724",
+    "source": "pubmed",
+    "title": "A 29-plex MOL-PCR assay for simultaneous detection of selected major, non-typing, and accessory virulence genes in Clostridium perfringens.",
+    "abstract": "Clostridium perfringens is an important pathogen of humans and animals, responsible for a broad spectrum of diseases mediated by diverse toxins and virulence factors. Precise and extended toxin-gene profiling is valuable for strain characterization and molecular epidemiological surveillance. Here, we describe the development of a 29-plex Multiple Oligonucleotide Ligation PCR (MOL-PCR) assay that enables the simultaneous detection of a large and important panel of 27C. perfringens toxin-related genes - covering major typing toxins as well as an extended panel of non-typing and accessory virulence genes - thus moving beyond the classical toxinotyping framework. The assay was evaluated in comparison with six multiplex qPCR assays. In both systems, the gene encoding the Clostridium perfringens-specific serine O-acetyltransferase (EpsC) was used as a molecular marker for species confirmation, and an internal amplification control was included to detect potentially false-negative results. Analytical specificity testing confirmed exclusive amplification in C. perfringens and sequencing confirmed the toxin-gene profiles of reference strains. Comparative analysis of 72 reference and field isolates (1,944 data points) demonstrated complete concordance for 637 positive detections, yielding 100% positive agreement and 99.7% negative agreement relative to the comparative qPCR method. The limit of detection was 100 fg/µl (approx. 3 × 101 genome equivalents; GE) for qPCR and 1 pg/µl (approx. 3 × 102 GE) for MOL-PCR. Despite its high multiplex level, MOL-PCR showed high agreement with qPCR. The developed MOL-PCR method provides a rapid, high-throughput, and cost-effective tool for expanded toxin-gene profiling of C. perfringens isolates targeting major typing toxins and selected non-typing and accessory virulence genes. Therefore, it may support advanced toxin-gene characterization, molecular epidemiology, and One Health-oriented surveillance of evolving virulence landscapes.",
+    "authors": [
+      "Michaela Nesvadbova",
+      "Radka Dziedzinska",
+      "Martin Klanica",
+      "Petr Kralik"
+    ],
+    "date": "2026-Sep-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710724/",
+    "doi": "10.1016/j.ymeth.2026.09.001",
+    "journal": "Methods (San Diego, Calif.)",
+    "score": 0.2926,
+    "fetched_at": "2026-09-09"
+  },
+  {
+    "id": "biorxiv:10.64898/2026.08.27.741102",
+    "source": "biorxiv",
+    "title": "Forecasting viral evolution from phylogenetic trees",
+    "abstract": "Viral mutation forecasting plays a key role in pandemic preparedness by enabling researchers to anticipate novel variants and design proactive interventions. Evolutionary histories, represented as phylogenetic trees, offer key insights into the emergence of past and present strains, yet their role in predicting future sequence changes remains largely unexplored. We introduce antiGen, a machine learning model that forecasts the evolutionary future of viruses by learning from their evolutionary past. antiGen achieves state-of-the-art performance for predicting mutations to the SARS-CoV-2 spike protein, anticipating never-before-seen mutations and mutations that emerge years after the model's training window. antiGen-forecasted spike mutations also retain pseudoviral infectivity in vitro. Moreover, antiGen demonstrates leading predictive performance on surface proteins of influenza virus, respiratory syncytial virus, and dengue virus despite far less available sequencing data. Viral evolution models that explicitly learn from phylogenetic structure offer a valuable resource for applications ranging from epidemiological modeling to therapeutic development.",
+    "authors": [
+      "Specht, I.",
+      "Park, S.",
+      "Chithrananda, S.",
+      "Driscoll, C. L.",
+      "Brixi, G.",
+      "Palacios, J. A.",
+      "Hie, B. L."
+    ],
+    "date": "2026-09-05",
+    "url": "https://doi.org/10.64898/2026.08.27.741102",
+    "doi": "10.64898/2026.08.27.741102",
+    "score": 0.6259,
+    "fetched_at": "2026-09-09"
+  }
+]

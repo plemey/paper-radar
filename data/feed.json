@@ -467,6 +467,26 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "biorxiv:10.64898/2026.08.27.741102",
+    "source": "biorxiv",
+    "title": "Forecasting viral evolution from phylogenetic trees",
+    "abstract": "Viral mutation forecasting plays a key role in pandemic preparedness by enabling researchers to anticipate novel variants and design proactive interventions. Evolutionary histories, represented as phylogenetic trees, offer key insights into the emergence of past and present strains, yet their role in predicting future sequence changes remains largely unexplored. We introduce antiGen, a machine learning model that forecasts the evolutionary future of viruses by learning from their evolutionary past. antiGen achieves state-of-the-art performance for predicting mutations to the SARS-CoV-2 spike protein, anticipating never-before-seen mutations and mutations that emerge years after the model's training window. antiGen-forecasted spike mutations also retain pseudoviral infectivity in vitro. Moreover, antiGen demonstrates leading predictive performance on surface proteins of influenza virus, respiratory syncytial virus, and dengue virus despite far less available sequencing data. Viral evolution models that explicitly learn from phylogenetic structure offer a valuable resource for applications ranging from epidemiological modeling to therapeutic development.",
+    "authors": [
+      "Specht, I.",
+      "Park, S.",
+      "Chithrananda, S.",
+      "Driscoll, C. L.",
+      "Brixi, G.",
+      "Palacios, J. A.",
+      "Hie, B. L."
+    ],
+    "date": "2026-09-05",
+    "url": "https://doi.org/10.64898/2026.08.27.741102",
+    "doi": "10.64898/2026.08.27.741102",
+    "score": 0.6259,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42643680",
     "source": "pubmed",
     "title": "Spatiotemporal dynamics and genotypic shift of Coxsackievirus A16 in Fujian, China, from 2010 to 2025.",
@@ -777,6 +797,28 @@
     "journal": "PLoS computational biology",
     "score": 0.5658,
     "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42710746",
+    "source": "pubmed",
+    "title": "An enhanced Multisegment RT-PCR method for Influenza A Virus Sequencing: Improved Performance and Reduced Preparation Time Over Traditional Methods.",
+    "abstract": "Influenza A viruses (IAVs) remain a major global health threat, affecting both human and animal populations. Whole-genome sequencing is essential for monitoring viral evolution, zoonotic transmission, and emerging variants. However, conventional RT-PCR methods often result in incomplete gene coverage, amplification biases, and reduced sequencing accuracy, particularly in clinical samples. We developed a robust In-house method for IAV full-genome sequencing using the Oxford Nanopore Technologies (ONT) long-read sequencing platform. This method integrates an in-house multisegment Reverse Transcription PCR (RT-PCR) method with a streamlined 2-pool primer design targeting all eight IAV gene segments. RNA extracted from clinical and stock virus samples was reverse-transcribed and amplified using Superscript IV-based chemistry, followed by magnetic bead purification to ensure high-quality amplicons. Sequencing libraries were prepared with the Native Barcoding Kit 24 (SQK-NBD114.24) and sequenced on R10.4.1 flow cells on the MinION MK1C device. Data analysis using the Iterative Refinement Meta-Assembler (IRMA) confirmed improved read depth, uniform coverage, and complete genome recovery. Compared to conventional methods, our In-House Multisegment 2-Pool (IH-MS2P) RT-PCR method generated higher numbers of matched read counts, minimized chimeric artifacts, and delivered superior genome coverage across human, swine, and avian isolates. This optimized RT-PCR method provides a high-performance, time-efficient, and portable solution for influenza genomics, demonstrating robust applicability even with clinical samples of low RNA yield.",
+    "authors": [
+      "Shakiba Kazemian",
+      "Stephen Pedroza",
+      "Alinne L R Santana-Pereira",
+      "Peter J Neasham",
+      "James F North",
+      "Laura Huber",
+      "Miria F Criado",
+      "Constantinos S Kyriakis"
+    ],
+    "date": "2026-Sep-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710746/",
+    "doi": "10.1016/j.jviromet.2026.115453",
+    "journal": "Journal of virological methods",
+    "score": 0.5637,
+    "fetched_at": "2026-09-09"
   },
   {
     "id": "pubmed:42655726",
@@ -1864,6 +1906,34 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42712620",
+    "source": "pubmed",
+    "title": "Comparative analysis of immune escape and BCR repertoire remodeling after Omicron BF.7 and JN.1 infections.",
+    "abstract": "SARS-CoV-2 Omicron evolution continues to erode antibody-mediated immunity, but whether infection with antigenically distinct lineages simply amplifies pre-existing memory or redirects humoral recognition toward newly evolved antigenic space remains unclear. Here, we analyzed paired early- and convalescent-phase plasma and whole-blood samples from individuals with sequencing-confirmed BF.7 or JN.1 infection. Integrated neutralization profiling, antigenic cartography, and bulk B cell receptor (BCR) repertoire analysis revealed lineage-associated humoral trajectories. Both breakthrough infections increased cross-variant neutralization, but their updated humoral profiles were not equivalent. BF.7 breakthrough infection broadly boosted neutralization from a BA.5-related background, whereas JN.1 breakthrough infection produced greater gains against BA.2.86, JN.1, and KP.2 and shifted humoral recognition toward late-Omicron antigenic space. Neutralization remained branch-structured, with BQ.1.1 and KP.2 acting as persistent escape nodes within the BA.2/BA.5-related and BA.2.86/JN.1-related branches, respectively. This humoral updating paralleled changes in IGH clonotype counts, repertoire diversity, V/J gene usage, isotype composition, and V-J pairing, whereas major CDR3 length distributions and sequence-logo patterns remained largely conserved. Overall, these findings indicate that antigenically distinct Omicron breakthrough infections generate non-equivalent humoral recall trajectories: BF.7 exposure preferentially reinforced BA.5-related antibody recognition, whereas JN.1 exposure more effectively redirected recognition toward BA.2.86/JN.1-derived variants.",
+    "authors": [
+      "Luanfeng Lin",
+      "Luxuan Yang",
+      "Yulei Sun",
+      "Jiayan Li",
+      "Yinying Lu",
+      "Hongyu Wang",
+      "Yabo Mi",
+      "Liangjiu Zhang",
+      "Binhuang Sun",
+      "Xinyi Yu",
+      "Tianmei Yu",
+      "Xiaoyu Zhao",
+      "Jingwen Ai",
+      "Wenhong Zhang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712620/",
+    "doi": "10.1093/nar/gkae978",
+    "journal": "Frontiers in immunology",
+    "score": 0.4545,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42551727",
     "source": "pubmed",
     "title": "Genetic diversity of Mycoplasma bovis associated with bovine respiratory disease outbreaks.",
@@ -2164,6 +2234,26 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42713834",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Phylogenetic Analysis of HTLV-1 in HIV-1-infected Patients in Tehran, Iran.",
+    "abstract": "Human T-lymphotropic virus 1 (HTLV-1) and Human Immunodeficiency Virus 1 (HIV-1) can be transmitted through similar routes, so co-infection may occur, especially in endemic regions. Since there is limited data on this co-infection, its genotypes, and genetic variations in Iran, we aimed to investigate HTLV-1/HIV-1 co-infection to gain a better understanding of its epidemiology. Whole blood and plasma of 282 HIV-1-infected patients were sampled in Tehran, Iran. Briefly, plasma samples were used to investigate HTLV I/II antibody seroprevalence by ELISA, and PBMCs were used for molecular analysis of Tax, LTR, and ENV regions. Then, amplified LTR and ENV were subjected to sequencing, phylogenetic analysis, and variation determination. Out of 282 HIV-1-infected individuals (31.9% female and 68.1% male, with a mean age of 43.80 ± 11.25), 6 samples (2.1%) were seropositive, and provirus was detected in 2 samples (0.7%). Both samples belonged to HTLV-1aTC, and after genetic variation analysis for both LTR and ENV regions, the ENV region displayed 6 and 7 point mutations in each isolate, respectively, relative to the ATK HTLV-1 prototype, with 5 and 4 of these mutations being nonsynonymous. Analysis of the LTR region identified 8 mutations in each isolate, comprising 7 point mutations and one deletion. This survey confirms the prevalence of HTLV-1 among people living with HIV-1, highlighting the need for ongoing monitoring of this population. Additionally, the findings in this study indicate that HTLV-1aTC is predominant among the studied population, consistent with previous reports worldwide, and nucleotide variations are present in both investigated HTLV-1 regions.",
+    "authors": [
+      "Sahel Abyar",
+      "Seyed Reza Mohebbi",
+      "Seyed Masoud Hosseini",
+      "Shabnam Kazemian",
+      "Amir Sadeghi",
+      "Mohammad Reza Zali"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713834/",
+    "doi": "10.1002/jmv.71107",
+    "journal": "Journal of medical virology",
+    "score": 0.4254,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42654988",
     "source": "pubmed",
     "title": "Molecular Epidemiology and Genetic Characterization of Feline Panleukopenia Virus among Clinically Suspected Domestic Cats in Tamil Nadu, India.",
@@ -2271,6 +2361,24 @@
     "journal": "Systematic biology",
     "score": 0.4205,
     "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42710887",
+    "source": "pubmed",
+    "title": "Untangling the effects of within-host and between-host natural selection in viruses with applications to evolution of HIV-1 co-receptor usage.",
+    "abstract": "The fitness of a pathogen can be characterized at multiple levels corresponding to different life cycle stages. Typically, epidemiological studies for measuring pathogen fitness compute a single selection coefficient for pathogen variants that encompasses the entire lifecycle. However, evolution towards greater fitness within hosts can potentially compromise transmissibility. To address this, we develop a population-genetic model and software for the inference of multi-level selection coefficients. Our approach builds on population-genetic models previously applied to macro-evolution, whereby speciation and extinction rates are state-dependent. We relate this state dependence to within- and between-host selection. Evolution of beneficial phenotypes within hosts may occur rapidly (higher 'speciation'), but reduce rates of dispersal between hosts (higher 'extinction'). This new coalescent-based method improves on existing multi-state speciation and extinction models by accounting for highly nonlinear population dynamics and variable sampling through time, making it suitable for epidemiology. We characterize the accuracy of this method using birth-death and coalescent simulations before analysing a real dataset of HIV-1 genetic sequences. We quantified the multi-level relative fitness underlying HIV-1 'co-receptor switching'. In accordance with previous observations, we estimate that the relative transmissibility of X4-tropic virus is 9%, while within-host switching to X4-tropism is approximately 7-fold higher than switching to R5-tropism, indicating a strong within-host and between-host trade-off of co-receptor usage.",
+    "authors": [
+      "Kieran O Drake",
+      "Vinicius Bonetti Franceschi",
+      "Fabrícia F Nascimento",
+      "Erik Volz"
+    ],
+    "date": "2026-Sep-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710887/",
+    "doi": "10.1098/rsif.2025.1012",
+    "journal": "Journal of the Royal Society, Interface",
+    "score": 0.416,
+    "fetched_at": "2026-09-09"
   },
   {
     "id": "pubmed:42655674",
@@ -3154,6 +3262,21 @@
     "fetched_at": "2026-09-03"
   },
   {
+    "id": "pubmed:42713061",
+    "source": "pubmed",
+    "title": "Sydney Phylogenetics Workshop: Lessons From the Past 15 Years.",
+    "abstract": "Phylogenetic analysis forms an important component of research in the life sciences, enabling the study of evolutionary relationships, timescales, patterns, and processes. Phylogenetic trees are used in a wide variety of research fields, including molecular ecology, taxonomy and systematics, conservation genetics, and microbiology. Accordingly, there is a strong demand for accessible training in phylogenetic analysis, especially among postgraduate students and other early career researchers. Although there are several regular workshops that provide opportunities for training in phylogenetics, these are predominantly held in Europe and North America, posing logistical and financial barriers for prospective participants in the Southern Hemisphere and Asia-Pacific region. The Sydney Phylogenetics Workshop has aimed to address this gap by offering an annual training opportunity suitable for early career researchers. The workshop blends theory with practical exercises using industry-standard software, while its content has evolved over its 15-year history to meet the changing needs of attendees. In this article, we provide an outline of the content and format of the workshop, the challenges associated with running such an event on a minimal budget, and the measures taken to improve accessibility and reduce environmental impact. We hope that the workshop provides a useful model for organizing effective training opportunities for early career researchers in the life sciences.",
+    "authors": [
+      "Simon Y W Ho"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713061/",
+    "doi": "10.1002/ece3.74242",
+    "journal": "Ecology and evolution",
+    "score": 0.3327,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42655183",
     "source": "pubmed",
     "title": "Molecular Survey of Selected Tick-Borne Pathogens and Genetic Diversity of",
@@ -3772,6 +3895,24 @@
     "fetched_at": "2026-08-29"
   },
   {
+    "id": "pubmed:42710724",
+    "source": "pubmed",
+    "title": "A 29-plex MOL-PCR assay for simultaneous detection of selected major, non-typing, and accessory virulence genes in Clostridium perfringens.",
+    "abstract": "Clostridium perfringens is an important pathogen of humans and animals, responsible for a broad spectrum of diseases mediated by diverse toxins and virulence factors. Precise and extended toxin-gene profiling is valuable for strain characterization and molecular epidemiological surveillance. Here, we describe the development of a 29-plex Multiple Oligonucleotide Ligation PCR (MOL-PCR) assay that enables the simultaneous detection of a large and important panel of 27C. perfringens toxin-related genes - covering major typing toxins as well as an extended panel of non-typing and accessory virulence genes - thus moving beyond the classical toxinotyping framework. The assay was evaluated in comparison with six multiplex qPCR assays. In both systems, the gene encoding the Clostridium perfringens-specific serine O-acetyltransferase (EpsC) was used as a molecular marker for species confirmation, and an internal amplification control was included to detect potentially false-negative results. Analytical specificity testing confirmed exclusive amplification in C. perfringens and sequencing confirmed the toxin-gene profiles of reference strains. Comparative analysis of 72 reference and field isolates (1,944 data points) demonstrated complete concordance for 637 positive detections, yielding 100% positive agreement and 99.7% negative agreement relative to the comparative qPCR method. The limit of detection was 100 fg/µl (approx. 3 × 101 genome equivalents; GE) for qPCR and 1 pg/µl (approx. 3 × 102 GE) for MOL-PCR. Despite its high multiplex level, MOL-PCR showed high agreement with qPCR. The developed MOL-PCR method provides a rapid, high-throughput, and cost-effective tool for expanded toxin-gene profiling of C. perfringens isolates targeting major typing toxins and selected non-typing and accessory virulence genes. Therefore, it may support advanced toxin-gene characterization, molecular epidemiology, and One Health-oriented surveillance of evolving virulence landscapes.",
+    "authors": [
+      "Michaela Nesvadbova",
+      "Radka Dziedzinska",
+      "Martin Klanica",
+      "Petr Kralik"
+    ],
+    "date": "2026-Sep-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710724/",
+    "doi": "10.1016/j.ymeth.2026.09.001",
+    "journal": "Methods (San Diego, Calif.)",
+    "score": 0.2926,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42565907",
     "source": "pubmed",
     "title": "Envisaging the role of plant Small RNAs: A comprehensive review on antiviral defense mechanisms.",
@@ -4125,6 +4266,22 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42714832",
+    "source": "pubmed",
+    "title": "Macroevolutionary Rates of Species Interactions: Approximate Bayesian Inference from Cophylogenies.",
+    "abstract": "Understanding the macroevolutionary dynamics of species interactions such as parasitisms, commensalisms, and mutualisms is an important goal in evolutionary ecology. To this end, statistical inference from time-calibrated cophylogenies holds promising potential. However, such inference cannot yet quantify the rates of different types of speciation and extinction that occur in the host and symbiont clades on the same timeline. Here we present an Approximate Bayesian Computation (ABC) approach that infers rates of six types of speciation or extinction from a cophylogenetic system: (i) host speciation, (ii) symbiont speciation without host-switching, (iii) symbiont speciation with host-switching, (iv) cospeciation, (v) host extinction, and (vi) symbiont extinction. The ABC approach relies on a novel design of summary statistics based on the density curves of pairwise Branch Length Differences (BLenD) of the cophylogeny, which are informative about the relative relationships (ratios) between the six speciation/extinction rates in a single cophylogeny. Here we describe two levels of inference that differ in informativeness and data requirement: the first level infers speciation/extinction rates relative to the total net diversification rate of the cophylogeny without needing information on the time frame of the cophylogeny; the second level infers absolute speciation/extinction rates in units of events per lineage per million years using information on the time frame of the cophylogeny. When the target cophylogeny is sufficiently large, both levels of inference achieve clearly improved accuracy relative to the prior, and both are reasonably honest about uncertainty. Using a cophylogenetic dataset of Batesian mimicry of Pachyrhynchus by Doliops weevils, we show (1) that the first level of inference is sufficient to quantify the relative rates of different speciation/extinction processes within the target cophylogeny and (2) that the second level of inference allows potentially comparing speciation/extinction rates in the target cophylogeny to those in another cophylogeny (i.e., cross-cophylogeny comparisons). We discuss potential improvements for the use of the BLenD curves as summary statistics for simulation-based inference, including potential applications in machine learning approaches. Understanding speciation and extinction rate variation within and between cophylogenetic systems, enabled by this approach and an increasing availability of time-calibrated cophylogenies, has potential implications for various areas in ecology and evolution such as host conservatism, trait-driven diversification, and pathogen spillover risk.",
+    "authors": [
+      "Yichao Zeng",
+      "Cristian Román-Palacios"
+    ],
+    "date": "2026-Sep-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714832/",
+    "doi": "10.1093/sysbio/syag070",
+    "journal": "Systematic biology",
+    "score": 0.2623,
+    "fetched_at": "2026-09-09"
+  },
+  {
     "id": "pubmed:42595088",
     "source": "pubmed",
     "title": "Longitudinal Changes in Clonal Distribution and Fluoroquinolone Resistance of Ocular MRSA.",
@@ -4267,181 +4424,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42589196/",
     "doi": "10.3390/biology15151329",
     "score": 0.2496,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42694949",
-    "source": "pubmed",
-    "title": "From Phenotype to Genotype: A Clonal Perspective on Virulence and Biofilm Formation in Bloodstream-Derived",
-    "abstract": "Bloodstream infections, BSIs caused by Escherichia coli are a major healthcare concern due to the increasing emergence of multidrug-resistant and virulent strains. This study aimed to investigate the phenotypic and genotypic characteristics of bloodstream-derived E. coli isolates, with a focus on antimicrobial resistance, biofilm formation, virulence-associated genes, phylogenetic distribution, and clonal diversity. A total of 150 blood culture samples were collected from patients with suspected BSIs, of which 60 (40%) E. coli isolates were recovered and confirmed using conventional microbiological methods. Antimicrobial susceptibility testing was performed according to the CLSI2026 guidelines, whereas biofilm formation was assessed using a microtiter plate assay. Virulence genes, phylogenetic groups, and clonal relationships were evaluated using polymerase chain reaction-based, PCR methods. High susceptibility rates were observed for colistin (96.7%) and meropenem (93.3%), whereas the highest rates of resistance were detected against ciprofloxacin (93.3%) and co-trimoxazole (61.7%). Multidrug resistance, MDR was detected in 41.7% of the isolates, while 31.7% were phenotypically characterized as Extended-Spectrum Beta-Lactamase, ESBL producers. Biofilm analysis revealed that 75% of the isolates were capable of biofilm formation. Among the investigated virulence genes, fimH (88.3%), ompT (73.3%), and irp2 (58.3%) were most prevalent. Phylogenetic analysis revealed a predominance of groups B2 (26.7%), B1 (23.3%), and D (23.3%). The ERIC-PCR analysis classified the isolates into 26 distinct ERIC types, indicating substantial genetic diversity. The coexistence of virulence-associated genes, biofilm-forming ability, antimicrobial resistance, and genetic diversity among bloodstream-derived E. coli isolates highlights the circulation of potentially high-risk lineages in healthcare environments. These observations underscore the necessity for ongoing molecular epidemiological monitoring and the implementation of effective infection control strategies.",
-    "authors": [
-      "Amirreza Shalipour",
-      "Niloofar Kiaheyrati",
-      "Hamseh Ali Hossien",
-      "Fatemeh Fardsanei",
-      "Mohammadmahdi Bahari",
-      "Farhad Nikkhahi"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42694949/",
-    "doi": "10.3390/microorganisms12091777",
-    "journal": "Infection and drug resistance",
-    "score": 0.2487,
-    "fetched_at": "2026-09-04"
-  },
-  {
-    "id": "pubmed:42553316",
-    "source": "pubmed",
-    "title": "Lung cancer across borders: From molecular epidemiology to precision treatment strategies.",
-    "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, accounting for approximately 1.8 million deaths annually. Beyond this universal burden, lung cancer is profoundly heterogeneous, shaped by geography, environmental exposures, genetic ancestry, and unequal access to molecular diagnostics and modern therapies. Compelling evidence indicates that non-small cell lung cancer (NSCLC) is not a single entity but a constellation of molecularly distinct subtypes whose distribution reflects regional carcinogens and population-specific susceptibilities. This Special Collection of Therapeutic Advances in Medical Oncology assembles five complementary studies that address the geographical heterogeneity of NSCLC. A comprehensive review by Laguna and colleagues maps the worldwide distribution of risk factors and molecular subtypes, illustrating how tobacco, indoor radon, air pollution, arsenic, biomass smoke, and genetic ancestry converge to produce distinct molecular landscapes across continents. García-Pardo and colleagues extend this framework with the RADON EUROPE study, the first ecological analysis to link estimated indoor radon exposure with ALK fusion prevalence across 21 European countries. Marjanski and colleagues expose critical gaps in real-world perioperative assessment in Poland, where limited preoperative biomarker testing and prolonged surgical intervals may exclude patients from neoadjuvant chemoimmunotherapy. Mo and colleagues describe an emerging consequence of therapeutic progress: a temporal rise in cardiovascular and pulmonary diseasespecific mortality in NSCLC, coinciding with the expanded use of targeted therapies and immune checkpoint inhibitors. Pham and colleagues demonstrate, in a Vietnamese cohort with EGFR-mutant NSCLC, that flexible, individualized afatinib dosing improves outcomes and underscores the persistent underrepresentation of non-European populations in pivotal trials. Taken together, these articles illustrate that the geographic distribution of carcinogens shapes molecular subtypes; molecular subtypes dictate treatment options; treatment options generate toxicities that must be managed within local healthcare systems; and those systems, in turn, determine equitable access to diagnostic and therapeutic innovation. Bridging these gaps will require integration of exposome-informed approaches, more diverse clinical trial populations, cardio-oncology surveillance, and pharmacological individualization. This editorial advocates for a geographically informed and globally equitable approach to thoracic oncology.",
-    "authors": [
-      "Miguel García-Pardo",
-      "Andrés Felipe Cardona",
-      "Herbert H Loong",
-      "Laura Mezquita"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553316/",
-    "doi": "10.1158/1055-9965.EPI-05-0456",
-    "score": 0.2458,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42621391",
-    "source": "pubmed",
-    "title": "Genetic diversity and clinical spectrum of",
-    "abstract": "The Mycobacterium abscessus complex is a rapidly growing nontuberculous mycobacterium that causes chronic lung, skin, and soft-tissue infections. Disease management is challenging because of prolonged antibiotic therapy and resistance, making knowledge of local strain diversity and resistance patterns essential. However, the molecular epidemiology of M. abscessus in India remains largely unreported. Whole-genome sequencing and multilocus sequence typing (MLST) were performed on 50 clinical isolates collected from patients across 10 Indian states (2019-2024). Genomic DNA was extracted, and sequencing was performed using the Illumina platform. MLST was conducted according to the PubMLST scheme based on seven housekeeping genes. Analysis of the 50 isolates from 10 states across India showed a predominance of M. abscessus subsp. abscessus (76%), with extrapulmonary infections, particularly skin and soft-tissue infections. No isolates of subsp. bolletii were detected. MLST revealed genetic heterogeneity. M. abscessus subsp. abscessus isolates were distributed across 8 known and 18 novel sequence types (STs), with ST-5 being the most common, while M. abscessus subsp. massiliense isolates were predominantly assigned to ST-46, ST-33, and ST-37, along with two novel STs. Overall, 40% of the isolates represented novel STs. This study revealed extensive genomic diversity, with 40% of the isolates representing novel STs. The predominance of subsp. abscessus and the high frequency of extrapulmonary infections highlight region-specific trends and underscore the need for strengthened genomic surveillance.",
-    "authors": [
-      "Vignesh Balaji",
-      "Marilyn Mary Ninan",
-      "Suchitha Chase",
-      "Richa Gupta",
-      "Joy Sarojini Michael"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42621391/",
-    "doi": "10.1371/journal.pone.0179237",
-    "journal": "IJID regions",
-    "score": 0.2457,
-    "fetched_at": "2026-08-20"
-  },
-  {
-    "id": "pubmed:42552743",
-    "source": "pubmed",
-    "title": "Phylogenomic insights into the genus Tulipa (Liliaceae): Taxonomy, evolution, and biogeography.",
-    "abstract": "Tulips are one of the best-known geophytes, but their taxonomy remains convoluted and their evolutionary history poorly understood. Here, we used plastid genomes to identify some issues with current classification, understand the diversification history of the genus, and identify potential species linked to historical cultivation. We gathered a large number of tulip specimens from living collections, herbaria, and online sources and through extensive fieldwork to infer maximum likelihood phylogenies of the plastid genomes of Tulipa (Liliaceae), representing ~86% of accepted species alongside a range of occasionally accepted synonyms. We used BEAST and secondary calibration points to date the tree, before assessing the biogeographical history of the genus using BioGeoBEARS. Based on our results, we described a fifth subgenus, Eduardoregelia, and identified a range of species where our results do not align with current taxonomy. Our data suggests the genus diverged from a clade containing Amana and Erythronium around 32.5 million years ago (Mya), with the most recent common ancestor existing around 22.8 Mya in the broader Central Asia region, a period that saw rapid uplift of mountain ranges and associated aridification in the region. The genus primarily diversified in Central Asia with rapid radiations within the last 10 My, possibly as a response to further orogenesis. Several migrations outside of the ancestral region have occurred, primarily via the steppes of Kazakhstan and Russia and along the Caucasus and Iranian and Anatolian Mountains to the eastern Mediterranean region. We also provide evidence that the maternal lineage of the garden tulip involved several species including T. scardica and T. suaveolens. Many tulip species present limited diagnostic characters, making their taxonomy difficult, compounded by their long use in horticulture and widespread hybridization, especially in gardens. We provide an up-to-date phylogenetic framework for this genus that may help resolve many taxonomic issues in the future, while highlighting further work to be done. We reinforce the importance of Central Asia in the evolutionary history of this genus and provide an important foundation for further study of Tulipa and more effective conservation of wild tulip species.",
-    "authors": [
-      "Brett Wilson",
-      "Maarten J M Christenhusz",
-      "Nathanael Walker-Hale",
-      "Natalya Beshko",
-      "Mariyo Boboev",
-      "Colin Clubbe",
-      "Davron Dekhkonov",
-      "Aibek Dolotbakov",
-      "Mehmet Firat",
-      "Thomas Freeth",
-      "Sjaak de Groot",
-      "Avni Hajdari",
-      "Georgy A Lazkov",
-      "Ormon Sultangaziev",
-      "Komiljon S Tojibaev",
-      "Ben J M Zonneveld",
-      "Kaiyrkul T Shalpykov",
-      "Samuel F Brockington"
-    ],
-    "date": "2026-Aug-04",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42552743/",
-    "doi": "10.1002/ajb2.70232",
-    "score": 0.2455,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42572721",
-    "source": "pubmed",
-    "title": "Antimicrobial Resistance, Molecular Epidemiology, and Virulence Profiles of Hypervirulent Carbapenem-Resistant",
-    "abstract": "To systematically analyze the drug resistance phenotype, virulence characteristics, and molecular epidemiological characteristics of hypervirulent carbapenem-resistant Klebsiella pneumoniae (hv-CRKP) in Zunyi area, and to provide experimental and epidemiological evidence for clinical accurate diagnosis and treatment, rational selection of antibiotics, and prevention and control of nosocomial infection of hv-CRKP in the region. A total of 91 hv-CRKP strains were collected from the First People's Hospital of Zunyi from 2021 to 2023. Drug susceptibility test was performed for commonly used antibiotics in clinic. Molecular typing included PCR detection of carbapenemase gene, multilocus sequence typing (MLST), membrane porin (OmpK) deletion analysis, and capsule serotyping. The virulence phenotype of hv-CRKP was comprehensively evaluated by biofilm formation, serum resistance, and Galleria mellonella larval infection tests. hv-CRKP strains were highly resistant to commonly used antibiotics, but the resistance rate to tigecycline was relatively low, only 3.3%. The clones carrying virulence genes iucA, iroB and rmpA2 were the dominant clones, accounting for 83.52%. Most of them carried Carbapenem resistance genes blaKPC-2, with a positive rate of 95.60%. The predominant sequence type of hv-CRKP isolates was ST11, accounting for 87.90%. The expression of OmpK35 and OmpK37 was characterized by full expression of Ompk35 and Ompk37, while the expression rate of OmpK36 was low (6.59%). 79.12% of the strains had the ability of biofilm formation. The predominant capsular serotype was KL64, accounting for 87.90%. Its serum bactericidal tolerance was only 12.08%. ST65 was the most virulent strain of KL64 strain, and KL114 was the most virulent strain of ST11 strain. The main hv-CRKP strains in this region carry the iucA, iroB and rmpA2 virulence genes simultaneously, and the dominant clone type is ST11-KL64. The production of carbapenemase mainly involves blaKPC-2. The rate of loss of OmpK36 outer membrane pore protein and the rate of biofilm formation are relatively high. This study can provide important references for the diagnosis and treatment of hv-CRKP infections.",
-    "authors": [
-      "Meijing Shen",
-      "Xianghao Chen",
-      "Benhai Chen",
-      "Rengui Tian",
-      "Guangwu Yang",
-      "He Zha",
-      "Kaifeng Wu",
-      "Shifei Yao"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42572721/",
-    "doi": "10.1073/pnas.2400446121",
-    "score": 0.2453,
-    "fetched_at": "2026-08-10"
-  },
-  {
-    "id": "pubmed:42608857",
-    "source": "pubmed",
-    "title": "Evaluating Estimates of Recent Tuberculosis Transmission Using Epidemiologic and Whole-Genome Sequencing Data, Los Angeles County, California, 2014-2018.",
-    "abstract": "Estimating the percentage of tuberculosis cases in a population attributable to recent transmission, compared with reactivation of past infections, is crucial for public health decision-making. This study evaluated a previously published plausible-source case (PSC) method for estimating recent transmission in Los Angeles County (LA County) against a reference standard based on epidemiologic and whole-genome sequencing data. We analyzed tuberculosis cases diagnosed in LA County from 2014 through 2018 using surveillance data. Cases were classified as consistent or inconsistent with recent transmission using the PSC method and a stepwise review of epidemiologic links and single nucleotide polymorphisms (Epi/SNP). We compared classifications from both methods and assessed discrepancies. Of 2949 tuberculosis cases in LA County, 650 had epidemiologic and whole-genome sequencing data for evaluating recent transmission; 44 were excluded due to missing genotyping data, including 7 pediatric patients aged <15 years. The Epi/SNP review classified 195 (30%) cases as consistent with recent transmission, while the PSC method attributed 301 (46%) cases to recent transmission. The 2 methods agreed on 454 (70%) cases. Discrepancies arose from genetic diversity, geographic distance, nonmatching genotypes, and diagnosis timing. Performance varied by race and ethnicity, nativity, lineage, history of homelessness, and substance use. The PSC method accurately classified more than two-thirds of tuberculosis cases included in a cluster investigation in LA County. However, findings underscore the need to refine the PSC method by integrating whole-genome sequencing data, including nongenotyped cases in pediatric patients, and reevaluating the geographic and timing criteria to enhance completeness and inform public health interventions aimed at interrupting tuberculosis transmission.",
-    "authors": [
-      "Clinton J McDaniel",
-      "Sarah Talarico",
-      "Kala M Raz",
-      "Steve Kammerer",
-      "Shameer Poonja",
-      "Sophia Hsu",
-      "Julie Higashi",
-      "Alicia H Chang",
-      "Tambi Shaw",
-      "Martin Cilnis",
-      "Wendy Noboa",
-      "Jonathan Wortham",
-      "Lauren Cowan",
-      "James Posey",
-      "Benjamin J Silk"
-    ],
-    "date": "2026-Aug-17",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608857/",
-    "doi": "10.1177/00333549261468283",
-    "score": 0.243,
-    "fetched_at": "2026-08-18"
-  },
-  {
-    "id": "pubmed:42558998",
-    "source": "pubmed",
-    "title": "Mitochondrial genome evolution of the hemiparasitic plant",
-    "abstract": "Parasitic and hemiparasitic plants exhibit highly variable mitochondrial genome structures and gene content, but the evolutionary processes underlying this variation remain incompletely understood. This study aimed to characterize the structural features, gene composition, and evolutionary characteristics of the complete mitochondrial genome of Taxillus chinensis. The mitochondrial genome of T. chinensis exhibits a complex multipartite structure composed of multiple linear and circular DNA molecules. Fragmented synteny and heterogeneous genomic organization indicate substantial structural complexity. The genome contains abundant dispersed and palindromic repeats, including long repeat units, contributing to the complex repetitive landscape of the mitogenome. The mitogenome encodes 27 protein-coding genes and three rRNA genes, but only three tRNA genes, indicating substantial reduction of mitochondrial tRNA genes. All rpl genes are absent, indicating a substantial reduction of translation-related components. Homology searches against the nuclear genome and mitochondrial contigs identified only fragmented rpl-related sequences, which likely represent nonfunctional pseudogene remnants rather than intact functional genes. Ka/Ks analyses show that most mitochondrial protein-coding genes remain under strong purifying selection, although evolutionary rate heterogeneity is observed among functional categories. The mitochondrial genome of T. chinensis exhibits pronounced structural complexity and extensive loss of translation-related genes, while most retained mitochondrial protein-coding genes remain under strong purifying selection. These findings provide new insights into the structural evolution, functional reduction, and evolutionary constraints of mitochondrial genomes in hemiparasitic plants.",
-    "authors": [
-      "Mengjin Tan",
-      "LingYun Wan",
-      "Wenjing Liang",
-      "Can Chen",
-      "Guiyu Tan",
-      "Ya Qin",
-      "Yuqiong Li",
-      "Lisha Song",
-      "Haixia Yu",
-      "Cuihong Yang",
-      "Lingjian Gui",
-      "Shugen Wei"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558998/",
-    "doi": "10.1186/s13059-025-03676-6",
-    "score": 0.2415,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42582066",
-    "source": "pubmed",
-    "title": "Epitope spreading in multiple sclerosis is shaped by the spatial organisation of immune responses.",
-    "abstract": "Epitope spreading has long been proposed as a mechanism contributing to the progression of multiple sclerosis (MS), yet its role in human disease remains incompletely defined. Traditionally viewed as a consequence of antigen release during tissue damage, epitope spreading is often considered independently of the anatomical context in which immune responses occur. Here, I re-examine epitope spreading in MS by integrating evidence from experimental models and human studies with recent advances in neuroimmunology. I propose that the diversification of autoreactive responses is not solely driven by antigen availability but is shaped by the spatial organisation of immune cells within the central nervous system (CNS), CNS-draining lymph nodes, and peripheral lymphoid tissues. In particular, I highlight EBI2 (GPR183) as a candidate regulator of immune-cell positioning that may influence the cellular interactions required for the emergence of new antigen specificities. This spatial framework links epitope spreading with germinal-centre dynamics, B-cell-mediated immunity, and Epstein-Barr virus-associated mechanisms in MS, while emphasising that direct evidence connecting EBI2 to epitope spreading remains limited. Defining how autoreactive diversification is controlled may help explain disease progression and guide strategies aimed at limiting the evolution of pathogenic immune responses.",
-    "authors": [
-      "Aleksandra Rutkowska"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42582066/",
-    "doi": "10.1590/0004-282X20190097",
-    "score": 0.2405,
     "fetched_at": "2026-08-13"
   }
 ]
