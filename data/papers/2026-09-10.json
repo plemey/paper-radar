@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pubmed:42717565",
+    "source": "pubmed",
+    "title": "Resolving the \"Yucca queretaroensis problem\": Phylogenomic analysis of Yucca reveals the identity of an enigmatic species and the origin of an obligate pollination mutualism.",
+    "abstract": "The genus Yucca is a group of ~50 species of woody monocots endemic to the North American arid regions. Their obligate pollination mutualism with yucca moths is considered a \"textbook example\" of coevolution and is hypothesized to have promoted rapid diversification. However, testing this hypothesis has been difficult due to uncertainty about the placement of a rogue taxon, Yucca queretaroensis, a rare endemic of the Sierra Gorda region of central Mexico. Past work placed this species in different positions within the Agavoideae, producing starkly different age estimates for Yucca (25 to 4 million years). We generated new sequence capture data for 353 nuclear genes and for all coding regions of the plastid genome from wild-collected plants and samples included in previous studies to provide a new phylogeny and new age estimate for Yucca. The data presented here suggest that Y. queretaroensis is closely related to other species of Yucca. A relaxed molecular clock analysis of the plastid genome produced an estimated age for the genus of approximately 6.8 million years. The results resolve a mystery that has bedeviled evolutionary biologists for decades and provide a surprisingly young estimate for the age of Yucca, suggesting rapid diversification. The past difficulties in identifying the correct placement of Y. queretaroensis appear to be the product of laboratory errors, mistakes in field identification, and frequent hybridization with co-distributed taxa. The \"Yucca queretaroensis problem\" reaffirms the essential role for traditional botanical tools in phylogenomics.",
+    "authors": [
+      "Christopher Irwin Smith",
+      "Erika Aguirre Planter",
+      "Marian Angeles-Cruz",
+      "Ramona Flatz",
+      "Abisaí García-Mendoza",
+      "Jaime Gasca-Pineda",
+      "Emma Fabiola Magallán-Hernández",
+      "Guillermo Sánchez-de la Vega",
+      "Emelia Sherman",
+      "Cécile Truchot Taillefer",
+      "Luis E Eguiarte"
+    ],
+    "date": "2026-Sep-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717565/",
+    "doi": "10.1002/ajb2.70259",
+    "journal": "American journal of botany",
+    "score": 0.2802,
+    "fetched_at": "2026-09-10"
+  }
+]
