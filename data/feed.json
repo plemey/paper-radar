@@ -1136,6 +1136,29 @@
     "fetched_at": "2026-08-19"
   },
   {
+    "id": "pubmed:42723722",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Human Metapneumovirus in Kilifi, Coastal Kenya, 2016-2017 and 2021-2024.",
+    "abstract": "Human metapneumovirus (hMPV) is a major contributor of acute respiratory infections (ARI) in childhood and vulnerable adults. It comprises two antigenically distinct lineages (A and B), with multiple sub-lineages. Genomic analyses of hMPV strains enable monitoring of viral evolution and transmission to inform future interventions but remain underutilized in Africa. We generated 52 near-complete hMPV genomes from respiratory samples collected in Kilifi, Coastal Kenya, using a tiled-amplicon approach and Oxford Nanopore Technologies sequencing. These samples had been identified as hMPV positive by quantitative PCR during (a) a multi-facility outpatient ARI surveillance in nine health facilities in Kilifi between 2016 and 2017, and 2021 to 2023 and (b) a community-based respiratory infection cohort surveillance study between 2023-2024 that sampled enrolled participants irrespective of symptom status. Of the 192 positive samples analyzed from the two studies, children under 5 years accounted for most hMPV cases (134/186, 72%). 52 samples were sequenced (>70% genome coverage), and hMPV-A (27/52, 53.8%) and hMPV-B (25/52, 46.2%) lineages were identified. The recovered sequences mapped into sub-lineages A2c (27/52, 53.8%), B1 (12/52, 21.2%), and B2b (13/52, 25%). A shift in the predominant sub-lineage was observed from B2b (2016) to B1 (2021), and finally to A2c-wild type (2023). In February 2021, for the first time, we detected a single A2c strain with a 111-nucleotide duplication in the G gene among Kenyan samples. Our study expands the global nucleotide sequence database for hMPV by adding new whole-genome sequences from Kenya collected over the last decade. It highlights the ongoing replacement of locally predominant hMPV lineages and the importation and local transmission of globally circulating strains. These findings underscore the importance of sustained hMPV genomic surveillance to detect emerging variants and monitor lineage circulation patterns that may impact viral transmission, molecular detection, and future control measures.",
+    "authors": [
+      "Dorcas Okanda",
+      "Samuel O Odoyo",
+      "Hillary Kiprono",
+      "Esther Katama",
+      "Grace Maina",
+      "Martin Mutunga",
+      "Joyce Nyiro",
+      "Charles N Agoti",
+      "George Githinji"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723722/",
+    "doi": "10.64898/2026.01.18.26344359",
+    "journal": "Wellcome open research",
+    "score": 0.5226,
+    "fetched_at": "2026-09-11"
+  },
+  {
     "id": "pubmed:42636373",
     "source": "pubmed",
     "title": "HLA class I escape drives the evolution of SARS-CoV-2 in human populations.",
@@ -1186,6 +1209,26 @@
     "doi": "10.3390/ijms22115894",
     "score": 0.5154,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42723126",
+    "source": "pubmed",
+    "title": "A comprehensive overview of monkeypox virus disease.",
+    "abstract": "Monkeypox (mpox), caused by monkeypox virus (MPXV), re-emerged as a major global public health concern in 2022, resulting in widespread transmission beyond traditionally endemic regions. As of March 2026, 181,164 confirmed cases and 492 deaths had been reported across 144 countries globally. The unprecedented geographic spread of the outbreak highlighted important knowledge gaps in disease surveillance, prevention, and control. Given the ongoing global circulation of MPXV and the risk of future outbreaks, this review provides a comprehensive synthesis of current evidence on MPXV and mpox. The literature, surveillance data, and public health reports available up to March 2026 were systematically reviewed and synthesized. The review comprehensively assesses viral biology, genetic diversity, epidemiology, transmission dynamics, clinical manifestations, pathogenesis, laboratory diagnosis, infection during pregnancy, host immune responses, immune evasion mechanisms, therapeutic interventions, and prevention strategies. Globally, the decline in public immunity following the cessation of routine smallpox vaccination, together with ongoing viral evolution, may have contributed to the resurgence of mpox. Advances in genomic surveillance, diagnostics, and public health preparedness have strengthened outbreak response; however, important gaps remain in understanding long-term immunity and optimal treatment strategies. This review summarizes current evidence on MPXV and mpox and highlights priorities for future research and public health interventions.",
+    "authors": [
+      "Ijaz Ahmad",
+      "Shahab Ahmad Khan",
+      "Ghulam Nabi",
+      "Takeshi Urano",
+      "Kouichi Morita",
+      "Mya Myat Ngwe Tun"
+    ],
+    "date": "2026-Sep-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723126/",
+    "doi": "10.1111/all.15393",
+    "journal": "Tropical medicine and health",
+    "score": 0.5093,
+    "fetched_at": "2026-09-11"
   },
   {
     "id": "pubmed:42648245",
@@ -4389,51 +4432,5 @@
     "journal": "Molecular plant-microbe interactions : MPMI",
     "score": 0.2576,
     "fetched_at": "2026-09-03"
-  },
-  {
-    "id": "pubmed:42569559",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of",
-    "abstract": "Enterocytozoon bieneusi, a microsporidian fungus, and Blastocystis, a protist, are zoonotic enteric microbes causing gastrointestinal disorders in humans and various animals, including cats and dogs. This study aimed to determine the molecular prevalence, associated risk factors, genetic diversity, and zoonotic potential of these pathogens in feline and canine populations in Dhaka and Gazipur metropolitan areas. Fecal samples were collected from 197 cats and 120 dogs and analyzed using nested PCR targeting the internal transcribed spacer (ITS) region of the ribosomal RNA (rRNA) gene for E. bieneusi and a conventional PCR targeting the small subunit ribosomal (SSU) rRNA gene for Blastocystis. The overall prevalence of E. bieneusi was 9.1% in cats and 11.7% in dogs. Blastocystis was detected in 3.6% of cats and 10.0% of dogs, with feline infection occurring exclusively in kittens (<1 year). Multivariable analysis identified female sex and young age as the sole significant risk factors for E. bieneusi in dogs and for Blastocystis in cats, respectively. Molecular characterization identified four E. bieneusi genotypes (D, Henan V, BANEB17, and BANEB4) in cats and seven genotypes (PtEb IX, D, EbpC, Type IV, BANEB14, BANEB15, and BANEB16) in dogs. Phylogenetic grouping and sequence comparison confirmed genetic identity between several isolates and genotypes circulating in Bangladeshi children. Among these, four genotypes (BANEB14, BANEB15, BANEB16, and BANEB17) were novel, and the majority exhibited zoonotic potential. Similarly, six Blastocystis subtypes (ST1, ST3, ST4, ST6, ST23, and ST44) were identified in both cats and dogs, with ST1, ST3, and ST4 recognized for their zoonotic potential. These findings suggest a potential role for companion animals in zoonotic transmission, necessitating integrated One Health surveillance strategies.",
-    "authors": [
-      "Anas Bin Harun",
-      "Abdullah Al Bayazid",
-      "Md Farhan Hasan",
-      "Ainun Nahar",
-      "Maksuda Akter Mily",
-      "Jannatul Bakia Tamanna",
-      "Joynti Saha",
-      "Md Ashiqur Rahman",
-      "S H M Faruk Siddiki",
-      "Md Morshedur Rahman",
-      "Md Robiul Karim"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42569559/",
-    "doi": "10.1016/j.fawpar.2026.e00354",
-    "score": 0.2556,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42650054",
-    "source": "pubmed",
-    "title": "Mediterranean PAH Stratification in Phenylketonuria: Tracing Historical Maps to Point Toward Clinical Phenotype and Obesity Risk.",
-    "abstract": "Apulia and neighbouring Southern Italian regions present a complex genetic stratification shaped by historical migrations. Phenylketonuria (PKU), caused by PAH mutations, serves as an excellent model for molecular epidemiology. This study maps the geographical distribution of PAH variants in a large Southern Italian cohort, evaluating their correlation with clinical phenotypes and long-term Body Mass Index (BMI). A retrospective cohort study was conducted on 344 patients followed for at least 10 years. Genetic characterization evolved from Sanger to Next-Generation Sequencing, and patients were stratified into micro-geographic clusters. The genetic landscape was dominated by three ancestral variants (c.1208C>T, c.1066-11G>A, c.898G>T), accounting for 58% of the allelic pool. Significant micro-geographic polarization was observed: c.1222C>T clustered in Central-Northern Apulia, mirroring historical Norman-Swabian migration, whereas c.441+5G>T enriched in Southern Apulia. At final follow-up, classic PKU adult patients exhibited a four-fold increased risk of obesity (p < 0.05), driven by severe null alleles that necessitate a lifelong dependency on engineered low-protein foods. PAH mutational stratification serves as a contemporary reflection of historical migratory maps. Incorporating regional and genotypic mapping provides a precision medicine framework to anticipate phenotype severity, optimize therapeutic management, and tailor long-term obesity risk monitoring.",
-    "authors": [
-      "Albina Tummolo",
-      "Ornella Tabaku",
-      "Eleonora Meneleo",
-      "Ciro Leonardo Pierri",
-      "Anna De Grassi",
-      "Vito Di Tullio",
-      "Giulia Paterno",
-      "Donatella De Giovanni"
-    ],
-    "date": "2026-Jul-24",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42650054/",
-    "doi": "10.3390/genes17080861",
-    "journal": "Genes",
-    "score": 0.2546,
-    "fetched_at": "2026-08-28"
   }
 ]

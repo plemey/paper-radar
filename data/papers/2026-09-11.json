@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pubmed:42724650",
+    "source": "pubmed",
+    "title": "Equity gaps in pulmonary nodule risk prediction for never-smokers: a real-world evidence-informed narrative review and policy analysis.",
+    "abstract": "Current lung cancer screening and pulmonary nodule management pathways were built largely around age, smoking exposure, and computed tomography (CT) morphology. These frameworks may under-recognize selected never-smoker subgroups because their risk scores often fall below conventional thresholds, especially East Asian women with molecularly enriched lung adenocarcinoma risk. This review evaluates whether real-world cohort evidence supports an equity concern in risk prediction and management for never-smokers with pulmonary nodules. We conducted targeted narrative evidence mapping of guideline documents, prediction model studies, external validation studies, East Asian never-smoker screening cohorts, molecular epidemiology studies, and diagnostic-delay outcome studies. Priority was given to peer-reviewed primary studies, prospective cohorts, guidelines, and official society statements. Commercial calculators, news reports, legal commentaries, and non-peer-reviewed secondary sources were excluded. Smoking-centered screening eligibility remains the dominant entry point into low-dose computed tomography (LDCT) screening, while never-smokers are excluded. Cancer Screening Program in Urban China (CanSPUC)-derived Chinese risk models identified locally relevant predictors, including chronic respiratory disease, family history, menopause, education, tuberculosis history, and other non-tobacco factors. The Taiwan Lung Cancer Screening in Never-Smoker Trial (TALENT) prospective cohort showed clinically meaningful LDCT-detectable invasive lung cancer in selected never-smokers. Hospital-based persistent nodule cohorts suggest attenuation of screening-derived prediction models such as Brock when applied outside their original development setting. Model-based evidence from the National Lung Screening Trial (NLST) and International Association for the Study of Lung Cancer (IASLC) data indicates that diagnostic delays can reduce survival estimates for fast-growing early non-small cell lung cancer (NSCLC), and Veterans Health Administration (VHA) data show worse outcomes when surgery for clinical stage I NSCLC is delayed beyond 12 weeks. Molecular epidemiology further demonstrates that East Asian never-smoker lung adenocarcinoma is enriched for actionable drivers, particularly EGFR sensitizing mutations. The available real-world evidence does not justify indiscriminate LDCT screening for all never-smokers. It supports recalibrated, equity-aware risk pathways for selected never-smoker subgroups. Reforms should include subgroup calibration of nodule models, incorporation of non-tobacco and molecular risk proxies, closed-loop incidental nodule tracking, and shared decision-making that addresses false-negative consequences in populations outside the training distribution of traditional models.",
+    "authors": [
+      "Yu Gu",
+      "Kexin Ma",
+      "Shangqing Xu",
+      "Ning Wei",
+      "Xiaoyan Han",
+      "Yan Sun",
+      "Huiling Li",
+      "Diego Gonzalez Rivas",
+      "Minjie Ma"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42724650/",
+    "doi": "10.1164/rccm.202212-2216ST",
+    "journal": "Journal of thoracic disease",
+    "score": 0.1305,
+    "fetched_at": "2026-09-11"
+  },
+  {
+    "id": "pubmed:42723722",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Human Metapneumovirus in Kilifi, Coastal Kenya, 2016-2017 and 2021-2024.",
+    "abstract": "Human metapneumovirus (hMPV) is a major contributor of acute respiratory infections (ARI) in childhood and vulnerable adults. It comprises two antigenically distinct lineages (A and B), with multiple sub-lineages. Genomic analyses of hMPV strains enable monitoring of viral evolution and transmission to inform future interventions but remain underutilized in Africa. We generated 52 near-complete hMPV genomes from respiratory samples collected in Kilifi, Coastal Kenya, using a tiled-amplicon approach and Oxford Nanopore Technologies sequencing. These samples had been identified as hMPV positive by quantitative PCR during (a) a multi-facility outpatient ARI surveillance in nine health facilities in Kilifi between 2016 and 2017, and 2021 to 2023 and (b) a community-based respiratory infection cohort surveillance study between 2023-2024 that sampled enrolled participants irrespective of symptom status. Of the 192 positive samples analyzed from the two studies, children under 5 years accounted for most hMPV cases (134/186, 72%). 52 samples were sequenced (>70% genome coverage), and hMPV-A (27/52, 53.8%) and hMPV-B (25/52, 46.2%) lineages were identified. The recovered sequences mapped into sub-lineages A2c (27/52, 53.8%), B1 (12/52, 21.2%), and B2b (13/52, 25%). A shift in the predominant sub-lineage was observed from B2b (2016) to B1 (2021), and finally to A2c-wild type (2023). In February 2021, for the first time, we detected a single A2c strain with a 111-nucleotide duplication in the G gene among Kenyan samples. Our study expands the global nucleotide sequence database for hMPV by adding new whole-genome sequences from Kenya collected over the last decade. It highlights the ongoing replacement of locally predominant hMPV lineages and the importation and local transmission of globally circulating strains. These findings underscore the importance of sustained hMPV genomic surveillance to detect emerging variants and monitor lineage circulation patterns that may impact viral transmission, molecular detection, and future control measures.",
+    "authors": [
+      "Dorcas Okanda",
+      "Samuel O Odoyo",
+      "Hillary Kiprono",
+      "Esther Katama",
+      "Grace Maina",
+      "Martin Mutunga",
+      "Joyce Nyiro",
+      "Charles N Agoti",
+      "George Githinji"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723722/",
+    "doi": "10.64898/2026.01.18.26344359",
+    "journal": "Wellcome open research",
+    "score": 0.5226,
+    "fetched_at": "2026-09-11"
+  },
+  {
+    "id": "pubmed:42723126",
+    "source": "pubmed",
+    "title": "A comprehensive overview of monkeypox virus disease.",
+    "abstract": "Monkeypox (mpox), caused by monkeypox virus (MPXV), re-emerged as a major global public health concern in 2022, resulting in widespread transmission beyond traditionally endemic regions. As of March 2026, 181,164 confirmed cases and 492 deaths had been reported across 144 countries globally. The unprecedented geographic spread of the outbreak highlighted important knowledge gaps in disease surveillance, prevention, and control. Given the ongoing global circulation of MPXV and the risk of future outbreaks, this review provides a comprehensive synthesis of current evidence on MPXV and mpox. The literature, surveillance data, and public health reports available up to March 2026 were systematically reviewed and synthesized. The review comprehensively assesses viral biology, genetic diversity, epidemiology, transmission dynamics, clinical manifestations, pathogenesis, laboratory diagnosis, infection during pregnancy, host immune responses, immune evasion mechanisms, therapeutic interventions, and prevention strategies. Globally, the decline in public immunity following the cessation of routine smallpox vaccination, together with ongoing viral evolution, may have contributed to the resurgence of mpox. Advances in genomic surveillance, diagnostics, and public health preparedness have strengthened outbreak response; however, important gaps remain in understanding long-term immunity and optimal treatment strategies. This review summarizes current evidence on MPXV and mpox and highlights priorities for future research and public health interventions.",
+    "authors": [
+      "Ijaz Ahmad",
+      "Shahab Ahmad Khan",
+      "Ghulam Nabi",
+      "Takeshi Urano",
+      "Kouichi Morita",
+      "Mya Myat Ngwe Tun"
+    ],
+    "date": "2026-Sep-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723126/",
+    "doi": "10.1111/all.15393",
+    "journal": "Tropical medicine and health",
+    "score": 0.5093,
+    "fetched_at": "2026-09-11"
+  },
+  {
+    "id": "pubmed:42721801",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of multidrug-resistant uropathogenic Escherichia coli: Virulence, biofilm formation, phylogenetic distribution, and genetic diversity.",
+    "abstract": "Multidrug-resistant (MDR) Escherichia coli mediated urinary tract infections (UTIs) are an increasing public health concern, especially in low- and middle-income nations. This study aimed to determine the prevalence, antimicrobial resistance and virulence profile, biofilm forming ability with phylogenetic distribution and genetic diversity of uropathogenic E. coli (UPEC) isolated from UTI patients. A total of 718 urine samples were collected from the diagnostic outpatient department of Mymensingh Medical College, Mymensingh, Bangladesh. Samples were analyzed using standard culture technique, and E. coli was identified by MALDI-TOF MS and PCR. Phenotypic antibiotic resistance was detected by the disc diffusion method. Both CRA and CVMP techniques were used to identify the biofilm forming ability. Virulence and resistance genes were identified by PCR. Genetic diversity was studied through phylogrouping, ERIC-PCR, and sequencing of 16 s rRNA gene. 125 (17.41%) samples showed significant bacteriuria and were confirmed as UTI cases. E. coli was identified in 38 (30.4%) of these cases and most of the isolates were recovered from females (63.2%) and individuals aged 15-35 years (47.4%). High resistance was observed against meropenem (100%) and amoxicillin (100%), while nitrofurantoin (7.9%) and imipenem (23.7%) had the lowest resistance rate. All of the study isolates were either MDR (66%) or XDR (34%). blaOXA (81.6%), blaCTX-M (55.3%), and qnrA (89.5%) were most prevalent resistance genes. A strong positive correlation (rₛ = 0.719, p < 0.001) was found between resistance gene load and the multiple antibiotic resistance (MAR) index. crl (100%), uidA (100%), and csgA (94.7%) were highly prevalent virulence genes. Approximately 85% of isolates were biofilm producer. Phylogenetic group B2 (36.82%) was predominant and significantly associated with virulence gene carriage and biofilm formation. Furthermore, ERIC PCR revealed a considerable genetic variability among the study isolates. These findings highlight the alarming spread of MDR and XDR E. coli strains with high virulence potential, emphasizing the need for continuous monitoring and judicious antibiotic use.",
+    "authors": [
+      "Md Tanjir Ahmmed",
+      "Bushra Benta Rahman Prapti",
+      "Tasnim Islam",
+      "Kazi Mohimen Alam Arnop",
+      "Aminur Rahman",
+      "Md Al Amin",
+      "Mohammad Afzalur Rahman",
+      "Nazia Haque",
+      "Sabina Yasmin",
+      "Mahbubul Pratik Siddique"
+    ],
+    "date": "2026-Sep-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721801/",
+    "doi": "10.1016/j.jiph.2026.103358",
+    "journal": "Journal of infection and public health",
+    "score": 0.2052,
+    "fetched_at": "2026-09-11"
+  }
+]
