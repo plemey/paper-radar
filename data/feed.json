@@ -1930,6 +1930,33 @@
     "fetched_at": "2026-09-01"
   },
   {
+    "id": "pubmed:42730613",
+    "source": "pubmed",
+    "title": "Endemic Circulation and Genetic Characterization of Foot-and-Mouth Disease Virus in Buffalo Populations of Bangladesh.",
+    "abstract": "Foot-and-mouth disease (FMD) virus (FMDV) is endemic in Bangladesh, causing severe economic losses in the livestock sector. While it primarily affects cattle, buffaloes (Bubalus bubalis) remain highly susceptible. Therefore, this study aimed to determine the prevalence and molecular characteristics of FMDV in buffaloes across three districts (Sylhet, Rajshahi, and Noakhali) of Bangladesh from January to June 2024. In a cross-sectional study, a total of 622 nasal swabs from 67 herds were collected and tested for FMDV RNA using reverse transcription polymerase chain reaction (RT-PCR). Overall, 255 samples were positive, resulting in an individual-level prevalence of 41.0%(255/622), while 88.1% (59/67) of herds were FMDV-positive. Animal-level prevalence was highest in Sylhet (47.1%), followed by Noakhali (38.9%) and Rajshahi (37.1%). To further characterize circulating strains, eight representative RT-PCR-positive samples were sequenced, revealing the co-circulation of serotypes O (n = 5) and Asia-1 (n = 3). Phylogenetic analysis showed that the isolates belonged to the ME-SA/Ind2001e lineage of the serotype O and the Asia-1 Group V lineage, clustering with contemporary strains from Bangladesh and neighboring countries, suggesting possible intra- and transboundary transmission. Pairwise genetic distance evaluation revealed high regional similarity, while Mantel tests indicated significant associations between genetic, geographic, and temporal distances. Comparative genomic analysis revealed largely conserved genomic regions, whereas VP1 analysis indicated that purifying selection predominated across both serotypes, with serotype O exhibiting greater genetic diversity (π = 0.11642) than Asia-1 (π = 0.05258), suggesting localized antigenic variability and possible immune-mediated viral evolution. These findings highlight the need for strengthened surveillance, improved biosecurity, and integrated vaccination strategies to enhance FMD control and reduce economic losses in Bangladesh.",
+    "authors": [
+      "Abdullah Mohammad Asif",
+      "Tajul Islam Mamun",
+      "Md Rokibul Hasan Shanto",
+      "Md Khademul Islam",
+      "Md Mashfiq Hossain Khadem",
+      "Uttama Acharjee",
+      "Md Shazzadul Kabir",
+      "Md Shakil Mahmud Supto",
+      "Asikur Rahman",
+      "Syed Muktadir Al Sium",
+      "Amam Zonaed Siddiki",
+      "Md Bashir Uddin",
+      "Syed Sayeem Uddin Ahmed"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730613/",
+    "doi": "10.1111/tbed.12834",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.4581,
+    "fetched_at": "2026-09-13"
+  },
+  {
     "id": "pubmed:42655741",
     "source": "pubmed",
     "title": "Chikungunya Virus: What a Transfusion Service Needs to Know.",
@@ -2386,6 +2413,28 @@
     "doi": "10.1016/j.micpath.2026.108755",
     "score": 0.4228,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42729940",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and antimicrobial resistance of human",
+    "abstract": "Streptococcus suis (S. suis) is an important zoonotic pathogen and a common colonizer of the upper respiratory tract of pigs. Human infections have been reported in several regions of China, including Guangxi, but genomic and antimicrobial resistance data from this region remain limited. This study investigated the molecular epidemiology, antimicrobial susceptibility, and genomic characteristics of human S. suis isolates collected in Baise City, Guangxi, from 2015 to 2021. This retrospective study included 39 non-duplicate clinical isolates confirmed as S. suis by whole-genome analysis. Antimicrobial susceptibility testing was performed using a broth microdilution-based system and interpreted according to the Clinical and Laboratory Standards Institute guidelines. Serotypes were determined by agglutination using type-specific antisera. Whole-genome sequencing was used for species confirmation, multilocus sequence typing, detection of antimicrobial resistance and virulence-associated genes, and core-protein phylogenetic analysis. The median patient age was 55 years, and 36/39 (92.3%) patients were male. Meningitis was documented in 34/39 (87.2%) patients, and hearing impairment occurred in 21/39 (53.8%). Pig- or pork-related exposure was recorded in 15/39 (38.5%) patients. Resistance was highest to tetracycline (38/39, 97.4%), followed by erythromycin and clindamycin (26/39, 66.7% each). Four isolates (10.3%) showed intermediate susceptibility to penicillin, but none were resistant. All isolates remained susceptible to ampicillin, ceftriaxone, levofloxacin, linezolid, vancomycin, and meropenem. Serotype 2 predominated (32/39, 82.1%), followed by serotype 14 (7/39, 17.9%), while ST1 (29/39, 74.4%) and ST7 (7/39, 17.9%) were the two major sequence types. Resistance genes were mainly associated with tetracyclines, macrolides, lincosamides, and aminoglycosides. All ST1 isolates carried mrp and lacked tet(40), while all ST7 isolates showed the reverse pattern. Serotype 2 and ST1 predominated among the human S. suis isolates collected at this center. Resistance to tetracycline, erythromycin, and clindamycin was common, while susceptibility to the β-lactams tested was largely preserved. Differences in virulence- and resistance-associated gene profiles were also observed between the major lineages, indicating distinct genetic characteristics among the locally circulating isolates.",
+    "authors": [
+      "Xueli Yi",
+      "Bin Luo",
+      "Yuanyuan Dai",
+      "Ying Wei",
+      "Shimao Zhong",
+      "Ying Deng",
+      "Chunfang Wang",
+      "Yuanji Teng"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729940/",
+    "doi": "10.1128/aac.00629-12",
+    "journal": "Frontiers in public health",
+    "score": 0.4224,
+    "fetched_at": "2026-09-13"
   },
   {
     "id": "pubmed:42674547",
@@ -3220,6 +3269,27 @@
     "fetched_at": "2026-08-15"
   },
   {
+    "id": "pubmed:42729313",
+    "source": "pubmed",
+    "title": "Genomic surveillance reveals escalating antimicrobial resistance and plasmid diversity in clinical",
+    "abstract": "Salmonella 1,4,[5],12:i:- ST34 has emerged as a significant public health issue due to its association with various antimicrobial resistance genes (ARGs) and transferable plasmids. However, its genomic characteristics and potential influence on public health in Guizhou have not been comprehensively assessed. From 2019 to 2023, a 5-year surveillance was conducted in nine cities (prefectures) of Guizhou Province. We integrated phenotypic and genomic analyses of 281 clinical Salmonella 1,4,[5],12:i:- ST34 isolates to investigate the prevalence of ARGs and plasmids and to analyze the molecular epidemiology and evolution. The isolates exhibited resistance to first-line antibiotics, with 22.4% for ciprofloxacin, 11.4% for azithromycin, 18.5% for ceftazidime, and 39.1% for cefotaxime. ARGs showed substantial agreement with phenotypes for tetracycline, macrolides, third-generation cephalosporins (3GCs), carbapenems, and colistin (80.8-100.0% consistency; Kappa: 0.50-1.00). Plasmid analysis identified IncQ1 (84.3%) and IncHI2/IncHI2A (26.3%) as the main replicons, with the variety of plasmid replicons increasing from 7 to 21 over the 5 years. ARGs associated with resistance to critically important antibiotics (CIAs) were frequently predicted to be located on plasmid-associated contigs, with significant associations observed between IncHI2/IncHI2A plasmids and ARGs conferring resistance to fluoroquinolones, macrolides, and cephalosporins (P < 0.05). Molecular typing divided 281 isolates into 37 cgSTs, with cgST52428 being the most common. Molecular epidemiological analysis revealed that Guizhou isolates primarily clustered together, sharing close genetic ties with those from Sichuan and Guangdong, and exhibited the highest genetic similarity to pork-derived isolates. Phylogenetic analysis revealed clustering of CIA-resistant ARGs and plasmids in Clades 4 and 5, with a significant association between IncHI2/IncHI2A plasmids and CIA-resistant ARGs (χ2 = 112.12, P < 0.001). Additionally, class 1 integron was associated with higher ARG burdens, while virulence-associated genes were conserved and predominantly chromosome-associated. Gene-content analysis revealed that isolates in Clades 4 and 5 harbored the largest mean gene complements, and cgST52428 isolates also harbored the largest among dominant cgSTs. This study presents a comprehensive genomic profile of Salmonella 1,4,[5],12:i:- ST34 in Guizhou, providing essential data for exploring the resistance characteristics and investigating the molecular epidemiology of Salmonella 1,4,[5],12:i:-.",
+    "authors": [
+      "Ge Zhu",
+      "Lv You",
+      "Deyu Li",
+      "Junhua Wang",
+      "Shijun Li",
+      "Hui Liu",
+      "Xiaoyu Wei"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729313/",
+    "doi": "10.3389/fmicb.2025.1515576",
+    "journal": "Frontiers in microbiology",
+    "score": 0.3404,
+    "fetched_at": "2026-09-13"
+  },
+  {
     "id": "pubmed:42579946",
     "source": "pubmed",
     "title": "Design and preclinical evaluation of a multi-epitope circular RNA vaccine targeting the spike protein of canine coronavirus genotype II.",
@@ -3672,6 +3742,47 @@
     "fetched_at": "2026-08-29"
   },
   {
+    "id": "pubmed:42729130",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of",
+    "abstract": "East Coast fever (ECF), caused by Theileria parva, remains endemic in Malawi. ECF vaccines and chemical treatments are regarded as expensive by small-holder farmers. The aims of this study were to clarify the epidemiology of ECF and to evaluate the efficacy of ethnoveterinary medicine, Synadenium cupulare on T. parva infection. A cross-sectional study was conducted in three districts of northern Malawi (Chitipa, Karonga, and Mzimba). A structured questionnaire on feeding style, treatment of ECF, and tick control practices was administered to 79 farmers, and blood samples and animal information were collected from 550 cattle. PCR using p104 gene-specific assay was used to screen for T. parva, and positive samples were subjected to semi-nested PCR using Tp1 and Tp2 primers to characterize their genetic traits. Descriptive statistics were conducted. Global spatial clustering was tested using Moran's I. Univariable and multivariable statistical analyses were performed on farm- and animal-level factors associated with T. parva positivity. The overall farm- and animal-level prevalence was 78.5% (62/79 farms, 95% CI: 67.8-86.9%) and 28.4% (156/550 animals, 95% CI: 24.6-32.3%), respectively. Phylogenetic trees suggested 4 variants of Tp1 and 6 variants of Tp2 circulations among cattle populations in Malawi. Moran's I showed clustering of T. parva negative farms only in Karonga District (p < 0.001). Farm-level T. parva prevalence was significantly higher in the farms conducting extensive grazing (81.9%) than those not (42.9%, p = 0.035). At the animal level, the final multivariable generalized linear mixed-effects model included age and treatment types. For age, the odds of T. parva positivity were significantly lower in adults (odds ratio [OR] = 0.47, p = 0.003) compared with calves, but not for weaners (OR = 0.78, p = 0.316). Regarding treatment, the odds of T. parva positivity were significantly higher in untreated cattle with symptoms of ECF (OR = 2.38, p = 0.027) compared with asymptomatic cattle, but no significant increase was observed for those treated with oxytetracycline (OR = 0.99, p = 0.971) or S. cupulare (OR = 0.59, p = 0.133). Future ECF control should integrate traditional ethnoveterinary medicine for calves.",
+    "authors": [
+      "Gift Kingsley Kayira",
+      "Takahiro Ishizaki",
+      "Shingo Asakura",
+      "Ryota Matsuyama",
+      "Makoto Ukita",
+      "Kyoko Hayashida",
+      "Haruyuki Hirata",
+      "Kohei Makita"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729130/",
+    "doi": "10.1016/0304-4017(90)90059-k",
+    "journal": "Frontiers in microbiology",
+    "score": 0.3108,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42730322",
+    "source": "pubmed",
+    "title": "Genomic Characterization of Antimicrobial Resistance and Virulence in ST11 Carbapenem-Resistant",
+    "abstract": "This study aimed to elucidate the molecular epidemiology and virulence characteristics of ST11 carbapenem-resistant Klebsiella pneumoniae (CRKP) colonizing the intestinal tract of elderly inpatients in the Chongzhou region, providing a basis for controlling the transmission of such resistant bacteria in high-risk populations. CRKP strains isolated from the intestines of elderly inpatients in this region between January 2023 and June 2024 were collected. ST11 strains were identified via multilocus sequence typing (MLST). Whole-genome sequencing, antimicrobial susceptibility testing, and string test, serum killing, biofilm formation, capsular polysaccharide quantification were employed to characterize their resistance genes, virulence genes, and molecular typing profiles. Among 58 CRKP isolates, 17 (29.3%) were ST11. ST11-KL64 was the dominant clone (70.6%). All isolates carried the carbapenemase gene bla KPC-2 and exhibited extensive drug resistance, with tigecycline retaining the highest susceptibility (64.7%). The yersiniabactin system genes (ybtS, fyuA, entB) were universally present, whereas the aerobactin gene cluster (iucABCD-iutA) was detected in only 17.6% of isolates. The virulence regulator rmpA2 was incomplete in all carriers. The hypermucoviscosity phenotype was observed in 35.3% of isolates, which correlated with serum resistance in some strains. Biofilm formation was variable. The mortality rate among colonized patients was 35.3%. The ST11-KL64 clone is dominant among CRKP strains colonizing the intestinal tract of elderly patients in this region. This clone universally carries the bla KPC-2 gene conferring carbapenem resistance and exhibits a unique virulence gene profile characterized by a low carriage rate of classical hypervirulence markers and an incomplete rmpA2 regulator gene. This finding clarifies the local epidemic status of this clone and underscores the importance of implementing active surveillance and targeted prevention strategies for high-risk populations.",
+    "authors": [
+      "Jianmei Chen",
+      "Liping Liu",
+      "Yanhua Zhang",
+      "Dong Ling",
+      "Feng Wang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730322/",
+    "doi": "10.1007/s10123-023-00357-x",
+    "journal": "Infection and drug resistance",
+    "score": 0.3094,
+    "fetched_at": "2026-09-13"
+  },
+  {
     "id": "pubmed:42671493",
     "source": "pubmed",
     "title": "Predominance of M1",
@@ -3734,6 +3845,31 @@
     "doi": "10.3389/fmicb.2026.1882254",
     "score": 0.3053,
     "fetched_at": "2026-08-19"
+  },
+  {
+    "id": "pubmed:42729267",
+    "source": "pubmed",
+    "title": "Resistance gene mutations and phylogenetic relationships in",
+    "abstract": "Candidozyma auris is an emerging healthcare-associated fungal pathogen with a high propensity for nosocomial transmission and development of antifungal resistance. This study aimed to identify resistance-associated genomic variants and characterize the phylogenetic structure of clinical C. auris isolates circulating in Russia. We analyzed 82 isolates collected between 2017 and 2023 from 18 hospitals in the Northwestern and Central Federal Districts of the Russian Federation. Antifungal susceptibility testing was combined with whole-genome sequencing, targeted FCY2 sequencing, and comparative phylogenomic analysis using publicly available international genomes. All isolates analyzed in this study belonged to clade I and showed a highly conserved profile of elevated azole MICs. The consistent detection of ERG11 (K143R), TAC1B (A640V), and CDR1 (V704L) suggests that reduced azole susceptibility in this population is associated with both target-gene alteration and efflux-mediated mechanisms. All isolates remained susceptible to echinocandins in vitro, and no resistance-conferring mutations were detected in FKS1, consistent with the absence of an echinocandin-resistant phenotype. Decreased susceptibility to flucytosine was mainly associated with the FCY2 (L383*) nonsense mutation, which was confirmed by targeted Sanger sequencing in additional isolates. Phylogenomic reconstruction showed that the Russian isolates represented a restricted segment of global clade I diversity and revealed two major geographically structured lineages corresponding to two large metropolitan areas in European Russia. The distribution of closely related isolates across hospitals supports local persistence and inter-hospital dissemination of genetically related strains. These findings provide important insights into the molecular epidemiology, antifungal resistance mechanisms, and transmission dynamics of C. auris in Russia.",
+    "authors": [
+      "Ellina Grigorievna Oganesyan",
+      "Anna S Zhuk",
+      "K V Gusarova",
+      "S V Kovyrshin",
+      "E S Alekseevskaya",
+      "O E Orlova",
+      "S N Khostelidi",
+      "O P Kozlova",
+      "A V Liubimova",
+      "A E Taraskina",
+      "Natalia Vsevolodovna Vasilyeva"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729267/",
+    "doi": "10.1128/AAC.01624-21",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.3041,
+    "fetched_at": "2026-09-13"
   },
   {
     "id": "pubmed:42645644",
@@ -4314,123 +4450,5 @@
     "journal": "Tropical medicine and infectious disease",
     "score": 0.2642,
     "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42575612",
-    "source": "pubmed",
-    "title": "Lack of leishmania spp. detection in a molecular survey of high-risk domestic cats from the southcentral USA.",
-    "abstract": "Endemic transmission of cutaneous leishmaniasis, primarily caused by Leishmania (Leishmania) mexicana complex, has become increasingly recognized in the southcentral USA. Veterinary species could play a role in the epidemiology of L. (L.) mexicana in the USA, and feline cutaneous leishmaniasis caused by L. (L.) mexicana has been reported in Texas, overlapping in distribution with human incidence. The primary aim of this study was to evaluate high-risk cats from shelters in Texas and Oklahoma for infection with Leishmania spp. by qPCR. Tissue samples were opportunistically collected post-mortem from 213 domestic cats under shelter jurisdiction in Texas (n = 182) and Oklahoma (n = 31) between June and August 2025. Four tissue samples were collected from each cat including skin, spleen, mesenteric lymph node, and bone marrow. Demographic information including animal location, sex, age, breed, and the presence of cutaneous lesions were recorded to evaluate potential risk factors of infection. Genomic DNA was extracted from each tissue sample and screened for Leishmania spp. DNA by a probe-based qPCR targeting a conserved fragment of the 18S rRNA gene. The qPCR assay was validated for the detection of Leishmania DNA using a skin biopsy sample from a cat with naturally-acquired cutaneous leishmaniasis and originating from Quintana Roo State, Mexico. Assay validation confirmed the qPCR assay's ability to amplify L. mexicana DNA within feline tissue. The surveyed feline population from Texas and Oklahoma included 52.1% males and 47.9% females, with age group distribution of <3 months (45.5%), 3-6 months (8.5%), 6 months-1 year (7.0%), and > 1 year (39.0%). A small proportion of cats, 5.2%, had cutaneous lesions. Leishmania spp. DNA was not detected in tissue samples from any cat. In the absence of positive samples, further evaluation of risk factors was not performed. This study is the largest survey for Leishmania spp. infection in domestic cats in the southcentral USA, and the only survey to include cats from counties beyond El Paso, Texas, located along the Mexican border. Though Leishmania spp. was not detected in cats surveyed in this study, the role of cats in the epidemiology of cutaneous leishmaniasis in this region should not yet be discounted. Further studies including a larger population size, older animals, more sampling locations, or the addition of serological testing may strengthen our epidemiological understanding and help to overcome limitations of this study.",
-    "authors": [
-      "Rachel C Smith",
-      "Daniel F Barrantes Murillo",
-      "Samantha Hay-Parker",
-      "Kathryn Duncan",
-      "Lindsay A Starkey"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575612/",
-    "doi": "10.1016/j.vprsr.2026.101534",
-    "score": 0.2637,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42714832",
-    "source": "pubmed",
-    "title": "Macroevolutionary Rates of Species Interactions: Approximate Bayesian Inference from Cophylogenies.",
-    "abstract": "Understanding the macroevolutionary dynamics of species interactions such as parasitisms, commensalisms, and mutualisms is an important goal in evolutionary ecology. To this end, statistical inference from time-calibrated cophylogenies holds promising potential. However, such inference cannot yet quantify the rates of different types of speciation and extinction that occur in the host and symbiont clades on the same timeline. Here we present an Approximate Bayesian Computation (ABC) approach that infers rates of six types of speciation or extinction from a cophylogenetic system: (i) host speciation, (ii) symbiont speciation without host-switching, (iii) symbiont speciation with host-switching, (iv) cospeciation, (v) host extinction, and (vi) symbiont extinction. The ABC approach relies on a novel design of summary statistics based on the density curves of pairwise Branch Length Differences (BLenD) of the cophylogeny, which are informative about the relative relationships (ratios) between the six speciation/extinction rates in a single cophylogeny. Here we describe two levels of inference that differ in informativeness and data requirement: the first level infers speciation/extinction rates relative to the total net diversification rate of the cophylogeny without needing information on the time frame of the cophylogeny; the second level infers absolute speciation/extinction rates in units of events per lineage per million years using information on the time frame of the cophylogeny. When the target cophylogeny is sufficiently large, both levels of inference achieve clearly improved accuracy relative to the prior, and both are reasonably honest about uncertainty. Using a cophylogenetic dataset of Batesian mimicry of Pachyrhynchus by Doliops weevils, we show (1) that the first level of inference is sufficient to quantify the relative rates of different speciation/extinction processes within the target cophylogeny and (2) that the second level of inference allows potentially comparing speciation/extinction rates in the target cophylogeny to those in another cophylogeny (i.e., cross-cophylogeny comparisons). We discuss potential improvements for the use of the BLenD curves as summary statistics for simulation-based inference, including potential applications in machine learning approaches. Understanding speciation and extinction rate variation within and between cophylogenetic systems, enabled by this approach and an increasing availability of time-calibrated cophylogenies, has potential implications for various areas in ecology and evolution such as host conservatism, trait-driven diversification, and pathogen spillover risk.",
-    "authors": [
-      "Yichao Zeng",
-      "Cristian Román-Palacios"
-    ],
-    "date": "2026-Sep-09",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42714832/",
-    "doi": "10.1093/sysbio/syag070",
-    "journal": "Systematic biology",
-    "score": 0.2623,
-    "fetched_at": "2026-09-09"
-  },
-  {
-    "id": "pubmed:42595088",
-    "source": "pubmed",
-    "title": "Longitudinal Changes in Clonal Distribution and Fluoroquinolone Resistance of Ocular MRSA.",
-    "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) is a major cause of ocular infections, with evolving molecular epidemiology observed in systemic infections in Taiwan. However, longitudinal data on clonal distribution and antibiotic susceptibility in ocular MRSA isolates remain limited. Patients with culture-proven S. aureus ocular infection at Chang Gung Memorial Hospital between 2013 and 2022 were included. MRSA isolates were characterized by pulsed-field gel electrophoresis, multilocus sequence typing, and staphylococcal cassette chromosome mec typing, and Panton-Valentine leucocidin genes detection. Antibiotic susceptibility was examined using disk diffusion method and E-test. Temporal trends were analyzed using chi-square tests for trend. A total of 154 MRSA ocular isolates were identified. The predominant clone complex (CC) was CC59 (80/154, 52.0%), followed by CC8 (30/154, 19.5%) and CC45 (25/154, 16.2%). Over the decade, CC59 declined while CC8 increased significantly (P = 0.005 and P = 0.002, respectively), paralleling nationwide systemic MRSA trends. CC8 isolates were more frequently associated with eyelid disorders than CC59 (50.0% vs 28.8%; P = 0.045). CC59 isolates remained highly susceptible to fluoroquinolones (> 95%), while CC8 demonstrated marked resistance (≤ 11% susceptible; P < 0.0001). All isolates were susceptible to vancomycin and teicoplanin. Ocular MRSA infections in Taiwan demonstrate longitudinal changes in clonal distribution, characterized by declining CC59 and increasing CC8, and a concurrent increase in fluoroquinolone-resistant CC8. This evolution may compromise fluoroquinolone-based empirical therapy, a cornerstone of first-line treatment for ocular infections, and highlights the importance of continued molecular surveillance.",
-    "authors": [
-      "Ching-Hsi Hsiao",
-      "Eugene Yu-Chuan Kang",
-      "Ya-Tung Liu",
-      "Hung-Chi Chen",
-      "Lung-Kun Yeh",
-      "David H K Ma",
-      "Kuo-Hsuan Hung",
-      "Yhu-Chering Huang"
-    ],
-    "date": "2026-Aug-13",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595088/",
-    "doi": "10.1016/j.bj.2026.101033",
-    "score": 0.2586,
-    "fetched_at": "2026-08-14"
-  },
-  {
-    "id": "pubmed:42573160",
-    "source": "pubmed",
-    "title": "Antimicrobial resistance in Ecuador, 2000-2024: a systematic review within a One Health framework.",
-    "abstract": "Antimicrobial resistance (AMR) is a major global public health threat, particularly in low- and middle-income countries. In Ecuador, AMR research has expanded during the last two decades, but evidence remains fragmented and largely restricted to the human health sector. We systematically reviewed studies reporting laboratory-confirmed bacterial resistance in Ecuador between 2000 and 2024, including evidence from human, animal, food, and environmental sources. Eighty studies met the inclusion criteria. Most were hospital-based and conducted in urban areas, with limited evidence from rural, Amazonian, and insular regions. Gram-negative bacteria accounted for the greatest resistance burden, particularly Escherichia coli (56.6%), Klebsiella pneumoniae, Salmonella spp. (22.3%), the Acinetobacter baumannii complex, and Pseudomonas aeruginosa, together with resistant Staphylococcus aureus and Mycobacterium tuberculosis. Resistance to beta-lactams and fluoroquinolones predominated, whereas carbapenem resistance was especially notable among WHO priority pathogens. Evidence from animal, food, and environmental sectors was scarce and heterogeneous, and molecular characterization was inconsistently reported. These findings highlight important surveillance gaps beyond hospital settings and underscore the need for integrated multisectoral surveillance to strengthen public health policy, antimicrobial stewardship, and AMR prevention in Ecuador.",
-    "authors": [
-      "Carlos Bastidas-Caldes",
-      "Fernanda Hernández-Alomía",
-      "Francisco Bolaños",
-      "Emily Cisneros-Vásquez",
-      "Daniel Romero-Alvarez"
-    ],
-    "date": "2026-Aug-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573160/",
-    "doi": "10.1080/1040841X.2026.2709521",
-    "score": 0.2579,
-    "fetched_at": "2026-08-10"
-  },
-  {
-    "id": "pubmed:42609616",
-    "source": "pubmed",
-    "title": "Bacterial Carriage and Invasive Infections Among People Who Inject Drugs: Clinical and Molecular Epidemiology in an Australian Prospective Cohort.",
-    "abstract": "People who inject drugs are at increased risk of invasive bacterial infections. We aimed to determine the prevalence and molecular epidemiology of Staphylococcus aureus and Streptococcus pyogenes carriage in this population. We performed a cross-sectional survey of carriage among people who inject drugs in Melbourne, Australia. Participants provided a combined throat-anterior nares and an axillae swab for S. aureus and S. pyogenes culture. Univariable analysis identified factors associated with S. aureus and methicillin-resistant S. aureus (MRSA) carriage. Isolates underwent whole-genome sequencing (WGS) and were integrated in comparative genomic analysis with carriage and invasive disease isolates identified in 3 geotemporally linked studies of persons who both do and do not inject drugs. We enrolled 305 participants between June 2022 and March 2023. We identified carriage with S. aureus in 40% (122/305), MRSA in 3% (9/305), and S. pyogenes in 1% (3/305) of participants. Recent incarceration was associated with MRSA carriage (OR 6.05, 95% CI 1.55-25.20). Whole WGS analysis identified multiple unrelated sequence types (STs), but S. aureus ST12 and ST398 were overrepresented in carriage and invasive disease isolates from people who inject drugs. We identified multiple clonal groupings (ie, isolates whose core genomes differed by ≤25 single-nucleotide polymorphisms) among carriage and invasive isolates. S. aureus, but not S. pyogenes, carriage is common among people who inject drugs in Melbourne, with MRSA carriage associated with incarceration. While isolates from people who inject drugs in Melbourne were genetically diverse, the presence of clonal groupings and overrepresentation of specific lineages among people who inject drugs suggests that epidemiological dynamics may differ from those in the broader population.",
-    "authors": [
-      "Lucy O Attwood",
-      "Daniel O'Keefe",
-      "Jessica A Wisniewski",
-      "Nhu Q Doan",
-      "Bek Petrovic",
-      "Mariel Beiers",
-      "Olga Vujovic",
-      "Stephanie J Curtis",
-      "Peter Higgs",
-      "Jane Hawkey",
-      "Joseph S Doyle",
-      "Trisha N Peel",
-      "Anton Y Peleg",
-      "Paul Dietze",
-      "Andrew J Stewardson"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42609616/",
-    "doi": "10.1093/ofid/ofag480",
-    "score": 0.2576,
-    "fetched_at": "2026-08-18"
-  },
-  {
-    "id": "pubmed:42686647",
-    "source": "pubmed",
-    "title": "Structural Phylogenetics Identifies Conserved Effector Families and Cell Death-Inducing Proteins from",
-    "abstract": "Cercospora zeina causes gray leaf spot disease on maize in Africa. As a foliar fungal pathogen, C. zeina relies on effectors to facilitate successful infection and colonization of its host. Predicting effector function is therefore essential for understanding the molecular mechanisms underlying this plant-pathogen interaction. Although effector functions are typically predicted using sequence-based analyses, many effectors are subject to strong selection pressure and exhibit high sequence diversity, reducing the accuracy of such predictions. In this study, a structural phylogenetics approach was employed to identify effector structural families in C. zeina and to assign putative functions to C. zeina candidate secreted effector proteins based on their structural clustering with functionally characterized effectors from related phytopathogens. Twenty-two effector structural families were identified, several of which contained effectors shown to induce cell death in Nicotiana benthamiana. It was therefore hypothesized that C. zeina effectors belonging to these structural families would exhibit similar functions. Three families containing cell death-inducing effectors ZtCDI1, MgNLP, VdPEVD1with high structural similarity and low sequence identity to C. zeina effectors were selected for biological validation. Transient expression of C. zeina effectors from these families induced cell death in N. benthamiana. These C. zeina structural analogs were expressed in either the latent (CDI1-like) or necrotrophic (NLP-like, PevD1-like) phase of GLS disease in maize. This work shows that structural phylogenetics can be employed to predict effector function and identify structurally related, cell death-inducing effectors with divergent amino acid sequences in C. zeina.",
-    "authors": [
-      "Trystan Nadasen",
-      "Ingo Hein",
-      "Dave K Berger"
-    ],
-    "date": "2026-Sep-02",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42686647/",
-    "doi": "10.1094/MPMI-05-26-0048-R",
-    "journal": "Molecular plant-microbe interactions : MPMI",
-    "score": 0.2576,
-    "fetched_at": "2026-09-03"
   }
 ]

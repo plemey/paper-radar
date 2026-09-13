@@ -1,0 +1,201 @@
+[
+  {
+    "id": "pubmed:42731217",
+    "source": "pubmed",
+    "title": "Prevalence, genomic characterization, and biofilm-forming capacity of extended-spectrum β-lactamase-producing Escherichia coli from faecal samples of broiler chickens in Jinan City, China.",
+    "abstract": "The emergence of extended-spectrum β-lactamase (ESBL)-producing Escherichia coli in food animals threatens both veterinary and human medicine by compromising critically important antimicrobials. This study characterized the prevalence, antimicrobial resistance profiles, molecular epidemiology, and virulence attributes of ESBL-producing E. coli isolated from broiler farms in Jinan City, China. From 600 faecal samples, 537 E. coli isolates were recovered (89.5 % isolation rate), with 71 (13.2 %) identified as ESBL producers. Antimicrobial susceptibility testing revealed markedly more severe resistance among ESBL-producing isolates, with complete ampicillin resistance (100 %) and high-level resistance to sulfamethoxazole/trimethoprim (94.37 %), streptomycin (87.32 %), chloramphenicol (78.87 %), and tetracycline (70.42 %). Resistance to extended-spectrum cephalosporins cefuroxime and ceftriaxone reached 43.66 % and 36.62 %, respectively, while amoxicillin/clavulanic acid susceptibility declined to 61.97 %. Whole-genome sequencing identified blaCTX-M-55 (29.58 %) as the predominant ESBL genotype, followed by blaCTX-M-64 (23.94 %), blaCTX-M-15 (19.71 %), blaCTX-M-14 (12.68 %), and blaCTX-M-65 (9.86 %). The plasmid-mediated colistin resistance gene mcr-1 was detected in 25.35 % of ESBL-producing isolates, indicating a substantial reservoir of last-resort antibiotic resistance determinants, though physical linkage between mcr-1 and ESBL-encoding genes remains undetermined due to short-read sequencing limitations. Multilocus sequence typing revealed ST117 (18.3 %) as the predominant sequence type, associated mainly with serogroup O78 (25.4 %). Virulence gene profiling demonstrated high prevalence of the serum survival gene iss (85.9 %), commonly associated with avian pathogenic E. coli, though avian pathogenicity was not experimentally confirmed. Notably, 90.14 % of ESBL-producing isolates demonstrated biofilm-forming capacity, with 16.90 % classified as strong biofilm producers forming mature, mushroom-shaped microcolonies. These findings demonstrate that broiler chickens in the sampled Jinan farms constitute a significant reservoir of multidrug-resistant, biofilm-forming ESBL-producing E. coli harboring clinically relevant genotypes, including mcr-1. The predominance of ST117, reported in both poultry and human clinical settings, along with extensive co-resistance profiles, underscores the value of integrated surveillance and antimicrobial stewardship in poultry production, though direct zoonotic transmission evidence requires further comparative genomic and epidemiological investigation.",
+    "authors": [
+      "Yunchen Zhou",
+      "Rongkun Jing",
+      "Rong Xi",
+      "Ban Li",
+      "Zhiyong Wu",
+      "Dexian Zhang",
+      "Jichang Li"
+    ],
+    "date": "2026-Aug-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731217/",
+    "doi": "10.1016/j.psj.2026.107613",
+    "journal": "Poultry science",
+    "score": 0.2582,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42730613",
+    "source": "pubmed",
+    "title": "Endemic Circulation and Genetic Characterization of Foot-and-Mouth Disease Virus in Buffalo Populations of Bangladesh.",
+    "abstract": "Foot-and-mouth disease (FMD) virus (FMDV) is endemic in Bangladesh, causing severe economic losses in the livestock sector. While it primarily affects cattle, buffaloes (Bubalus bubalis) remain highly susceptible. Therefore, this study aimed to determine the prevalence and molecular characteristics of FMDV in buffaloes across three districts (Sylhet, Rajshahi, and Noakhali) of Bangladesh from January to June 2024. In a cross-sectional study, a total of 622 nasal swabs from 67 herds were collected and tested for FMDV RNA using reverse transcription polymerase chain reaction (RT-PCR). Overall, 255 samples were positive, resulting in an individual-level prevalence of 41.0%(255/622), while 88.1% (59/67) of herds were FMDV-positive. Animal-level prevalence was highest in Sylhet (47.1%), followed by Noakhali (38.9%) and Rajshahi (37.1%). To further characterize circulating strains, eight representative RT-PCR-positive samples were sequenced, revealing the co-circulation of serotypes O (n = 5) and Asia-1 (n = 3). Phylogenetic analysis showed that the isolates belonged to the ME-SA/Ind2001e lineage of the serotype O and the Asia-1 Group V lineage, clustering with contemporary strains from Bangladesh and neighboring countries, suggesting possible intra- and transboundary transmission. Pairwise genetic distance evaluation revealed high regional similarity, while Mantel tests indicated significant associations between genetic, geographic, and temporal distances. Comparative genomic analysis revealed largely conserved genomic regions, whereas VP1 analysis indicated that purifying selection predominated across both serotypes, with serotype O exhibiting greater genetic diversity (π = 0.11642) than Asia-1 (π = 0.05258), suggesting localized antigenic variability and possible immune-mediated viral evolution. These findings highlight the need for strengthened surveillance, improved biosecurity, and integrated vaccination strategies to enhance FMD control and reduce economic losses in Bangladesh.",
+    "authors": [
+      "Abdullah Mohammad Asif",
+      "Tajul Islam Mamun",
+      "Md Rokibul Hasan Shanto",
+      "Md Khademul Islam",
+      "Md Mashfiq Hossain Khadem",
+      "Uttama Acharjee",
+      "Md Shazzadul Kabir",
+      "Md Shakil Mahmud Supto",
+      "Asikur Rahman",
+      "Syed Muktadir Al Sium",
+      "Amam Zonaed Siddiki",
+      "Md Bashir Uddin",
+      "Syed Sayeem Uddin Ahmed"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730613/",
+    "doi": "10.1111/tbed.12834",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.4581,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42730544",
+    "source": "pubmed",
+    "title": "Emerging of",
+    "abstract": "The genus Providencia and Morganella are part of the World Health Organization (WHO) critical priority pathogens when carbapenem-resistant. This study characterized the molecular epidemiology of carbapenemase genes in 13 clinical isolates of carbapenem-resistant Providencia spp. and Morganella morganii from a Brazilian tertiary hospital. Following species confirmation by MALDI-TOF MS, one of the isolates was reclassified as M. morganii. PCR and amplicon sequencing screened for blaKPC, blaNDM, blaVIM, blaIMP, blaGES, and blaOXA-23, -24, -48-LIKE, -51, -58, -143. The blaNDM (11/13, 84.6%) and blaKPC (4/13, 30.8%) were the only carbapenemase genes detected. All isolates tested negative for blaVIM, blaIMP, blaGES, and OXA-type genes. blaNDM-5 was identified in one P. rettgeri and one M. morganii (first reports in Brazil). blaKPC-2/blaNDM-1co-occurrence was documented in two P. stuartii isolates. Clinical analysis of blaNDM-5carriers revealed severe outcomes: one patient self-discharged without targeted therapy, and another died following amputation, extensive antimicrobial exposure, and COVID-19 co-infection. The accumulation of co-expressed resistance mechanisms highlights Providencia spp. and M. morganii as emerging therapeutic challenges.",
+    "authors": [
+      "Lamartine Rodrigues Martins",
+      "Érica Maria de Oliveira",
+      "Maria Izabely Silva Pimentel",
+      "Igor Vasconcelos Rocha",
+      "Moacir Batista Jucá",
+      "Fernanda Gomes Beserra",
+      "Reginaldo Gonçalves de Lima Neto",
+      "Elizabeth Maria Bispo Beltrão",
+      "Ana Catarina de Souza Lopes"
+    ],
+    "date": "2026-Sep-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730544/",
+    "doi": "10.1177/10766294261487476",
+    "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+    "score": 0.2543,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42730322",
+    "source": "pubmed",
+    "title": "Genomic Characterization of Antimicrobial Resistance and Virulence in ST11 Carbapenem-Resistant",
+    "abstract": "This study aimed to elucidate the molecular epidemiology and virulence characteristics of ST11 carbapenem-resistant Klebsiella pneumoniae (CRKP) colonizing the intestinal tract of elderly inpatients in the Chongzhou region, providing a basis for controlling the transmission of such resistant bacteria in high-risk populations. CRKP strains isolated from the intestines of elderly inpatients in this region between January 2023 and June 2024 were collected. ST11 strains were identified via multilocus sequence typing (MLST). Whole-genome sequencing, antimicrobial susceptibility testing, and string test, serum killing, biofilm formation, capsular polysaccharide quantification were employed to characterize their resistance genes, virulence genes, and molecular typing profiles. Among 58 CRKP isolates, 17 (29.3%) were ST11. ST11-KL64 was the dominant clone (70.6%). All isolates carried the carbapenemase gene bla KPC-2 and exhibited extensive drug resistance, with tigecycline retaining the highest susceptibility (64.7%). The yersiniabactin system genes (ybtS, fyuA, entB) were universally present, whereas the aerobactin gene cluster (iucABCD-iutA) was detected in only 17.6% of isolates. The virulence regulator rmpA2 was incomplete in all carriers. The hypermucoviscosity phenotype was observed in 35.3% of isolates, which correlated with serum resistance in some strains. Biofilm formation was variable. The mortality rate among colonized patients was 35.3%. The ST11-KL64 clone is dominant among CRKP strains colonizing the intestinal tract of elderly patients in this region. This clone universally carries the bla KPC-2 gene conferring carbapenem resistance and exhibits a unique virulence gene profile characterized by a low carriage rate of classical hypervirulence markers and an incomplete rmpA2 regulator gene. This finding clarifies the local epidemic status of this clone and underscores the importance of implementing active surveillance and targeted prevention strategies for high-risk populations.",
+    "authors": [
+      "Jianmei Chen",
+      "Liping Liu",
+      "Yanhua Zhang",
+      "Dong Ling",
+      "Feng Wang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730322/",
+    "doi": "10.1007/s10123-023-00357-x",
+    "journal": "Infection and drug resistance",
+    "score": 0.3094,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42730292",
+    "source": "pubmed",
+    "title": "Agent-based model for simulating microbial movement with a preferred target for agricultural biologicals.",
+    "abstract": "Agricultural biologicals utilize beneficial microorganisms to enhance crop health and productivity, representing a rapidly growing sector of sustainable agriculture, offering environmentally friendly alternatives to synthetic chemicals. A key determinant of their efficacy is the ability of inoculated microbes to navigate through complex soil environments and reach plant roots, a process that is challenging to study empirically. To address this, we developed and validated a flexible Agent-Based Model (ABM) that simulates microbial spatial dynamics in soil. Each agent is characterized by unique attributes, including age, location, and parameters describing its behavior and interactions with the surroundings. Microbial behavior is governed by two core mechanisms: (1) logistic-based birth-death processes for population dynamics, and (2) directional preference for movement. Directional preference is driven by resource attraction toward plant root exudates, modeled with an attraction strength parameter (σ), and density-dependent interactions, modeled with a repulsion intensity parameter (γ). Validation used both in silico simulation and laboratory growth experiments. Simulations confirmed that the ABM reproduced theoretical population dynamic curves and realistic environmental responses. Lower σ values produced tight clustering around resources, while higher γ values resulted in avoidance of high density area. Laboratory experiments confirmed preferential fungal growth toward nutrient sources, with simulated results best matching observed growth patterns at σ values between 2.5 and 3.5. This ABM provides a computationally tractable framework for investigating microbial behavior in agricultural systems, with potential applications in screening and optimizing microbial candidates for agricultural biological products.",
+    "authors": [
+      "Shuai Yuan",
+      "Chien-En Liao",
+      "Chia-An Cho",
+      "Ko-Hsuan Chen",
+      "Steven H Wu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730292/",
+    "doi": "10.1128/aem.56.6.1875-1881.1990",
+    "journal": "PeerJ",
+    "score": 0.0249,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42729940",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and antimicrobial resistance of human",
+    "abstract": "Streptococcus suis (S. suis) is an important zoonotic pathogen and a common colonizer of the upper respiratory tract of pigs. Human infections have been reported in several regions of China, including Guangxi, but genomic and antimicrobial resistance data from this region remain limited. This study investigated the molecular epidemiology, antimicrobial susceptibility, and genomic characteristics of human S. suis isolates collected in Baise City, Guangxi, from 2015 to 2021. This retrospective study included 39 non-duplicate clinical isolates confirmed as S. suis by whole-genome analysis. Antimicrobial susceptibility testing was performed using a broth microdilution-based system and interpreted according to the Clinical and Laboratory Standards Institute guidelines. Serotypes were determined by agglutination using type-specific antisera. Whole-genome sequencing was used for species confirmation, multilocus sequence typing, detection of antimicrobial resistance and virulence-associated genes, and core-protein phylogenetic analysis. The median patient age was 55 years, and 36/39 (92.3%) patients were male. Meningitis was documented in 34/39 (87.2%) patients, and hearing impairment occurred in 21/39 (53.8%). Pig- or pork-related exposure was recorded in 15/39 (38.5%) patients. Resistance was highest to tetracycline (38/39, 97.4%), followed by erythromycin and clindamycin (26/39, 66.7% each). Four isolates (10.3%) showed intermediate susceptibility to penicillin, but none were resistant. All isolates remained susceptible to ampicillin, ceftriaxone, levofloxacin, linezolid, vancomycin, and meropenem. Serotype 2 predominated (32/39, 82.1%), followed by serotype 14 (7/39, 17.9%), while ST1 (29/39, 74.4%) and ST7 (7/39, 17.9%) were the two major sequence types. Resistance genes were mainly associated with tetracyclines, macrolides, lincosamides, and aminoglycosides. All ST1 isolates carried mrp and lacked tet(40), while all ST7 isolates showed the reverse pattern. Serotype 2 and ST1 predominated among the human S. suis isolates collected at this center. Resistance to tetracycline, erythromycin, and clindamycin was common, while susceptibility to the β-lactams tested was largely preserved. Differences in virulence- and resistance-associated gene profiles were also observed between the major lineages, indicating distinct genetic characteristics among the locally circulating isolates.",
+    "authors": [
+      "Xueli Yi",
+      "Bin Luo",
+      "Yuanyuan Dai",
+      "Ying Wei",
+      "Shimao Zhong",
+      "Ying Deng",
+      "Chunfang Wang",
+      "Yuanji Teng"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729940/",
+    "doi": "10.1128/aac.00629-12",
+    "journal": "Frontiers in public health",
+    "score": 0.4224,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42729313",
+    "source": "pubmed",
+    "title": "Genomic surveillance reveals escalating antimicrobial resistance and plasmid diversity in clinical",
+    "abstract": "Salmonella 1,4,[5],12:i:- ST34 has emerged as a significant public health issue due to its association with various antimicrobial resistance genes (ARGs) and transferable plasmids. However, its genomic characteristics and potential influence on public health in Guizhou have not been comprehensively assessed. From 2019 to 2023, a 5-year surveillance was conducted in nine cities (prefectures) of Guizhou Province. We integrated phenotypic and genomic analyses of 281 clinical Salmonella 1,4,[5],12:i:- ST34 isolates to investigate the prevalence of ARGs and plasmids and to analyze the molecular epidemiology and evolution. The isolates exhibited resistance to first-line antibiotics, with 22.4% for ciprofloxacin, 11.4% for azithromycin, 18.5% for ceftazidime, and 39.1% for cefotaxime. ARGs showed substantial agreement with phenotypes for tetracycline, macrolides, third-generation cephalosporins (3GCs), carbapenems, and colistin (80.8-100.0% consistency; Kappa: 0.50-1.00). Plasmid analysis identified IncQ1 (84.3%) and IncHI2/IncHI2A (26.3%) as the main replicons, with the variety of plasmid replicons increasing from 7 to 21 over the 5 years. ARGs associated with resistance to critically important antibiotics (CIAs) were frequently predicted to be located on plasmid-associated contigs, with significant associations observed between IncHI2/IncHI2A plasmids and ARGs conferring resistance to fluoroquinolones, macrolides, and cephalosporins (P < 0.05). Molecular typing divided 281 isolates into 37 cgSTs, with cgST52428 being the most common. Molecular epidemiological analysis revealed that Guizhou isolates primarily clustered together, sharing close genetic ties with those from Sichuan and Guangdong, and exhibited the highest genetic similarity to pork-derived isolates. Phylogenetic analysis revealed clustering of CIA-resistant ARGs and plasmids in Clades 4 and 5, with a significant association between IncHI2/IncHI2A plasmids and CIA-resistant ARGs (χ2 = 112.12, P < 0.001). Additionally, class 1 integron was associated with higher ARG burdens, while virulence-associated genes were conserved and predominantly chromosome-associated. Gene-content analysis revealed that isolates in Clades 4 and 5 harbored the largest mean gene complements, and cgST52428 isolates also harbored the largest among dominant cgSTs. This study presents a comprehensive genomic profile of Salmonella 1,4,[5],12:i:- ST34 in Guizhou, providing essential data for exploring the resistance characteristics and investigating the molecular epidemiology of Salmonella 1,4,[5],12:i:-.",
+    "authors": [
+      "Ge Zhu",
+      "Lv You",
+      "Deyu Li",
+      "Junhua Wang",
+      "Shijun Li",
+      "Hui Liu",
+      "Xiaoyu Wei"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729313/",
+    "doi": "10.3389/fmicb.2025.1515576",
+    "journal": "Frontiers in microbiology",
+    "score": 0.3404,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42729267",
+    "source": "pubmed",
+    "title": "Resistance gene mutations and phylogenetic relationships in",
+    "abstract": "Candidozyma auris is an emerging healthcare-associated fungal pathogen with a high propensity for nosocomial transmission and development of antifungal resistance. This study aimed to identify resistance-associated genomic variants and characterize the phylogenetic structure of clinical C. auris isolates circulating in Russia. We analyzed 82 isolates collected between 2017 and 2023 from 18 hospitals in the Northwestern and Central Federal Districts of the Russian Federation. Antifungal susceptibility testing was combined with whole-genome sequencing, targeted FCY2 sequencing, and comparative phylogenomic analysis using publicly available international genomes. All isolates analyzed in this study belonged to clade I and showed a highly conserved profile of elevated azole MICs. The consistent detection of ERG11 (K143R), TAC1B (A640V), and CDR1 (V704L) suggests that reduced azole susceptibility in this population is associated with both target-gene alteration and efflux-mediated mechanisms. All isolates remained susceptible to echinocandins in vitro, and no resistance-conferring mutations were detected in FKS1, consistent with the absence of an echinocandin-resistant phenotype. Decreased susceptibility to flucytosine was mainly associated with the FCY2 (L383*) nonsense mutation, which was confirmed by targeted Sanger sequencing in additional isolates. Phylogenomic reconstruction showed that the Russian isolates represented a restricted segment of global clade I diversity and revealed two major geographically structured lineages corresponding to two large metropolitan areas in European Russia. The distribution of closely related isolates across hospitals supports local persistence and inter-hospital dissemination of genetically related strains. These findings provide important insights into the molecular epidemiology, antifungal resistance mechanisms, and transmission dynamics of C. auris in Russia.",
+    "authors": [
+      "Ellina Grigorievna Oganesyan",
+      "Anna S Zhuk",
+      "K V Gusarova",
+      "S V Kovyrshin",
+      "E S Alekseevskaya",
+      "O E Orlova",
+      "S N Khostelidi",
+      "O P Kozlova",
+      "A V Liubimova",
+      "A E Taraskina",
+      "Natalia Vsevolodovna Vasilyeva"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729267/",
+    "doi": "10.1128/AAC.01624-21",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.3041,
+    "fetched_at": "2026-09-13"
+  },
+  {
+    "id": "pubmed:42729130",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of",
+    "abstract": "East Coast fever (ECF), caused by Theileria parva, remains endemic in Malawi. ECF vaccines and chemical treatments are regarded as expensive by small-holder farmers. The aims of this study were to clarify the epidemiology of ECF and to evaluate the efficacy of ethnoveterinary medicine, Synadenium cupulare on T. parva infection. A cross-sectional study was conducted in three districts of northern Malawi (Chitipa, Karonga, and Mzimba). A structured questionnaire on feeding style, treatment of ECF, and tick control practices was administered to 79 farmers, and blood samples and animal information were collected from 550 cattle. PCR using p104 gene-specific assay was used to screen for T. parva, and positive samples were subjected to semi-nested PCR using Tp1 and Tp2 primers to characterize their genetic traits. Descriptive statistics were conducted. Global spatial clustering was tested using Moran's I. Univariable and multivariable statistical analyses were performed on farm- and animal-level factors associated with T. parva positivity. The overall farm- and animal-level prevalence was 78.5% (62/79 farms, 95% CI: 67.8-86.9%) and 28.4% (156/550 animals, 95% CI: 24.6-32.3%), respectively. Phylogenetic trees suggested 4 variants of Tp1 and 6 variants of Tp2 circulations among cattle populations in Malawi. Moran's I showed clustering of T. parva negative farms only in Karonga District (p < 0.001). Farm-level T. parva prevalence was significantly higher in the farms conducting extensive grazing (81.9%) than those not (42.9%, p = 0.035). At the animal level, the final multivariable generalized linear mixed-effects model included age and treatment types. For age, the odds of T. parva positivity were significantly lower in adults (odds ratio [OR] = 0.47, p = 0.003) compared with calves, but not for weaners (OR = 0.78, p = 0.316). Regarding treatment, the odds of T. parva positivity were significantly higher in untreated cattle with symptoms of ECF (OR = 2.38, p = 0.027) compared with asymptomatic cattle, but no significant increase was observed for those treated with oxytetracycline (OR = 0.99, p = 0.971) or S. cupulare (OR = 0.59, p = 0.133). Future ECF control should integrate traditional ethnoveterinary medicine for calves.",
+    "authors": [
+      "Gift Kingsley Kayira",
+      "Takahiro Ishizaki",
+      "Shingo Asakura",
+      "Ryota Matsuyama",
+      "Makoto Ukita",
+      "Kyoko Hayashida",
+      "Haruyuki Hirata",
+      "Kohei Makita"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729130/",
+    "doi": "10.1016/0304-4017(90)90059-k",
+    "journal": "Frontiers in microbiology",
+    "score": 0.3108,
+    "fetched_at": "2026-09-13"
+  }
+]
