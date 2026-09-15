@@ -1,0 +1,153 @@
+[
+  {
+    "id": "pubmed:42735360",
+    "source": "pubmed",
+    "title": "Reducing haystacks to needles - ViralClust: A Nextflow pipeline to cluster viral sequences.",
+    "abstract": "The rapid accumulation of viral genome sequences presents major challenges for downstream analysis tools, including tools for multiple sequence alignments, phylogeny, and genome/alignment visualization, due to computational constraints and sampling biases caused by outbreak-driven over-representation. Selecting representative genomes through clustering offers a principled alternative to random subsampling, yet choosing appropriate clustering strategies remains non-trivial and context-dependent. Here, we present ViralClust, a modular Nextflow pipeline for bias-aware representative selection from large viral genome datasets. ViralClust integrates five distinct clustering algorithms (CD-HIT-EST, SUMACLUST, VSEARCH, MMSeqs2, and HDBSCAN) within a unified workflow, enabling direct comparison of clustering outcomes and flexible adaptation to diverse biological questions, considering a balanced phylogenetic distribution of the selected sequences. We evaluated ViralClust on six RNA and DNA virus datasets ranging from 632 to 156,586 sequences and spanning genome lengths from 890 to 197,185 nucleotides. Across all datasets, clustering reduced dataset size by ~95 % or more while preserving genetic diversity across species, genera, and families, and effectively mitigating biases introduced by outbreaks, partial genomes, and sequence orientation artifacts. By supporting whole-genome clustering and scalable representative selection, ViralClust enables efficient and reproducible downstream analyses that would otherwise be computationally infeasible. Rather than offering a prescriptive, guided analysis engine, our framework functions as a flexible comparative collection of complementary strategies, allowing users to empirically evaluate trade-offs and choose the ideal method tailored to their specific analytical endpoints.",
+    "authors": [
+      "Sandra Triebel",
+      "Kevin Lamkiewicz",
+      "Tom Eulenfeld",
+      "Manja Marz"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42735360/",
+    "doi": "10.1093/gigascience/giag090",
+    "journal": "GigaScience",
+    "score": 0.5306,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42734808",
+    "source": "pubmed",
+    "title": "Optimized Amplicon Strategy for Long-Read Sequencing of the Chikungunya Virus Genome.",
+    "abstract": "Chikungunya virus (CHIKV) is a positive-sense RNA alphavirus transmitted to humans primarily by Aedes aegypti and Aedes albopictus mosquitoes. Its global circulation and significant public health impact underscore the need to better understand the molecular mechanisms driving CHIKV pathogenesis and transmission. Although robust molecular biology methods exist for CHIKV genome sequencing, a major limitation for surveillance and research is the inability to determine whether two nucleotide variations co-occur within the same viral genome when they are separated beyond the span of typical short-read designs. Here, we describe an optimized approach for processing CHIKV RNA samples that generates large amplicons suitable for long-read nanopore sequencing. This protocol enables amplification of the complete CHIKV genome in only two or three amplicons and facilitates detection of co-occurring nucleotide variations across 4-7.5 kb within the same molecule, thereby simplifying sequencing workflows and improving resolution in studies of viral evolution.",
+    "authors": [
+      "Chenyang Wu",
+      "Sara Ann Thannickal",
+      "Tommaso Cabani",
+      "Maria Gabriela Noval"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734808/",
+    "doi": "10.1128/JVI.06449-11",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.49,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42734807",
+    "source": "pubmed",
+    "title": "Workflow for Long-Read Amplicon Sequencing of Chikungunya Virus Using Oxford Nanopore Technology.",
+    "abstract": "This protocol provides a comprehensive, step-by-step workflow for whole-genome sequencing of Chikungunya virus (CHIKV) using an amplicon-based strategy optimized for Oxford Nanopore Technologies (ONT) platforms. The procedure includes detailed instructions for sample handling, viral RNA extraction, quality control, cDNA synthesis, multiplex PCR amplification, library preparation, sequencing, and primary bioinformatic processing. The protocol is designed to maximize reproducibility across laboratories and is suitable for genomic surveillance applications, including outbreak investigation and molecular epidemiology, even when working with low-to-moderate viral loads.",
+    "authors": [
+      "Francesco Branda",
+      "Massimo Ciccozzi",
+      "Fabio Scarpa"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734807/",
+    "doi": "10.1093/gigascience/giab008",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.3854,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42734806",
+    "source": "pubmed",
+    "title": "Nanopore Sequencing for Chikungunya Virus: Principles and Application.",
+    "abstract": "Nanopore sequencing is transforming viral genomics through real-time, portable, long-read analysis of RNA and DNA. Unlike traditional short-read platforms, it detects nucleotide sequences by measuring ionic current changes as nucleic acids pass through nanoscale pores, enabling direct single-molecule sequencing and base modification detection. Its simplicity, flexibility, and capacity for ultra-long reads make it ideal for resolving complex genomic regions, structural variants, and full viral genomes. These advantages have accelerated its use in pathogen surveillance and outbreak response, especially in resource-limited settings. For chikungunya virus (CHIKV), nanopore sequencing allows rapid, culture-independent recovery of complete genomes from clinical and vector samples, enabling real-time tracking of viral diversity, evolution, and spread. Experiences from Ebola, Zika, and COVID-19 have demonstrated the power of portable sequencing, now applied to CHIKV monitoring. Advances in tools such as Guppy, Dorado, Minimap2, and Medaka enhance read quality, consensus accuracy, and downstream analyses. Despite challenges in basecalling and error correction, robust quality control pipelines ensure reliable results. Ongoing improvements in chemistry, flow cell design, and machine learning will further enhance fidelity and throughput, establishing nanopore sequencing as a cornerstone of CHIKV genomic surveillance and epidemic preparedness.",
+    "authors": [
+      "Talita Émile Ribeiro Adelino",
+      "Joilson Xavier",
+      "Vagner Fonseca",
+      "Marta Giovanetti"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734806/",
+    "doi": "10.1038/s41588-022-01033-y",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.4241,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42734805",
+    "source": "pubmed",
+    "title": "Global Genomic Surveillance.",
+    "abstract": "Global genomic surveillance has emerged as a foundational pillar of public health in the twenty-first century, enabling real-time tracking of pathogen evolution and informing outbreak response. This chapter examines the strategic architecture of global genomic surveillance, focusing on its application to arboviruses such as chikungunya virus (CHIKV). It explores the integration of genomic data with epidemiological, clinical, and environmental information within a One Health framework, while addressing critical challenges in governance, equity, and interoperability. The discussion covers the entire genomic surveillance workflow, from sample collection and sequencing to bioinformatic analysis and phylogenetic inference, and highlights the transformative role of artificial intelligence (AI) in predictive surveillance. By analyzing global initiatives, operational barriers, and emerging technologies, this chapter underscores the necessity of sustainable, equitable, and interoperable genomic systems to proactively address current and future infectious disease threats.",
+    "authors": [
+      "Francesco Branda",
+      "Massimo Ciccozzi",
+      "Fabio Scarpa"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734805/",
+    "doi": "10.3389/fphar.2024.1459408",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.5397,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42734168",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology, Genogroup Classification and Diversity of Infectious Bursal Disease Virus.",
+    "abstract": "Viral diseases are a major cause of economic losses in the poultry industry. Among these is infectious bursal disease (IBD), which poses a threat to global poultry production. The epidemiology of IBD is changing, while very virulent IBDV (vvIBDV) remains endemic and represents the dominant clinical threat in regions such as Africa and parts of South America, the regional transition towards novel variants (nVarIBDVs) and reassortants (A3B1) is particularly pronounced in Asian and European poultry production, respectively. This review synthesises global IBD epidemiological data reported up to December 2025 and analyses the evolution of molecular genogrouping and fitness. Ongoing IBDV evolution is accelerating, with Asia becoming the epicentre of nVarIBDV (genogroup A2d), which circumvents maternally derived antibodies (MDA) and classical vaccine protection. In Europe, the A3B1 reassortant has become the dominant field IBDV strain. The review highlights a nomenclature conflict regarding the A9 designation, which currently refers to both attenuated strain and pathogenic variant from Portugal. Considering the 9% divergence threshold, the attenuated IBDV strain should be returned to the A1 genogroup lineage \"b\" (A1b), while A9 denotes Portuguese variants. Furthermore, phylogenetic analysis reveals that the evolution of segment B (VP1) is independent of segment A (VP2), necessitating a bi-segmental approach. The rapid antigenic drift in VP2, combined with the crucial role of the conserved segment B and the RNA-dependent RNA polymerase (RdRp) in viral pathogenicity, necessitates a shift to a standardised dual-segment phylogenetic classification system (A#xB#y binomial nomenclature) for effective global surveillance.",
+    "authors": [
+      "Hayatuddeen Bako Aliyu",
+      "Abdullahi Abdullahi Raji",
+      "Jalila Abu",
+      "Tasiu Mallam Hamisu",
+      "Mohd Hair Bejo",
+      "Aini Ideris",
+      "Abdul Rahman Omar"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734168/",
+    "doi": "10.1080/03079457.2026.2733058",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.6063,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42733584",
+    "source": "pubmed",
+    "title": "Resurgence of large-scale influenza A (H1N1) outbreaks: Modeling the interplay of transmission, loss of immunity, and vaccination.",
+    "abstract": "Influenza is a highly transmissible respiratory virus that can cause devastating pandemics. The 2009 influenza pandemic, caused by a strain of A(H1N1) virus, resulted in millions of cases and hundreds of thousands of deaths worldwide. In the following years, many regions experienced waves driven by environmental conditions, waning immunity, and other factors. More dramatically, several locations saw unpredicted large resurgent outbreaks, yet the mechanisms behind these severe resurgences remain poorly understood. Despite an extensive literature of epidemic models aimed at explaining and predicting H1N1 dynamics, mathematical frameworks specifically designed to address why these large outbreaks recur years after an initial epidemic are still lacking. Here we address this gap by proposing a mechanistic model with time-varying rates of infection, loss of immunity, and vaccination. In particular, we explore two mathematical functions to model dynamic loss of immunity, capturing how viral evolution may reduce the duration of immune protection. Numerical simulations show that the model reproduces key features of H1N1 case data, and that delayed resurgence is associated with longer immunity periods and higher vaccine efficacy. We also fit the model to data from Brazil, Turkey, Iran, New Zealand, the United States, Colombia, South Africa, and Croatia, demonstrating its ability to capture resurgence patterns. Fitted infection rates exhibited a wide range of temporal profiles, from regular annual cycles to higher-frequency oscillations and gradual changes, suggesting that transmission is driven by factors beyond seasonal influences. The model also inferred dynamic loss-of-immunity rates, representing different effects of antigenic drift. To our knowledge, this is the first mechanistic modeling study specifically aimed at investigating large resurgent H1N1 epidemics across multiple locations. Our findings highlight the need for context-specific models and surveillance systems that account for the complex interplay among environmental drivers, population immunity, and viral mutation driving H1N1 dynamics.",
+    "authors": [
+      "Chanaka Kottegoda",
+      "Claudia T Codeço",
+      "Claudio J Struchiner",
+      "Lucas M Stolerman"
+    ],
+    "date": "2027-Mar-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733584/",
+    "doi": "10.1016/j.idm.2026.08.001",
+    "journal": "Infectious Disease Modelling",
+    "score": 0.565,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42733092",
+    "source": "pubmed",
+    "title": "Uncovering the genomic landscape of Mycobacterium bovis in Wales.",
+    "abstract": "Bovine tuberculosis (bTB), caused by the bacterium Mycobacterium bovis, is one of the most pressing animal health issues in Wales today. It negatively impacts cattle health, affects profitability and trade, and can decimate years of genetic improvement towards desirable production traits. It also imposes substantial financial, social, and psychological burdens on farming communities. Eradication of bTB requires an understanding of local transmission pathways to target effective disease-control interventions. In this study, we characterised the genomic diversity of M. bovis across Wales by analysing the genome sequence of 379 M. bovis isolates obtained from culture-positive animals in Wales in 2021. Analyses uncovered three prevalent clusters that are geographically distinct. A further three clusters containing fewer isolates were also geographically separated, two of which had particularly large SNP distances from most other Welsh isolates, suggesting independent introductions of M. bovis strains that are not endemic to Wales. Fine-scale and epidemiologically relevant genetic structuring was identified within the six main clusters, indicating region-specific evolution, which can drive local disease dynamics. Finally, SNPs were identified in coding genes that have the potential for important advantageous physiological consequences that may impact host-pathogen interactions and necessitate further investigation.",
+    "authors": [
+      "Amy J E Healey",
+      "Cate L Williams",
+      "Nicholas J Dimonaco",
+      "Terry Galloway",
+      "Richard J Ellis",
+      "Eleftheria Palkopoulou",
+      "James Strong",
+      "Amanda J Gibson",
+      "R Glyn Hewinson",
+      "Jessica C A Friedersdorff"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733092/",
+    "doi": "10.18637/jss.v021.i12",
+    "journal": "Scientific reports",
+    "score": 0.3843,
+    "fetched_at": "2026-09-15"
+  }
+]

@@ -546,6 +546,27 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42734168",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology, Genogroup Classification and Diversity of Infectious Bursal Disease Virus.",
+    "abstract": "Viral diseases are a major cause of economic losses in the poultry industry. Among these is infectious bursal disease (IBD), which poses a threat to global poultry production. The epidemiology of IBD is changing, while very virulent IBDV (vvIBDV) remains endemic and represents the dominant clinical threat in regions such as Africa and parts of South America, the regional transition towards novel variants (nVarIBDVs) and reassortants (A3B1) is particularly pronounced in Asian and European poultry production, respectively. This review synthesises global IBD epidemiological data reported up to December 2025 and analyses the evolution of molecular genogrouping and fitness. Ongoing IBDV evolution is accelerating, with Asia becoming the epicentre of nVarIBDV (genogroup A2d), which circumvents maternally derived antibodies (MDA) and classical vaccine protection. In Europe, the A3B1 reassortant has become the dominant field IBDV strain. The review highlights a nomenclature conflict regarding the A9 designation, which currently refers to both attenuated strain and pathogenic variant from Portugal. Considering the 9% divergence threshold, the attenuated IBDV strain should be returned to the A1 genogroup lineage \"b\" (A1b), while A9 denotes Portuguese variants. Furthermore, phylogenetic analysis reveals that the evolution of segment B (VP1) is independent of segment A (VP2), necessitating a bi-segmental approach. The rapid antigenic drift in VP2, combined with the crucial role of the conserved segment B and the RNA-dependent RNA polymerase (RdRp) in viral pathogenicity, necessitates a shift to a standardised dual-segment phylogenetic classification system (A#xB#y binomial nomenclature) for effective global surveillance.",
+    "authors": [
+      "Hayatuddeen Bako Aliyu",
+      "Abdullahi Abdullahi Raji",
+      "Jalila Abu",
+      "Tasiu Mallam Hamisu",
+      "Mohd Hair Bejo",
+      "Aini Ideris",
+      "Abdul Rahman Omar"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734168/",
+    "doi": "10.1080/03079457.2026.2733058",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.6063,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42656370",
     "source": "pubmed",
     "title": "Genotype turnover and global evolutionary dynamics of G gene duplication variants in human metapneumovirus: insights from prospective surveillance in Nantong, China, 2024-2025.",
@@ -799,6 +820,24 @@
     "fetched_at": "2026-09-01"
   },
   {
+    "id": "pubmed:42733584",
+    "source": "pubmed",
+    "title": "Resurgence of large-scale influenza A (H1N1) outbreaks: Modeling the interplay of transmission, loss of immunity, and vaccination.",
+    "abstract": "Influenza is a highly transmissible respiratory virus that can cause devastating pandemics. The 2009 influenza pandemic, caused by a strain of A(H1N1) virus, resulted in millions of cases and hundreds of thousands of deaths worldwide. In the following years, many regions experienced waves driven by environmental conditions, waning immunity, and other factors. More dramatically, several locations saw unpredicted large resurgent outbreaks, yet the mechanisms behind these severe resurgences remain poorly understood. Despite an extensive literature of epidemic models aimed at explaining and predicting H1N1 dynamics, mathematical frameworks specifically designed to address why these large outbreaks recur years after an initial epidemic are still lacking. Here we address this gap by proposing a mechanistic model with time-varying rates of infection, loss of immunity, and vaccination. In particular, we explore two mathematical functions to model dynamic loss of immunity, capturing how viral evolution may reduce the duration of immune protection. Numerical simulations show that the model reproduces key features of H1N1 case data, and that delayed resurgence is associated with longer immunity periods and higher vaccine efficacy. We also fit the model to data from Brazil, Turkey, Iran, New Zealand, the United States, Colombia, South Africa, and Croatia, demonstrating its ability to capture resurgence patterns. Fitted infection rates exhibited a wide range of temporal profiles, from regular annual cycles to higher-frequency oscillations and gradual changes, suggesting that transmission is driven by factors beyond seasonal influences. The model also inferred dynamic loss-of-immunity rates, representing different effects of antigenic drift. To our knowledge, this is the first mechanistic modeling study specifically aimed at investigating large resurgent H1N1 epidemics across multiple locations. Our findings highlight the need for context-specific models and surveillance systems that account for the complex interplay among environmental drivers, population immunity, and viral mutation driving H1N1 dynamics.",
+    "authors": [
+      "Chanaka Kottegoda",
+      "Claudia T Codeço",
+      "Claudio J Struchiner",
+      "Lucas M Stolerman"
+    ],
+    "date": "2027-Mar-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733584/",
+    "doi": "10.1016/j.idm.2026.08.001",
+    "journal": "Infectious Disease Modelling",
+    "score": 0.565,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42710746",
     "source": "pubmed",
     "title": "An enhanced Multisegment RT-PCR method for Influenza A Virus Sequencing: Improved Performance and Reduced Preparation Time Over Traditional Methods.",
@@ -982,6 +1021,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42734805",
+    "source": "pubmed",
+    "title": "Global Genomic Surveillance.",
+    "abstract": "Global genomic surveillance has emerged as a foundational pillar of public health in the twenty-first century, enabling real-time tracking of pathogen evolution and informing outbreak response. This chapter examines the strategic architecture of global genomic surveillance, focusing on its application to arboviruses such as chikungunya virus (CHIKV). It explores the integration of genomic data with epidemiological, clinical, and environmental information within a One Health framework, while addressing critical challenges in governance, equity, and interoperability. The discussion covers the entire genomic surveillance workflow, from sample collection and sequencing to bioinformatic analysis and phylogenetic inference, and highlights the transformative role of artificial intelligence (AI) in predictive surveillance. By analyzing global initiatives, operational barriers, and emerging technologies, this chapter underscores the necessity of sustainable, equitable, and interoperable genomic systems to proactively address current and future infectious disease threats.",
+    "authors": [
+      "Francesco Branda",
+      "Massimo Ciccozzi",
+      "Fabio Scarpa"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734805/",
+    "doi": "10.3389/fphar.2024.1459408",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.5397,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42646719",
     "source": "pubmed",
     "title": "The Vaccine-Field Strain Gap in Bovine Neonatal Diarrhea: Molecular Epidemiology of Rotavirus, Coronavirus, and Enterotoxigenic",
@@ -1041,6 +1097,24 @@
     "journal": "Microorganisms",
     "score": 0.5325,
     "fetched_at": "2026-08-28"
+  },
+  {
+    "id": "pubmed:42735360",
+    "source": "pubmed",
+    "title": "Reducing haystacks to needles - ViralClust: A Nextflow pipeline to cluster viral sequences.",
+    "abstract": "The rapid accumulation of viral genome sequences presents major challenges for downstream analysis tools, including tools for multiple sequence alignments, phylogeny, and genome/alignment visualization, due to computational constraints and sampling biases caused by outbreak-driven over-representation. Selecting representative genomes through clustering offers a principled alternative to random subsampling, yet choosing appropriate clustering strategies remains non-trivial and context-dependent. Here, we present ViralClust, a modular Nextflow pipeline for bias-aware representative selection from large viral genome datasets. ViralClust integrates five distinct clustering algorithms (CD-HIT-EST, SUMACLUST, VSEARCH, MMSeqs2, and HDBSCAN) within a unified workflow, enabling direct comparison of clustering outcomes and flexible adaptation to diverse biological questions, considering a balanced phylogenetic distribution of the selected sequences. We evaluated ViralClust on six RNA and DNA virus datasets ranging from 632 to 156,586 sequences and spanning genome lengths from 890 to 197,185 nucleotides. Across all datasets, clustering reduced dataset size by ~95 % or more while preserving genetic diversity across species, genera, and families, and effectively mitigating biases introduced by outbreaks, partial genomes, and sequence orientation artifacts. By supporting whole-genome clustering and scalable representative selection, ViralClust enables efficient and reproducible downstream analyses that would otherwise be computationally infeasible. Rather than offering a prescriptive, guided analysis engine, our framework functions as a flexible comparative collection of complementary strategies, allowing users to empirically evaluate trade-offs and choose the ideal method tailored to their specific analytical endpoints.",
+    "authors": [
+      "Sandra Triebel",
+      "Kevin Lamkiewicz",
+      "Tom Eulenfeld",
+      "Manja Marz"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42735360/",
+    "doi": "10.1093/gigascience/giag090",
+    "journal": "GigaScience",
+    "score": 0.5306,
+    "fetched_at": "2026-09-15"
   },
   {
     "id": "pubmed:42573239",
@@ -1466,6 +1540,24 @@
     "doi": "10.1016/j.ijmmb.2026.101246",
     "score": 0.49,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42734808",
+    "source": "pubmed",
+    "title": "Optimized Amplicon Strategy for Long-Read Sequencing of the Chikungunya Virus Genome.",
+    "abstract": "Chikungunya virus (CHIKV) is a positive-sense RNA alphavirus transmitted to humans primarily by Aedes aegypti and Aedes albopictus mosquitoes. Its global circulation and significant public health impact underscore the need to better understand the molecular mechanisms driving CHIKV pathogenesis and transmission. Although robust molecular biology methods exist for CHIKV genome sequencing, a major limitation for surveillance and research is the inability to determine whether two nucleotide variations co-occur within the same viral genome when they are separated beyond the span of typical short-read designs. Here, we describe an optimized approach for processing CHIKV RNA samples that generates large amplicons suitable for long-read nanopore sequencing. This protocol enables amplification of the complete CHIKV genome in only two or three amplicons and facilitates detection of co-occurring nucleotide variations across 4-7.5 kb within the same molecule, thereby simplifying sequencing workflows and improving resolution in studies of viral evolution.",
+    "authors": [
+      "Chenyang Wu",
+      "Sara Ann Thannickal",
+      "Tommaso Cabani",
+      "Maria Gabriela Noval"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734808/",
+    "doi": "10.1128/JVI.06449-11",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.49,
+    "fetched_at": "2026-09-15"
   },
   {
     "id": "pubmed:42593170",
@@ -2324,6 +2416,24 @@
     "fetched_at": "2026-09-09"
   },
   {
+    "id": "pubmed:42734806",
+    "source": "pubmed",
+    "title": "Nanopore Sequencing for Chikungunya Virus: Principles and Application.",
+    "abstract": "Nanopore sequencing is transforming viral genomics through real-time, portable, long-read analysis of RNA and DNA. Unlike traditional short-read platforms, it detects nucleotide sequences by measuring ionic current changes as nucleic acids pass through nanoscale pores, enabling direct single-molecule sequencing and base modification detection. Its simplicity, flexibility, and capacity for ultra-long reads make it ideal for resolving complex genomic regions, structural variants, and full viral genomes. These advantages have accelerated its use in pathogen surveillance and outbreak response, especially in resource-limited settings. For chikungunya virus (CHIKV), nanopore sequencing allows rapid, culture-independent recovery of complete genomes from clinical and vector samples, enabling real-time tracking of viral diversity, evolution, and spread. Experiences from Ebola, Zika, and COVID-19 have demonstrated the power of portable sequencing, now applied to CHIKV monitoring. Advances in tools such as Guppy, Dorado, Minimap2, and Medaka enhance read quality, consensus accuracy, and downstream analyses. Despite challenges in basecalling and error correction, robust quality control pipelines ensure reliable results. Ongoing improvements in chemistry, flow cell design, and machine learning will further enhance fidelity and throughput, establishing nanopore sequencing as a cornerstone of CHIKV genomic surveillance and epidemic preparedness.",
+    "authors": [
+      "Talita Émile Ribeiro Adelino",
+      "Joilson Xavier",
+      "Vagner Fonseca",
+      "Marta Giovanetti"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734806/",
+    "doi": "10.1038/s41588-022-01033-y",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.4241,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42654988",
     "source": "pubmed",
     "title": "Molecular Epidemiology and Genetic Characterization of Feline Panleukopenia Virus among Clinically Suspected Domestic Cats in Tamil Nadu, India.",
@@ -2789,6 +2899,47 @@
     "journal": "Transboundary and emerging diseases",
     "score": 0.3947,
     "fetched_at": "2026-09-01"
+  },
+  {
+    "id": "pubmed:42734807",
+    "source": "pubmed",
+    "title": "Workflow for Long-Read Amplicon Sequencing of Chikungunya Virus Using Oxford Nanopore Technology.",
+    "abstract": "This protocol provides a comprehensive, step-by-step workflow for whole-genome sequencing of Chikungunya virus (CHIKV) using an amplicon-based strategy optimized for Oxford Nanopore Technologies (ONT) platforms. The procedure includes detailed instructions for sample handling, viral RNA extraction, quality control, cDNA synthesis, multiplex PCR amplification, library preparation, sequencing, and primary bioinformatic processing. The protocol is designed to maximize reproducibility across laboratories and is suitable for genomic surveillance applications, including outbreak investigation and molecular epidemiology, even when working with low-to-moderate viral loads.",
+    "authors": [
+      "Francesco Branda",
+      "Massimo Ciccozzi",
+      "Fabio Scarpa"
+    ],
+    "date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734807/",
+    "doi": "10.1093/gigascience/giab008",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "score": 0.3854,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42733092",
+    "source": "pubmed",
+    "title": "Uncovering the genomic landscape of Mycobacterium bovis in Wales.",
+    "abstract": "Bovine tuberculosis (bTB), caused by the bacterium Mycobacterium bovis, is one of the most pressing animal health issues in Wales today. It negatively impacts cattle health, affects profitability and trade, and can decimate years of genetic improvement towards desirable production traits. It also imposes substantial financial, social, and psychological burdens on farming communities. Eradication of bTB requires an understanding of local transmission pathways to target effective disease-control interventions. In this study, we characterised the genomic diversity of M. bovis across Wales by analysing the genome sequence of 379 M. bovis isolates obtained from culture-positive animals in Wales in 2021. Analyses uncovered three prevalent clusters that are geographically distinct. A further three clusters containing fewer isolates were also geographically separated, two of which had particularly large SNP distances from most other Welsh isolates, suggesting independent introductions of M. bovis strains that are not endemic to Wales. Fine-scale and epidemiologically relevant genetic structuring was identified within the six main clusters, indicating region-specific evolution, which can drive local disease dynamics. Finally, SNPs were identified in coding genes that have the potential for important advantageous physiological consequences that may impact host-pathogen interactions and necessitate further investigation.",
+    "authors": [
+      "Amy J E Healey",
+      "Cate L Williams",
+      "Nicholas J Dimonaco",
+      "Terry Galloway",
+      "Richard J Ellis",
+      "Eleftheria Palkopoulou",
+      "James Strong",
+      "Amanda J Gibson",
+      "R Glyn Hewinson",
+      "Jessica C A Friedersdorff"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733092/",
+    "doi": "10.18637/jss.v021.i12",
+    "journal": "Scientific reports",
+    "score": 0.3843,
+    "fetched_at": "2026-09-15"
   },
   {
     "id": "pubmed:42560576",
@@ -4284,171 +4435,5 @@
     "doi": "10.1016/j.onehlt.2026.101535",
     "score": 0.2807,
     "fetched_at": "2026-08-15"
-  },
-  {
-    "id": "pubmed:42717565",
-    "source": "pubmed",
-    "title": "Resolving the \"Yucca queretaroensis problem\": Phylogenomic analysis of Yucca reveals the identity of an enigmatic species and the origin of an obligate pollination mutualism.",
-    "abstract": "The genus Yucca is a group of ~50 species of woody monocots endemic to the North American arid regions. Their obligate pollination mutualism with yucca moths is considered a \"textbook example\" of coevolution and is hypothesized to have promoted rapid diversification. However, testing this hypothesis has been difficult due to uncertainty about the placement of a rogue taxon, Yucca queretaroensis, a rare endemic of the Sierra Gorda region of central Mexico. Past work placed this species in different positions within the Agavoideae, producing starkly different age estimates for Yucca (25 to 4 million years). We generated new sequence capture data for 353 nuclear genes and for all coding regions of the plastid genome from wild-collected plants and samples included in previous studies to provide a new phylogeny and new age estimate for Yucca. The data presented here suggest that Y. queretaroensis is closely related to other species of Yucca. A relaxed molecular clock analysis of the plastid genome produced an estimated age for the genus of approximately 6.8 million years. The results resolve a mystery that has bedeviled evolutionary biologists for decades and provide a surprisingly young estimate for the age of Yucca, suggesting rapid diversification. The past difficulties in identifying the correct placement of Y. queretaroensis appear to be the product of laboratory errors, mistakes in field identification, and frequent hybridization with co-distributed taxa. The \"Yucca queretaroensis problem\" reaffirms the essential role for traditional botanical tools in phylogenomics.",
-    "authors": [
-      "Christopher Irwin Smith",
-      "Erika Aguirre Planter",
-      "Marian Angeles-Cruz",
-      "Ramona Flatz",
-      "Abisaí García-Mendoza",
-      "Jaime Gasca-Pineda",
-      "Emma Fabiola Magallán-Hernández",
-      "Guillermo Sánchez-de la Vega",
-      "Emelia Sherman",
-      "Cécile Truchot Taillefer",
-      "Luis E Eguiarte"
-    ],
-    "date": "2026-Sep-09",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717565/",
-    "doi": "10.1002/ajb2.70259",
-    "journal": "American journal of botany",
-    "score": 0.2802,
-    "fetched_at": "2026-09-10"
-  },
-  {
-    "id": "pubmed:42652017",
-    "source": "pubmed",
-    "title": "Geographical Distribution and Molecular Characterization of",
-    "abstract": "Canine dirofilariosis caused by Dirofilaria immitis and Dirofilaria repens is a vector-borne zoonotic infection of considerable veterinary and public health importance. Despite reports of the circulation of Dirofilaria spp. in neighboring countries, data on the molecular prevalence, species composition, and genetic diversity of these parasites in dogs from Kazakhstan remain limited. In the present study, owned, shelter, and stray dogs, which serve as the principal reservoirs of infection, were examined for the presence of microfilariae in blood, and the circulation of Dirofilaria spp. was molecularly confirmed. The study was conducted between September 2024 and January 2026 and included 751 canine blood samples collected from 10 regions of Kazakhstan. Initial screening was performed using the modified Knott test. Molecular identification was carried out through amplification of the mitochondrial cox1 gene, followed by DNA sequencing and comparative analysis with reference sequences available in GenBank. Phylogenetic analysis was performed to assess the genetic relationships of the detected isolates. The overall molecular prevalence of Dirofilaria spp. was 3.6% (27/751). The highest infection rate was recorded in the Aktobe region (22.3%), while positive cases were also detected in the Akmola (2.7%), Kostanay (1.7%), and West Kazakhstan (1.8%) regions. Species identification revealed the predominance of D. repens, whereas D. immitis was detected only in Aktobe region. Phylogenetic analysis confirmed the species identity of all obtained sequences and demonstrated a high degree of genetic similarity with Dirofilaria isolates previously reported from Europe and Asia. These findings confirm the circulation of Dirofilaria spp. among dogs in several regions of Kazakhstan and indicate the ongoing expansion of canine dirofilariosis in Central Asia. This study provides the first molecular genetic data on Dirofilaria spp. in dogs from Kazakhstan and highlights the need for continued epidemiological surveillance and assessment of potential risks to animal and human health.",
-    "authors": [
-      "Tanzilya Almysheva",
-      "Rabiga Uakhit",
-      "Ainura Smagulova",
-      "Zhibek Sembaeva",
-      "Lyudmila Lider",
-      "Bekzhassar Sidikhov",
-      "Carlos Hermosilla",
-      "Marat Dusmagambetov",
-      "Vladimir Kiyan"
-    ],
-    "date": "2026-Aug-20",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42652017/",
-    "doi": "10.3390/ani16162612",
-    "journal": "Animals : an open access journal from MDPI",
-    "score": 0.2793,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42655789",
-    "source": "pubmed",
-    "title": "Diversity and Occurrence of Tick-Borne Pathogens in Small Ruminants and Their Ticks in Sardinia: Implications for Animal Health and Zoonotic Risk.",
-    "abstract": "Tick-borne diseases are an increasing concern in Mediterranean livestock systems, where environmental conditions and extensive grazing favour interactions among hosts, vectors, and pathogens. This study investigated the occurrence and diversity of tick-borne pathogens in small ruminants and their associated ticks in Sardinia (Italy), with the aim of characterizing the occurrence and diversity of tick-borne pathogens in small ruminants and their associated ticks in Sardinia. A cross-sectional survey was conducted on 17 farms in central-eastern Sardinia. Blood samples from 75 animals (57 goats and 18 sheep) and 364 ticks collected from infested hosts were analyzed. Ticks were morphologically identified, and both ticks and blood samples were screened for major bacterial and protozoan pathogens using rt-PCR and conventional PCR assays, followed by sequencing. Among examined hosts, Anaplasma spp. DNA was detected in 28% of goats and 39% of sheep, whereas Theileria ovis was identified in 4% of goats and 78% of sheep. No animals tested positive for Rickettsia spp. or Coxiella spp. Tick analysis revealed a predominance of Rhipicephalus sanguineus and Rhipicephalus bursa, with several tick-borne microorganisms detected, including Rickettsia spp. (26.6%), Coxiella spp. (22.5%), Anaplasma spp. (17.6%), and piroplasms (11.8%). Most Coxiella-positive ticks carried DNA of the Coxiella-like endosymbiont Candidatus Coxiella mudrowiae, while only one tick was positive for Coxiella burnetii. Sequencing confirmed the presence of zoonotic species such as Rickettsia massiliae, Rickettsia sibirica/barbarica group, and Rickettsia hoogstraalii. These findings reveal a complex epidemiological scenario characterized by frequent detection of tick-borne microorganisms in ticks but limited detection in hosts. The presence of zoonotic agents highlights potential public health risks and supports the need for integrated surveillance and control strategies in Mediterranean pastoral systems.",
-    "authors": [
-      "Valentina Chisu",
-      "Rosanna Zobba",
-      "Laura Giua",
-      "Cipriano Foxi",
-      "Piera Bianco",
-      "Giovanna Chessa",
-      "Giovanna Masala",
-      "Alberto Alberti",
-      "Pierangela Cabras"
-    ],
-    "date": "2026-Jul-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655789/",
-    "doi": "10.3390/vetsci13080769",
-    "journal": "Veterinary sciences",
-    "score": 0.2684,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42568522",
-    "source": "pubmed",
-    "title": "Whole-genome sequencing and molecular analysis of carbapenem-resistant",
-    "abstract": "Carbapenem-resistant (CR)-Enterobacterales are a serious threat to public health worldwide. However, there are limited surveillance data on the molecular epidemiology of CR-Escherichia coli. To address this need, the European Centre for Disease Prevention and Control (ECDC) investigated the molecular epidemiology of CR-E. coli in the carbapenem- and/or colistin-resistant Enterobacterales (CCRE) survey launched in 2019, involving 37 European countries, including Italy. In 2019, 46 acute-care hospitals in Italy were enrolled to collect the first 10 non-duplicated consecutive isolates of carbapenem non-susceptible Klebsiella pneumoniae specie complex or E. coli isolates and 10 carbapenem-susceptible comparator isolates of the same species. Each isolate was subjected to antibiotic susceptibility testing. WGS analysis was performed using Illumina technology to determine the ST and to detect resistance genes, virulence factors, and plasmid content. A total of 61 E. coli isolates were collected from 17 hospitals: 17 CR-E. coli isolates (from urine, 41.2%, and blood, 23.5%) and 44 carbapenem-susceptible (CS)-isolates (from blood, 43.2%, and urine, 38.6%). All the CR-E. coli isolates were resistant to amoxicillin/clavulanic acid, cefepime, ceftazidime and piperacillin/tazobactam; three were resistant to ceftazidime/avibactam and all were susceptible to amikacin and tigecycline. MLST analysis showed the presence of unrelated lineages: CR-E. coli isolates belonged to 8 different STs, with ST131 predominant (58.8%). All the CR-E. coli isolates carried one carbapenemase: KPC-3 (10 isolates), KPC-2 (three), NDM-5 (two), VIM-1 and OXA-181 (one each). Among CS-E. coli isolates, the highest resistance rates were observed for amoxicillin/clavulanic acid (36.4%) followed by ciprofloxacin, and trimethoprim/sulfamethoxazole, and ST131, carrying CTX-M-15, was the predominant clone. CR-E. coli clones from infection showed a heterogeneous genetic background, ST131 being the most frequent. KPC was the most common carbapenemase but the presence of E. coli isolates carrying NDM-5 is worrisome, as it results in resistance to several novel beta-lactam-beta-lactamase combinations. Our study underlines the importance of genomic surveillance to monitor and prevent the spread of high-risk clones causing difficult-to-treat infections.",
-    "authors": [
-      "Maria Giufrè",
-      "Giulia Errico",
-      "Maria Del Grosso",
-      "Sara Giancristofaro",
-      "Michela Pagnotta",
-      "Fabio D'Ambrosio",
-      "Simone Iacchini",
-      "Sophia David",
-      "Alma Brolund",
-      "Anke Kohlenberg",
-      "Annalisa Pantosti",
-      "Monica Monaco"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568522/",
-    "doi": "10.1128/CMR.00115-20",
-    "score": 0.2659,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42562952",
-    "source": "pubmed",
-    "title": "Reimagining antimicrobial resistance: AI-driven predictive epidemiology and the C-AMRE framework for next-generation antibiotic discovery.",
-    "abstract": "Antimicrobial Resistance (AMR) has evolved from a clinically observed phenomenon into a complex, dynamic, and partially predictable evolutionary process. Traditional approaches centered on phenotypic detection and retrospective surveillance are increasingly inadequate to address the accelerating pace of resistance emergence. This review presents a paradigm shift toward predictive antimicrobial science, driven by the convergence of Evolutionary Intelligence (EI), Artificial Intelligence (AI), genomic surveillance, molecular simulation, and digital twin technologies. Leveraging whole-genome sequencing (WGS) and resistome analytics, AI models can identify latent resistance determinants and forecast evolutionary trajectories before clinical manifestation, enabling a transition from reactive to anticipatory intervention strategies. Central to this transformation is the concept of the Computational Antimicrobial Resistance Ecosystem (C-AMRE), an integrated, multi-layered framework that unifies data acquisition, predictive modeling, mechanistic simulation, and clinical feedback into a continuous learning system. Within this ecosystem, molecular simulations provide mechanistic insights into resistance at atomic and systems levels, while AI-driven pharmacology enables the design of novel antibiotics, antimicrobial peptides, and Nano-Adjuvants through generative and optimization-based approaches. The incorporation of digital twins further advances precision medicine by simulating patient-specific infection dynamics, pharmacokinetics/pharmacodynamics (PK-PD), and resistance evolution in real time, thereby enabling adaptive and personalized therapeutic strategies. Across micro-, meso-, and macro-scales, these technologies collectively redefine AMR as a systems-level phenomenon that can be modeled, predicted, and strategically managed. However, challenges related to data integration, model interpretability, validation, ethical governance, and global accessibility remain critical barriers to implementation. Despite these limitations, the integration of AI and computational frameworks positions antimicrobial research at the forefront of a new era, where antibiotics are no longer static interventions but adaptive components of intelligent, continuously evolving systems. This review highlights the transition from detection to prediction and ultimately to adaptive intervention, emphasizing the role of computational ecosystems in shaping the future of sustainable antimicrobial therapy.",
-    "authors": [
-      "Ashutosh Patil",
-      "Mangesh Jadhav",
-      "Ujban Hussain",
-      "Rajendra Kakde"
-    ],
-    "date": "2026-Aug-06",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42562952/",
-    "doi": "10.1016/S0140-6736(24)00876-6",
-    "score": 0.2651,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42559249",
-    "source": "pubmed",
-    "title": "Efflux pump overexpression in fluoroquinolone multidrug resistance: molecular mechanisms, PK/PD implications, global epidemiology, and translational strategies.",
-    "abstract": "Fluoroquinolones are a cornerstone of human antibacterial chemotherapy because they combine broad-spectrum bactericidal activity, high oral bioavailability, and excellent tissue penetration. However, their clinical utility is being eroded by the global spread of multidrug-resistant (MDR) pathogens. While quinolone resistance-determining region (QRDR) mutations in DNA gyrase and topoisomerase IV remain the primary determinants of high-level resistance, mounting evidence implicates active efflux pump overexpression as an important exposure-modifying mechanism. This mechanism can amplify multidrug resistance. This review provides a pharmacology-centered synthesis of fluoroquinolone mechanism of action, pharmacokinetic/pharmacodynamic (PK/PD) indices, and the mutant selection window (MSW) framework, and integrates these concepts with the structural and regulatory biology of efflux systems in major human ESKAPE pathogens. We highlight how resistance-nodulation-division (RND) pumps in Gram-negative bacteria (e.g., AcrAB-TolC, Mex-family systems) and major facilitator superfamily (MFS) pumps in Gram-positive cocci (e.g., NorA/NorB/NorC) lower intracellular drug exposure, widen the MSW, and promote stepwise acquisition of QRDR mutations and plasmid-mediated quinolone resistance. Using recent WHO GLASS data and health-economic analyses, we summarize global resistance trends and discuss the broader healthcare and macroeconomic burden associated with MDR bacterial infections. Finally, we discuss translational strategies to mitigate efflux-mediated resistance, including the preclinical pipeline of efflux pump inhibitors (EPIs), PK/PD-informed high-exposure dosing regimens, and One Health-aligned antimicrobial stewardship interventions. By linking molecular mechanism, PK/PD, epidemiology, and health economics, this review aims to inform rational dosing, drug development, and policy decisions needed to preserve the efficacy of this vital antimicrobial class.",
-    "authors": [
-      "Ahmad H Alhowail",
-      "Yasser S Almogbel"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559249/",
-    "doi": "10.1016/j.bmc.2007.07.039",
-    "score": 0.2646,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42677149",
-    "source": "pubmed",
-    "title": "An almost fully resolved phylogeny for the Dutch Angiosperm Flora.",
-    "abstract": "For several regions, ecologists and taxonomists have assembled information on phenotypes for almost all species of the megadiverse angiosperms. However, testing hypotheses on regional evolutionary and biogeographic history requires highly resolved and dated phylogenies covering the same taxa, which are often lacking at regional scales. Here, we filled this knowledge gap for one of the best-studied regional floras: the native angiosperms of the Netherlands. We provide a molecular phylogenetic dataset and two time-calibrated trees (based on BEAST and MrBayes approaches) of the native angiosperm flora of the Netherlands, reconstructed from publicly available DNA sequences. The resulting phylogenies include 1178 species from the 2017 species list on SynBioSys NL, a national database that provides a curated checklist of native vascular plant species occurring in the Netherlands (also core to the flora of adjacent countries), and are provided in multiple formats (Newick, Nexus), along with alignments, BEAST and MrBayes input files, and metadata linking taxa to GenBank accession numbers. This dataset offers a phylogenetic framework that is based on molecular data covering more than 95% of the native species included in the checklist, reproducible and extremely well-resolved phylogeny (99.92% of nodes resolved in the maximum clade credibility tree; reflecting the absence of polytomies; 67.9% of nodes with posterior probability above 0.95 and 92.3% above 0.50) for researchers. These data will permit the signal of evolutionary history in patterns of biodiversity across the Netherlands, such as the age structure of habitat species pools or functional groups, where a focus on native species is essential. All resources are openly available via IDiv (https://doi.org/10.25829/idiv.3600-myr3t3) under a CC-BY license.",
-    "authors": [
-      "Thomas Leclère",
-      "Andreas Prinzing",
-      "Pille Gerhold",
-      "Igor Bartish"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42677149/",
-    "doi": "10.1016/j.pld.2022.09.001",
-    "journal": "Biodiversity data journal",
-    "score": 0.2646,
-    "fetched_at": "2026-09-01"
-  },
-  {
-    "id": "pubmed:42646804",
-    "source": "pubmed",
-    "title": "Molecular Epidemiology and Genotyping of",
-    "abstract": "Blastocystis sp. is an anaerobic intestinal protozoan with extensive genetic diversity and controversial pathogenicity. The distribution and molecular subtypes of this entity in Guilan province, northern Iran, remain under-investigated. This study aimed to determine the prevalence and molecular subtypes of Blastocystis sp. in Rasht, Guilan Province, Iran. In this cross-sectional study (2023-2024), 300 stool samples were collected from patients referred to the medical laboratory at Razi Hospital. Microscopic examination and PCR amplification targeting the SSU rDNA gene were performed. Sequencing was performed on the positive isolates, and subtyping was achieved through BLAST alignment and subsequent phylogenetic analysis. The overall prevalence of Blastocystis sp. was 12.3% (n = 37). No significant associations were found between infection and age, sex, or place of residence (p > 0.05). Molecular characterisation (23.08%). No statistically significant correlation was observed between subtypes and clinical symptoms, although ST1 and ST7 were more frequently detected in symptomatic individuals. Blastocystis sp. showed notable subtype diversity in the studied population, including the potentially zoonotic ST7. However, no significant association was found between subtypes and clinical manifestations. These findings support sustained molecular epidemiological surveillance and larger-scale studies to clarify subtype-specific pathogenesis and transmission dynamics.",
-    "authors": [
-      "Mohammad Reza Mahmoudi",
-      "Zahra Naemi",
-      "Meysam Sharifdini",
-      "Nozhat Zebardast",
-      "Somayeh Abbaszadeh",
-      "Panagiotis Karanis"
-    ],
-    "date": "2026-Aug-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42646804/",
-    "doi": "10.3390/tropicalmed11080227",
-    "journal": "Tropical medicine and infectious disease",
-    "score": 0.2642,
-    "fetched_at": "2026-08-27"
   }
 ]
