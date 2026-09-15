@@ -800,6 +800,37 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42738461",
+    "source": "pubmed",
+    "title": "Repeated Cross-Sectional Surveillance and ORF5-Based Molecular Epidemiology of Porcine Reproductive and Respiratory Syndrome Virus in Anhui Province, China, 2019-2024.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) remains a major threat to swine production, and its circulation after the African swine fever outbreak requires continued surveillance. This study investigated the temporal, regional, and genetic characteristics of PRRSV in Anhui Province from September 2019 to November 2024. Ten rounds of repeated cross-sectional surveillance were conducted at 147 slaughterhouses and 21 rendering plants. Tissue samples were collected by random, cluster, or risk-based sampling, pooled in groups of five, and tested by RT-qPCR. Representative positive samples with Ct values < 25 underwent ORF5 amplification, Sanger sequencing, and phylogenetic analysis. A total of 994 site visits yielded 18,733 tissue samples. No positive samples were detected in autumn 2020 or spring 2021, whereas PRRSV was detected again from autumn 2021 and subsequently fluctuated. The highest site-level positivity was 41.18% in autumn 2023, and the highest estimated individual-level positivity was 4.66% in spring 2023. Regional differences were statistically significant, with the highest site-level positivity in northern Anhui, and pooled-sample positivity was higher in rendering plants than in slaughterhouses. All 24 ORF5 sequences belonged to PRRSV-2 and mainly clustered with NADC30-like, NADC34-like, or MLV/classical strains. These findings demonstrate temporal fluctuations and lineage coexistence, supporting continued multisource surveillance and broader genomic and antigenic evaluation.",
+    "authors": [
+      "Hua Liu",
+      "Zhao Qi",
+      "Yingchun Zhou",
+      "Wei Wang",
+      "Lixia Wang",
+      "Yan Shen",
+      "Chang Liu",
+      "Dongdong Yin",
+      "Zhenzhen Chai",
+      "Qianqian Duan",
+      "Jun Wang",
+      "Qian Wang",
+      "Xi Chen",
+      "Changsheng He",
+      "Songhe Zhan",
+      "Liangqiang Zhu",
+      "Kezong Qi"
+    ],
+    "date": "2026-Aug-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738461/",
+    "doi": "10.1186/s13567-016-0391-4",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.5667,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42679004",
     "source": "pubmed",
     "title": "From sequences to strategies: Early detection of new SARS-CoV-2 variants via genetic distance to reduce hospitalizations.",
@@ -1233,6 +1264,30 @@
     "fetched_at": "2026-09-11"
   },
   {
+    "id": "pubmed:42736223",
+    "source": "pubmed",
+    "title": "Molecular characteristics, phylodynamics, and evolutionary changes of avian infectious bronchitis virus detected from chickens in Yunnan Province, 2021-2024.",
+    "abstract": "Avian infectious bronchitis virus (IBV) is endemic in poultry flocks worldwide, posing a significant threat to the global poultry industry. Frequent mixing of free-range local chickens with introduced chickens in Yunnan Province, China, facilitates the transmission, recombination, and mutation of avian IBV, thereby complicating disease prevention and control. In this study, we aimed to investigate the presence of IBV in poultry populations in Yunnan Province. Samples were collected from live poultry markets (LPMs) and breeding farms, comprising 725 randomly sampled cloacal/fecal swabs and 55 tissue samples. IBV-positive samples were confirmed via polymerase chain reaction (PCR), with an overall positivity rate of 0.89% (7/780) for all tested samples. The positivity rate was 0.35% (2/564) in Kunming, 3.7% (2/54) in Zhaotong, 20% (1/5) in Yuxi, and 12.5% (2/16) in Baoshan, while no IBV was detected in samples from Lanping, Xichou, or Ninglang. Six IBV strains, including five GI-19 strains and one GVI-1 strain, were successfully isolated. Phylogenetic analysis further showed that the Yunnan GI-19 strains predominantly clustered with strains originating from Sichuan Province. Sequencing of the S1 gene revealed several amino acids substitutions per isolate in hypervariable regions HVR1-HVR3. Notably, a valine (V) and glycine (G) insertion between amino acid positions 88 and 89 was identified exclusively in isolate F210, a feature rarely reported in IBV. Protein-protein docking analysis indicated that the unique 88-89 insertion in isolate F210 S1 may alter its binding interactions with the host receptor ANPEP. Whole-genome comparison revealed that isolate YX3 shared 97.05% nucleotide identity with strain CK/CH/GX/YL17/2017 from Guangxi, whereas isolates Q47, F13, and F210 shared 96.40%-97.27% identity with strain CK/Henan/H1036/2021 from Henan. Recombination analysis detected obvious recombination events in isolates F13, F210, Q47, and YX3, with GI-22 strains serving as the major parental donors. These genetic characteristics, recombination patterns, and structural insights demonstrate the complex evolutionary dynamics of circulating IBV strains in Yunnan. Continuous molecular epidemiological surveillance combined with functional protein analysis is essential to monitor emerging variants and formulating targeted, effective disease control strategies.",
+    "authors": [
+      "Weiwu Mu",
+      "Huixin Liu",
+      "Xuzhao Zou",
+      "Ronghai Wang",
+      "Jingxia Wang",
+      "Xianghua Li",
+      "Fengping He",
+      "Sunpeth Angkititrakul",
+      "Bin Xiang",
+      "Liangyu Yang"
+    ],
+    "date": "2026-Sep-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42736223/",
+    "doi": "10.1016/j.psj.2026.107716",
+    "journal": "Poultry science",
+    "score": 0.5198,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42636373",
     "source": "pubmed",
     "title": "HLA class I escape drives the evolution of SARS-CoV-2 in human populations.",
@@ -1557,6 +1612,33 @@
     "doi": "10.1128/JVI.06449-11",
     "journal": "Methods in molecular biology (Clifton, N.J.)",
     "score": 0.49,
+    "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42738570",
+    "source": "pubmed",
+    "title": "First Isolation and Genomic Characterization of BVDV-1c in Przewalski's Gazelle (",
+    "abstract": "Przewalski's gazelle (Procapra przewalskii) is an endangered ungulate endemic to the Qinghai-Tibet Plateau of China. Increasing habitat alteration and close contact with domestic livestock have raised concerns about cross-species pathogen transmission, yet infectious disease studies in this species remain limited. To determine the etiology of illness in two deceased gazelles from a conservation facility in Qinghai Province, we screened samples for a panel of pathogens, including Mycoplasma ovipneumoniae, Clostridium perfringens toxin genes, Mannheimia haemolytica, Klebsiella pneumoniae, Mycoplasma capricolum subsp. capripneumoniae, Pasteurella multocida, Peste des petits ruminants virus (PPRV), Bovine viral diarrhea virus (BVDV), and Infectious bovine rhinotracheitis virus (IBRV), using PCR and RT-PCR. BVDV-specific nucleic acids were detected in tissue samples from both individuals, whereas all other targeted pathogens tested negative. The virus was successfully isolated in Madin-Darby Bovine Kidney (MDBK) cells and confirmed by RT-PCR, followed by whole-genome sequencing of the isolate, which was designated QH PSYL 2026. Phylogenetic analysis based on the full-length genome and 5'UTR sequences assigned the isolate to the BVDV-1c subgenotype. Notably, its 5'UTR sequence shared 100% identity with those of local cattle-derived BVDV strains, providing molecular evidence suggestive of an epidemiological linkage between wildlife and livestock. Integrating clinical signs, gross pathology, and laboratory results, the cases were consistent with BVDV infection as the primary presumptive etiology. To our knowledge, this is the first report of BVDV infection, virus isolation, and genomic characterization in Przewalski's gazelle. The detection of a BVDV-1c strain in this endangered species highlights the potential threat that livestock-associated pathogens pose to wildlife on the Qinghai-Tibet Plateau. These findings furnish crucial baseline data for disease surveillance, molecular epidemiology, and conservation management of Przewalski's gazelle and provide valuable scientific evidence for wildlife disease prevention and control in plateau ecosystems.",
+    "authors": [
+      "Yue Zhang",
+      "Yang Zhang",
+      "Guanghua Wang",
+      "Xiuping Li",
+      "Yong Hu",
+      "Wen Guo",
+      "Yutong Liu",
+      "Linyuan Gong",
+      "Xingjun Wang",
+      "Mingxue Wang",
+      "Lili Huo",
+      "Yingna Jian",
+      "Liqing Ma"
+    ],
+    "date": "2026-Sep-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738570/",
+    "doi": "10.1111/jvim.15816",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.4893,
     "fetched_at": "2026-09-15"
   },
   {
@@ -3541,6 +3623,28 @@
     "fetched_at": "2026-09-09"
   },
   {
+    "id": "pubmed:42738516",
+    "source": "pubmed",
+    "title": "Molecular Characterization of",
+    "abstract": "Listeria monocytogenes is a Gram-positive zoonotic pathogen responsible for listeriosis, a severe foodborne disease with high mortality in humans and animals. This study aimed to investigate the molecular epidemiology and genomic characteristics of L. monocytogenes isolated from raw yak meat in Nyingchi, Xizang, China. A total of 231 yak-related samples were collected in Nyingchi, consisting of 214 retail raw yak meat samples, 14 farm environmental samples, and 3 nearby water source samples. L. monocytogenes isolates were identified and characterized using culture-based methods, PCR serotyping, and whole-genome sequencing (WGS). Bioinformatic analyses were performed for virulence, antimicrobial resistance, and functional gene annotation using KEGG and COG databases. The overall contamination rate of Lm was 13.08% (28/214) for retail raw yak meat samples, whereas no isolates were recovered from 14 farm environmental samples (0.00%, 0/14) and 3 nearby water source samples (0.00%, 0/3). The serotypes of isolates were 1/2a (9/28, 32.14%), 1/2b (7/28, 25.00%), and 1/2c (12/28, 42.86%). These 28 isolates exhibited varied antimicrobial resistance profiles, with universal resistance to trimethoprim-sulfamethoxazole, high resistance to erythromycin and clindamycin, and low resistance to vancomycin. MLST analysis revealed seven sequence types (STs): ST9 (12/28, 42.86%), ST619 (6/28, 21.43%), ST8 (6/28, 21.43%), ST7 (1/28, 3.57%), ST87 (1/28, 3.57%), ST121 (1/28, 3.57%), ST297 (1/28, 3.57%). ST619 isolates harbored multiple virulence genes, including those located on Listeria pathogenicity islands LIPI-1, LIPI-3, and LIPI-4, indicating high genomic potential for virulence. Representative isolate Y2 (ST619) possessed a 3,009,858 bp genome with 3036 coding genes, four genomic islands, and two prophages. Functional annotation revealed enrichment of genes involved in carbohydrate transport and metabolism and amino acid biosynthesis pathways. Our findings provide the first genomic insight into L. monocytogenes contamination in yak meat from Nyingchi, Xizang, China, highlighting the urgent need to strengthen food safety monitoring and hygiene management in this region.",
+    "authors": [
+      "Jiaojiao Xin",
+      "Yongzhi Lou",
+      "Sizhu Suolang",
+      "Yuelan Yin",
+      "Xinan Jiao",
+      "Bujie Duo",
+      "Zhuoga Baima",
+      "Ga Gong"
+    ],
+    "date": "2026-Sep-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738516/",
+    "doi": "10.1038/ng.3501",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.3308,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42655183",
     "source": "pubmed",
     "title": "Molecular Survey of Selected Tick-Borne Pathogens and Genetic Diversity of",
@@ -3934,6 +4038,26 @@
     "fetched_at": "2026-09-13"
   },
   {
+    "id": "pubmed:42738487",
+    "source": "pubmed",
+    "title": "Molecular Survey and Genetic Characterization of",
+    "abstract": "Trichomonads include species of veterinary and zoonotic importance, yet infections with trichomonads in horses remain uncharacterized in Shanxi Province, Northern China. In the present study, we conducted a molecular survey of Tetratrichomonas buttreyi and Pentatrichomonas hominis using 631 horse fecal samples collected from Datong, Taiyuan, and Yuncheng cities in Shanxi Province between March and June 2023. Nested PCR assays targeting the small subunit ribosomal RNA (SSU rRNA) gene were used to detect the two trichomonad species. The overall molecular prevalences were 3.7% (23/631; 95% CI, 2.5-5.5%) for T. buttreyi and 0.8% (5/631; 95% CI, 0.3-1.9%) for P. hominis. T. buttreyi prevalence differed significantly by region and management mode but not by age or sex. P. hominis was detected only in Datong City, resulting in a significant regional difference; however, age, sex, and management mode were not significantly associated with P. hominis prevalence. Five representative T. buttreyi sequences and one representative P. hominis sequence were obtained in the present study. Among these sequences, two T. buttreyi sequences shared 100% nucleotide identity with reference sequences from pigs, cattle, and horses; three showed only minor nucleotide variation. The representative P. hominis sequence clustered with the zoonotic genotype CC1, suggesting that horses may form part of the broader host network of P. hominis, though further work is needed to establish horses' reservoir competence or confirm their role in the transmission. These findings provide the first molecular evidence of T. buttreyi and P. hominis in horses from Shanxi Province, and establish a baseline for future surveillance and One Health risk assessments.",
+    "authors": [
+      "Dong-Yang Wang",
+      "Nan Su",
+      "Wen Li",
+      "Ze-Dong Zhang",
+      "Xun-Zhi Liu",
+      "Wen-Wei Gao"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738487/",
+    "doi": "10.1186/s13071-025-06840-w",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.3064,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42671493",
     "source": "pubmed",
     "title": "Predominance of M1",
@@ -4133,6 +4257,34 @@
     "fetched_at": "2026-08-19"
   },
   {
+    "id": "pubmed:42741323",
+    "source": "pubmed",
+    "title": "Nitrile-Based Inhibitors Targeting both SARS-CoV‑2 Main Protease and Human Cathepsin L.",
+    "abstract": "The SARS-CoV-2 main protease (Mpro) and host cysteine protease cathepsin L (CatL) are both attractive targets for antiviral intervention. Herein we describe the rational design and synthesis of dual Mpro/CatL inhibitors derived from the previously reported leads SM141 and SM142. Optimization focused on replacement of the acrylate ester warhead in SM141 and SM142 with a nitrile, modifying the P2, P3, and P4 capping groups, and variation of the P1 lactam ring size. In addition, conformational restriction was achieved through macrocyclization between the P1 and P4 side chains to enhance binding affinity. These efforts identified multiple dual-target inhibitors with nanomolar potency against both Mpro and CatL and potent antiviral activity as well as selective Mpro inhibitors with strong enzymatic activity. Targeting both a viral protease and a host factor may provide more durable antiviral efficacy by reducing susceptibility to resistance arising from viral evolution of Mpro.",
+    "authors": [
+      "Leonard Barasa",
+      "Yongzhi Chen",
+      "Ala M Shaqra",
+      "Syeda F Z Adnan",
+      "Lauren E Intravaia",
+      "Sandeep Huchaiah",
+      "Akumalla Allabaji",
+      "Karthik Kumar S",
+      "Srinivasa Rao Vidadala",
+      "Santoshkumar N Patil",
+      "Jeffrey Hale",
+      "Celia A Schiffer",
+      "Katherine A Fitzgerald",
+      "Paul R Thompson"
+    ],
+    "date": "2026-Sep-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42741323/",
+    "doi": "10.1107/S0907444904019158",
+    "journal": "ACS medicinal chemistry letters",
+    "score": 0.2954,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42696995",
     "source": "pubmed",
     "title": "First survey on the occurrence, subtype distribution and circulation of the enteric protozoan Blastocystis sp. in French broiler chicken farms.",
@@ -4261,6 +4413,24 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42743159",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of pathogenic Leptospira spp. in Thailand during 2024-2025, with detection of Leptospira weilii in human clinical specimens.",
+    "abstract": "Leptospirosis is a significant zoonotic disease in Thailand and globally. The causative agents are the spirochete bacteria in the genus Leptospira. An updated assessment of molecular epidemiology in Thailand is needed. Remnant EDTA blood specimens from suspected leptospirosis cases collected between June 2024 and July 2025 from the Central, Northern, Northeastern, and Southern regions of Thailand, were referred to the National Institute of Health. Demographic data were collected. Confirmed cases were diagnosed using TaqMan real-time PCR targeting LipL32 with a positively threshold of Ct < 37. Partial 16S rDNA (approximately 500 bp) was sequenced using Oxford Nanopore (Oxford, UK) and analyze by BLASTn. Among 1,063 suspected cases, 34 (3.2%) were real-time PCR confirmed. The majority of the cases were male (58.8%), primarily residing in Nan province (55.9%), and most positives were from specimens collected during the rainy season (76.5%). Twenty-six of 34 sequences (76.5%) clustered with L. interrogans, and 8 of 34 (23.5%) clustered with L. weilii within the primary pathogenic (P1) clade. Re-examination with published Thai and regional datasets showed broad circulation of L. interrogans and a Northern Thailand-Lao People Democratic Republic (PDR) focus for L. weilii To our knowledge, this is the first evidence of L. weilii detected in human clinical specimens in Thailand. Pathogenic L. interrogans and L. weilii caused human Leptospirosis in Thailand during 2024-2025. These findings update the epidemiological status of Leptospira spp. in Thailand and can guide surveillance and control.",
+    "authors": [
+      "Nattapon Nukhonthod",
+      "Ifwa Wirasit",
+      "Dararat Bangdee",
+      "Napaporn Sriden"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743159/",
+    "doi": "10.1371/journal.pntd.0014720",
+    "journal": "PLoS neglected tropical diseases",
+    "score": 0.2923,
+    "fetched_at": "2026-09-15"
+  },
+  {
     "id": "pubmed:42583258",
     "source": "pubmed",
     "title": "Genomic Epidemiology and Plasmid-Mediated Dissemination of Carbapenem-Resistant",
@@ -4279,161 +4449,5 @@
     "doi": "10.1038/s41467-024-51374-x",
     "score": 0.2909,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42571233",
-    "source": "pubmed",
-    "title": "Competition constrains parasite adaptation to thermal heterogeneity.",
-    "abstract": "Temporal thermal heterogeneity is expected to favour intermediate, generalist phenotypes that can maintain growth across a broad thermal range but have sub-optimal growth at any single temperature. Yet, thermal variation typically occurs in the presence of additional selection pressures which may interact to constrain adaptation to temperature. We propagated competing lytic viral parasites (bacteriophages, thermal specialist φ14-1 and thermal generalist φLUZ19) of Pseudomonas aeruginosa under fluctuating temperatures (37°C-42°C) in monoculture and in co-culture. Without competition, fluctuating temperatures resulted in intermediate thermal phenotypes in the phage φ14-1 and, in both phages, resulted in more variable evolutionary outcomes compared to static conditions. Selection from both fluctuating temperatures and competition accelerated thermal adaptation in the phage φ14-1. However, co-selection led to restricted thermal adaptation, lower genetic distance from ancestor, and fewer putative adaptive mutations in the phage φLUZ19. Our study highlights the potential for variable adaptive capacity in interacting communities amidst global climate change.",
-    "authors": [
-      "Samuel Te Greenrod",
-      "Daniel Cazares",
-      "Weronika Ślesak",
-      "Tobias E Hector",
-      "R Craig MacLean",
-      "Kayla C King"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42571233/",
-    "doi": "10.1093/evlett/qrag016",
-    "score": 0.2874,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42560770",
-    "source": "pubmed",
-    "title": "Clonal diversity of multidrug-resistant Klebsiella pneumoniae from ICU patients in central Türkiye.",
-    "abstract": "The increasing prevalence of multidrug-resistant (MDR) Klebsiella pneumoniae, particularly carbapenem-resistant strains, represents a major clinical challenge worldwide. Data on the molecular characteristics of MDR K. pneumoniae in central Türkiye remain limited. This study aimed to characterize the antimicrobial resistance profiles and molecular features of MDR-K. pneumoniae isolates recovered from hospitalized patients in a tertiary care hospital in central Türkiye.A total of 1,560 clinical specimens collected from intensive care unit (ICU) patients between November 2024 and June 2025 were analyzed. Thirty-three non-duplicate MDR-K. pneumoniae isolates obtained from 26 patients were included. Identification and antimicrobial susceptibility testing were performed using the VITEK®2 system. ESBL genes (blaTEM, blaSHV, blaCTX-M groups), carbapenemase genes (blaKPC, blaOXA-48, blaNDM-1), virulence-associated genes (iucA, rmpA2), and efflux pump genes (acrAB, tolC) were investigated by PCR. Clonal relatedness was assessed by pulsed-field gel electrophoresis (PFGE).All isolates were resistant to multiple β-lactams and ciprofloxacin. Resistance to meropenem and amikacin was observed in 97.0% of isolates, while 94.0% were resistant to gentamicin. Colistin and ceftazidime-avibactam resistance rates were 27.3 and 18.2%, respectively. The most prevalent genes were blaSHV (90.9%), blaCTX-M-1 (81.8%), and blaOXA-48 (66.7%), whereas blaTEM, blaKPC and blaNDM-1 were detected in 36.4, 21.2 and 3.0% of isolates, respectively. None of the isolates carried iucA or rmpA2. PFGE revealed substantial genetic diversity with multiple pulsotypes and no dominant epidemic clone.These findings demonstrate the dissemination of genetically diverse MDR K. pneumoniae lineages carrying ESBL and OXA-48 carbapenemase genes in an ICU setting in central Türkiye. Despite occasional hypermucoviscosity, no molecular evidence of hypervirulence was detected, highlighting the need for continuous molecular surveillance and effective infection-control measures.",
-    "authors": [
-      "Altan Akineden",
-      "Fatih Mehmet Akilli",
-      "Selçuk Türkel",
-      "Christina Rehagel",
-      "Ömer Akineden"
-    ],
-    "date": "2026-Aug-06",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42560770/",
-    "doi": "10.1556/030.2026.03061",
-    "score": 0.2872,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42580742",
-    "source": "pubmed",
-    "title": "A multigene phylogeny of the Alysiinae and Opiinae (Hymenoptera: Braconidae), parasitoids of dipteran larvae, results in a revised classification.",
-    "abstract": "Although Alysiinae and Opiinae are relatively large groups within the family Braconidae, comprehensive phylogenetic studies have been lacking and there are outstanding questions regarding their relationships and classification. We performed molecular phylogenetic analyses based on five genetic markers (COI, COII, Cyt b, ND1, 28SD2; total 2,089 bp) from 175 taxa using maximum likelihood and Bayesian inference analyses. Our results demonstrate that Opiinae formed a well-supported clade nested within Alysiinae, rendering Alysiinae paraphyletic. The traditional tribe Alysiini was not recovered as monophyletic, whereas Dacnusini was monophyletic but showed some internal topological instability between analyses. Based on our findings, we propose a revised subtribal classification that recognises Aspilotina and establishes the new subtribe Asobarina subtrib. nov. within Alysiini. Based on molecular dating analysis, the origin of the combined clade was estimated to the Early Cretaceous (111 Ma), with major diversification during the Paleocene-Eocene transition. Our findings also support a revised subtribal classification within Alysiinae and provide new insights into the evolutionary history of these economically important parasitoids of dipteran larvae.",
-    "authors": [
-      "Ju-Hyeong Sohn",
-      "Yerim Lee",
-      "Hyojoong Kim"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580742/",
-    "doi": "10.1071/IS26015",
-    "score": 0.2859,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42570048",
-    "source": "pubmed",
-    "title": "Disseminated paracoccidioidomycosis in a black lion tamarin (Leontopithecus chrysopygus) confirmed by histopathology, molecular diagnostics and phylogenetic analysis of DNA from FFPE tissues.",
-    "abstract": "Paracoccidioidomycosis (PCM) is a systemic mycosis endemic to Latin America, primarily affecting humans. Reports in non-human primates are rare and provide valuable insight into the environmental circulation of Paracoccidioides spp. and the interface between animal and human infection. CASE REPORT: We describe a case of disseminated PCM in a 13-year-old black lion tamarin (Leontopithecus chrysopygus) from São Paulo, Brazil. The animal presented neurological signs and marked clinical deterioration, progressing to death within 48 h of the onset of neurological signs. Histopathological analysis of multiple organs revealed granulomatous inflammation associated with multiple budding yeast-like organisms consistent with Paracoccidioides spp., confirmed by Grocott staining. Molecular analysis of formalin-fixed, paraffin-embedded (FFPE) tissue by polymerase chain reaction (PCR) detected Paracoccidioides spp., and the resulting Sanger sequences clustered with reference sequences of the Paracoccidioides brasiliensis complex in the ITS-based phylogenetic analysis. This case demonstrates severe disseminated PCM in an endangered Neotropical primate and highlights the diagnostic value of combining histopathology and molecular assays in FFPE samples for etiological confirmation of fungal infections.",
-    "authors": [
-      "Isabelle Dias de Oliveira",
-      "Isabella Galesi Tallach",
-      "Jamile Macedo Garcia",
-      "Gabrielle Fernanda Pereira da Silva Gagliotti",
-      "Jessica de Brito Ferreira Nascimento",
-      "Camila Santos da Silva Ferreira",
-      "Silvana Mello Pereira da Silva",
-      "Clarice Ribeiro Roque de Assumpção",
-      "Juliana Possatto Fernandes Takahashi",
-      "Julia de Carvalho",
-      "Mayara Grego Caiaffa",
-      "Daniela Etlinger-Colonelli",
-      "Natália Coelho Couto de Azevedo Fernandes",
-      "Leonardo José Tadeu de Araújo"
-    ],
-    "date": "2026-Aug-08",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42570048/",
-    "doi": "10.1007/s40475-025-00351-5",
-    "score": 0.2841,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42606111",
-    "source": "pubmed",
-    "title": "Rainfall Shapes the Diversity of Soil Nitrogen-Fixing Microorganisms Worldwide.",
-    "abstract": "Soil nitrogen-fixing microorganisms naturally fertilize terrestrial ecosystems, but the primary driver of their diversity across the globe and the underlying mechanisms remain unclear. We analyzed the nifH gene in 1257 (1137 publicly available + 120 self-generated) soil metagenomes from 318 terrestrial ecosystems globally. Mean annual precipitation was identified as the key factor influencing the relative abundance, richness, and composition of the potential nitrogen-fixers. Precipitation was directly associated with nitrogen-fixers (e.g., water availability) rather than indirectly via other soil variables (e.g., pH). Lower precipitation increased the contribution of deterministic processes (e.g., interspecific competition) in driving their community assembly and selected species with larger genomes, while higher precipitation increased the contribution of stochastic processes (e.g., random birth/death) and favored smaller-genome species. A multifactorial experiment further demonstrated that precipitation increase had a larger regulatory effect on the stochastic processes than other factors (e.g., climate warming). eXtreme Gradient Boosting (XGBoost) projections under future global change scenarios indicate a general increase in their relative abundance across most regions worldwide, with declines only in specific areas. These findings reveal distinct patterns and mechanisms governing the global biodiversity and biogeography of soil nitrogen-fixers, providing valuable insights for developing region-specific management strategies aimed at maintaining ecosystem productivity.",
-    "authors": [
-      "Bin Hua",
-      "Shuang Pang",
-      "Ang Li",
-      "Zonghao Hu",
-      "Honghui Wu",
-      "Shuhan Zhang",
-      "Yi Fan",
-      "Yi Wu",
-      "Wei Yang",
-      "Yachao Zhao",
-      "Yupeng Guan",
-      "Baoming Ji",
-      "Deliang Kong",
-      "Yong Zhao",
-      "Anton A Goncharov",
-      "Anastasia Yu Korotkevich",
-      "Rong Mao",
-      "Yang Zhang",
-      "Ximei Zhang"
-    ],
-    "date": "2026-Aug-17",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42606111/",
-    "doi": "10.1145/2939672.2939785",
-    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "score": 0.2837,
-    "fetched_at": "2026-08-20"
-  },
-  {
-    "id": "pubmed:42566283",
-    "source": "pubmed",
-    "title": "Changing molecular epidemiology and resistance patterns of carbapenem-resistant Klebsiella pneumoniae in California long-term acute care hospitals.",
-    "abstract": "The epidemiology of carbapenem-resistant Klebsiella pneumoniae (CRKP) must be monitored over time to understand resistance dynamics to existing and novel antibiotics. Antibiotic susceptibility testing and whole-genome sequencing were performed on clinical CRKP isolates collected from the same California long-term acute care hospital network across two time periods: 2014-15 (period 1) and 2021-23 (period 2). Differences in sequence type (ST) diversity, carbapenem resistance-associated genotypes, and resistance to clinically important antibiotics were evaluated. Eight hundred eighty-one isolates were collected (period 1, 374; period 2, 507). Study period 1's population was dominated by ST258 (94.1%). ST diversity markedly increased in period 2, with a reduced prevalence of ST258 (41.6%) and an increased abundance of other epidemic lineages: ST14 (27.4%), ST307 (6.9%), and ST17 (6.5%). Changes to circulating resistance genotypes and plasmids reflected the increased ST diversity. Increases in blaKPC-3-harboring isolates (66.0% vs. 76.1%) and non-carbapenemase-containing isolates (2.7% vs 12.6%) aligned with decreases in blaKPC-2-harboring isolates (30.5% vs. 6.3%). Statistically significant differences in resistance patterns were also observed between study periods, including colistin (35.0% vs. 20.2%), fosfomycin (27.0% vs. 13.4%), meropenem-vaborbactam (9.4% vs. 2.0%), and ceftazidime-avibactam (1.1% vs. 9.1%). Differential patterns of resistance emergence and spread across circulating STs largely drove resistance patterns in study period 2. The comparison of clinical CRKP isolates collected from the same healthcare network and separated by nearly a decade revealed increasing ST diversity, mainly due to the introduction of numerous epidemic lineages, which coincided with differing patterns of circulating resistance-associated genotypes and antibiotic resistance.",
-    "authors": [
-      "Kyle J Gontjes",
-      "Brendan J Kelly",
-      "Leigh Cressman",
-      "Anne Jaskowiak-Barr",
-      "Laurel Glaser",
-      "Laura L Cowden",
-      "Alexa Patel",
-      "Jennifer Han",
-      "Ellie J C Goldstein",
-      "Warren B Bilker",
-      "Evan S Snitkin",
-      "Ebbing Lautenbach"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42566283/",
-    "doi": "10.1093/infdis/jiag406",
-    "score": 0.2809,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42602979",
-    "source": "pubmed",
-    "title": "Global trends and molecular epidemiology of Azithromycin-resistant",
-    "abstract": "Salmonella infections pose a significant public health challenge, affecting both social and economic dimensions across various countries. Different animal species serve as reservoirs for Salmonella and contribute to drug resistance in human isolates. The improper use of antimicrobials in livestock, companion animals, and humans has led to the rise of multidrug-resistant (MDR), extensively drug-resistant (XDR), and azithromycin-resistant Salmonella serovars globally. This systematic review and meta-analysis aim to evaluate heterogeneity, estimate pooled proportions, and outline the molecular epidemiology of these resistant Salmonella serovars worldwide. We analyzed data from 15,514 Salmonella isolates, focusing on their genetic and phenotypic characteristics. Our analysis included meta-analyses and frequency analyses based on the studies' geographical locations, the types of isolates, and potential biases. We employed a random-effects model, specifically the DerSimonian-Laird method, to evaluate heterogeneity and estimate pooled proportions. The result is presented as a proportion and confidence interval after the inverse of the Freeman-Tukey transformation; otherwise, all the calculations were made using the Freeman-Tukey double arcsine transformation. The pooled prevalence of azithromycin resistance among Salmonella isolates was 9.12% (95% CI: 6.53-12.07). Among azithromycin-resistant isolates, multidrug-resistant (MDR) and extensively drug-resistant (XDR) serovars accounted for 31.10% (95% CI: 18.82-44.86) and 19.30% (95% CI: 6.90-35.75), respectively. Resistance mechanisms involved multiple genetic factors, including efflux pumps (mefA, acrB gene mutation), enzymatic phosphorylation (mphA), and class 1 integrons gene cassettes. Notably, resistance rates varied by region and serovar, with high prevalence in Southern Asia and Eastern Europe. Azithromycin resistance in Salmonella is a growing global health concern, complicated by the presence of MDR and XDR strains and diverse resistance mechanisms. Urgent, coordinated efforts encompassing enhanced surveillance, antimicrobial stewardship, and research are critical to controlling resistance and preserving azithromycin's efficacy in treating invasive salmonellosis through a One Health approach. Additionally, addressing antimicrobial use in the agriculture and veterinary sectors is critical to safeguarding public health. We conducted a systematic review and meta-analysis after registering the protocol with PROSPERO (CRD420251047985), following the MOOSE (Meta-Analysis of Observational Studies in Epidemiology) guidelines.",
-    "authors": [
-      "Getachew Mengistu",
-      "Mekuanint Geta",
-      "Anwar Nuru",
-      "Baye Gelaw",
-      "Feleke Moges"
-    ],
-    "date": "2026-Dec-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42602979/",
-    "doi": "10.1016/j.onehlt.2026.101535",
-    "score": 0.2807,
-    "fetched_at": "2026-08-15"
   }
 ]
