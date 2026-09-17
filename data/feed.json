@@ -388,6 +388,33 @@
     "fetched_at": "2026-09-04"
   },
   {
+    "id": "pubmed:42750054",
+    "source": "pubmed",
+    "title": "Genomic surveillance of SARS-CoV-2 in Tunisia during the omicron era: insights from the national influenza & other respiratory viruses laboratory.",
+    "abstract": "Omicron sublineages have dominated global SARS-CoV-2 circulation since late 2021, but there aren't enough multi-year datasets that detail lineage dynamics and genomic surveillance performance in North Africa. The National Influenza and Other Respiratory Viruses Laboratory in Tunisia has been conducting integrated SARS-CoV-2 genomic surveillance for four years. Between 1 November 2021 and 30 September 2025, 8,635 nasopharyngeal swabs (NPS) received through the national sentinel network were tested for SARS-CoV-2 by real-time RT-PCR, of which 1,020 (11.8%) were positive. A total of 669 (65.6%) positive samples were successfully sequenced using Illumina RNA Prep with Enrichment and a respiratory virus panel. Pango lineages and GISAID clades were assigned with standard tools, and sequencing coverage, geographic representativeness, turnaround times, temporal trends, lineage diversity, mutational profiles, and phylogenetic placement were summarized descriptively. The overall SARS-CoV-2 positivity rate was 11.8%. Median governorate-level sequencing coverage among RT-PCR-positive samples was 60.0% (IQR 28.6-88.9), and the share of sequences closely matched the share of positives (r = 0.992), indicating near-proportional sampling.While SARS-CoV-2-positive NPS displayed several waves, including substantial peaks in mid-2022 and mid-2023 and subsequent winter peaks, each linked to the establishment or replacement of dominant Omicron lineages, testing volumes indicated recurrent winter rises. Among the 669 sequenced SARS-CoV-2-positive samples, 92 (13.8%) showed co-detection with at least one other respiratory virus, including 16 (2.4%) involving influenza viruses.XBB* lineages accounted for 25.0% of genomes, followed by BA.4/BA.5* (22.1%), JN.1* and descendants (13.6%), BA.2* (12.6%), and BA.1* (9.0%), while Delta represented 8.7% of genomes; the remaining 9.1% belonged to other lineages, including pre-Omicron variants and non-XBB recombinants. Almost all genomes belonged to Omicron-associated GISAID clades GK and GRA. Overall, sequencing quality was high (mapped reads typically ≥0.9), while Tunisian SARS-CoV-2 genomes showed a progressive increase in amino acid changes-from ~30-50 substitutions in early Delta/BA.1/BA.2 to >70-80 in later XBB and JN.1* sublineages, with some recombinants approaching 100 substitutions. Phylogenetic analyses showed that Tunisian genomes clustered within globally circulating Delta and Omicron clades. Rapid Omicron sublineage turnover and co-detections with other respiratory viruses, including influenza, were captured by genomic monitoring integrated into Tunisia's influenza-based sentinel network, which achieved broad sequencing coverage and overall near-proportional sampling despite subnational heterogeneity.This integrated, multi-pathogen approach provides a scalable model for sustained genomic surveillance and future respiratory pandemic preparedness in the region.",
+    "authors": [
+      "Zaineb Hamzaoui",
+      "Sana Ferjani",
+      "Takoua Bouchouicha",
+      "Latifa Charaa",
+      "Ichrak Landolsi",
+      "Ines Medini",
+      "Roua Ben Ali",
+      "Sarra Chammam",
+      "Salma Abid",
+      "Lamia Kanzari",
+      "Mouna Ben Sassi",
+      "Sameh Trabelsi",
+      "Ilhem Boutiba Ben Boubaker"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750054/",
+    "doi": "10.2147/IDR.S451114",
+    "journal": "Virology journal",
+    "score": 0.6488,
+    "fetched_at": "2026-09-17"
+  },
+  {
     "id": "pubmed:42560073",
     "source": "pubmed",
     "title": "Neutralizing and protective monoclonal antibodies identify antigenic sites in influenza H7 hemagglutinin and select for amino acid substitutions rarely observed at the global level.",
@@ -697,6 +724,26 @@
     "doi": "10.1038/nature05495",
     "score": 0.5917,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42751294",
+    "source": "pubmed",
+    "title": "Genomic Surveillance Uncovers a Shift in Respiratory Syncytial Virus Subtype Dominance and the Local Expansion of Subclade B.D.E.1.7.",
+    "abstract": "Respiratory syncytial virus (RSV) is a leading cause of hospitalization among children under 5 and adults over 60 due to its ability to cause acute respiratory illness. Recent approvals of vaccines and monoclonal antibodies against RSV have raised concerns about the potential of prophylactic-evading viral mutations. We analyzed 126 RSV-positive nasopharyngeal swabs from Boston Medical Center during the 2024-2025 respiratory season via amplicon-based whole-genome sequencing. We identified nucleotide variants, assigned clades, and built maximum-likelihood phylogenetic trees to examine genetic changes and evolution. Out of the 126 genomes analyzed, 94 (74.6%) were RSV-A subtype, indicating a return to RSV-A dominance in the region. Within the RSV-B genomes, a large minority belong to the recently defined B.D.E.1.7 subclade (n = 12, 37.5% of RSV-B samples), which has only appeared sporadically in other US states. Mutations associated with monoclonal antibody or vaccine resistance were not observed. These findings show that in the Boston metropolitan area, RSV subtype dominance continues to flip between seasons. Investigation of the clades within both subtypes did not reveal evidence of any virus seeding from the preceding season. Though no mutations associated with prophylactic resistance were identified, surveillance of RSV remains critical to study evolution and transmission dynamics, particularly at the local level.",
+    "authors": [
+      "Emily LaVerriere",
+      "Sasha Behar",
+      "Yan Mei Liang",
+      "Marisa Nielsen",
+      "Manish Sagar",
+      "John H Connor"
+    ],
+    "date": "2026-Sep-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751294/",
+    "doi": "10.62599/PP_SS_3037.1",
+    "journal": "Open forum infectious diseases",
+    "score": 0.5907,
+    "fetched_at": "2026-09-17"
   },
   {
     "id": "pubmed:42748151",
@@ -1098,6 +1145,47 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42749814",
+    "source": "pubmed",
+    "title": "Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy.",
+    "abstract": "Pathogen genomic analysis is central to tracking, understanding and containing outbreaks1-13, but the complexity and cost of state-of-the-art phylogenetic tools limit global access and impact. Here we introduce Delphy, an exact reformulation of Bayesian phylogenetics14-17 designed to transform its speed, scalability and accessibility while retaining Bayesian state-of-the-art accuracy. Delphy's central data structure, an explicit mutation-annotated tree, takes advantage of the high sequence similarity of large-scale epidemic datasets18-20 for efficient tree exploration and convergence. By reproducing key analyses from recent major epidemics, including Ebola1,21, Zika2, SARS-CoV-2 (ref. 22), mpox3,4 and H5N1 (refs. 23,24), we demonstrate state-of-the-art accuracy with up to 2-3 orders of magnitude improvements in speed. Assessing Delphy's scalability, we show that a simulated dataset of 100,000 sequences can be analysed within a day. We distribute Delphy as a client-side web application that enables local, interactive analysis of raw data on the user's machine. Delphy automatically identifies key viral lineages and mutations, as well as their emergence and prevalence through time, with quantified uncertainties grounded in Bayesian theory. Delphy establishes Bayesian phylogenetics as a fast, accessible frontline tool for future outbreak response.",
+    "authors": [
+      "Patrick Varilly",
+      "Mark Schifferli",
+      "Katherine Yang",
+      "Paul Cronan",
+      "Ivan Specht",
+      "Tim Burcham",
+      "Olivia Glennon",
+      "Olivia Jacks",
+      "Ellory Laning",
+      "Libby Marrs",
+      "Kyle Oba",
+      "Shannon Yeung",
+      "Karlie Wenran Zhao",
+      "Edyth Parker",
+      "Ifeanyi Omah",
+      "Jonathan E Pekar",
+      "Laura Luebbert",
+      "Kristian G Andersen",
+      "Daniel J Park",
+      "Stephen F Schaffner",
+      "Bronwyn L MacInnis",
+      "Christian Happi",
+      "Jacob E Lemieux",
+      "Al Ozonoff",
+      "Michael Mitzenmacher",
+      "Ben Fry",
+      "Pardis C Sabeti"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42749814/",
+    "doi": "10.1093/molbev/mst010",
+    "journal": "Nature",
+    "score": 0.546,
+    "fetched_at": "2026-09-17"
+  },
+  {
     "id": "pubmed:42734805",
     "source": "pubmed",
     "title": "Global Genomic Surveillance.",
@@ -1113,6 +1201,26 @@
     "journal": "Methods in molecular biology (Clifton, N.J.)",
     "score": 0.5397,
     "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42749190",
+    "source": "pubmed",
+    "title": "Molecular epidemiological surveillance of the Feline Coronavirus reveals novel recombinant FCoV strains with evidence of ongoing viral evolution.",
+    "abstract": "Feline Infectious Peritonitis Virus (FIPV) is a virulent biotype of feline coronavirus (FCoV) that causes fatal systemic disease in cats and continues to emerge through mutation and recombination. We conducted demographic data collection, molecular surveillance and genomic characterization of FCoV circulating in feral and shelter cats. Among 139 cats screened, 22.3% tested positive for FCoV. Lower weight and Body Condition Scores indicate higher likelihood for FCoV. Whole-genome sequencing identified three novel FCoV (FIPV-170, FIPV-193, and FIPV-246) belonging to FCoV type I. The viral genomes shared ≈90% nucleotide similarity among themselves and ≈83% similarity with local type II strains. Spike gene analysis revealed 76 amino acid substitutions in the S1 region, including 12 mutations in the receptor-binding domain. Accessory gene mutations included a premature stop codon in NSP-3a and truncation of NSP-7a. Recombination analysis identified mosaic genomes derived from feline coronavirus types I and II and canine coronavirus lineages, with breakpoints in ORF1b, spike, and NSP-3abc regions, resembling patterns reported during the recent 2023 FCoV outbreak in Cyprus (FCoV-23). Continued regional molecular and genomic surveillance is advised.",
+    "authors": [
+      "Abid Ullah Shah",
+      "Csaba Vagra",
+      "Nadine Moawad",
+      "Megan Rosen",
+      "Diane Levitan",
+      "Maged Gomaa Hemida"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42749190/",
+    "doi": "10.1016/j.virusres.2026.199802",
+    "journal": "Virus research",
+    "score": 0.5365,
+    "fetched_at": "2026-09-17"
   },
   {
     "id": "pubmed:42646719",
@@ -1132,6 +1240,22 @@
     "journal": "Vaccines",
     "score": 0.5359,
     "fetched_at": "2026-08-27"
+  },
+  {
+    "id": "pubmed:42752860",
+    "source": "pubmed",
+    "title": "Epistasis and the changing fitness landscapes of SARS-CoV-2.",
+    "abstract": "Since its emergence in late 2019, millions of SARS-CoV-2 genomes have been generated as part of global efforts to monitor the evolution and spread of the virus. This unprecedented volume of data provides a unique opportunity to study viral evolution at unparalleled resolution. In particular, individual genomic sites can be observed to have mutated independently thousands of times. These mutation counts have been used to estimate site-specific mutation rates and fitness effects for most mutations across the viral genome. Here, we use these data to investigate how the landscape of mutational fitness costs has changed over the course of the pandemic. SARS-CoV-2 evolution over the past 6 years has been characterized by the emergence of distinct variants separated by long branches corresponding to evolutionary saltations involving up to 50 mutations. We compare inferred fitness landscapes of the Spike protein across these variants and find that shifts in the estimated effects of non-synonymous mutations are linked to genetic differences between them. Sites with altered fitness costs are enriched near positions where the genetic backgrounds differ. To explain the observed changes, we introduce a model with pairwise epistatic interactions between mutations and residues that differ between variants. This model is able to explain about half of the variance in the shifts of fitness effects and suggests that each mismatch between variants substantially alters mutation effects at typically 1 to 3 additional positions.",
+    "authors": [
+      "Luca Sesta",
+      "Richard A Neher"
+    ],
+    "date": "2026-Sep-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752860/",
+    "doi": "10.1093/genetics/iyag227",
+    "journal": "Genetics",
+    "score": 0.5347,
+    "fetched_at": "2026-09-17"
   },
   {
     "id": "pubmed:42634768",
@@ -1384,6 +1508,27 @@
     "doi": "10.3390/ijms22115894",
     "score": 0.5154,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42752679",
+    "source": "pubmed",
+    "title": "Epidemiology of human RSV in Taiwan, 2018-2024.",
+    "abstract": "Respiratory syncytial virus (RSV) is a leading cause of lower respiratory tract infections in infants and older adults worldwide. This retrospective study investigated the epidemiology and molecular characteristics of RSV in Taiwan from 2018 to 2024 using data from the National Community Virus Surveillance System, which encompassed the coronavirus disease 2019 (COVID-19) pandemic period. Among 74,773 samples collected from patients with suspected respiratory viral infections, 1,224 samples tested positive for RSV, yielding an overall detection rate of 1.6%. RSV circulation was markedly disrupted during the COVID-19 pandemic, with no cases being detected during periods of stringent public health interventions and delayed outbreaks observed in late 2020 and 2023. Following the relaxation of nonpharmaceutical interventions, RSV seasonality shifted, with altered epidemic timing and changes in age distribution being observed. Most infections occurred in children younger than 5 years of age (92.6%), and RSV positivity varied significantly across age groups but not between sexes. Among the 1,224 isolates, 463 were randomly selected for glycoprotein (G) gene sequencing. The results revealed that RSV-A accounted for the majority (81.6%) of the tested isolates and were clustered within the A.D lineage, with A.D.3 being the dominant clade. The remaining strains were determined to be RSV-B, which were classified within the B.D lineage, with B.D.E.1 being observed as the dominant clade. The emergence of multiple RSV subclades during the study period indicates ongoing viral evolution in Taiwan. These findings demonstrate substantial shifts in RSV epidemiology following the COVID-19 pandemic and highlight viral evolution and clade replacement. Continued molecular surveillance is essential to monitor epidemiological trends and inform vaccination and prevention strategies.",
+    "authors": [
+      "Su-Lin Yang",
+      "Ming-Tsan Liu",
+      "Hsin-Hui Huang",
+      "Shu-Wei Lin",
+      "Yao-Tsun Li",
+      "Yu-Hsin Cheng",
+      "Fang-Tzy Wu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752679/",
+    "doi": "10.1371/journal.pone.0357769",
+    "journal": "PloS one",
+    "score": 0.5098,
+    "fetched_at": "2026-09-17"
   },
   {
     "id": "pubmed:42723126",
@@ -4328,143 +4473,5 @@
     "doi": "10.1094/PDIS-04-26-0782-RE",
     "score": 0.2972,
     "fetched_at": "2026-08-19"
-  },
-  {
-    "id": "pubmed:42744668",
-    "source": "pubmed",
-    "title": "Cyclospora cayetanensis infection: current insights into foodborne outbreaks, diagnostic challenges, molecular epidemiology, and future directions.",
-    "abstract": "Cyclospora cayetanensis causes prolonged or relapsing watery diarrhea and is an important cause of foodborne outbreaks, most often associated with contaminated fresh produce. Recent multistate outbreaks in the United States have highlighted how short product shelf life, complex supply chains, incomplete ingredient-level exposure data, and limited availability of implicated foods hinder timely source attribution. This review examines foodborne outbreak epidemiology, clinical and diagnostic challenges, molecular epidemiology, treatment, and priorities for surveillance and research. PubMed/MEDLINE was searched through August 27, 2026, supplemented by reference screening and targeted searches of public health, regulatory, governmental, and Taiwan-based academic sources. Available evidence shows that molecular assays and genotyping improve case detection and cluster identification, but their interpretation depends on organism burden, assay design, specimen quality, detailed epidemiological interviews, and product traceback. Presumptive molecular findings generated by non-species-specific or insufficiently validated assays should be distinguished from species-confirmed results, and molecular clustering should not be considered equivalent to source attribution. Trimethoprim-sulfamethoxazole remains the treatment of choice, whereas effective alternatives for patients unable to receive sulfonamides are lacking. In Taiwan, currently available evidence remains insufficient to define the burden of cyclosporiasis and the extent of local transmission. Future priorities include harmonized diagnostic and reporting criteria, validated food and environmental testing, improved molecular resolution, and risk-based surveillance linking clinicians, reference laboratories, epidemiological investigators, and food-safety authorities.",
-    "authors": [
-      "Yu-Chaun Tseng",
-      "Chiung-Tzu Hsiao",
-      "Yu-Jen Wang",
-      "Po-Ren Hsueh"
-    ],
-    "date": "2026-Sep-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42744668/",
-    "doi": "10.1016/j.jmii.2026.09.001",
-    "journal": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
-    "score": 0.296,
-    "fetched_at": "2026-09-17"
-  },
-  {
-    "id": "pubmed:42741323",
-    "source": "pubmed",
-    "title": "Nitrile-Based Inhibitors Targeting both SARS-CoV‑2 Main Protease and Human Cathepsin L.",
-    "abstract": "The SARS-CoV-2 main protease (Mpro) and host cysteine protease cathepsin L (CatL) are both attractive targets for antiviral intervention. Herein we describe the rational design and synthesis of dual Mpro/CatL inhibitors derived from the previously reported leads SM141 and SM142. Optimization focused on replacement of the acrylate ester warhead in SM141 and SM142 with a nitrile, modifying the P2, P3, and P4 capping groups, and variation of the P1 lactam ring size. In addition, conformational restriction was achieved through macrocyclization between the P1 and P4 side chains to enhance binding affinity. These efforts identified multiple dual-target inhibitors with nanomolar potency against both Mpro and CatL and potent antiviral activity as well as selective Mpro inhibitors with strong enzymatic activity. Targeting both a viral protease and a host factor may provide more durable antiviral efficacy by reducing susceptibility to resistance arising from viral evolution of Mpro.",
-    "authors": [
-      "Leonard Barasa",
-      "Yongzhi Chen",
-      "Ala M Shaqra",
-      "Syeda F Z Adnan",
-      "Lauren E Intravaia",
-      "Sandeep Huchaiah",
-      "Akumalla Allabaji",
-      "Karthik Kumar S",
-      "Srinivasa Rao Vidadala",
-      "Santoshkumar N Patil",
-      "Jeffrey Hale",
-      "Celia A Schiffer",
-      "Katherine A Fitzgerald",
-      "Paul R Thompson"
-    ],
-    "date": "2026-Sep-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42741323/",
-    "doi": "10.1107/S0907444904019158",
-    "journal": "ACS medicinal chemistry letters",
-    "score": 0.2954,
-    "fetched_at": "2026-09-15"
-  },
-  {
-    "id": "pubmed:42696995",
-    "source": "pubmed",
-    "title": "First survey on the occurrence, subtype distribution and circulation of the enteric protozoan Blastocystis sp. in French broiler chicken farms.",
-    "abstract": "Blastocystis sp. is the most commonly detected enteric protozoan in humans, yet its presence in broiler chickens remains insufficiently characterized despite its clear zoonotic potential. Here, we present the first survey conducted in France-and the largest to date in Europe-aimed at assessing the frequency, subtype (ST) and genotype distribution, and circulation patterns of Blastocystis sp. in broiler chicken production. A total of 967 cecal samples were collected at a single slaughterhouse from 66 farms representing three production systems (Label Rouge, standard, and certified). Blastocystis sp. was detected by real-time PCR in 49.7% of samples and in 83.3% of farms. Statistical analyses identified production system-reflecting differences in bird age and outdoor access-together with season, as major factors associated with parasite prevalence. Among mono-colonizations characterized by Sanger sequencing, ST7 was by far the most predominant ST, followed by ST6, reinforcing their avian origin and their capacity to co-circulate within farms. Genotyping revealed substantial genetic diversity within ST7 and moderate diversity within ST6. The dominance of specific ST7 and ST6 genotypes, potentially \"adapted\" to broiler chickens, suggests extensive chicken-to-chicken transmission, whereas rarer genotypes could reflect sporadic contamination from transient wild bird species that frequently harbor the parasite. Mixed colonizations involving at least two STs were detected in nearly 20% of positive animals. Next-generation sequencing of selected samples confirmed either co-colonization with ST6 and ST7 or the presence of highly divergent ST7 genotypes. Although avian STs are generally considered non-pathogenic in poultry, this is not the case in humans. Consequently, the active circulation of Blastocystis sp. in French broiler chickens highlights the potential significant zoonotic reservoir represented by these flocks. Transmission could occur through direct contact between poultry workers and birds, through ingestion of water contaminated with bird feces, or potentially via handling of contaminated carcasses-an understudied route that warrants further investigation.",
-    "authors": [
-      "Constance Denoyelle",
-      "Laetitia Bonifait",
-      "Nausicaa Gantois",
-      "Ségolène Quesne",
-      "Louise Baugé",
-      "Jeremy Desramaut",
-      "Luen-Luen Li",
-      "Ruben Garcia Dominguez",
-      "Maëlle Lamisse",
-      "Magali Chabé",
-      "Franck Bonardi",
-      "Christophe Audebert",
-      "Sébastien Monchy",
-      "Gabriela Certad",
-      "Marianne Chemaly",
-      "Muriel Guyard-Nicodème",
-      "Eric Viscogliosi"
-    ],
-    "date": "2026-Jun-24",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42696995/",
-    "doi": "10.1016/j.psj.2026.107332",
-    "journal": "Poultry science",
-    "score": 0.2952,
-    "fetched_at": "2026-09-05"
-  },
-  {
-    "id": "pubmed:42581360",
-    "source": "pubmed",
-    "title": "Actinobacillus pleuropneumoniae - today's perspective on advances and challenges (2017- 2026).",
-    "abstract": "Actinobacillus pleuropneumoniae (APP) remains one of the most significant bacterial respiratory pathogens in swine production worldwide, causing porcine pleuropneumonia with substantial economic impact. Although recent reviews have summarized aspects of APP epidemiology, serotyping, surface-associated virulence determinants, and vaccine development strategies, several complementary research areas have advanced rapidly since the last DISease CONtrol TOOLS (DISCONTOOLS) 2017 report on this bacterium. These include antimicrobial resistance surveillance, chronic persistence mechanisms such as biofilm formation, refined experimental infection models, intracellular survival within host immune cells, and the immunopathological processes driving lung injury. This review focuses on these practical and mechanistic dimensions, emphasizing their relevance for herd-level control, outbreak management, and future therapeutic approaches. Recent genomic studies of multidrug-resistant strains, as well as the development of improved molecular diagnostic tools, are also discussed. Collectively, emerging evidence suggests that APP should not be viewed solely as an extracellular pathogen causing acute disease outbreaks, but rather as an adaptable organism capable of persistence, immune modulation, and endemic circulation in modern pig populations. Addressing these challenges will require integrated strategies that combine antimicrobial stewardship, improved surveillance, and a deeper understanding of host-pathogen interactions.",
-    "authors": [
-      "Isabel Hennig-Pauka",
-      "Katrin Strutzberg-Minder",
-      "Paul R Langford"
-    ],
-    "date": "2026-Aug-11",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42581360/",
-    "doi": "10.3390/antibiotics9070402",
-    "score": 0.2949,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42692284",
-    "source": "pubmed",
-    "title": "Lineage-specific adaptation and resistance in Candida albicans.",
-    "abstract": "Candida albicans exhibits substantial phenotypic and ecological diversity; however, the exact relationship between its population structure, adaptation to specific niches, and antifungal resistance remains incompletely understood. To investigate these evolutionary dynamics, we analyzed the whole-genome sequences from 591 publicly available isolates, integrating nuclear and mitochondrial phylogenomics with ecological and resistance-associated genomic analyses. Phylogenomic analyses resolved 18 core nuclear clusters together with multiple admixed lineages. Strong cytonuclear concordance was noted in the majority of the central lineages, contrasting with a higher discordance among the admixed groups, consistent with recurrent genetic exchange. The analysis revealed that geographic origin explains a larger fraction of genetic variance than anatomical niche, supporting a predominantly generalist population structure. A notable exception was Cluster N16 (Candida africana), which presented a strict genital origin in our dataset (n = 34). Additionally, although the mitochondrial genome exhibits strong purifying selection, candidate residues under diversifying selection correlated with specific niches (e.g., bloodstream) have been identified. Analysis of five resistance-associated genes (ERG11, UPC2, FKS1, TAC1 and FUR1) revealed that resistance-associated variants were generally rare but exhibited distinct gene-specific patterns. In case of ERG11 and FUR1 they were concentrated in a specific clade (N11, N17, and their admixed Group A) and exhibit gene-dependent zygosity patterns. In summary, the evolution of C. albicans appears to be driven by a predominantly clonal model punctuated by episodic genetic exchange, where both ecological adaptation and antifungal resistance mutations exhibit genomic signatures marked by lineage specificity.",
-    "authors": [
-      "Mariana Zagalo Fernandes",
-      "Emanuel Maldonado",
-      "José de Martinez Oliveira",
-      "Joana Rolo",
-      "Ana de Palmeira Oliveira"
-    ],
-    "date": "2026-Sep-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42692284/",
-    "doi": "10.1016/j.fgb.2026.104116",
-    "journal": "Fungal genetics and biology : FG & B",
-    "score": 0.2946,
-    "fetched_at": "2026-09-04"
-  },
-  {
-    "id": "pubmed:42665982",
-    "source": "pubmed",
-    "title": "The digital map of homologous gene clusters across Poaceae species unveils the complex evolutionary trajectories of genes in Triticeae.",
-    "abstract": "Gene origin, duplication, and loss are key drivers that shape genome evolution, phenotypic diversification, and plant adaptation. Nevertheless, the fine-scale evolutionary trajectories of genes within their local genomic contexts across diverse genera remain poorly characterized. Here, we developed an approach, GoldMiner, that uses homologous gene clusters (HOCs) as evolutionary units for investigating gene evolution and enables hierarchical alignment of pan-genomic HOCs across species and genera. We constructed a genus-level pangenomic map of half a million indexed HOCs across 248 diploid genomes from 25 Poaceae species. We found that most newborn HOCs were derived from existing homologous HOCs. The newborn HOCs in Triticeae were strongly associated with stress response and defense pathways. Two-thirds of Triticeae HOCs, including those containing NLR genes, underwent substantial expansions during evolution, contributing to disease resistance in wheat and barley. Genomic redundancy between wheat subgenomes drives HOC loss associated with genetic variation of wheat populations. We dissected seed storage protein (SSP) gene evolution at two scales: inter-HOC turnover, which governs the origin and amplification of distinct loci across Triticeae, and intra-HOC divergence, which drives functional diversification among paralogous copies. Finally, an interactive web platform, waGOLD (https://wheat.cau.edu.cn/TGT/waGOLD), was developed for the community to explore evolutionary trajectories of HOCs. Overall, we presented a digital atlas of gene evolution for Poaceae species as a resource that opens new avenues for fine-scale gene family evolution and provides a practical framework for constructing genus-level gene-based pangenomes.",
-    "authors": [
-      "Xiaoming Xie",
-      "Yongming Chen",
-      "Yuqi Zhang",
-      "Zihao Wang",
-      "Yibo Wang",
-      "Peng Zhao",
-      "Huiru Peng",
-      "Chaojie Xie",
-      "Yingyin Yao",
-      "Zhongfu Ni",
-      "Qixin Sun",
-      "Weilong Guo"
-    ],
-    "date": "2026-Aug-28",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665982/",
-    "doi": "10.1016/j.molp.2026.08.021",
-    "journal": "Molecular plant",
-    "score": 0.2942,
-    "fetched_at": "2026-08-29"
   }
 ]
