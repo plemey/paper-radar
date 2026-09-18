@@ -1,0 +1,146 @@
+[
+  {
+    "id": "pubmed:42758471",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of enterotoxigenic",
+    "abstract": "This study investigated the prevalence, diversity, and transcriptional activity of staphylococcal enterotoxin-like (SE-like) genes in marine fish and associated environmental samples from the southeast coast of India. A total of 769 Staphylococcus isolates obtained from fishermen, retail markets, frozen storage, and water- and ice-associated environments were screened for ten SE-like genes (seK, seL, seM, seN, seO, seP, seQ, seR, ssL1, and ssL2) using PCR, with representative amplicons sequenced for gene confirmation. SE-like gene-positive isolates were most frequently recovered from market fish (55.8%), followed by frozen fish (24.4%), water-associated samples (11.4%), and freshly collected fish (8.4%). Among the genes examined, seK (13.6%) and seL (13.0%) were predominant. Principal component and heat-map analyses demonstrated distinct gene distribution patterns among sample sources. In silico structural prediction revealed predominantly random-coil conformations (43-51%), along with β-strand and α-helical regions, predicted N-terminal signal peptides, and no transmembrane domains. These findings demonstrate the distribution of SE-like genetic determinants across seafood supply-chain stages, particularly in market-associated isolates. However, gene detection or transcription alone does not establish active enterotoxin production, pathogenicity, or direct public-health risk. Enhanced surveillance and improved hygiene practices are therefore warranted in seafood handling and retail environments.",
+    "authors": [
+      "Sivaperumal Pitchiah",
+      "Kamala Kannan"
+    ],
+    "date": "2026-Sep-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758471/",
+    "doi": "10.1080/09603123.2026.2733114",
+    "journal": "International journal of environmental health research",
+    "score": 0.202,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42758111",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of antimicrobial-resistant Klebsiella pneumoniae in intensive care unit patients, southwestern Saudi Arabia.",
+    "abstract": "Antimicrobial resistance (AMR) in Gram-negative pathogens poses a critical threat in intensive care units (ICUs). This retrospective observational study aimed to determine the prevalence and phenotypic resistance profiles of extended-spectrum β‑lactamase (ESBL)-producing and carbapenem‑resistant Klebsiella pneumoniae among ICU patients at a tertiary hospital in southwestern Saudi Arabia (2020-2021). Clinical specimens (n=179) from patients with hospital‑acquired infections were processed using standard culture, Vitek 2 identification, and phenotypic confirmatory tests (combination disc test for ESBLs and modified carbapenem inactivation method for carbapenemase). Of 543 total samples, 49 (9.0%) were identified as K. pneumoniae. ESBL production was detected in 15/49 (30.6%) and carbapenemase production in 6/49 (12.2%) of isolates. The highest resistance rates were observed against piperacillin‑tazobactam (55.1%), cefotaxime (55.1%), imipenem (53.0%), and meropenem (53.0%), while tigecycline (100% susceptibility) and amikacin (93.9% susceptibility) remained the most effective agents. Notably, susceptibility to trimethoprim‑sulfamethoxazole was 83.7% (corrected figure). Children under 10 years and adults aged 21-40 years showed the highest infection rates. The alarmingly high prevalence of ESBL and carbapenemase phenotypes, coupled with significant multidrug resistance, underscores the urgent need for routine molecular surveillance and targeted antibiotic stewardship in this region. Rapid phenotypic screening combined with genotypic confirmation is essential to guide empirical therapy and curb the spread of these high‑risk clones in critically ill populations.",
+    "authors": [
+      "Abdullah I Abdullah I"
+    ],
+    "date": "2026-May-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758111/",
+    "doi": "10.14715/cmb/2026.72.5.5",
+    "journal": "Cellular and molecular biology (Noisy-le-Grand, France)",
+    "score": 0.1671,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42757304",
+    "source": "pubmed",
+    "title": "Author Response: Sulbactam-Durlobactam for Carbapenem-resistant",
+    "abstract": "How to cite this article: Todi SK. Author Response: Sulbactam-Durlobactam for Carbapenem-resistant Acinetobacter baumannii in India: Does Local Molecular Epidemiology Support Current Guideline Recommendations? and Antibiotic Choice for Carbapenem-resistant Pseudomonas aeruginosa: Need to Look beyond the Forest. Indian J Crit Care Med 2026;30(8):702-703.",
+    "authors": [
+      "Subhash K Todi"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42757304/",
+    "doi": "10.1093/cid/ciz816",
+    "journal": "Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine",
+    "score": 0.1381,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42757296",
+    "source": "pubmed",
+    "title": "Sulbactam-Durlobactam for Carbapenem-resistant",
+    "abstract": "Mukkelli VG, Gupta R. Sulbactam-Durlobactam for Carbapenem-resistant Acinetobacter baumannii in India: Does Local Molecular Epidemiology Support Current Guideline Recommendations? Indian J Crit Care Med 2026;30(8):698-699.",
+    "authors": [
+      "Vinay Gandhi Mukkelli",
+      "Rajat Gupta"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42757296/",
+    "doi": "10.1093/cid/ciae403",
+    "journal": "Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine",
+    "score": 0.1618,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42755872",
+    "source": "pubmed",
+    "title": "Integrated surveillance in Kilifi reveals continued SARS-CoV-2 circulation and immune escape of emerging JN.1 sublineages post-pandemic.",
+    "abstract": "SARS-CoV-2 has been deprioritized post-pandemic, especially in Africa. Vaccination in Kenya was conducted using the Wuhan-based vaccines only, which showed reduced neutralization efficacy against Omicron and its sublineages. We performed SARS-CoV-2 immune surveillance in five health facilities within the Kilifi Health Demographic and Surveillance System from November 2024 to March 2026. Patients in the facilities presenting acute respiratory symptoms were recruited and nasopharyngeal/oropharyngeal swabs taken for SARS-CoV-2 RT-PCR. Convalescent plasma from 30 patients with confirmed SARS-CoV-2 RT-PCR positive tests and genome sequences were taken for sero-neutralization assays against the infecting variants LF.7, MV.1, and globally predominant strains, XEC.4, LP.8.1 and XFG. In total 5115 patients were tested and 171 patients (3.4%) were positive for SARS-CoV-2. Cough (91.7%), nasal discharge (74.5%) and fever (55.4%) were the most common symptoms while wheezing (2%) and crackles (2.8%) were rarest. Sequencing revealed circulation of JN.1 omicron sub-lineages, LF.7, MV.1 and XEF. Sera from majority of individuals infected by the dominant variants, LF.7 and MV.1 were able to neutralize infecting variants but not the recently circulating XFG variant 23% (7/30) suggesting that infection with a JN.1 lineage virus alone is not sufficient to prevent re-infection with XFG. Overlapping titer distributions was observed between vaccinated and unvaccinated sera, with no statistically significant difference observed for any variant. Our study demonstrates that SARS-CoV-2 continues to circulate in coastal Kenya causing predominantly mild upper respiratory illness while evolution enabling immune escape. These findings emphasize the importance of integrated genomic and immunological surveillance to track emerging variants, evaluate population-level protection, and inform future vaccine update strategies and public health preparedness efforts.",
+    "authors": [
+      "Gloria Konyino",
+      "Bernadette Kutima",
+      "Sharon Owuor",
+      "Donwilliams Omuoyo",
+      "Gerald Waweru",
+      "Igor Andrade Santos",
+      "Arnold W Lambisia",
+      "Esther Nyadzua Katama",
+      "Angela Maina",
+      "Joyce Uche Nyiro",
+      "Charles Agoti",
+      "Charles Sande",
+      "Philip Bejon",
+      "Dalan Bailey",
+      "George Mbugua Warimwe",
+      "L Isabella Ochola-Oyier",
+      "Doreen Lugano",
+      "Steven Ger Nyanjom",
+      "James Nyagwange"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42755872/",
+    "doi": "10.1016/S2666-5247(22)00335-4",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4721,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42755071",
+    "source": "pubmed",
+    "title": "Epidemiology, risk factors, and spatio-temporal distribution of lumpy skin disease in cattle in northern Bangladesh.",
+    "abstract": "Lumpy skin disease (LSD) is an emerging transboundary viral disease that causes substantial economic losses in cattle production worldwide. Therefore, the present study aimed to investigate the epidemiology, risk factors, and spatial-temporal distribution through molecular detection of lumpy skin disease virus (LSDV) among cattle in northern Bangladesh. A cross-sectional study was conducted from September 2023 to August 2025 across 10 districts involving 8,650 cattle from 1,200 households. Clinical examination, questionnaire-based epidemiological investigation, spatial mapping, and PCR targeting the P32 and thymidine kinase (TK) genes were performed. The overall prevalence of LSD was 30.15% (2608/8650; 95% CI: 29.2-32.1), while mortality and case fatality rates (CFR) were 3.02% and 10.01%, respectively. Marked spatial and seasonal variations were observed, with the highest prevalence recorded in Thakurgaon (33.92%) and during the rainy season (44.56%). Calves aged below one year showed the highest prevalence (37.39%) and were approximately two times more susceptible to infection (OR = 2.04; 95% CI: 1.82-2.29). Non-vaccinated cattle showed markedly higher prevalence (36.45%) of LSD. Multivariable logistic regression identified non-vaccination (AOR = 14.3; 95% CI: 9.63-21.7), poor biosecurity (AOR = 5.18; 95% CI: 3.37-8.08), and large herd size (AOR = 2.80; 95% CI: 1.87-4.22) as major independent predictors of LSD occurrence. The findings demonstrate that LSD is widely distributed and strongly influenced by management, environmental, and host-related factors in northern Bangladesh. Strengthening vaccination coverage, farm biosecurity, vector control, and targeted surveillance programs may substantially reduce the burden of Lumpy Skin Disease in cattle populations.",
+    "authors": [
+      "Md Shajedur Rahman",
+      "Md Khaled Hossain",
+      "Jahangir Alam",
+      "Nazmi Ara Rumi",
+      "Md Tanvir Islam",
+      "Md Hasan Ali",
+      "Shihab Ahmed",
+      "Hemayet Hossain",
+      "Jong-Joo Kim",
+      "Md Azizul Haque"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42755071/",
+    "doi": "10.5713/ab.260493",
+    "journal": "Animal bioscience",
+    "score": 0.3174,
+    "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42753459",
+    "source": "pubmed",
+    "title": "Resurgence and molecular epidemiology of dengue virus serotype 4 amid the COVID-19 pandemic in Thailand.",
+    "abstract": "Dengue virus serotype 4 (DENV4) co-circulates with other serotypes in Thailand, a hyperendemic setting characterized by cyclical shifts in serotype predominance. During the COVID-19 pandemic, related public health interventions may have influenced dengue detection, transmission and epidemiological dynamics. A total of 413 dengue NS1/PCR-positive samples collected from 2018 to 2024 at a tertiary hospital in Bangkok were serotyped using a real-time PCR DENV1-4 subtyping assay. Forty-seven DENV4-positive samples (Ct < 32) underwent whole-genome sequencing using the ATOPlex DENV1-4 panel on the DNBSEQ-G99RS platform. Sequencing reads were processed using CLC Genomics Workbench, followed by phylogenetic, mutation, codon-based selection-pressure, and epitope-mapping analyses. DENV4 was identified in 18.2% (75/413) of samples, with 48% of cases requiring hospitalization. Detection increased markedly from 11.8% (22/186) during 2018-2021-23.3% (53/227) during 2022-2024 (proportion ratio, 1.97; p = 0.0025). Among the 47 whole-genome-sequenced samples, most strains clustered within genotype I lineage 4I_A.3 and showed lineage-associated non-synonymous substitutions. NS1-A90T, NS2A-L113F, and NS3-F523Y appeared exclusively during 2022-2024 (p < 0.001), whereas NS2A-L113F, NS5-G223S, and NS5-Q631R showed concordant positive-selection signals by FEL and MEME. This hospital-based study highlights an increase in DENV4 detection in Bangkok during 2022-2024 compared with 2018-2021, accompanied by predominance of lineage 4I_A.3 distinct from Malaysian and Indonesian strains reported during a similar period. These findings support integrated clinical and genomic surveillance to monitor DENV serotype and genotype dynamics and inform public health and vaccine strategies.",
+    "authors": [
+      "Lilian Bosibori Obaga",
+      "Tharathip Boondouylan",
+      "Warinya Nuwong",
+      "Navin Horthongkham",
+      "Kamol Suwannakarn",
+      "Pravech Ajawatanawong",
+      "Pravarit Athiprayoon",
+      "Atsadang Boonmee",
+      "Nattaya Tanlieng",
+      "Khanate Sayasit",
+      "Chutikarn Chaimayo"
+    ],
+    "date": "2026-Sep-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753459/",
+    "doi": "10.1016/j.jcv.2026.106004",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "score": 0.5641,
+    "fetched_at": "2026-09-18"
+  }
+]

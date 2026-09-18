@@ -962,6 +962,31 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:42753459",
+    "source": "pubmed",
+    "title": "Resurgence and molecular epidemiology of dengue virus serotype 4 amid the COVID-19 pandemic in Thailand.",
+    "abstract": "Dengue virus serotype 4 (DENV4) co-circulates with other serotypes in Thailand, a hyperendemic setting characterized by cyclical shifts in serotype predominance. During the COVID-19 pandemic, related public health interventions may have influenced dengue detection, transmission and epidemiological dynamics. A total of 413 dengue NS1/PCR-positive samples collected from 2018 to 2024 at a tertiary hospital in Bangkok were serotyped using a real-time PCR DENV1-4 subtyping assay. Forty-seven DENV4-positive samples (Ct < 32) underwent whole-genome sequencing using the ATOPlex DENV1-4 panel on the DNBSEQ-G99RS platform. Sequencing reads were processed using CLC Genomics Workbench, followed by phylogenetic, mutation, codon-based selection-pressure, and epitope-mapping analyses. DENV4 was identified in 18.2% (75/413) of samples, with 48% of cases requiring hospitalization. Detection increased markedly from 11.8% (22/186) during 2018-2021-23.3% (53/227) during 2022-2024 (proportion ratio, 1.97; p = 0.0025). Among the 47 whole-genome-sequenced samples, most strains clustered within genotype I lineage 4I_A.3 and showed lineage-associated non-synonymous substitutions. NS1-A90T, NS2A-L113F, and NS3-F523Y appeared exclusively during 2022-2024 (p < 0.001), whereas NS2A-L113F, NS5-G223S, and NS5-Q631R showed concordant positive-selection signals by FEL and MEME. This hospital-based study highlights an increase in DENV4 detection in Bangkok during 2022-2024 compared with 2018-2021, accompanied by predominance of lineage 4I_A.3 distinct from Malaysian and Indonesian strains reported during a similar period. These findings support integrated clinical and genomic surveillance to monitor DENV serotype and genotype dynamics and inform public health and vaccine strategies.",
+    "authors": [
+      "Lilian Bosibori Obaga",
+      "Tharathip Boondouylan",
+      "Warinya Nuwong",
+      "Navin Horthongkham",
+      "Kamol Suwannakarn",
+      "Pravech Ajawatanawong",
+      "Pravarit Athiprayoon",
+      "Atsadang Boonmee",
+      "Nattaya Tanlieng",
+      "Khanate Sayasit",
+      "Chutikarn Chaimayo"
+    ],
+    "date": "2026-Sep-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753459/",
+    "doi": "10.1016/j.jcv.2026.106004",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "score": 0.5641,
+    "fetched_at": "2026-09-18"
+  },
+  {
     "id": "pubmed:42710746",
     "source": "pubmed",
     "title": "An enhanced Multisegment RT-PCR method for Influenza A Virus Sequencing: Improved Performance and Reduced Preparation Time Over Traditional Methods.",
@@ -2098,6 +2123,39 @@
     "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
     "score": 0.4721,
     "fetched_at": "2026-09-04"
+  },
+  {
+    "id": "pubmed:42755872",
+    "source": "pubmed",
+    "title": "Integrated surveillance in Kilifi reveals continued SARS-CoV-2 circulation and immune escape of emerging JN.1 sublineages post-pandemic.",
+    "abstract": "SARS-CoV-2 has been deprioritized post-pandemic, especially in Africa. Vaccination in Kenya was conducted using the Wuhan-based vaccines only, which showed reduced neutralization efficacy against Omicron and its sublineages. We performed SARS-CoV-2 immune surveillance in five health facilities within the Kilifi Health Demographic and Surveillance System from November 2024 to March 2026. Patients in the facilities presenting acute respiratory symptoms were recruited and nasopharyngeal/oropharyngeal swabs taken for SARS-CoV-2 RT-PCR. Convalescent plasma from 30 patients with confirmed SARS-CoV-2 RT-PCR positive tests and genome sequences were taken for sero-neutralization assays against the infecting variants LF.7, MV.1, and globally predominant strains, XEC.4, LP.8.1 and XFG. In total 5115 patients were tested and 171 patients (3.4%) were positive for SARS-CoV-2. Cough (91.7%), nasal discharge (74.5%) and fever (55.4%) were the most common symptoms while wheezing (2%) and crackles (2.8%) were rarest. Sequencing revealed circulation of JN.1 omicron sub-lineages, LF.7, MV.1 and XEF. Sera from majority of individuals infected by the dominant variants, LF.7 and MV.1 were able to neutralize infecting variants but not the recently circulating XFG variant 23% (7/30) suggesting that infection with a JN.1 lineage virus alone is not sufficient to prevent re-infection with XFG. Overlapping titer distributions was observed between vaccinated and unvaccinated sera, with no statistically significant difference observed for any variant. Our study demonstrates that SARS-CoV-2 continues to circulate in coastal Kenya causing predominantly mild upper respiratory illness while evolution enabling immune escape. These findings emphasize the importance of integrated genomic and immunological surveillance to track emerging variants, evaluate population-level protection, and inform future vaccine update strategies and public health preparedness efforts.",
+    "authors": [
+      "Gloria Konyino",
+      "Bernadette Kutima",
+      "Sharon Owuor",
+      "Donwilliams Omuoyo",
+      "Gerald Waweru",
+      "Igor Andrade Santos",
+      "Arnold W Lambisia",
+      "Esther Nyadzua Katama",
+      "Angela Maina",
+      "Joyce Uche Nyiro",
+      "Charles Agoti",
+      "Charles Sande",
+      "Philip Bejon",
+      "Dalan Bailey",
+      "George Mbugua Warimwe",
+      "L Isabella Ochola-Oyier",
+      "Doreen Lugano",
+      "Steven Ger Nyanjom",
+      "James Nyagwange"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42755872/",
+    "doi": "10.1016/S2666-5247(22)00335-4",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.4721,
+    "fetched_at": "2026-09-18"
   },
   {
     "id": "pubmed:42655655",
@@ -4163,6 +4221,30 @@
     "fetched_at": "2026-08-10"
   },
   {
+    "id": "pubmed:42755071",
+    "source": "pubmed",
+    "title": "Epidemiology, risk factors, and spatio-temporal distribution of lumpy skin disease in cattle in northern Bangladesh.",
+    "abstract": "Lumpy skin disease (LSD) is an emerging transboundary viral disease that causes substantial economic losses in cattle production worldwide. Therefore, the present study aimed to investigate the epidemiology, risk factors, and spatial-temporal distribution through molecular detection of lumpy skin disease virus (LSDV) among cattle in northern Bangladesh. A cross-sectional study was conducted from September 2023 to August 2025 across 10 districts involving 8,650 cattle from 1,200 households. Clinical examination, questionnaire-based epidemiological investigation, spatial mapping, and PCR targeting the P32 and thymidine kinase (TK) genes were performed. The overall prevalence of LSD was 30.15% (2608/8650; 95% CI: 29.2-32.1), while mortality and case fatality rates (CFR) were 3.02% and 10.01%, respectively. Marked spatial and seasonal variations were observed, with the highest prevalence recorded in Thakurgaon (33.92%) and during the rainy season (44.56%). Calves aged below one year showed the highest prevalence (37.39%) and were approximately two times more susceptible to infection (OR = 2.04; 95% CI: 1.82-2.29). Non-vaccinated cattle showed markedly higher prevalence (36.45%) of LSD. Multivariable logistic regression identified non-vaccination (AOR = 14.3; 95% CI: 9.63-21.7), poor biosecurity (AOR = 5.18; 95% CI: 3.37-8.08), and large herd size (AOR = 2.80; 95% CI: 1.87-4.22) as major independent predictors of LSD occurrence. The findings demonstrate that LSD is widely distributed and strongly influenced by management, environmental, and host-related factors in northern Bangladesh. Strengthening vaccination coverage, farm biosecurity, vector control, and targeted surveillance programs may substantially reduce the burden of Lumpy Skin Disease in cattle populations.",
+    "authors": [
+      "Md Shajedur Rahman",
+      "Md Khaled Hossain",
+      "Jahangir Alam",
+      "Nazmi Ara Rumi",
+      "Md Tanvir Islam",
+      "Md Hasan Ali",
+      "Shihab Ahmed",
+      "Hemayet Hossain",
+      "Jong-Joo Kim",
+      "Md Azizul Haque"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42755071/",
+    "doi": "10.5713/ab.260493",
+    "journal": "Animal bioscience",
+    "score": 0.3174,
+    "fetched_at": "2026-09-18"
+  },
+  {
     "id": "pubmed:42620237",
     "source": "pubmed",
     "title": "Prolonged SARS-CoV-2 infection in hematologic malignancies: clinical impact, risk factors and intra-host viral evolution.",
@@ -4403,75 +4485,5 @@
     "doi": "10.1128/AAC.02036-20",
     "score": 0.3007,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42565999",
-    "source": "pubmed",
-    "title": "Molecular and environmental drivers of antimicrobial resistance: global epidemiology, resistome dynamics, and one health strategies.",
-    "abstract": "Antimicrobial resistance (AMR) has evolved into a critical global health security challenge, threatening the effectiveness of modern medicine and increasing morbidity and mortality worldwide. This review integrates current evidence on the molecular and environmental drivers of AMR, alongside global epidemiological patterns, resistome dynamics, and one health-based intervention strategy. Recent surveillance data indicate that AMR contributes to approximately 4.7 million deaths annually, with the highest burden concentrated in low- and middle-income countries, where resistance rates in key pathogens such as Escherichia coli, Klebsiella pneumoniae, and methicillin-resistant Staphylococcus aureus remain alarmingly high. At the molecular level, AMR is driven primarily by horizontal gene transfer mediated by mobile genetic elements, including plasmids, integrons, and transposons, enabling rapid dissemination of multidrug resistance among clinically important pathogens, including critical high-risk threats and critical multidrug-resistant organisms. Environmental reservoirs, including wastewater effluents, agricultural runoff, soil, and hospital discharge systems, serve as major hotspots for the selection and amplification of resistance genes. These environments facilitate the evolution of environmental resistomes, in which subinhibitory antibiotic concentrations, heavy metals, and other pollutants exert strong coselective pressures. Additionally, biofilm formation, metabolic adaptation, and climate-related stressors further increase the persistence and spread of resistance determinants. The integration of genomic surveillance and metagenomic approaches have improved the understanding of resistome structure and transmission pathways, yet significant gaps remain in linking environmental and clinical datasets. To address these challenges, emerging One Health strategies emphasize coordinated interventions across the human, animal, and environmental sectors. Novel approaches such as antimicrobial stewardship, phage therapy, CRISPR-based antimicrobials, and AI-driven drug discovery are being explored alongside improved diagnostics and environmental control measures. Collectively, a cross-sectoral, integrated One Health framework is essential to mitigate the emergence of AMR and sustain antimicrobial efficacy globally.",
-    "authors": [
-      "S M Sertaz Islam",
-      "Md Nayem Chowdhury",
-      "Sumaya Islam Supty",
-      "Niaz Mahmood Tanoy",
-      "Dharam Narayan Yadav",
-      "Supriya Roy",
-      "Atia Tanzum Mollik Riea",
-      "Md Obaydullah",
-      "Zarin Tasnim",
-      "Mst Sadia Zaman",
-      "Md Ashikur Rahman",
-      "Md Shiblee Sadik Sabuj",
-      "Md Sadikul Islam",
-      "Md Anwar Hossain",
-      "Md Siddiqul Islam",
-      "Md Rashedunnabi Akanda"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42565999/",
-    "doi": "10.1016/j.ecoenv.2023.115124",
-    "score": 0.3002,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42585117",
-    "source": "pubmed",
-    "title": "Improved Case Detection of Fleaborne Typhus by PCR Testing, Los Angeles County, California, USA, 2022-2024.",
-    "abstract": "Fleaborne typhus (FBT) is reemerging as a major cause of febrile illness in California, USA. We performed enhanced testing on low-titer Rickettsia typhi antibody-positive specimens from patients with FBT-compatible illness reported in Los Angeles County, California, during 2022-2024. We tested 114 specimens by repeat serology and 113 by real-time PCR; 81 (71%) were PCR-positive, and 95 (83%) had higher antibody titers by repeat serology. Most PCR-positive specimens were collected 8-10 days after illness onset, but some were collected up to 15 days after illness onset. All PCR-positive specimens were R. typhi-specific. After additional testing, 113 (99%) suspected cases were reclassified as probable or confirmed FBT cases. Our findings indicate that many low-titer seropositive results represent true infections and that use of minimum serology thresholds for public health investigation underestimates surveillance case counts. Expanding commercial molecular testing capacity will improve clinical FBT diagnosis and enhance surveillance accuracy.",
-    "authors": [
-      "Armine Sanosyan",
-      "Zuelma A Contreras",
-      "Van Ngo",
-      "Michael K Brown",
-      "Nicole M Green",
-      "Lee A Borenstein",
-      "Jill K Hacker",
-      "Will S Probert",
-      "Alexa C Quintana",
-      "Monica P Haw",
-      "Umme-Aiman Halai"
-    ],
-    "date": "2026-Aug-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42585117/",
-    "doi": "10.3201/eid3209.260554",
-    "score": 0.2998,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42612222",
-    "source": "pubmed",
-    "title": "Morphology and molecular taxonomy of endoparasitic nematodes associated with",
-    "abstract": "Yam (Dioscorea spp.) is an economically important tuber crop in China, yet the identity, relative abundance, and molecular characterization of the dominant endoparasitic nematode taxa constraining its production remain insufficiently documented. Rhizosphere soil (n = 110) and yam tubers (n = 48) were sampled from nine localities across Jiangxi and Shandong provinces between April 2020 and January 2021. Community structure was quantified using prominence value (PV), mean population density (MPD), and frequency of occurrence (FO). Morphological identification used standard taxonomic keys and light microscopy for the primary focal taxon, Pratylenchus coffeae. Species-level confirmation employed PCR amplification of the internal transcribed spacer (ITS) and D2-D3 expansion segment of 28S ribosomal DNA (rDNA), followed by Bayesian phylogenetic inference, with full morpho-molecular characterization applied to P. coffeae as the principal endoparasitic taxon and supporting molecular confirmation provided for co-occurring taxa. Three primary endoparasitic taxa were recovered: Pratylenchus coffeae was the most abundant and prominent endoparasitic nematode recovered from yam tubers, followed by M. incognita, with R. reniformis recovered at comparatively low abundance; P. coffeae likewise dominated the rhizosphere soil community. At the aggregate level, Pratylenchus coffeae was the most prominent endoparasitic nematode across surveyed Chinese yam systems, surpassing M. incognita in both prominence value and frequency of occurrence. However, dominance patterns varied between provinces: P. coffeae was overwhelmingly prevalent in Jiangxi, while M. incognita dominated in Shandong. Thus, no single species is the principal endoparasite across both provinces. This study delivers the first molecularly verified baseline for the prominent endoparasitic nematode complex of Chinese yams, providing a replicable diagnostic framework for surveillance, phytosanitary monitoring, and integrated pest management.",
-    "authors": [
-      "Sulaiman Abdulsalam",
-      "Ru Jiang",
-      "Huan Peng",
-      "Deliang Peng"
-    ],
-    "date": "2026-Aug-18",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42612222/",
-    "doi": "10.1094/PDIS-04-26-0782-RE",
-    "score": 0.2972,
-    "fetched_at": "2026-08-19"
   }
 ]
