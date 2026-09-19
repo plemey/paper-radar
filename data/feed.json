@@ -189,6 +189,29 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42761029",
+    "source": "pubmed",
+    "title": "Epidemiological characteristics and genetic evolution of rhinovirus in Jining City, 2024-2025.",
+    "abstract": "To investigate the epidemiological characteristics and genetic evolution of rhinovirus (RV) among patients with influenza-like illness (ILI) in Jining City, Shandong Province, from 2024 to 2025, and to provide scientific evidence for the formulation of regional respiratory virus prevention and control strategies. A total of 2,724 throat swab specimens were collected from ILI cases at Jining First People's Hospital between 2024 and 2025. Ten respiratory viruses were screened using real-time reverse transcription-quantitative PCR. Of 101 RV-positive specimens, 30 with lower cycle threshold (Ct) values were subjected to whole-genome targeted enrichment sequencing. Molecular typing was performed based on VP1 region nucleotide sequences. A maximum likelihood (ML) phylogenetic tree was constructed, and genetic distances and key amino acid substitution sites were analyzed. Among the 2,724 specimens, influenza virus had the highest detection rate (14.98%), followed by SARS-CoV-2 (7.05%), with rhinovirus ranking third (3.71%, 101/2,724). The RV-positive rate in 2025 (5.53%) was significantly higher than in 2024 (1.95%; χ2 = 23.55, P < 0.001). An unusually high RV positivity rate (23.53%) was observed in November 2025. The 30 sequenced strains were classified into RV-A (73.33%, 17 genotypes), RV-B (10.00%, 3 genotypes), and RV-C (16.67%, 3 genotypes), with RV-A as the predominant species and genotypes exhibiting high diversity. Phylogenetic analysis revealed co-circulation of multiple species and genotypes, with 2025 strains distributed across a broader range of the phylogenetic tree. The nucleotide similarity between the VP1 regions of the 30 strains and their respective reference strains ranged from 86.08% to 95.37%, and amino acid similarity from 91.58% to 99.65%, with 1-24 amino acid substitution sites per strain. RV-A was the predominant rhinovirus species circulating in Jining City during 2024-2025, with high genotypic diversity. The detection rate in 2025 increased significantly compared with 2024, accompanied by an autumn epidemic peak. Rhinoviruses in this region exhibit ongoing evolution in the VP1 region. Enhanced molecular surveillance is warranted to dynamically monitor epidemiological and evolutionary trends.",
+    "authors": [
+      "Mingsheng Zhao",
+      "Tongyun Song",
+      "Wen Li",
+      "Yajuan Jiang",
+      "Yongjian Jia",
+      "Huixin Dou",
+      "Ying Yue",
+      "Boyan Jiao",
+      "Xiaoyu Wang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761029/",
+    "doi": "10.3389/fmicb.2026.1927704",
+    "journal": "Frontiers in microbiology",
+    "score": 0.7017,
+    "fetched_at": "2026-09-19"
+  },
+  {
     "id": "pubmed:42698237",
     "source": "pubmed",
     "title": "Pre-Pandemic Scientific Insights into Influenza A (H3N2): Viral Evolution, Host Responses, and Evidence-Based Preventive Strategies.",
@@ -1140,6 +1163,24 @@
     "journal": "Journal of virology",
     "score": 0.5556,
     "fetched_at": "2026-08-29"
+  },
+  {
+    "id": "pubmed:42759431",
+    "source": "pubmed",
+    "title": "Real-time forecasting of porcine reproductive and respiratory syndrome virus type 2 genetic variant expansion in the field.",
+    "abstract": "Porcine reproductive and respiratory syndrome (PRRS) remains endemic and epidemic in the U.S., driven mainly by the expanding genetic diversity of PRRSV-2. A recently established ORF5-based classification system groups viruses into genetic variants to improve disease tracking. Anticipating which variants are most likely to rapidly increase in incidence, potentially causing epidemic wave-like spread, could significantly improve current monitoring and control efforts. To address this need, we developed a machine learning model to forecast the year-over-year (YoY) growth rate of PRRSV-2 variants, classifying them as fast-growth (>15%) or slow-growth (≤15%) for the next year. The model used 17,158 ORF5 sequences (2015-2024) classified into 191 variants. Thirty features, including exponentially weighted moving averages (EWMAs), genetic distances, and phylogenetic tree metrics, were evaluated. We tested 14 machine learning algorithms and selected the best-performing model, a LightGBM model with 27 features. It achieved 74.1% balanced accuracy with sensitivity of 79.5% for fast-growth variants. The top predictor was the relative difference between a variant's current cumulative sequences and its 3-month EWMA, followed by variant size, other EWMA metrics, and genetic distance features. Emerging variants typically show recent increases in frequency, are represented by at least 50 sequences over the previous three years and exhibit moderate within-variant genetic diversity. The model is retrained quarterly, with updated predictions available through the PRRS-Loom webtool. During the first six quarters of implementation, the model demonstrated improved predictive performance, achieving a balanced accuracy of up to 84% while maintaining a sensitivity of up to 79%. By flagging variants of concern based on fast-growth potential, this approach provides the swine industry with a proactive tool for prioritizing risk management, ultimately improving PRRS control and prevention strategies.",
+    "authors": [
+      "Nakarin Pamornchainavakul",
+      "Mariana Kikuti",
+      "Cesar A Corzo",
+      "Kimberly VanderWaal"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759431/",
+    "doi": "10.1016/j.epidem.2026.100945",
+    "journal": "Epidemics",
+    "score": 0.5547,
+    "fetched_at": "2026-09-19"
   },
   {
     "id": "pubmed:42553703",
@@ -4445,45 +4486,5 @@
     "journal": "Frontiers in cellular and infection microbiology",
     "score": 0.3041,
     "fetched_at": "2026-09-13"
-  },
-  {
-    "id": "pubmed:42645644",
-    "source": "pubmed",
-    "title": "A genomic snapshot of hospital-adapted CC17 vancomycin-resistant Enterococcus faecium colonising high-risk patients in Serbia.",
-    "abstract": "Intestinal colonisation with vancomycin-resistant Enterococcus faecium (VREfm) represents an important reservoir for hospital transmission and subsequent infection. The aim of this study was to investigate the molecular epidemiology and population structure of VREfm colonising isolates among high-risk inpatients in three university hospitals in Serbia. To our knowledge, this study provides the first whole-genome sequencing (WGS)-based insight into the molecular epidemiology of intestinal VREfm colonisation in Serbia and one of the first such studies from Southeast Europe. A total of 29 VREfm isolates obtained through intestinal carriage screening in three university hospitals in Belgrade were analysed by WGS. Sequence types (STs) were assigned using the PubMLST database. Genetic relatedness was assessed using goeBURST analysis based on the global Enterococcus faecium MLST database. MLST identified 16 STs among 29 isolates, indicating considerable genetic diversity. The most frequent STs were ST203 (n = 7) and ST125 (n = 5), followed by ST18, ST80, and ST375 (n = 2 each), while the remaining STs were represented by singletons. goeBURST analysis demonstrated that 27/29 isolates belonged to the hospital-associated clonal complex CC17, with most STs showing close allelic relationships to internationally disseminated CC17-associated lineages, including ST117, ST18, ST80, ST17, and ST78. Four novel sequence types (ST2858, ST2978, ST3161, and ST3162) were identified, with ST3162 containing a novel atpA allele (atpA-234). Two isolates (ST545 and ST2858) belonged to distant non-CC17 lineages. Intestinal VREfm colonisation in Serbian university hospitals was characterised by a genetically diverse but predominantly CC17-associated population structure. These findings highlight intestinal colonisation as an important reservoir of hospital-adapted VREfm lineages and support the need for intensified surveillance and targeted monitoring of high-risk patients.",
-    "authors": [
-      "Ana Janjusevic",
-      "Rajna Minic",
-      "Ivana Cirkovic"
-    ],
-    "date": "2026-Aug-26",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42645644/",
-    "doi": "10.1016/S0140-6736(00)04205-7",
-    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
-    "score": 0.3013,
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42567975",
-    "source": "pubmed",
-    "title": "A Retrospective Molecular Epidemiology Study: Emergence and dissemination of Azole-Resistant Candida parapsilosis Sensu Stricto in Southern Brazil.",
-    "abstract": "Candida parapsilosis sensu stricto has emerged as a major cause of healthcare-associated candidemia, with increasing reports of fluconazole resistance worldwide. This resistance is most commonly associated with amino acid substitutions in Erg11p, particularly Y132F; however, regional variation in resistance mechanisms and clonal dissemination remains not fully understood. This study investigated the molecular epidemiology and genomic landscape of fluconazole-resistant C. parapsilosis in Paraná, Southern Brazil, over a 10-year period. A total of 54 resistant isolates identified between 2014 and 2024 were retrospectively analyzed; 51 viable isolates were confirmed by species identification, antifungal susceptibility testing, and microsatellite genotyping. A subset of 18 representative isolates underwent whole-genome sequencing for phylogenomic analysis. Variants in genes associated with azole resistance, including ERG11, MRR1, TAC1, CDR1, MDR1, ERG3, and ERG6, were characterized. Fluconazole resistance emerged in 2018 and increased thereafter. Phylogenomic analysis revealed two geographically structured lineages: a dominant clone circulating across multiple healthcare institutions in the Curitiba metropolitan area and a second lineage restricted to the northern region of the state. The dominant clone showed minimal genomic diversity (0-5 SNPs), consistent with long-term persistence. A conserved resistance profile was observed, with 17 of 18 sequenced isolates harboring the K143R substitution in Erg11p, while all retained the wild-type residue at position 132. The single isolate lacking ERG11 mutations carried a novel C849Y substitution in the Mrr1p regulator. These findings demonstrate the emergence and persistence of a highly clonal fluconazole-resistant C. parapsilosis lineage in Southern Brazil, characterized by a conserved K143R substitution independent of Y132F. The detection of closely related isolates across different hospitals underscores the need for regional genomic surveillance of hospital-adapted fungal pathogens.",
-    "authors": [
-      "Luiza Souza Rodrigues",
-      "Sabrina da Conceição Barbosa",
-      "Ana Paula Santiago Chacon",
-      "Adriele Celine Siqueira",
-      "Gisele Aparecida Bernardi",
-      "Marcelo Pillonetto",
-      "Vania Aparecida Vicente",
-      "Lavinia Nery Villa Stangler Arend",
-      "Terezinha Inez Estivalet Svidzinski",
-      "Libera Maria Dalla-Costa"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42567975/",
-    "doi": "10.1128/AAC.02036-20",
-    "score": 0.3007,
-    "fetched_at": "2026-08-09"
   }
 ]

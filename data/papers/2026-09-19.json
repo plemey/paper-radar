@@ -1,0 +1,43 @@
+[
+  {
+    "id": "pubmed:42761029",
+    "source": "pubmed",
+    "title": "Epidemiological characteristics and genetic evolution of rhinovirus in Jining City, 2024-2025.",
+    "abstract": "To investigate the epidemiological characteristics and genetic evolution of rhinovirus (RV) among patients with influenza-like illness (ILI) in Jining City, Shandong Province, from 2024 to 2025, and to provide scientific evidence for the formulation of regional respiratory virus prevention and control strategies. A total of 2,724 throat swab specimens were collected from ILI cases at Jining First People's Hospital between 2024 and 2025. Ten respiratory viruses were screened using real-time reverse transcription-quantitative PCR. Of 101 RV-positive specimens, 30 with lower cycle threshold (Ct) values were subjected to whole-genome targeted enrichment sequencing. Molecular typing was performed based on VP1 region nucleotide sequences. A maximum likelihood (ML) phylogenetic tree was constructed, and genetic distances and key amino acid substitution sites were analyzed. Among the 2,724 specimens, influenza virus had the highest detection rate (14.98%), followed by SARS-CoV-2 (7.05%), with rhinovirus ranking third (3.71%, 101/2,724). The RV-positive rate in 2025 (5.53%) was significantly higher than in 2024 (1.95%; χ2 = 23.55, P < 0.001). An unusually high RV positivity rate (23.53%) was observed in November 2025. The 30 sequenced strains were classified into RV-A (73.33%, 17 genotypes), RV-B (10.00%, 3 genotypes), and RV-C (16.67%, 3 genotypes), with RV-A as the predominant species and genotypes exhibiting high diversity. Phylogenetic analysis revealed co-circulation of multiple species and genotypes, with 2025 strains distributed across a broader range of the phylogenetic tree. The nucleotide similarity between the VP1 regions of the 30 strains and their respective reference strains ranged from 86.08% to 95.37%, and amino acid similarity from 91.58% to 99.65%, with 1-24 amino acid substitution sites per strain. RV-A was the predominant rhinovirus species circulating in Jining City during 2024-2025, with high genotypic diversity. The detection rate in 2025 increased significantly compared with 2024, accompanied by an autumn epidemic peak. Rhinoviruses in this region exhibit ongoing evolution in the VP1 region. Enhanced molecular surveillance is warranted to dynamically monitor epidemiological and evolutionary trends.",
+    "authors": [
+      "Mingsheng Zhao",
+      "Tongyun Song",
+      "Wen Li",
+      "Yajuan Jiang",
+      "Yongjian Jia",
+      "Huixin Dou",
+      "Ying Yue",
+      "Boyan Jiao",
+      "Xiaoyu Wang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761029/",
+    "doi": "10.3389/fmicb.2026.1927704",
+    "journal": "Frontiers in microbiology",
+    "score": 0.7017,
+    "fetched_at": "2026-09-19"
+  },
+  {
+    "id": "pubmed:42759431",
+    "source": "pubmed",
+    "title": "Real-time forecasting of porcine reproductive and respiratory syndrome virus type 2 genetic variant expansion in the field.",
+    "abstract": "Porcine reproductive and respiratory syndrome (PRRS) remains endemic and epidemic in the U.S., driven mainly by the expanding genetic diversity of PRRSV-2. A recently established ORF5-based classification system groups viruses into genetic variants to improve disease tracking. Anticipating which variants are most likely to rapidly increase in incidence, potentially causing epidemic wave-like spread, could significantly improve current monitoring and control efforts. To address this need, we developed a machine learning model to forecast the year-over-year (YoY) growth rate of PRRSV-2 variants, classifying them as fast-growth (>15%) or slow-growth (≤15%) for the next year. The model used 17,158 ORF5 sequences (2015-2024) classified into 191 variants. Thirty features, including exponentially weighted moving averages (EWMAs), genetic distances, and phylogenetic tree metrics, were evaluated. We tested 14 machine learning algorithms and selected the best-performing model, a LightGBM model with 27 features. It achieved 74.1% balanced accuracy with sensitivity of 79.5% for fast-growth variants. The top predictor was the relative difference between a variant's current cumulative sequences and its 3-month EWMA, followed by variant size, other EWMA metrics, and genetic distance features. Emerging variants typically show recent increases in frequency, are represented by at least 50 sequences over the previous three years and exhibit moderate within-variant genetic diversity. The model is retrained quarterly, with updated predictions available through the PRRS-Loom webtool. During the first six quarters of implementation, the model demonstrated improved predictive performance, achieving a balanced accuracy of up to 84% while maintaining a sensitivity of up to 79%. By flagging variants of concern based on fast-growth potential, this approach provides the swine industry with a proactive tool for prioritizing risk management, ultimately improving PRRS control and prevention strategies.",
+    "authors": [
+      "Nakarin Pamornchainavakul",
+      "Mariana Kikuti",
+      "Cesar A Corzo",
+      "Kimberly VanderWaal"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759431/",
+    "doi": "10.1016/j.epidem.2026.100945",
+    "journal": "Epidemics",
+    "score": 0.5547,
+    "fetched_at": "2026-09-19"
+  }
+]
