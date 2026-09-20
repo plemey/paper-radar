@@ -895,6 +895,27 @@
     "fetched_at": "2026-09-07"
   },
   {
+    "id": "pubmed:42762379",
+    "source": "pubmed",
+    "title": "Tick-host-virus triad in Crimean-Congo hemorrhagic fever transmission: global patterns across vector and reservoir species.",
+    "abstract": "Crimean-Congo hemorrhagic fever virus (CCHFV) is a widely distributed tick-borne orthonairovirus and an important public health threat across Africa, Asia, Europe, and the Middle East. This narrative review synthesizes evidence on the tick-host-virus transmission system, with emphasis on Hyalomma vectors, vertebrate hosts, viral genomic diversity, vector competence, occupational exposure, molecular diagnostics, and One Health surveillance. Published systematic reviews and meta-analyses are used as secondary evidence sources; no de novo pooled meta-analysis was performed in this review. CCHFV comprises a tripartite RNA genome with substantial segment-specific diversity and frequent reassortment, complicating lineage assignment and molecular epidemiology. Hyalomma ticks are the principal recognized vectors, while domestic livestock can develop transient, generally asymptomatic viremia that supports tick-host-tick transmission. Human risk is concentrated in occupational and healthcare settings involving ticks, livestock, infected tissues, or infected patients. The geographic distribution of Hyalomma ticks is changing in parts of Europe and may expand northward under suitable environmental conditions, although detection of adventitious ticks should be distinguished from evidence of established populations. Effective prevention requires integrated vector control, personal protection, livestock and tick surveillance, genomic monitoring, rapid diagnostics, and coordinated One Health response. Important evidence gaps remain in non-Hyalomma vector competence, standardized animal serosurveillance, genomic sampling, climate-driven establishment of Hyalomma populations, and validation of point-of-care diagnostics across viral lineages.",
+    "authors": [
+      "Muhammad Younus",
+      "Mehwish Lqbal",
+      "Muhammad Nasir",
+      "Muhammad Mujeeb Ullah",
+      "Md Zakir Hassan",
+      "Elena G Kovaleva",
+      "Muhammad Safdar"
+    ],
+    "date": "2026-Sep-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762379/",
+    "doi": "10.1038/srep35819",
+    "journal": "Veterinary research communications",
+    "score": 0.5712,
+    "fetched_at": "2026-09-20"
+  },
+  {
     "id": "pubmed:42655718",
     "source": "pubmed",
     "title": "Whole-Genome Sequencing of RSV and Phylogeographic Assessment of Viral Importations into Russia.",
@@ -2619,6 +2640,23 @@
     "fetched_at": "2026-09-04"
   },
   {
+    "id": "pubmed:42763644",
+    "source": "pubmed",
+    "title": "Norovirus on Cruise Ships: A Recurring Sentinel Event.",
+    "abstract": "Norovirus remains the leading cause of acute gastroenteritis outbreaks worldwide and is particularly well adapted for transmission aboard cruise ships due to its low infectious dose, prolonged environmental persistence, and rapid person-to-person spread. We reviewed recent outbreaks to highlight recurring norovirus outbreaks and gaps in maritime surveillance. These demonstrate the vulnerability of cruise ships to rapid viral amplification and international dissemination. Current surveillance relies predominantly on symptomatic case reporting, limiting the ability to distinguish between single-source introduction, environmental persistence, foodborne transmission, and emergence of novel recombinant strains. Recent modelling studies have shown that early diagnosis and isolation of symptomatic individuals substantially reduce secondary transmission, yet routine genomic surveillance is rarely implemented onboard. Wastewater-based surveillance offers a practical, non-invasive early warning approach that can be integrated into existing ship infrastructure and complemented by genomic sequencing to identify circulating variants and transmission pathways. Incorporating molecular and wastewater surveillance into routine maritime health programmes would strengthen outbreak detection, improve infection control, and enhance global preparedness for recurrent norovirus outbreaks associated with international cruise travel.",
+    "authors": [
+      "Adarsh Pratik Deo",
+      "Nisha Thakur",
+      "Gursimran Kaur Mohi"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763644/",
+    "doi": "10.7759/cureus.114832",
+    "journal": "Cureus",
+    "score": 0.4384,
+    "fetched_at": "2026-09-20"
+  },
+  {
     "id": "pubmed:42592558",
     "source": "pubmed",
     "title": "Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes.",
@@ -4321,6 +4359,32 @@
     "fetched_at": "2026-08-20"
   },
   {
+    "id": "pubmed:42762688",
+    "source": "pubmed",
+    "title": "Molecular epidemiology, genetic characteristics, and antimicrobial resistance of Staphylococcus capitis clinical isolates: First identification of the NRCS-A and proto-NRCS-A clones in Japan.",
+    "abstract": "A pathogenic clone of Staphylococcus capitis, NRCS-A, possesses specific virulence factors and shows broader antimicrobial resistance (AMR). The present study aimed to analyze the genetic characteristics and AMR profiles of S. capitis clinical isolates and determine the prevalence of the NRCS-A clone in Japan. S. capitis isolates from clinical specimens were analyzed for the presence of virulence factors and AMR-associated genes by PCR and sequencing. Genetic classification of S. capitis isolates was performed by an in-house multilocus sequence typing (MLST) based on four loci (arcC-rpoB-gap-tuf). A total of 194 S. capitis isolates (44 subsp. capitis and 150 subsp. urealyticus) were collected for 7 months. mecA was detected in 33% (63/194) of isolates (only subsp. urealyticus), while the most common AMR determinants identified were fosSC (77%, n = 150) and blaZ (59%, n = 114). Virulence factors associated with the NRCS-A clone, nsr and tarJ, were found in 20% (n = 39) and 37% (n = 71) of isolates, respectively. Both nsr and tarJ were present in 13 isolates (7%), among which three isolates had the traits of the NRCS-A clone (SCCmec-V with CRISPR/Cas-IIIA; SCCcad/ars/cop in two isolates), whereas the remaining 10 isolates were considered presumptive proto-NRCS-A clone (nsr+, tarJ+, CRISPR-Cas-IIIA/SCCmec-negative). By the MLST scheme, all the S. capitis isolates were differentiated into 48 STs and six major clonal complexes (CCs). Isolates assigned to the NRCS-A clone were classified as ST13 or ST14 in CC1, which was a minor lineage of S. capitis subsp. urealyticus. Similarly, most isolates of proto-NRCS-A clone were grouped into CC1, with ST13 being dominant. The present study first revealed the presence of NRCS-A and proto-NRCS-A clones among S. capitis clinical isolates in Japan. Careful monitoring and attention to these clones may be necessary in clinical settings.",
+    "authors": [
+      "Masako Osada",
+      "Meiji Soe Aung",
+      "Mana Nishida",
+      "Kayo Kawamura",
+      "Masahiko Ito",
+      "Noriko Urushibara",
+      "Mitsuyo Kawaguchiya",
+      "Nobuhide Ohashi",
+      "Satoshi Suzuki",
+      "Toru Higuchi",
+      "Mina Hirose",
+      "Nobumichi Kobayashi"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762688/",
+    "doi": "10.1016/j.jiph.2026.103365",
+    "journal": "Journal of infection and public health",
+    "score": 0.315,
+    "fetched_at": "2026-09-20"
+  },
+  {
     "id": "pubmed:42662357",
     "source": "pubmed",
     "title": "Genetic diversity of ESBL-producing",
@@ -4418,73 +4482,5 @@
     "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
     "score": 0.3063,
     "fetched_at": "2026-09-01"
-  },
-  {
-    "id": "pubmed:42575611",
-    "source": "pubmed",
-    "title": "Tick-borne pathogens infecting urban domestic dogs from a highland swamp area from Paraíba, northeastern Brazil.",
-    "abstract": "Tick-borne diseases represent important illnesses in dogs, but information about their occurrence in some regions of northeastern Brazil is still limited. Considering the possible differences in the distribution of these agents among the various regions of the country, this study aimed to investigate the prevalence of Babesia vogeli, Ehrlichia canis, Hepatozoon spp., and Borrelia spp., as well as factors associated with these infections in urban dogs from the Brejo Paraibano microregion. To this end, canine blood samples were analyzed using TaqMan real-time PCR protocols or conventional PCR. Overall, of the 398 dogs sampled 109 (27.3%) tested positive for at least one of the four pathogens investigated. Deeming each pathogen, B. vogeli was detected in 25 animals, E. canis in 32, and Hepatozoon spp. in 71, the latter confirmed as H. canis by DNA sequencing in at least 10 dogs. Borrelia spp. was not detected in any dog. After multivariate analysis, for B. vogeli, the presence of apathy (P = 0.034), anemia (P = 0.035), and high tick infestation (P = 0.017) were associated. No variable was associated with positivity for E. canis (P > 0.05). For Hepatozoon (including H. canis), the ingestion of untreated water (P = 0.002) was associated. The results confirm the circulation of pathogens of veterinary importance in the state, and report, for the first time, the molecular detection of Hepatozoon canis in the state. Furthermore, they provide information on associated factors that contribute to the planning of surveillance and control measures in the region.",
-    "authors": [
-      "Débora Ferreira Dos Santos Angelo",
-      "Maria das Graças da Silva Bernardino",
-      "Felipe Rodrigues Jorge",
-      "Igor Silva Silito",
-      "Matheus Pasini Martins",
-      "Thiago Fernandes Martins",
-      "Arthur Willian de Lima Brasil",
-      "Marcelo Bahia Labruna",
-      "Sérgio Santos de Azevedo"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575611/",
-    "doi": "10.1016/j.vprsr.2026.101533",
-    "score": 0.3062,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42614286",
-    "source": "pubmed",
-    "title": "Clinical and molecular epidemiology of",
-    "abstract": "Clostridioides difficile infection (CDI) remains an important healthcare-associated infection worldwide. However, the molecular epidemiology of CDI in county-level hospitals across China remains poorly understood. Therefore, this study aimed to investigate the clinical and molecular epidemiology of CDI in a county-level hospital in Zhejiang Province, China. Between January and December 2025, we conducted a genomic epidemiology study of C. difficile isolates recovered from patients with clinically suspected CDI at a county-level hospital in Zhejiang Province, China. C. difficile strains were isolated and identified, typed by multi-locus sequence typing (MLST), and phylogenetic analysis, core-genome single-nucleotide polymorphism (cgSNP) analysis, and antimicrobial resistance (AMR) genes identification were extracted from whole genome sequencing. Antimicrobial susceptibility testing was performed using the agar dilution method according to CLSI guidelines. Statistical analysis was performed using R/Python. In total, 50 (3.8%) toxigenic C. difficile isolates were identified from a total 1,315 stool samples. Among them, 40 (80.0%) exhibited the tcdA+/tcdB+/CDT- profile, 8 (16.0%) exhibited the tcdA-/tcdB+/CDT- profile, and 2 (4.0%) exhibited the tcdA+/tcdB+/CDT+ profile. And 16 (32.0%) strains were isolated from the Digestive department, followed by 8 (16.0%) strains from the Rehabilitation department. The most sequence type of the toxigenic C. difficile was ST2 (14.0%) and ST3 (14.0%), followed by ST81 (12.0%), ST35 (10.0%) and ST129 (8.0%). cgSNP-based minimum spanning tree analysis provided genomic evidence compatible with potential nosocomial transmission, including ST3, ST35, ST81, and ST129, with closely related isolates identified both within and between departments. Furthermore, all toxigenic isolates were successfully analyzed for antimicrobial susceptibility phenotype and remained susceptible to vancomycin, metronidazole, tigecycline, daptomycin, and fidaxomicin. High resistance rates were observed for clindamycin and erythromycin, while moderate resistance to tetracycline and moxifloxacin was also detected. Resistance phenotypes generally correlated with the presence of corresponding resistance determinants, including ermB, tetM, and the gyrA (Thr82Ile) mutation. This study provides insight into the molecular epidemiology and antimicrobial resistance characteristics of toxigenic C. difficile in a county-level hospital in China. Our findings show potential healthcare-associated transmission of several predominant lineages and highlight the importance of continuous genomic surveillance and strengthened infection prevention and control strategies to limit the dissemination of epidemic and multidrug-resistant C. difficile strains in healthcare settings.",
-    "authors": [
-      "Meihong Wang",
-      "Liping Yu",
-      "Lisi Zheng",
-      "Xiajing Bi",
-      "Xiaobei Xu",
-      "Haiying Fang",
-      "Tao Lv",
-      "Yunbo Chen"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42614286/",
-    "doi": "10.3389/fmicb.2026.1882254",
-    "score": 0.3053,
-    "fetched_at": "2026-08-19"
-  },
-  {
-    "id": "pubmed:42729267",
-    "source": "pubmed",
-    "title": "Resistance gene mutations and phylogenetic relationships in",
-    "abstract": "Candidozyma auris is an emerging healthcare-associated fungal pathogen with a high propensity for nosocomial transmission and development of antifungal resistance. This study aimed to identify resistance-associated genomic variants and characterize the phylogenetic structure of clinical C. auris isolates circulating in Russia. We analyzed 82 isolates collected between 2017 and 2023 from 18 hospitals in the Northwestern and Central Federal Districts of the Russian Federation. Antifungal susceptibility testing was combined with whole-genome sequencing, targeted FCY2 sequencing, and comparative phylogenomic analysis using publicly available international genomes. All isolates analyzed in this study belonged to clade I and showed a highly conserved profile of elevated azole MICs. The consistent detection of ERG11 (K143R), TAC1B (A640V), and CDR1 (V704L) suggests that reduced azole susceptibility in this population is associated with both target-gene alteration and efflux-mediated mechanisms. All isolates remained susceptible to echinocandins in vitro, and no resistance-conferring mutations were detected in FKS1, consistent with the absence of an echinocandin-resistant phenotype. Decreased susceptibility to flucytosine was mainly associated with the FCY2 (L383*) nonsense mutation, which was confirmed by targeted Sanger sequencing in additional isolates. Phylogenomic reconstruction showed that the Russian isolates represented a restricted segment of global clade I diversity and revealed two major geographically structured lineages corresponding to two large metropolitan areas in European Russia. The distribution of closely related isolates across hospitals supports local persistence and inter-hospital dissemination of genetically related strains. These findings provide important insights into the molecular epidemiology, antifungal resistance mechanisms, and transmission dynamics of C. auris in Russia.",
-    "authors": [
-      "Ellina Grigorievna Oganesyan",
-      "Anna S Zhuk",
-      "K V Gusarova",
-      "S V Kovyrshin",
-      "E S Alekseevskaya",
-      "O E Orlova",
-      "S N Khostelidi",
-      "O P Kozlova",
-      "A V Liubimova",
-      "A E Taraskina",
-      "Natalia Vsevolodovna Vasilyeva"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729267/",
-    "doi": "10.1128/AAC.01624-21",
-    "journal": "Frontiers in cellular and infection microbiology",
-    "score": 0.3041,
-    "fetched_at": "2026-09-13"
   }
 ]

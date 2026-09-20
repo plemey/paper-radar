@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pubmed:42763644",
+    "source": "pubmed",
+    "title": "Norovirus on Cruise Ships: A Recurring Sentinel Event.",
+    "abstract": "Norovirus remains the leading cause of acute gastroenteritis outbreaks worldwide and is particularly well adapted for transmission aboard cruise ships due to its low infectious dose, prolonged environmental persistence, and rapid person-to-person spread. We reviewed recent outbreaks to highlight recurring norovirus outbreaks and gaps in maritime surveillance. These demonstrate the vulnerability of cruise ships to rapid viral amplification and international dissemination. Current surveillance relies predominantly on symptomatic case reporting, limiting the ability to distinguish between single-source introduction, environmental persistence, foodborne transmission, and emergence of novel recombinant strains. Recent modelling studies have shown that early diagnosis and isolation of symptomatic individuals substantially reduce secondary transmission, yet routine genomic surveillance is rarely implemented onboard. Wastewater-based surveillance offers a practical, non-invasive early warning approach that can be integrated into existing ship infrastructure and complemented by genomic sequencing to identify circulating variants and transmission pathways. Incorporating molecular and wastewater surveillance into routine maritime health programmes would strengthen outbreak detection, improve infection control, and enhance global preparedness for recurrent norovirus outbreaks associated with international cruise travel.",
+    "authors": [
+      "Adarsh Pratik Deo",
+      "Nisha Thakur",
+      "Gursimran Kaur Mohi"
+    ],
+    "date": "2026-Aug-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763644/",
+    "doi": "10.7759/cureus.114832",
+    "journal": "Cureus",
+    "score": 0.4384,
+    "fetched_at": "2026-09-20"
+  },
+  {
+    "id": "pubmed:42762688",
+    "source": "pubmed",
+    "title": "Molecular epidemiology, genetic characteristics, and antimicrobial resistance of Staphylococcus capitis clinical isolates: First identification of the NRCS-A and proto-NRCS-A clones in Japan.",
+    "abstract": "A pathogenic clone of Staphylococcus capitis, NRCS-A, possesses specific virulence factors and shows broader antimicrobial resistance (AMR). The present study aimed to analyze the genetic characteristics and AMR profiles of S. capitis clinical isolates and determine the prevalence of the NRCS-A clone in Japan. S. capitis isolates from clinical specimens were analyzed for the presence of virulence factors and AMR-associated genes by PCR and sequencing. Genetic classification of S. capitis isolates was performed by an in-house multilocus sequence typing (MLST) based on four loci (arcC-rpoB-gap-tuf). A total of 194 S. capitis isolates (44 subsp. capitis and 150 subsp. urealyticus) were collected for 7 months. mecA was detected in 33% (63/194) of isolates (only subsp. urealyticus), while the most common AMR determinants identified were fosSC (77%, n = 150) and blaZ (59%, n = 114). Virulence factors associated with the NRCS-A clone, nsr and tarJ, were found in 20% (n = 39) and 37% (n = 71) of isolates, respectively. Both nsr and tarJ were present in 13 isolates (7%), among which three isolates had the traits of the NRCS-A clone (SCCmec-V with CRISPR/Cas-IIIA; SCCcad/ars/cop in two isolates), whereas the remaining 10 isolates were considered presumptive proto-NRCS-A clone (nsr+, tarJ+, CRISPR-Cas-IIIA/SCCmec-negative). By the MLST scheme, all the S. capitis isolates were differentiated into 48 STs and six major clonal complexes (CCs). Isolates assigned to the NRCS-A clone were classified as ST13 or ST14 in CC1, which was a minor lineage of S. capitis subsp. urealyticus. Similarly, most isolates of proto-NRCS-A clone were grouped into CC1, with ST13 being dominant. The present study first revealed the presence of NRCS-A and proto-NRCS-A clones among S. capitis clinical isolates in Japan. Careful monitoring and attention to these clones may be necessary in clinical settings.",
+    "authors": [
+      "Masako Osada",
+      "Meiji Soe Aung",
+      "Mana Nishida",
+      "Kayo Kawamura",
+      "Masahiko Ito",
+      "Noriko Urushibara",
+      "Mitsuyo Kawaguchiya",
+      "Nobuhide Ohashi",
+      "Satoshi Suzuki",
+      "Toru Higuchi",
+      "Mina Hirose",
+      "Nobumichi Kobayashi"
+    ],
+    "date": "2026-Sep-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762688/",
+    "doi": "10.1016/j.jiph.2026.103365",
+    "journal": "Journal of infection and public health",
+    "score": 0.315,
+    "fetched_at": "2026-09-20"
+  },
+  {
+    "id": "pubmed:42762379",
+    "source": "pubmed",
+    "title": "Tick-host-virus triad in Crimean-Congo hemorrhagic fever transmission: global patterns across vector and reservoir species.",
+    "abstract": "Crimean-Congo hemorrhagic fever virus (CCHFV) is a widely distributed tick-borne orthonairovirus and an important public health threat across Africa, Asia, Europe, and the Middle East. This narrative review synthesizes evidence on the tick-host-virus transmission system, with emphasis on Hyalomma vectors, vertebrate hosts, viral genomic diversity, vector competence, occupational exposure, molecular diagnostics, and One Health surveillance. Published systematic reviews and meta-analyses are used as secondary evidence sources; no de novo pooled meta-analysis was performed in this review. CCHFV comprises a tripartite RNA genome with substantial segment-specific diversity and frequent reassortment, complicating lineage assignment and molecular epidemiology. Hyalomma ticks are the principal recognized vectors, while domestic livestock can develop transient, generally asymptomatic viremia that supports tick-host-tick transmission. Human risk is concentrated in occupational and healthcare settings involving ticks, livestock, infected tissues, or infected patients. The geographic distribution of Hyalomma ticks is changing in parts of Europe and may expand northward under suitable environmental conditions, although detection of adventitious ticks should be distinguished from evidence of established populations. Effective prevention requires integrated vector control, personal protection, livestock and tick surveillance, genomic monitoring, rapid diagnostics, and coordinated One Health response. Important evidence gaps remain in non-Hyalomma vector competence, standardized animal serosurveillance, genomic sampling, climate-driven establishment of Hyalomma populations, and validation of point-of-care diagnostics across viral lineages.",
+    "authors": [
+      "Muhammad Younus",
+      "Mehwish Lqbal",
+      "Muhammad Nasir",
+      "Muhammad Mujeeb Ullah",
+      "Md Zakir Hassan",
+      "Elena G Kovaleva",
+      "Muhammad Safdar"
+    ],
+    "date": "2026-Sep-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762379/",
+    "doi": "10.1038/srep35819",
+    "journal": "Veterinary research communications",
+    "score": 0.5712,
+    "fetched_at": "2026-09-20"
+  }
+]
