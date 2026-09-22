@@ -1232,6 +1232,58 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42764048",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of the globally spreading genetic lineage IV of peste des petits ruminants virus.",
+    "abstract": "Peste des petits ruminants (PPR) is a highly contagious viral disease of small ruminants caused by the peste des petits ruminants virus (PPRV), which is classified into four distinct genetic lineages (I-IV). A critical concern is the rapid and widespread expansion of lineage IV (LIV) across West Africa over the past decade. In this study, we generated full or partial genome sequence from 26 new PPRV samples, including historical (pre-2000) and recent African LIV isolates, offering the first opportunity to investigate the evolutionary history of LIV in Africa and identify genetic events potentially associated with its recent spread. These new sequences were aligned with 141 publicly available PPRV sequences to perform phylogenomic analyses. Results reveal that the most ancestral LIV group comprises strains circulating in Sub-Saharan Africa (designated clade LIVssa), providing new evidence for an African origin of lineage IV. Our results further indicate that PPRV strains linked to the recent West African expansion of LIV belong to a specific LIVssa subclade, termed NigB. We identified multiple signatures of selection pressure within the LIVssa sublineage, particularly in the NigB subclade. Several amino acid substitutions unique to LIVssa or NigB were detected, some of which may impact protein function and warrant prioritised investigation. While additional genomic data are required to confirm the association between the NigB subclade and the ongoing spread of LIV in West Africa, this expansion is alarming and demands intensified research efforts using integrative approaches. The evolutionary adaptations observed in LIVssa could undermine current disease control strategies in regions where PPR poses significant threats to food security and local economies.",
+    "authors": [
+      "Maxime Courcelle",
+      "Kadidia Tounkara",
+      "Samuel Mantip",
+      "Mamadou Niang",
+      "Cheick Abou Kounta Sidibe",
+      "Amadou Sery",
+      "Marthin Dakouo",
+      "Pam Dachung Luka",
+      "Adeyinka Adedeji",
+      "David Shamaki",
+      "Maryam Muhammad",
+      "Yahia Hassan Ali",
+      "Intisar Kamil Saeed",
+      "Joseph Awuni",
+      "Theophilus Odoom",
+      "Patrick Ababio Tetteh",
+      "Daniel Tawiah Yingar",
+      "Abel Wade",
+      "Simon Dickmu",
+      "Aissatou Diddi",
+      "Hazar Shawash",
+      "Emmanuel Couacy-Hymann",
+      "Koffi Yao Mathurin",
+      "Hatem Ouled Ahmed Ben Ali",
+      "Sonia Ben Hassen",
+      "Salma Haddouchi",
+      "Ahmad Almajali",
+      "Tirumala B K Settypalli",
+      "Charles E Lamien",
+      "Habib Salami",
+      "Saada Rassoul",
+      "Mohadji Asnaoui",
+      "Catherine Cetre-Sossah",
+      "Samia Guendouz",
+      "Olivier Kwiatek",
+      "Geneviève Libeau",
+      "William G Dundon",
+      "Arnaud Bataille"
+    ],
+    "date": "2026-Sep-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764048/",
+    "doi": "10.1016/j.meegid.2026.106030",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.5516,
+    "fetched_at": "2026-09-22"
+  },
+  {
     "id": "pubmed:42749814",
     "source": "pubmed",
     "title": "Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy.",
@@ -1288,6 +1340,26 @@
     "journal": "Methods in molecular biology (Clifton, N.J.)",
     "score": 0.5397,
     "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42765113",
+    "source": "pubmed",
+    "title": "Emergence of canine parvovirus-2c in domestic cats and adaptive evolution of the NS1 gene: Molecular epidemiology of feline parvoviruses in Northern Vietnam (2022-2025).",
+    "abstract": "Feline parvovirus (FPV) remains one of the most important viral pathogens affecting domestic cats worldwide and continues to cause substantial morbidity and mortality despite the availability of effective vaccines. Information regarding the molecular epidemiology, full-length VP2 and NS1 gene characteristics, evolutionary dynamics, and circulation of canine parvovirus (CPV) variants in cats remains limited in Vietnam. Therefore, this study investigated the epidemiological, molecular, and evolutionary characteristics of feline parvoviruses circulating in domestic cats in Northern Vietnam between 2022 and 2025. A cross-sectional molecular epidemiological study was conducted using 244 rectal swab samples collected from healthy and clinically affected domestic cats in Hanoi, Bac Ninh, Hung Yen, and Ninh Binh provinces during 2022-2025. Viral DNA was detected by conventional polymerase chain reaction targeting the VP2 gene. Nine representative positive samples were subjected to sequencing of the full-length VP2 and NS1 genes. Phylogenetic relationships, nucleotide identity, amino acid substitutions, recombination events, and natural selection profiles were analyzed using established bioinformatics tools. Associations between epidemiological variables and FPV positivity were evaluated using Fisher's exact test. Eleven of 244 samples (4.51%) were positive for parvovirus DNA. Cats younger than 12 months exhibited significantly higher infection rates than older cats (p < 0.05), whereas breed, sex, and health status were not significantly associated with viral detection. The VP2 and NS1 genes exhibited high nucleotide conservation, with identities ranging from 97.72%-100% and 98.20%-99.90%, respectively. Phylogenetic analyses demonstrated that seven isolates clustered with Asian FPV lineages, whereas two isolates grouped within the CPV-2c lineage, providing molecular evidence of CPV-2c infection in domestic cats. No recombination events were detected in either gene. Evolutionary analyses identified two positively selected sites within the NS1 protein together with numerous negatively selected sites, indicating predominantly purifying selection with localized adaptive evolution. FPV remains actively circulating among domestic cats in Northern Vietnam, with highly conserved VP2 and NS1 genes. The detection of CPV-2c in cats provides evidence of interspecies viral circulation and highlights the importance of integrated molecular surveillance. The observed adaptive evolution within the NS1 protein improves current understanding of parvovirus evolution and provides valuable baseline information for future epidemiological investigations, vaccine monitoring, and disease control strategies.",
+    "authors": [
+      "Hai Minh Tran",
+      "Giang Huong Thi Tran",
+      "Thiet Chi Ngo",
+      "Amonpun Rattanasrisomporn",
+      "Jatuporn Rattanasrisomporn",
+      "Hieu Van Dong"
+    ],
+    "date": "2026-Aug-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765113/",
+    "doi": "10.14202/vetworld.2026.3415-3431",
+    "journal": "Veterinary world",
+    "score": 0.5372,
+    "fetched_at": "2026-09-22"
   },
   {
     "id": "pubmed:42749190",
@@ -4441,46 +4513,5 @@
     "journal": "Infection and drug resistance",
     "score": 0.3094,
     "fetched_at": "2026-09-13"
-  },
-  {
-    "id": "pubmed:42738487",
-    "source": "pubmed",
-    "title": "Molecular Survey and Genetic Characterization of",
-    "abstract": "Trichomonads include species of veterinary and zoonotic importance, yet infections with trichomonads in horses remain uncharacterized in Shanxi Province, Northern China. In the present study, we conducted a molecular survey of Tetratrichomonas buttreyi and Pentatrichomonas hominis using 631 horse fecal samples collected from Datong, Taiyuan, and Yuncheng cities in Shanxi Province between March and June 2023. Nested PCR assays targeting the small subunit ribosomal RNA (SSU rRNA) gene were used to detect the two trichomonad species. The overall molecular prevalences were 3.7% (23/631; 95% CI, 2.5-5.5%) for T. buttreyi and 0.8% (5/631; 95% CI, 0.3-1.9%) for P. hominis. T. buttreyi prevalence differed significantly by region and management mode but not by age or sex. P. hominis was detected only in Datong City, resulting in a significant regional difference; however, age, sex, and management mode were not significantly associated with P. hominis prevalence. Five representative T. buttreyi sequences and one representative P. hominis sequence were obtained in the present study. Among these sequences, two T. buttreyi sequences shared 100% nucleotide identity with reference sequences from pigs, cattle, and horses; three showed only minor nucleotide variation. The representative P. hominis sequence clustered with the zoonotic genotype CC1, suggesting that horses may form part of the broader host network of P. hominis, though further work is needed to establish horses' reservoir competence or confirm their role in the transmission. These findings provide the first molecular evidence of T. buttreyi and P. hominis in horses from Shanxi Province, and establish a baseline for future surveillance and One Health risk assessments.",
-    "authors": [
-      "Dong-Yang Wang",
-      "Nan Su",
-      "Wen Li",
-      "Ze-Dong Zhang",
-      "Xun-Zhi Liu",
-      "Wen-Wei Gao"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42738487/",
-    "doi": "10.1186/s13071-025-06840-w",
-    "journal": "Animals : an open access journal from MDPI",
-    "score": 0.3064,
-    "fetched_at": "2026-09-15"
-  },
-  {
-    "id": "pubmed:42671493",
-    "source": "pubmed",
-    "title": "Predominance of M1",
-    "abstract": "The clinical relevance of M1UK type strains of Streptococcus pyogenes in Japan remains insufficiently defined. We investigated the molecular epidemiology of M1UK type strains and evaluated their clinical associations among adults with invasive group A Streptococcus (iGAS) infections. We conducted a nationwide multicenter surveillance study of iGAS infections from December 2023 to March 2025. Molecular typing, profiling of M1UK-associated single-nucleotide polymorphisms (SNPs) in the rofA, gldA, and pstB regions, and emm-cluster assignment were performed. Adult clinical characteristics and outcomes were compared between M1UK type and non-M1 type infections after exclusion of the single adult M1global case. Among 155 patients in the molecular epidemiology cohort, M1UK type strains accounted for 58 isolates, whereas only one M1global isolate was identified. Historical analysis showed that M1global predominated among isolates collected in the early 2010s, whereas M1UK type strains were detected mainly in recent periods. In adult clinical comparisons, M1UK type infection was associated with streptococcal toxic shock syndrome (STSS; p = 0.004) and necrotizing fasciitis (p < 0.001). In multivariable analysis, younger age, necrotizing fasciitis, and serum creatinine ≥ 2.0 mg/dL were associated with M1UK type infection. M1UK type strains were important contributors to contemporary iGAS infections in Japan and were associated with severe clinical presentations, supporting sustained molecular surveillance beyond conventional emm typing.",
-    "authors": [
-      "Shigeo Hanada",
-      "Misako Takata",
-      "Miyuki Baba-Morozumi",
-      "Junichi Sasaki",
-      "Satoshi Iwata",
-      "Shigeki Nakamura",
-      "Kimiko Ubukata"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42671493/",
-    "doi": "10.1093/infdis/jiae437",
-    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
-    "score": 0.3063,
-    "fetched_at": "2026-09-01"
   }
 ]
