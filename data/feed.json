@@ -637,6 +637,28 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:42767550",
+    "source": "pubmed",
+    "title": "Post-pandemic re-establishment of respiratory virus seasonality and molecular epidemiology of Rhinovirus/Enterovirus in Northern Italy: a three-year surveillance study (2023-2026).",
+    "abstract": "Following the COVID-19 pandemic, respiratory virus circulation progressively returned towards patterns observed in the pre-pandemic period. However, long-term epidemiological data describing the re-establishment of respiratory viral seasonality and the molecular diversity of Rhinovirus/Enterovirus (RV/EV) remain limited. To investigate the circulation patterns of respiratory viruses and characterize the RV/EV in Northern Italy, a retrospective observational study was conducted on samples collected between April 2023 and April 2026 at Brescia Civic Hospital. Respiratory viruses were detected by real-time PCR, and RV/EV-positive samples were characterized through next-generation sequencing. A total of 6,919 respiratory virus-positive samples were identified. SARS-CoV-2 remained the most frequently detected pathogen, followed by RV/EV, influenza A/B (FLU A/B), adenovirus, respiratory syncytial virus (RSV), parainfluenza virus, bocavirus, and human metapneumovirus. Distinct seasonal peaks were observed for FLU A/B and RSV during winter months, whereas RV/EV circulated continuously throughout the year. Molecular characterization of 224 RV/EV-positive samples revealed substantial genetic diversity. Pediatric patients accounted for the majority of sequenced cases. Three years after the end of the COVID-19 pandemic, respiratory viruses have re-established their characteristic seasonal circulation patterns. Nevertheless, RV/EV remain the dominant non-influenza respiratory pathogens and display considerable genetic heterogeneity. Continuous molecular surveillance is essential for early detection of emerging respiratory viral threats.",
+    "authors": [
+      "Pellegrino Michele",
+      "Messali Serena",
+      "Bertelli Anna",
+      "Zani Alberto",
+      "Lofaro Danilo",
+      "Marsico Stefania",
+      "Caccuri Francesca",
+      "Arnaldo Caruso"
+    ],
+    "date": "2026-Sep-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42767550/",
+    "doi": "10.1016/j.ijid.2026.109132",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.6053,
+    "fetched_at": "2026-09-22"
+  },
+  {
     "id": "pubmed:42656370",
     "source": "pubmed",
     "title": "Genotype turnover and global evolutionary dynamics of G gene duplication variants in human metapneumovirus: insights from prospective surveillance in Nantong, China, 2024-2025.",
@@ -1163,6 +1185,28 @@
     "fetched_at": "2026-08-19"
   },
   {
+    "id": "pubmed:42769893",
+    "source": "pubmed",
+    "title": "Shared quasispecies architecture in experimental and natural RNA virus populations.",
+    "abstract": "RNA viruses form genetically diverse populations structured as mutant spectra, or quasispecies, whose internal organization influences their evolutionary and adaptive dynamics. While genetic diversity has been extensively characterized, the structural organization of viral populations in sequence space remains less explored. Here, we compare genotype network architectures in two RNA viruses with markedly different evolutionary contexts: bacteriophage Qβ evolving in controlled laboratory conditions and severe acute respiratory syndrome coronavirus 2 evolving within infected human hosts. Using deep sequencing data, we reconstruct the genotype network of mutationally coupled variants within viral populations and analyse their topological properties. Despite large differences in genome size, mutation rate, and ecological setting, both viruses exhibit a common organization: a highly abundant central haplotype surrounded by layers of variants of diminishing abundance as Hamming distance to the central haplotype increases. All reconstructed networks share qualitative and quantitative topological features, displaying a hierarchical structure. The robust organization of both populations under multiple conditions suggests that RNA viruses may share a common genotype network architecture governed by fundamental properties of sequence space and the generic mechanisms of replication and mutation. Genotype networks provide a unifying framework to describe viral population structure beyond conventional diversity measures and, by revealing how local constraints shape mutational search, offers insights into the predictability of viral evolution.",
+    "authors": [
+      "Samuel Martínez-Alcalá",
+      "Iker Atienza-Diez",
+      "Pilar Somovilla",
+      "Brenda Martínez-González",
+      "Celia Perales",
+      "Luis F Seoane",
+      "Ester Lázaro",
+      "Susanna Manrubia"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42769893/",
+    "doi": "10.1093/pnasnexus/pgac143",
+    "journal": "Virus evolution",
+    "score": 0.5558,
+    "fetched_at": "2026-09-22"
+  },
+  {
     "id": "pubmed:42663462",
     "source": "pubmed",
     "title": "N-linked glycosylation sites with low occupancy support sustained circulation of the A(H3N2) influenza A virus in the human population.",
@@ -1615,6 +1659,30 @@
     "journal": "Poultry science",
     "score": 0.5198,
     "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42768913",
+    "source": "pubmed",
+    "title": "Longitudinal Molecular Epidemiology and Genomic Evolution of Porcine Reproductive and Respiratory Syndrome Virus in a Large-Scale Swine Production System in Northern China, 2023-2026.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) remains a major threat to swine production because of its persistent circulation, genetic diversity, and frequent recombination. However, longitudinal molecular surveillance within large-scale integrated production systems remains limited. In this study, we investigated the epidemiological and genomic characteristics of PRRSV in a large-scale swine production system in Chifeng, Inner Mongolia, northern China, from January 2023 to May 2026. A total of 380,050 PRRSV nucleic acid testing records were analyzed, and 36,474 were positive, yielding an overall positivity rate of 9.60%. PRRSV detection showed marked temporal fluctuations, with increased positivity from late 2025 to early 2026, and substantial heterogeneity among farms. Nursery pigs showed the highest positivity rate among production stages, followed by finishing pigs and gilts, whereas boars had the lowest positivity. Among sample types, castration/tail-docking fluid, tongue-tip fluid, and tissue/organ samples had relatively high positivity rates. ORF5-based phylogenetic analysis revealed that all the study-derived sequences belonged to PRRSV-2, with sublineage 1.8 accounting for 53.74% and sublineage 1.5 accounting for 34.69%, indicating the predominance of lineage 1 strains. Whole-genome phylogenetic analysis of the 11 successfully assembled PRRSV genomes confirmed that they were NADC30-like PRRSVs and carried the characteristic 111 + 1 + 19 discontinuous deletion pattern in Nsp2. GP5 amino acid alignment revealed substitutions in antigenically relevant regions, including epitope A, epitope B, and predicted glycosylation-related sites. Recombination analysis revealed potential recombination events involving lineage 8-related fragments in CF-k141-31, CF-k141-560, and CF-k141-2190. These findings demonstrate that PRRSV circulation in this production system is characterized by temporal clustering, farm-level heterogeneity, lineage 1 predominance, and genomic diversification of NADC30-like strains. These results support the integration of routine real-time reverse transcription quantitative PCR (RT-qPCR) surveillance, ORF5 sequencing, and periodic whole-genome sequencing for targeted PRRSV monitoring and control in large-scale swine production systems.",
+    "authors": [
+      "Tao Zhang",
+      "Shaofu Song",
+      "Hechao Zhu",
+      "Shixuan Zhu",
+      "Yanjiao Wang",
+      "Anding Zhang",
+      "Kui Hou",
+      "Rui Liu",
+      "Xujiao Ren",
+      "Junlong Zhao"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42768913/",
+    "doi": "10.1155/tbed/6131183",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.5189,
+    "fetched_at": "2026-09-22"
   },
   {
     "id": "pubmed:42636373",
@@ -3972,6 +4040,29 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42768361",
+    "source": "pubmed",
+    "title": "Migration and tuberculosis transmission in Hamburg, Germany: insights from 25 years of molecular epidemiology.",
+    "abstract": "Tuberculosis (TB) epidemiology in low-incidence settings is increasingly influenced by the importation of Mycobacterium tuberculosis complex (Mtbc) strains from high-incidence regions. Globally, more virulent \"generalist\" lineages such as Lineage 2 (L2) and Lineage 4 (L4) contrast with geographically restricted \"specialist\" lineages (L1, L3, L5-L9), reflecting differences in transmissibility and adaptation. The introduction of strains of diverse lineages can alter local transmission dynamics and drug susceptibility patterns, underscoring the need for high-resolution genomic surveillance. We performed whole genome sequencing (WGS) on 3,131 Mtbc strains collected from patients with TB in Hamburg, Germany, over 25 years (1997-2021). We analysed population structure and transmission dynamics in relation to patients' self-reported geographical origins. Strains from major Mtbc lineages L1-L6 and M. bovis were detected, with L4 strains being most prevalent (74.6%, n = 2,337). Lineage distribution shifted over time: L4 strains decreased from 83.5% in the first five years to 63.0% in the last five years, while L3 strains increased from 4.8% to 18.1%. These changes correlated with an increasing number of foreign-born patients rather than enhanced transmission of strains of specific lineages. L4 strains accounted for most clusters (81%, 218/269). In-depth analyses revealed heterogeneity in transmission potential among L4 sublineages, underscoring the importance of sublineage-level resolution. Strains of sublineages L4.1.2.1, L4.8, and L4.3 were detected in patients born in over 15 regions each, with >57% of cases from Europe, supporting their representation as globally successful generalist lineages. Migration substantially increased the genetic diversity of the Mtbc population in Hamburg but did not fundamentally alter local transmission dynamics. Transmission remained lineage-specific and was predominantly driven by established L4 strains, suggesting that successful transmission is mediated by locally adapted sublineages. Predominant L4.1.2.1 and L4.8 sublineages occurred in individuals from a wide range of countries, supporting the generalist-specialist hypothesis at the sublineage level. These findings highlight the interplay between pathogen characteristics and host demographics in shaping transmission and the value of integrating genomic, demographic, and epidemiological data to distinguish imported cases from sustained local transmission in low-incidence settings.",
+    "authors": [
+      "Nicole Ullrich",
+      "Roland Diel",
+      "Karen Meywald-Walter",
+      "Christian Schwarzbach",
+      "Matthias I Gröschel",
+      "Martin Kuhns",
+      "Inna Friesen",
+      "Stefan Niemann",
+      "Viola Dreyer"
+    ],
+    "date": "2026-Sep-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42768361/",
+    "doi": "10.1038/s41564-024-01758-y",
+    "journal": "Genome medicine",
+    "score": 0.3389,
+    "fetched_at": "2026-09-22"
+  },
+  {
     "id": "pubmed:42690849",
     "source": "pubmed",
     "title": "HPV genotype distribution and associated risk factors in women from Karad, Maharashtra: A molecular characterisation study.",
@@ -4429,89 +4520,5 @@
     "journal": "Frontiers in immunology",
     "score": 0.3152,
     "fetched_at": "2026-08-20"
-  },
-  {
-    "id": "pubmed:42762688",
-    "source": "pubmed",
-    "title": "Molecular epidemiology, genetic characteristics, and antimicrobial resistance of Staphylococcus capitis clinical isolates: First identification of the NRCS-A and proto-NRCS-A clones in Japan.",
-    "abstract": "A pathogenic clone of Staphylococcus capitis, NRCS-A, possesses specific virulence factors and shows broader antimicrobial resistance (AMR). The present study aimed to analyze the genetic characteristics and AMR profiles of S. capitis clinical isolates and determine the prevalence of the NRCS-A clone in Japan. S. capitis isolates from clinical specimens were analyzed for the presence of virulence factors and AMR-associated genes by PCR and sequencing. Genetic classification of S. capitis isolates was performed by an in-house multilocus sequence typing (MLST) based on four loci (arcC-rpoB-gap-tuf). A total of 194 S. capitis isolates (44 subsp. capitis and 150 subsp. urealyticus) were collected for 7 months. mecA was detected in 33% (63/194) of isolates (only subsp. urealyticus), while the most common AMR determinants identified were fosSC (77%, n = 150) and blaZ (59%, n = 114). Virulence factors associated with the NRCS-A clone, nsr and tarJ, were found in 20% (n = 39) and 37% (n = 71) of isolates, respectively. Both nsr and tarJ were present in 13 isolates (7%), among which three isolates had the traits of the NRCS-A clone (SCCmec-V with CRISPR/Cas-IIIA; SCCcad/ars/cop in two isolates), whereas the remaining 10 isolates were considered presumptive proto-NRCS-A clone (nsr+, tarJ+, CRISPR-Cas-IIIA/SCCmec-negative). By the MLST scheme, all the S. capitis isolates were differentiated into 48 STs and six major clonal complexes (CCs). Isolates assigned to the NRCS-A clone were classified as ST13 or ST14 in CC1, which was a minor lineage of S. capitis subsp. urealyticus. Similarly, most isolates of proto-NRCS-A clone were grouped into CC1, with ST13 being dominant. The present study first revealed the presence of NRCS-A and proto-NRCS-A clones among S. capitis clinical isolates in Japan. Careful monitoring and attention to these clones may be necessary in clinical settings.",
-    "authors": [
-      "Masako Osada",
-      "Meiji Soe Aung",
-      "Mana Nishida",
-      "Kayo Kawamura",
-      "Masahiko Ito",
-      "Noriko Urushibara",
-      "Mitsuyo Kawaguchiya",
-      "Nobuhide Ohashi",
-      "Satoshi Suzuki",
-      "Toru Higuchi",
-      "Mina Hirose",
-      "Nobumichi Kobayashi"
-    ],
-    "date": "2026-Sep-14",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42762688/",
-    "doi": "10.1016/j.jiph.2026.103365",
-    "journal": "Journal of infection and public health",
-    "score": 0.315,
-    "fetched_at": "2026-09-20"
-  },
-  {
-    "id": "pubmed:42662357",
-    "source": "pubmed",
-    "title": "Genetic diversity of ESBL-producing",
-    "abstract": "Extended-Spectrum β-Lactamase (ESBL) - producing Escherichia coli pose a major threat in ICU settings due to rising multidrug resistance and limited data on their genetic diversity. Therefore, it is of interest to analyze the molecular epidemiology of 186 non- duplicate ESBL-producing E. coli isolates from ICU patients over 12 months using Polymerase Chain Reaction (PCR) for ESBL genes, phylogenetic grouping, Multilocus Sequence Typing (MLST) and antimicrobial susceptibility testing. The blaCTX-M gene family was predominant (82.3%), with blaCTX-M-15 as the most common variant and 41.9% of isolates carried multiple ESBL genes. Phylogenetic group B2 and high-risk clones such as ST131, ST405 and ST648 were most prevalent, with high co-resistance to multiple antibiotic classes. Thus, we show significant genetic diversity and dominance of high-risk clones, emphasizing the need for molecular surveillance and targeted infection control strategies.",
-    "authors": [
-      "Aparna Aparajita",
-      "Manoj Kumar",
-      "Ashok Kumar Sharma"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42662357/",
-    "doi": "10.1128/spectrum.02895-24",
-    "journal": "Bioinformation",
-    "score": 0.3129,
-    "fetched_at": "2026-08-29"
-  },
-  {
-    "id": "pubmed:42729130",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of",
-    "abstract": "East Coast fever (ECF), caused by Theileria parva, remains endemic in Malawi. ECF vaccines and chemical treatments are regarded as expensive by small-holder farmers. The aims of this study were to clarify the epidemiology of ECF and to evaluate the efficacy of ethnoveterinary medicine, Synadenium cupulare on T. parva infection. A cross-sectional study was conducted in three districts of northern Malawi (Chitipa, Karonga, and Mzimba). A structured questionnaire on feeding style, treatment of ECF, and tick control practices was administered to 79 farmers, and blood samples and animal information were collected from 550 cattle. PCR using p104 gene-specific assay was used to screen for T. parva, and positive samples were subjected to semi-nested PCR using Tp1 and Tp2 primers to characterize their genetic traits. Descriptive statistics were conducted. Global spatial clustering was tested using Moran's I. Univariable and multivariable statistical analyses were performed on farm- and animal-level factors associated with T. parva positivity. The overall farm- and animal-level prevalence was 78.5% (62/79 farms, 95% CI: 67.8-86.9%) and 28.4% (156/550 animals, 95% CI: 24.6-32.3%), respectively. Phylogenetic trees suggested 4 variants of Tp1 and 6 variants of Tp2 circulations among cattle populations in Malawi. Moran's I showed clustering of T. parva negative farms only in Karonga District (p < 0.001). Farm-level T. parva prevalence was significantly higher in the farms conducting extensive grazing (81.9%) than those not (42.9%, p = 0.035). At the animal level, the final multivariable generalized linear mixed-effects model included age and treatment types. For age, the odds of T. parva positivity were significantly lower in adults (odds ratio [OR] = 0.47, p = 0.003) compared with calves, but not for weaners (OR = 0.78, p = 0.316). Regarding treatment, the odds of T. parva positivity were significantly higher in untreated cattle with symptoms of ECF (OR = 2.38, p = 0.027) compared with asymptomatic cattle, but no significant increase was observed for those treated with oxytetracycline (OR = 0.99, p = 0.971) or S. cupulare (OR = 0.59, p = 0.133). Future ECF control should integrate traditional ethnoveterinary medicine for calves.",
-    "authors": [
-      "Gift Kingsley Kayira",
-      "Takahiro Ishizaki",
-      "Shingo Asakura",
-      "Ryota Matsuyama",
-      "Makoto Ukita",
-      "Kyoko Hayashida",
-      "Haruyuki Hirata",
-      "Kohei Makita"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729130/",
-    "doi": "10.1016/0304-4017(90)90059-k",
-    "journal": "Frontiers in microbiology",
-    "score": 0.3108,
-    "fetched_at": "2026-09-13"
-  },
-  {
-    "id": "pubmed:42730322",
-    "source": "pubmed",
-    "title": "Genomic Characterization of Antimicrobial Resistance and Virulence in ST11 Carbapenem-Resistant",
-    "abstract": "This study aimed to elucidate the molecular epidemiology and virulence characteristics of ST11 carbapenem-resistant Klebsiella pneumoniae (CRKP) colonizing the intestinal tract of elderly inpatients in the Chongzhou region, providing a basis for controlling the transmission of such resistant bacteria in high-risk populations. CRKP strains isolated from the intestines of elderly inpatients in this region between January 2023 and June 2024 were collected. ST11 strains were identified via multilocus sequence typing (MLST). Whole-genome sequencing, antimicrobial susceptibility testing, and string test, serum killing, biofilm formation, capsular polysaccharide quantification were employed to characterize their resistance genes, virulence genes, and molecular typing profiles. Among 58 CRKP isolates, 17 (29.3%) were ST11. ST11-KL64 was the dominant clone (70.6%). All isolates carried the carbapenemase gene bla KPC-2 and exhibited extensive drug resistance, with tigecycline retaining the highest susceptibility (64.7%). The yersiniabactin system genes (ybtS, fyuA, entB) were universally present, whereas the aerobactin gene cluster (iucABCD-iutA) was detected in only 17.6% of isolates. The virulence regulator rmpA2 was incomplete in all carriers. The hypermucoviscosity phenotype was observed in 35.3% of isolates, which correlated with serum resistance in some strains. Biofilm formation was variable. The mortality rate among colonized patients was 35.3%. The ST11-KL64 clone is dominant among CRKP strains colonizing the intestinal tract of elderly patients in this region. This clone universally carries the bla KPC-2 gene conferring carbapenem resistance and exhibits a unique virulence gene profile characterized by a low carriage rate of classical hypervirulence markers and an incomplete rmpA2 regulator gene. This finding clarifies the local epidemic status of this clone and underscores the importance of implementing active surveillance and targeted prevention strategies for high-risk populations.",
-    "authors": [
-      "Jianmei Chen",
-      "Liping Liu",
-      "Yanhua Zhang",
-      "Dong Ling",
-      "Feng Wang"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42730322/",
-    "doi": "10.1007/s10123-023-00357-x",
-    "journal": "Infection and drug resistance",
-    "score": 0.3094,
-    "fetched_at": "2026-09-13"
   }
 ]
