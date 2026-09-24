@@ -1,0 +1,173 @@
+[
+  {
+    "id": "pubmed:42776645",
+    "source": "pubmed",
+    "title": "Ebola Virus Disease in the Era of One Health and Global Preparedness: Evolving Epidemiology, Genomic Surveillance, and Future Challenges.",
+    "abstract": "Ebola virus disease (EVD) remains one of the most severe viral hemorrhagic fevers, with recurrent outbreaks challenging global healthcare systems. This narrative review traces the evolving epidemiology of EVD from the first recognized outbreaks in 1976 to the ongoing 2026 Bundibugyo virus public health emergency in the Democratic Republic of the Congo (DRC) and Uganda. Over nearly five decades, the recognized range of Ebola outbreak contexts and amplification mechanisms has broadened considerably: rural zoonotic spillovers remain the predominant mode of emergence, but the scale and reach of subsequent transmission increasingly depend on where introductions occur, on delays in detection, on population mobility, on ecological disruption, on armed conflict, on healthcare-associated transmission, and on viral persistence in survivors. Major advances in molecular epidemiology and genomic surveillance have improved outbreak investigation, enabling real-time transmission reconstruction and detection of survivor-linked resurgence. Vaccination, particularly ring vaccination with rVSV-ZEBOV, has shown high effectiveness against Zaire ebolavirus, yet vaccine equity gaps and the absence of licensed vaccines for Sudan virus and Bundibugyo virus remain critical vulnerabilities, though new candidate vaccines and therapeutics for Bundibugyo virus entered clinical evaluation in mid-2026. Artificial intelligence and digital technologies, including AI-assisted early warning systems, portable sequencing, drones, blockchain, and mobile health platforms, offer promising tools for outbreak preparedness, but robust evidence of their real-world operational impact during filovirus outbreaks remains limited, and their deployment in low-resource settings faces substantial barriers related to infrastructure, literacy, data costs, and governance. Integrated preparedness frameworks that combine ecological surveillance, resilient healthcare systems, community engagement, and international coordination under a One Health umbrella are increasingly viewed as a strategic necessity. The 2026 Bundibugyo outbreak reaffirms that despite decades of lessons, structural weaknesses in surveillance, response timeliness, and community trust continue to recur. Sustainable, multi-year financing, diversified vaccine platforms, regional manufacturing, and local co-design of digital tools are essential to translate lessons into lasting change. Preparedness is best understood as a continuous process rather than a reactive state.",
+    "authors": [
+      "Francesco De Maria",
+      "Francesco Branda",
+      "Ivailo Alexiev",
+      "Dong Keon Yon",
+      "Ayşe Banu Demir",
+      "Giancarlo Ceccarelli",
+      "Fabio Scarpa",
+      "Massimo Ciccozzi",
+      "Alessandro Russo"
+    ],
+    "date": "2026-Aug-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776645/",
+    "doi": "10.3390/idr18050094",
+    "journal": "Infectious disease reports",
+    "score": 0.4865,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42775853",
+    "source": "pubmed",
+    "title": "Avian metapneumovirus infections in poultry flocks in Poland - molecular evidence for emerging divergence from vaccine strains.",
+    "abstract": "Despite use of aMPV vaccines, clinical signs of disease caused by aMPV infection with field strains were widely reported in poultry production in Poland.The strains detected formed a distinct cluster of \"Polish field strains\".Two complete aMPV-B genomes revealed several non-synonymous mutations, especially in G and SH genes, that may account for the poor protection provided by the vaccines.Phylogenetic analysis of two Polish complete genomes revealed a significant genetic distance from available aMPV-B strains.",
+    "authors": [
+      "Kamila Dziadek",
+      "Joanna Sajewicz-Krukowska",
+      "Anna Lisowska",
+      "Justyna Opolska",
+      "Marcin Śmiałek",
+      "Katarzyna Domanska-Blicharz"
+    ],
+    "date": "2026-Sep-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775853/",
+    "doi": "10.1080/03079457.2026.2723912",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.5224,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42775567",
+    "source": "pubmed",
+    "title": "Genomic epidemiology and antimicrobial resistance of non-typhoidal",
+    "abstract": "Non-typhoidal Salmonella (NTS) is a major foodborne pathogen causing significant morbidity and mortality worldwide, particularly affecting children under 5 years of age. Despite its public health importance, systematic studies on NTS infection in children in Hainan Province, China, are limited. We performed a comprehensive retrospective analysis of 77 NTS isolates collected from children at the Hainan Women and Children's Medical Center between April 2023 and May 2024. The study integrated antimicrobial susceptibility testing, whole-genome sequencing, and phylogenetic reconstruction to elucidate the molecular epidemiology and resistance of this pathogen. The invasive infection rate of NTS was 10.4% (8/77; 95% CI: 4.6%-19.4%). Children under 3 years were disproportionately affected (66/77, 85.7%), and infections peaked in summer and autumn. Sixteen serotypes and 16 sequence types (STs) were identified. The predominant serotypes were monophasic 1,4,[5],12:i:- (31/77, 40.3%), Typhimurium (12/77, 15.6%), and Stanley (9/77, 11.7%). Serotype was strongly associated with ST, with monophasic 1,4,[5],12:i:- (ST34) (40.3%) and Typhimurium (ST19) (15.6%) being the most prevalent. The ST34 lineage demonstrated extensive multidrug resistance (23/31, 74.2%; 95% CI: 55.4%-88.1%) and accounted for the majority of resistance to ampicillin (29/31, 93.5%; 95% CI: 78.6%-99.2%) and ampicillin-sulbactam (24/31, 77.4%; 95% CI: 58.9%-90.4%). High-risk plasmids were identified, including IncHI2A-type vectors carrying the blaNDM-5 carbapenemase gene and an IncFIA/HI1 plasmid harboring the tet(X4) tigecycline resistance gene. Phylogeographic analysis indicated that the Hainan ST34 strains belong to a China-specific clade undergoing recent clonal expansion although evidence of international transmission was also detected. These findings reveal a distinct epidemiological pattern in Hainan, marked by the predominance of multidrug-resistant ST34 and an elevated invasive infection rate in young children. Targeted surveillance and \"One Health\" interventions in tropical regions are urgently needed to limit the spread of high-risk NTS clones.IMPORTANCEThis study addresses the research gap of pediatric non-typhoidal Salmonella (NTS) in tropical Hainan via comprehensive analysis of 77 clinical isolates. It characterizes the local molecular epidemiology, revealing regional epidemic features and high susceptibility in young children. The multidrug-resistant monophasic ST34 clone is identified as the predominant strain. Notably, high-risk resistance plasmids carrying blaNDM-5 and tet(X4) are detected, indicating hidden horizontal transmission risks of critical antibiotic resistance. Global phylogeny verifies the China-specific expansion of local ST34 strains with cross-regional and zoonotic potential. These findings underscore the severe threat of MDR NTS in tropical island areas, providing key epidemiological and genomic evidence for targeted surveillance, prudent antibiotic administration and One Health strategies, and offering vital references for NTS control in tropical and subtropical regions.",
+    "authors": [
+      "Huaiyu Jia",
+      "Tao Chen",
+      "Xiaozhuang Zhang",
+      "Guozhen Tian",
+      "Min Wang"
+    ],
+    "date": "2026-Sep-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775567/",
+    "doi": "10.1128/spectrum.01502-26",
+    "journal": "Microbiology spectrum",
+    "score": 0.3791,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42774733",
+    "source": "pubmed",
+    "title": "Deciphering defensive mechanisms in",
+    "abstract": "Riemerella anatipestifer (RA) is an economically important avian pathogen that has historically caused significant disease in waterfowls but is increasingly recognized in various poultry production systems and wild bird species, highlighting its expanding host range and adaptive potential. Despite the availability of vaccines and antimicrobial interventions, RA remains a persistent challenge due to serotype diversity, limited cross-protective immunity, evolving antimicrobial resistance patterns, and an incomplete understanding of the host-pathogen interactions that govern disease outcome. Recent advances in genomics, molecular epidemiology, immunology and vaccinology have generated new insights into RA evolution, pathogenicity, host adaptation, and immune protection. However, these advances remain fragmented, hindering the translation of mechanistic discoveries into broadly effective control strategies. Emerging evidence further indicates that disease progression is shaped not only by bacterial pathogenicity but also by the magnitude and regulation of host immune responses, where dysregulated inflammatory signaling and immune-mediated tissue damage contribute significantly to pathology. This review synthesizes current understanding of the dynamic interplay between pathogen adaptation, immune evasion, host defense responses, and immunopathogenesis that collectively determines disease susceptibility, progression and protection. Finally, we evaluate current vaccine platforms and alternative control approaches, identify major knowledge gaps, and highlight future directions for the development of durable, broadly protective and sustainable intervention strategies.",
+    "authors": [
+      "Rochelle A Flores",
+      "Cherry P Fernandez-Colorado",
+      "Paula Leona C Fletcher",
+      "Andrea Gail M Villavicencio",
+      "Woo H Kim",
+      "Wongi Min"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774733/",
+    "doi": "10.3390/ph19050727",
+    "journal": "Frontiers in immunology",
+    "score": 0.4002,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42774458",
+    "source": "pubmed",
+    "title": "Longitudinal analysis of hybrid immunity in a Vietnamese COVID-19 cohort demonstrates vaccination-associated broadening of cross-variant neutralization across diverse HLA backgrounds.",
+    "abstract": "Despite extensive research on SARS-CoV-2 immunity, longitudinal studies integrating functional neutralization, antigenic relationships, and host genetic variability remain limited, particularly in Southeast Asian populations with distinct HLA backgrounds. Here, we performed a longitudinal analysis of a Vietnamese COVID-19 cohort before and after vaccination to characterize determinants of cross-variant antibody responses. Our findings indicate that while HLA polymorphisms contribute to inter-individual variability following natural infection, vaccination substantially enhanced cross-variant neutralization and reduced the apparent contribution of HLA-associated variability of neutralizing responses across genetically diverse individuals. We analyzed 189 Vietnamese COVID-19 convalescent individuals at approximately 7 months post-infection (unvaccinated) and 72 individuals at approximately 15 months (predominantly vaccinated). Anti-S1 and anti-RBD IgG were quantified by ELISA, and neutralizing antibody titers (PRNT50) were measured against Wuhan and major variants of concern. High-resolution HLA genotyping was performed using next-generation sequencing, and associations with antibody responses were evaluated using linear regression models with correction for multiple comparisons. Vaccination markedly increased antibody levels and neutralizing titers across all variants, with fold-increases ranging from approximately 10-fold (Omicron) to 132-fold (Wuhan). Neutralization breadth expanded substantially after vaccination, although reduced activity against Omicron persisted. Strong correlations between binding and neutralizing antibodies were observed, particularly post-vaccination. While several HLA alleles were associated with variation in neutralizing antibody magnitude at earlier time points, multivariable analyses demonstrated that vaccination was the strongest factor associated with neutralization breadth at 15 months. Vaccination robustly enhances both the magnitude and breadth of humoral immunity in previously infected individuals, consistent with hybrid immunity. Although HLA polymorphisms contribute to inter-individual variability, their contribution appeared smaller than the effect associated with vaccination. These findings highlight how vaccination reshapes immune variability across genetically diverse populations and provide population-specific insight into long-term SARS-CoV-2 immunity.",
+    "authors": [
+      "Thi Thanh Ngan Nguyen",
+      "Kim Mai Huynh",
+      "Hien Anh Thi Nguyen",
+      "Hung Thai Do",
+      "Kouichi Morita",
+      "Futoshi Hasebe",
+      "Thi Quynh Mai Le",
+      "Takashi Shiina",
+      "Lay-Myint Yoshida",
+      "Meng Ling Moi"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774458/",
+    "doi": "10.1126/science.abj2258",
+    "journal": "Frontiers in immunology",
+    "score": 0.5165,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42772549",
+    "source": "pubmed",
+    "title": "Detection and Genomic Characterization of an Emerging Bovine Coronavirus in Southwest China.",
+    "abstract": "Bovine coronavirus (BCoV) poses significant economic threats to the cattle industry, yet molecular epidemiological data from Southwest China remain scarce. In this study, we investigated the molecular epidemiology, genomic features, and antigenic characteristics of BCoV circulating in this region. Molecular detection showed that BCoV was frequently detected among clinically affected cattle, with farm-level clinical detection rates exceeding 75% in several major cattle-producing areas. Phylogenetic analysis showed that all identified strains belonged to the GII subclade, among which 11 formed a distinct subclade characterized by purifying selection. The high nucleotide identity (99.5-99.7%) and strict geographic clustering of these strains suggest a likely founder effect. Comparative genomic and structural analyses identified lineage-associated mutations, including substitutions in open reading frame 1ab (W673C, V2780I, M2909L, L4202F, D4642A, L6611M, T6653I, and E6785D), spike protein (D206N and V1288F), and an A43S mutation in the nucleocapsid protein. Computational analyses further suggested that altered spike protein rigidity and reduced O-glycosylation may contribute to altered receptor interaction and potentially influence viral spread. In addition, predicted epitope profiling revealed marked antigenic divergence from the classical Mebus vaccine strain, indicating potential variations in cross-reactive epitope profiles between historical vaccine lineages and currently circulating variants. Furthermore, the identification of the A43S mutation in the nucleocapsid protein also highlights the need to further re-evaluate its potential impact on antigen-based diagnostic performance. Overall, these findings expand current knowledge of BCoV diversity in Southwest China and support continued genomic surveillance, functional validation, and antigenic characterization to guide the development of locally matched vaccines and diagnostic tools.",
+    "authors": [
+      "Yunxin Ren",
+      "Wangqing Banma",
+      "Yurong Su",
+      "Xiji Ye",
+      "Cheng Tang",
+      "Xi Chen",
+      "Hua Yue"
+    ],
+    "date": "2026-Sep-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42772549/",
+    "doi": "10.1016/j.tvjl.2026.106893",
+    "journal": "Veterinary journal (London, England : 1997)",
+    "score": 0.6255,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "pubmed:42771063",
+    "source": "pubmed",
+    "title": "Molecular and Epidemiological Surveillance of Sporothrix spp. in Cats and Dogs from Southern Brazil.",
+    "abstract": "Sporotrichosis, a subcutaneous mycosis caused by Sporothrix spp., has emerged as a major zoonotic disease in Brazil, primarily driven by Sporothrix brasiliensis. The southern state of Rio Grande do Sul exhibits distinctive ecological and climatic conditions that may shape the persistence and distribution of this pathogen in this region. This study conducted molecular and epidemiological surveillance of feline and canine sporotrichosis in southern Rio Grande do Sul, Brazil. A total of 100 isolates from the culture collection of the Veterinary Mycology Laboratory at the Federal University of Pelotas (UFPel) were analyzed by PCR targeting the calmodulin (CAL) gene for species identification. Fourteen representative isolates were sequenced and subjected to phylogenetic analysis using the Maximum Likelihood method, including reference sequences from Brazil, Paraguay, and Argentina. Epidemiological and clinical variables, including host species, sex, lesion site, and morphology, were evaluated to characterize the epidemiological and clinical profiles of sporotrichosis in the study region. S. brasiliensis and S. schenckii were identified in 97% and 3% of the isolates, respectively. The CAL-based phylogeny confirmed the monophyly of S. brasiliensis and revealed low intraspecific variability with regional clustering among southern Brazilian isolates. When interpreted within the Southern Cone context, the topology indicated a close genetic affinity between isolates from Rio Grande do Sul and reference sequences from Argentina and Paraguay. These findings confirm the territorial expansion of S. brasiliensis across southern Brazil and emphasize the importance of molecular surveillance for detecting and tracking the circulating lineages. Continuous regional monitoring is crucial for strengthening One Health strategies and mitigating the zoonotic spread of sporotrichosis in the Southern Cone.",
+    "authors": [
+      "Gabriela Ladeira Sanzo",
+      "Renata Osório de Faria",
+      "Juliana Tasende Ferrando",
+      "Marcela Brandão Costa",
+      "Isabela de Souza Morales",
+      "Giulia Batista Freitas",
+      "Lara Costa Grumann Michel",
+      "Luana Pereira Ramirez",
+      "Sergio Jorge",
+      "Kauê Rodriguez Martins",
+      "Rodrigo Casquero Cunha",
+      "Clairton Marcolongo Pereira",
+      "Angelita Dos Reis Gomes"
+    ],
+    "date": "2026-Sep-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42771063/",
+    "doi": "10.1016/j.jfms.2010.10.007",
+    "journal": "Mycopathologia",
+    "score": 0.2863,
+    "fetched_at": "2026-09-24"
+  },
+  {
+    "id": "arxiv:2609.25838v1",
+    "source": "arxiv",
+    "title": "Mutation Order and Selection Shape Intratumor Heterogeneity in Tumor Evolution",
+    "abstract": "Cancer progression often requires multiple driver mutations, but the same drivers may be acquired in different orders. How these pathways jointly shape tumor clonal structure remains unclear. We develop a multitype branching-process model in which malignant transformation requires two driver mutations, distinguishing malignant cells by mutation order and the independent transformation event that founded their clone. Under a successive exponential approximation, we establish point-process limits for pathway-specific clone sizes and derive a closed-form expression for the limiting expected Simpson's index of the combined malignant population. When both mutation orders yield malignant cells with the same net growth rate, the index decomposes into effective pathway weights, determined by mutation rates and birth-death dynamics at preceding stages, and within-pathway concentration terms, determined by intermediate-to-malignant growth-rate ratios. A driver's effect on heterogeneity thus depends critically on when it is acquired. A strong driver acquired early expands the intermediate lineage and increases the supply of independent malignant founders, whereas the same driver acquired last strengthens the growth and age advantage of early-founded malignant clones. Under additive fitness effects, these opposing mechanisms can produce a non-monotone relationship between selective advantage and clonal concentration. Threshold-like non-additive fitness effects can generate highly concentrated malignant populations, while order-dependent terminal fitness causes the faster-growing pathway to dominate asymptotically. These results show how mutation order, mutational accessibility, selection, and epistasis jointly determine lineage-level intratumor heterogeneity.",
+    "authors": [
+      "Yichen Chu",
+      "Xiaoxia Sheng",
+      "Xuanming Zhang",
+      "Zicheng Wang"
+    ],
+    "date": "2026-09-22",
+    "url": "https://arxiv.org/abs/2609.25838v1",
+    "doi": null,
+    "score": 0.0843,
+    "fetched_at": "2026-09-24"
+  }
+]
