@@ -633,6 +633,38 @@
     "fetched_at": "2026-08-27"
   },
   {
+    "id": "pubmed:42782136",
+    "source": "pubmed",
+    "title": "Genomic characteristics of the first five monkeypox virus clade Ib cases in Thailand: August 2024-March 2025.",
+    "abstract": "Following the emergence of monkeypox virus clade Ib in the Democratic Republic of the Congo in August 2024, the World Health Organization declared a public health emergency of international concern because of sustained transmission and international spread. We characterized the first clade Ib cases detected in Thailand between August 2024 and March 2025 and assessed their phylogenetic relationships. Whole-genome sequencing was performed from lesion swabs of suspected cases. Phylogenetic analysis, incorporating clade Ia (DQ011155.1) and global clade Ib sequences from GISAID, confirmed all Thai isolates as clade Ib. The genomes showed close relatedness to clade Ib viruses reported internationally, consistent with patients' travel histories. All isolates exhibited a 1,140-bp deletion in the C3L gene region and 52-61 amino acid substitutions compared with the clade Ia reference. Genome sequences were submitted to GISAID and NCBI to support outbreak response and improve understanding of epidemiologic patterns, enabling more effective public health interventions.IMPORTANCEOn 14 August 2024, the World Health Organization declared the monkeypox virus outbreak in Africa a public health emergency of international concern following the emergence of clade Ib. One week later, Thailand confirmed the first monkeypox clade Ib case in Asia. Through whole-genome sequencing and phylogenomic analysis of five cases detected between August 2024 and March 2025, we identified a 1,140-bp deletion in the C3L gene region that distinguishes clade Ib from clade Ia. This deletion directly affects the performance of some commercial real-time PCR assays designed for clade Ia, which rely on amplification of the missing genomic region. Our findings highlight important diagnostic limitations that could lead to misinterpretation or reduced sensitivity in routine testing. Beyond confirming regional introduction linked to global spread, this study underscores the critical role of genomic surveillance in ensuring accurate diagnosis, monitoring viral evolution, and strengthening outbreak response as monkeypox continues to expand internationally.",
+    "authors": [
+      "Ravee Nitiyanontakij",
+      "Sarinee Reawrang",
+      "Duangkamon Siludjai",
+      "Pornphimon Kaewsawang",
+      "Pimphorn Yooma",
+      "Ratchana Ponang",
+      "Pawita Suwanvattana",
+      "Peera Hemarajata",
+      "Wittawin Worakitchanon",
+      "Supaporn Wacharapluesadee",
+      "Tanawut Srisuk",
+      "Thidathip Wongsurawat",
+      "Piroon Jenjaroenpun",
+      "Worarat Kruasuwan",
+      "Pongpun Sawatwong",
+      "Woradee Lurchachaiwong",
+      "R Suzanne Beard",
+      "Kitpong Sunchatawirul"
+    ],
+    "date": "2026-Sep-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42782136/",
+    "doi": "10.1128/spectrum.00516-26",
+    "journal": "Microbiology spectrum",
+    "score": 0.624,
+    "fetched_at": "2026-09-26"
+  },
+  {
     "id": "pubmed:42625105",
     "source": "pubmed",
     "title": "Molecular characterization of a rare norovirus GII.8[P8] strain detected during pediatric acute gastroenteritis surveillance in Harbin, China.",
@@ -4640,20 +4672,5 @@
     "journal": "Microorganisms",
     "score": 0.3281,
     "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42580030",
-    "source": "pubmed",
-    "title": "Prioritizing Parkinson's disease risk-associated mitochondrial candidate genes via multi-omics integrative analysis.",
-    "abstract": "Mitochondrial dysfunction has been implicated in Parkinson's disease (PD), but the genetically regulated mitochondrial genes associated with PD risk remain incompletely defined. We conducted a summary-data-based genetic epidemiology study integrating summary-based Mendelian randomization (SMR), Heterogeneity in dependent instruments (HEIDI) filtering, and Bayesian colocalization to prioritize mitochondrial-related molecular features associated with PD risk. Mitochondrial-related genes were defined using MitoCarta3.0. Genetically predicted gene expression and plasma protein abundance were evaluated using expression quantitative trait loci (eQTL) data from eQTLGen and GTEx v8, and protein quantitative trait loci (pQTL) data was assessed using International Parkinson's Disease Genomics Consortium (IPDGC) as the discovery genome-wide association study (GWAS) and FinnGen as the replication dataset. Prespecified QTL analyses were interpreted using FDR correction, HEIDI filtering, and colocalization support. DNA methylation QTL analysis, mitochondrial phenotype MR, and single-nucleus RNA-seq analysis were performed as complementary analyses. In the primary eQTL analysis, higher genetically predicted TTC19 expression was associated with lower PD risk (OR = 0.80, 95% CI: 0.74-0.87, PPH4 = 0.80), whereas higher MALSU1 expression was associated with increased PD risk (OR = 2.21, 95% CI: 1.59-3.06, PPH4 = 0.96). Both associations survived FDR correction, passed HEIDI filtering, and showed colocalization support. GTEx whole-blood data supported the direction of the TTC19 association. No mitochondrial protein reached significance after FDR correction and colocalization filtering in the primary pQTL analysis. Complementary methylation analysis highlighted cg06270993 as an exploratory regulatory signal for MALSU1. This MR-colocalization study prioritizes TTC19 and MALSU1 as genetically supported mitochondrial-related candidate genes associated with PD risk. Further validation is required to define their functional roles in PD pathogenesis.",
-    "authors": [
-      "Yusheng Zhu",
-      "Zihan Ye"
-    ],
-    "date": "2026-Aug-09",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580030/",
-    "doi": "10.1016/j.clineuro.2026.109609",
-    "score": 0.3279,
-    "fetched_at": "2026-08-13"
   }
 ]
