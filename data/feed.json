@@ -1323,6 +1323,29 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42799644",
+    "source": "pubmed",
+    "title": "Evolutionary and Spatiotemporal Dynamics of Foot-and-Mouth Disease Virus in Ethiopia (1957-2025): A Molecular Perspective on Serotype Persistence and Emergence.",
+    "abstract": "Foot-and-mouth disease (FMD) represents a significant global economic burden and remains the primary constraint on Ethiopia's livestock economy and international trade. This desk review synthesized 60 years of data (1957-2025) using a structured, multidatabase search across four domains: disease, genotype/lineage, geographic spread, and temporal context. Data were stratified into three periods: Period I (1957-1980), Period II (1981-2000), and Period III (2001-2025). Results indicate that Period I saw the identification of serotypes O, A, and C, though serotype C has not been detected after 1983. Period II was marked by the continued circulation of serotypes O and A, and the first emergence of Serotype SAT 2 near the Kenya-Ethiopia border, which temporarily disappeared until its major re-emergence in 2007. Period III is characterized by a significant intensification and modernization of FMD virus (FMDV) outbreak investigation that provided more granular data on viral activity in the country. The period saw four major endemic serotypes O, A, SAT 2, and SAT 1, SAT one being confirmed for the first time during this period, circulate simultaneously and covering the entire country. Molecular analyses revealed a heterogeneous landscape: serotype O is dominated the serotype distribution in the country by its O/EA-3 and O/EA-4 topotypes, while serotype A involving complex lineages (Africa G-I, G-IV, and G-VII) follows in serotype O and precedes serotype SAT 2 in distribution. Notably, serotype SAT 2 has historically comprised four topotypes (IV, VII, XIII, and XIV), with the recent dominance of the re-emergent SAT 2/XIV topotype. The global biosecurity threat posed by FMDV SAT 2 topotype XIV stems from its unprecedented transcontinental dissemination into immunologically naive regions, rather than inherent lethality. This expansion highlights the complex evolutionary dynamics of the virus and the vulnerability of current surveillance system. The global dissemination of emerging lineages, such as SAT 2 topotype XIV, underscores the complex evolutionary dynamics and environmental plasticity inherent across all FMDV serotypes. The rapid shift of these viruses into nonendemic territories highlights critical vulnerabilities in existing biosecurity. Ultimately, these dynamics necessitate a shift toward adaptive, multiserotype surveillance and integrated control frameworks to address the continuous antigenic evolution and geographical expansion of the virus. Advancing Ethiopia along the progressive control pathway (PCP-FMD) is critically contingent upon evaluating the protective efficacy of current trivalent vaccines against rapidly evolving field strains. Immediate intervention is required to address diverged genotypes that jeopardize both national herd health and international market access.",
+    "authors": [
+      "Daniel Gizaw",
+      "Fentahun Wondmnew",
+      "Fasil Aklilu",
+      "Getnet Abie Mokonnen",
+      "Nina Henning",
+      "Berhanu Admasu",
+      "Badi Maulidi",
+      "Wudu Temesgen",
+      "Jef Hammond"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799644/",
+    "doi": "10.1155/tbed/6349383",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.5614,
+    "fetched_at": "2026-09-28"
+  },
+  {
     "id": "pubmed:42569331",
     "source": "pubmed",
     "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern.",
@@ -2323,6 +2346,28 @@
     "doi": "10.1016/j.diagmicrobio.2026.117579",
     "score": 0.4938,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42799091",
+    "source": "pubmed",
+    "title": "Targeting virus-glycan recognition in influenza viruses and coronaviruses: from the molecular principles to glycomimetic antivirals strategies.",
+    "abstract": "Glycans constitute the first molecular landscape encountered by viruses during infection and play fundamental roles in viral attachment, host adaptation, tissue tropism, and immune evasion. Far from being passive components of the cell surface, host glycans actively regulate virus-host interactions by functioning as attachment factors, entry receptors, or modulators of receptor engagement, while viral glycans contribute to immune escape and infectivity. Consequently, the molecular recognition of glycans has emerged as a major determinant of viral evolution and pathogenicity. This review presents our perspective on the structural and mechanistic principles that govern virus-glycan recognition, focusing on influenza viruses and coronaviruses as paradigmatic examples. We discuss how subtle variations in glycan structure, including glycosidic linkage, chain length, multivalent presentation, and chemical modifications such as O-acetylation, shape viral receptor specificity, host range, and cross-species transmission. Recent advances from structural biology, NMR spectroscopy, glycan arrays, computational modeling, and glycochemistry have substantially expanded our understanding of these dynamic recognition events and their evolutionary consequences. We further highlight how these insights are driving the development of glycomimetic antivirals designed to interfere with the earliest stages of infection. Approaches based on multivalent sialoglycan analogues, stabilized carbohydrate mimetics, and heparan sulfate-inspired scaffolds illustrate the growing potential of targeting glycan-mediated recognition as an alternative or complementary antiviral strategy. By integrating molecular recognition, viral adaptation, and medicinal chemistry, this review underscores the opportunities offered by glycobiology to develop innovative, potentially broad-spectrum antiviral therapeutics.",
+    "authors": [
+      "Cristina Fernández-Pérez",
+      "María Emilia Cuervo",
+      "Iris A Bermejo",
+      "Jon Imanol Quintana",
+      "Ana Gimeno",
+      "Ana Ardá",
+      "Jesús Jiménez-Barbero",
+      "Luca Unione"
+    ],
+    "date": "2026-Sep-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799091/",
+    "doi": "10.1039/d6cb00215c",
+    "journal": "RSC chemical biology",
+    "score": 0.4932,
+    "fetched_at": "2026-09-28"
   },
   {
     "id": "pubmed:42575447",
@@ -4513,48 +4558,5 @@
     "doi": "10.1007/s13346-025-01788-x",
     "score": 0.3407,
     "fetched_at": "2026-08-15"
-  },
-  {
-    "id": "pubmed:42729313",
-    "source": "pubmed",
-    "title": "Genomic surveillance reveals escalating antimicrobial resistance and plasmid diversity in clinical",
-    "abstract": "Salmonella 1,4,[5],12:i:- ST34 has emerged as a significant public health issue due to its association with various antimicrobial resistance genes (ARGs) and transferable plasmids. However, its genomic characteristics and potential influence on public health in Guizhou have not been comprehensively assessed. From 2019 to 2023, a 5-year surveillance was conducted in nine cities (prefectures) of Guizhou Province. We integrated phenotypic and genomic analyses of 281 clinical Salmonella 1,4,[5],12:i:- ST34 isolates to investigate the prevalence of ARGs and plasmids and to analyze the molecular epidemiology and evolution. The isolates exhibited resistance to first-line antibiotics, with 22.4% for ciprofloxacin, 11.4% for azithromycin, 18.5% for ceftazidime, and 39.1% for cefotaxime. ARGs showed substantial agreement with phenotypes for tetracycline, macrolides, third-generation cephalosporins (3GCs), carbapenems, and colistin (80.8-100.0% consistency; Kappa: 0.50-1.00). Plasmid analysis identified IncQ1 (84.3%) and IncHI2/IncHI2A (26.3%) as the main replicons, with the variety of plasmid replicons increasing from 7 to 21 over the 5 years. ARGs associated with resistance to critically important antibiotics (CIAs) were frequently predicted to be located on plasmid-associated contigs, with significant associations observed between IncHI2/IncHI2A plasmids and ARGs conferring resistance to fluoroquinolones, macrolides, and cephalosporins (P < 0.05). Molecular typing divided 281 isolates into 37 cgSTs, with cgST52428 being the most common. Molecular epidemiological analysis revealed that Guizhou isolates primarily clustered together, sharing close genetic ties with those from Sichuan and Guangdong, and exhibited the highest genetic similarity to pork-derived isolates. Phylogenetic analysis revealed clustering of CIA-resistant ARGs and plasmids in Clades 4 and 5, with a significant association between IncHI2/IncHI2A plasmids and CIA-resistant ARGs (χ2 = 112.12, P < 0.001). Additionally, class 1 integron was associated with higher ARG burdens, while virulence-associated genes were conserved and predominantly chromosome-associated. Gene-content analysis revealed that isolates in Clades 4 and 5 harbored the largest mean gene complements, and cgST52428 isolates also harbored the largest among dominant cgSTs. This study presents a comprehensive genomic profile of Salmonella 1,4,[5],12:i:- ST34 in Guizhou, providing essential data for exploring the resistance characteristics and investigating the molecular epidemiology of Salmonella 1,4,[5],12:i:-.",
-    "authors": [
-      "Ge Zhu",
-      "Lv You",
-      "Deyu Li",
-      "Junhua Wang",
-      "Shijun Li",
-      "Hui Liu",
-      "Xiaoyu Wei"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729313/",
-    "doi": "10.3389/fmicb.2025.1515576",
-    "journal": "Frontiers in microbiology",
-    "score": 0.3404,
-    "fetched_at": "2026-09-13"
-  },
-  {
-    "id": "pubmed:42579946",
-    "source": "pubmed",
-    "title": "Design and preclinical evaluation of a multi-epitope circular RNA vaccine targeting the spike protein of canine coronavirus genotype II.",
-    "abstract": "The rapid evolution and immune evasion of the Spike (S) protein in canine coronavirus type II (CCoV-II) necessitate the development of vaccines with enhanced durability and broad-spectrum efficacy. Circular RNA (circRNA) offers a superior platform to linear mRNA due to its covalently closed structure, which resists exonuclease degradation and ensures sustained antigen expression. In this study, we designed a multiepitope circRNA vaccine targeting conserved CTL, HTL, and LBL epitopes of the CCoV-II S protein, encapsulated in lipid nanoparticles (LNPs). The LNP-circRNA formulations exhibited high physicochemical stability and robust S protein expression in vitro. In both murine and canine models, the vaccine elicited potent S-specific IgG and neutralizing antibody titers, significantly enhancing T follicular helper (Tfh) cell and germinal center B (GC) cell responses. Crucially, vaccinated dogs challenged with virulent CCoV-II showed markedly reduced viral shedding, attenuated clinical symptoms, and preserved intestinal integrity without systemic inflammatory adverse effects. These results demonstrate that the multiepitope circRNA vaccine induces robust, long-term immune protection, establishing it as a highly effective next-generation candidate for the prevention of CCoV-II infection.",
-    "authors": [
-      "Xiaoyu Zhang",
-      "Lingli Wang",
-      "Wenna He",
-      "Zeheng Ren",
-      "Chengguang Zhang",
-      "Ming Zhou",
-      "Jiawu Wan",
-      "Jianqing Zhao",
-      "Ling Zhao"
-    ],
-    "date": "2026-Aug-09",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579946/",
-    "doi": "10.1016/j.vetmic.2026.111188",
-    "score": 0.3391,
-    "fetched_at": "2026-08-13"
   }
 ]
