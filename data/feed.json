@@ -2054,6 +2054,23 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42803847",
+    "source": "pubmed",
+    "title": "Modelling Between-Cell-Type Heterogeneity in Within-Host Influenza Virus Infection.",
+    "abstract": "Cell tropism, or the preference of a virus for particular cell types, has major implications for viral transmission, pathogenesis, and evolution. Historically, changes in cell tropism for particular viruses have been observed to correlate to changes in viral fitness, in the form of increased within-host replication and increased transmission between hosts. This is illustrated in the context of influenza, where adaptation to infect cells expressing α 2-6 linked sialic acid receptors enhances human-to-human transmissibility. Target cell populations differ not only in abundance but also in intrinsic properties such as susceptibility, viral production, and interferon responses, rendering the relationship between tropism and viral fitness multi-faceted and complex. Understanding how different cell tropisms quantitatively change fitness remains an important open question in virology and quantitative biology. Here, we present a within-host mathematical model that incorporates distinct target cell types differing in key properties, and examine how cell tropism affects fitness-related summary statistics such as peak viral load, infection duration, or total virus produced. Our analysis reveals that tradeoffs may arise when cell types differ by multiple characteristics. We further demonstrate that model parameters describing heterogeneity between cell types can be more accurately inferred when cell type proportions are measured alongside viral load. Our findings provide a framework for assessing the links between viral evolution, cell tropism, and within-host fitness, and motivate the design of experiments to collect quantitative data on between-cell-type heterogeneity.",
+    "authors": [
+      "Ada W C Yan",
+      "Steven Riley",
+      "James M McCaw"
+    ],
+    "date": "2026-Sep-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803847/",
+    "doi": "10.1016/s0022-5193(05)80703-9",
+    "journal": "Bulletin of mathematical biology",
+    "score": 0.514,
+    "fetched_at": "2026-09-29"
+  },
+  {
     "id": "pubmed:42752679",
     "source": "pubmed",
     "title": "Epidemiology of human RSV in Taiwan, 2018-2024.",
@@ -4525,38 +4542,5 @@
     "journal": "Journal of global antimicrobial resistance",
     "score": 0.3411,
     "fetched_at": "2026-08-21"
-  },
-  {
-    "id": "pubmed:42601614",
-    "source": "pubmed",
-    "title": "Safety and antiviral activity of inhaled siRNA SNS812 for treatment of mild-to-moderate COVID-19: a phase 2 randomized trial.",
-    "abstract": "SARS-CoV-2 remains a global health threat because ongoing viral evolution and immune evasion reduce the effectiveness of existing therapies. SNS812 is an inhaled small interfering RNA targeting a highly conserved region of the viral RNA-dependent RNA polymerase gene, representing a strategy that may enable broader antiviral activity against emerging variants. In this phase 2, double-blind, randomised, placebo-controlled trial, adults with mild-to-moderate COVID-19 within 3 days of symptom onset were randomly assigned (1:1:1) to receive placebo or inhaled SNS812 (100 mg or 200 mg) once daily for 7 days (ClinicalTrials.gov identifier: NCT05941793). Safety was the primary endpoint. Secondary endpoints included the time to sustained alleviation (TTSA) and resolution (TTSR) for prespecified composite target symptoms and individual symptoms. Virological outcomes were exploratory. A total of 135 participants were enrolled, with more than 90% infected with immune-evasive SARS-CoV-2 variants. No treatment-related adverse events or serious adverse events were reported. In exploratory analyses, the 200 mg SNS812 group showed a shorter median time to SARS-CoV-2 antigen negativity (2.9 vs 3.6 days; p = 0.007) and a faster viral load reduction rate (- 0.755 vs - 0.652; p = 0.040), demonstrating dose-dependent virological effects. In the modified intention-to-treat population, exploratory symptom analyses showed shorter TTSA and TTSR for prespecified target symptoms with SNS812 200 mg compared with placebo (median TTSR 6.1 vs 8.1 days; adjusted hazard ratio 2.07, 95% CI 1.30-3.29; median TTSA 3.6 vs 6.5 days; adjusted hazard ratio 1.81, 95% CI 1.14-2.88). Inhaled SNS812 was safe and well tolerated and showed dose-dependent antiviral activity, with exploratory signals of symptomatic improvement in adults with mild-to-moderate COVID-19 infected with immune-evasive variants. These findings support further evaluation in larger, adequately powered trials, including older and higher-risk populations.",
-    "authors": [
-      "Shey-Ying Chen",
-      "Sui-Yuan Chang",
-      "Yi-Chung Chang",
-      "Ming-Che Liu",
-      "Kuan-Yuan Chen",
-      "Jer-Hwa Chang",
-      "Wen-Pin Tseng",
-      "Chien-Hao Lin",
-      "Jhong-Lin Wu",
-      "Pai-Chien Chou",
-      "Tsong-Yih Ou",
-      "Chin-Wang Hsu",
-      "Feng-Yi Chou",
-      "Hui-Ju Ho",
-      "Jen-Fu Yang",
-      "Chi-Fan Yang",
-      "Yi-Fen Chen",
-      "Kang-Yun Lee",
-      "William Lu",
-      "Pan-Chyr Yang"
-    ],
-    "date": "2026-Aug-14",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42601614/",
-    "doi": "10.1007/s13346-025-01788-x",
-    "score": 0.3407,
-    "fetched_at": "2026-08-15"
   }
 ]
