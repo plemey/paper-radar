@@ -1,0 +1,170 @@
+[
+  {
+    "id": "pubmed:42814787",
+    "source": "pubmed",
+    "title": "Mixed updating in structured populations.",
+    "abstract": "Evolutionary graph theory (EGT) studies the effect of population structure on evolutionary dynamics. The vertices of the graph represent the N individuals. The edges denote interactions for competitive replacement. Two standard update rules are death-Birth (dB) and Birth-death (Bd). Under dB, an individual is chosen uniformly at random to die, and its neighbors-the individuals on adjacent vertices of the graph- compete to fill the vacancy proportional to their fitness. Under Bd, an individual is chosen for reproduction proportional to fitness, and its offspring replaces a randomly chosen neighbor on an adjacent vertex. Here we study mixed updating between those two scenarios. In each time step, with probability δ the update is dB and with the remaining probability it is Bd. We study fixation probabilities and times as functions of δ under neutral evolution and constant selection. Despite the fact that fixation probabilities and times can be increasing, decreasing, or non-monotonic in δ, we prove that nearly all unweighted undirected graphs have short fixation times and provide an efficient algorithm to estimate their fixation probabilities. Finally, we prove exact formulas for fixation probabilities on cycles, stars, and more complex structures and classify their sensitivities to δ.",
+    "authors": [
+      "David A Brewster",
+      "Yichen Huang",
+      "Michael Mitzenmacher",
+      "Martin A Nowak"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814787/",
+    "doi": "10.1371/journal.pcbi.1014829",
+    "journal": "PLoS computational biology",
+    "score": 0.0979,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42812846",
+    "source": "pubmed",
+    "title": "Clinical and Molecular Characteristics of",
+    "abstract": "Streptococcus dysgalactiae subsp. equisimilis (SDSE) is an emerging cause of invasive infection, particularly in aging populations. We investigated the clinical and genomic characteristics of SDSE bacteremia at a Japanese medical center serving a large older-adult population. We retrospectively analyzed 73 consecutive episodes of SDSE bacteremia, including 63 initial and 10 recurrent episodes, from April 2020 through September 2024. Clinical features were compared with those of Streptococcus pyogenes (GAS) and Streptococcus agalactiae (GBS) bacteremia. Whole-genome sequencing was performed to assess strain relatedness, emm types, sequence types (STs), and virulence gene profiles. The median age of patients with initial SDSE bacteremia was 86.0 years, the highest among 10 major bloodstream pathogens evaluated, predominantly affecting super-elderly patients compared with GAS and GBS. Lower-extremity skin and soft tissue infections were the most common portal of entry. Among 10 recurrent episodes, 5 were caused by strains with STs and emm types identical to those of the initial isolates, consistent with probable relapse; the remaining episodes involved different genotypes, suggesting reinfection. The all-cause 30-day mortality rate was 4.8%. Phylogenetic analysis demonstrated genetic diversity, including 15 emm types and 14 STs. No specific lineage or virulence gene was significantly associated with clinical outcomes. In our cohort, SDSE bacteremia predominantly affected super-elderly adults and frequently arose from lower-extremity portals of entry. Recurrent episodes involved both probable relapse and potential reinfection. These findings suggest that localized interventions, such as skin care and edema management, may be important adjuncts to antimicrobial therapy for preventing recurrence.",
+    "authors": [
+      "Takahiro Matsuno",
+      "Masahiro Suzuki",
+      "Takuya Hosoda",
+      "Yohei Doi"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42812846/",
+    "doi": "10.1093/ofid/ofag552",
+    "journal": "Open forum infectious diseases",
+    "score": 0.2706,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42812357",
+    "source": "pubmed",
+    "title": "Molecular detection and genetic characterization of",
+    "abstract": "Giardia duodenalis is a ubiquitous enteric protozoan infecting humans, domestic animals, and wildlife worldwide. In Thailand, high densities of stray animals represent an important management challenge. However, molecular epidemiological data regarding stray cats remain limited. This study estimated the prevalence of G. duodenalis, characterized the identified genetic assemblages, and explored factors associated with PCR positivity in temple stray cats in Bangkok, Thailand. Fecal samples were collected from 500 stray cats residing across 43 temples in 24 districts of Bangkok. Detection of G. duodenalis was performed using nested PCR targeting the small subunit ribosomal RNA (SSU rRNA) gene. Positive samples were further characterized by genotyping at the glutamate dehydrogenase (gdh) and triosephosphate isomerase (tpi) loci. Phylogenetic analyses were conducted using the Maximum Likelihood method based on the Tamura 3-parameter model. Associated factors were evaluated using multivariable logistic regression. The overall prevalence of G. duodenalis was 10.8% (54/500; 95% CI: 8.4-13.8%), with positive cases identified in 12 of the 24 surveyed districts and 19 of the 43 sampled temples. Eight isolates were successfully genotyped, identifying assemblage B (sub-assemblage BIV, n = 4), assemblage F (n = 3), and assemblage A (sub-assemblage AI, n = 1). The absence of human contact was identified as an exploratory variable associated with higher odds of PCR positivity (adjusted odds ratio [aOR] = 8.80; 95% CI: 2.15-35.98; P = 0.002), while demographic factors (age, sex), geographic zone, and deworming history showed no statistically significant associations. Assemblages previously reported in humans and various animals were detected among a small number of successfully genotyped isolates, while the source, direction of transmission, and the reservoir status of temple stray cats could not be determined.",
+    "authors": [
+      "Vy Thi Tuong Le",
+      "Pornkamol Phoosangwalthong",
+      "Minh-Trang Thi Hoang",
+      "Tawin Inpankaew"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42812357/",
+    "doi": "10.3347/kjp.2015.53.1.119",
+    "journal": "Frontiers in parasitology",
+    "score": 0.356,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42811428",
+    "source": "pubmed",
+    "title": "Emergence of Macrolide-Resistant Bordetella pertussis, Peru, 2025.",
+    "abstract": "We report the emergence of macrolide-resistant Bordetella pertussis during a pertussis outbreak in Peru. Among 68 cases, 31% carried the A2047G gene mutation, conferring resistance to macrolides. Whole-genome sequencing revealed 2 genetically distinct groups, indicating multiple introductions into Peru. Our findings support strengthening surveillance for macrolide-resistant pertussis to inform control strategies.",
+    "authors": [
+      "Eduardo Juscamayta-López",
+      "Faviola Valdivia",
+      "Carmen Rodríguez-Cueva",
+      "Helen Horna",
+      "Yaneth Quispe",
+      "María Pía Soto",
+      "Segundo Torres",
+      "Victor Fiestas Solórzano",
+      "Martin Yagui",
+      "Vlademir Vicente Cantarelli",
+      "Efrain Montilla-Escudero",
+      "Víctor Silva",
+      "Ana Raquel Da Costa"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811428/",
+    "doi": "10.3201/eid3210.251477",
+    "journal": "Emerging infectious diseases",
+    "score": 0.4732,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42811277",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Evolution of Swine Influenza A Viruses, Vietnam, 2020-2024.",
+    "abstract": "Swine influenza A viruses (IAV-S) caused the 2009 H1N1 pandemic and pose a future zoonotic and pandemic threat. Vietnam represents a critical hotspot for IAV-S emergence within East and Southeast Asia, with dense swine and human populations and intensive livestock trade. We conducted genomic surveillance of IAV-S in Vietnam during 2020-2024, extending previous surveillance from 2013-2019. We identified multiple co-circulating H1 and H3 clades, including pandemic H1N1, Eurasian avian-like, and European lineages, by conducting phylogenetic analysis of 56 IAV-S isolates (21 H1N1, 31 H1N2, and 4 H3N2). Three H1 clades persisted exclusively in Vietnam, circulating up to 12 years. Phylogeographic analysis revealed multiple independent introduction events from North America, Europe, China, Thailand, and Cambodia. We detected extensive reassortment that frequently involved pandemic H1N1 virus internal genes. We identified several lineage-specific mutations associated with mammalian adaptation. Our findings underscore the ongoing IAV-S evolution and need for sustained surveillance in Vietnam.",
+    "authors": [
+      "Ngoc Anh Bui",
+      "Zoe Yi Song",
+      "Samuel M S Cheng",
+      "Duy Tung Dao",
+      "Lydia D J Chang",
+      "Gigi Y Z Liu",
+      "Quang Huy Nguyen",
+      "Thi Hang Dang",
+      "Quoc Hung Nguyen",
+      "Tom L Y Woo",
+      "Coco H C Chan",
+      "Tommy T Y Lam",
+      "Vuong N Bui",
+      "Malik Peiris"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811277/",
+    "doi": "10.3201/eid3210.260593",
+    "journal": "Emerging infectious diseases",
+    "score": 0.8038,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42810267",
+    "source": "pubmed",
+    "title": "Early detection of emerging swine pathogens: Comparative evaluation of online change-point methods.",
+    "abstract": "Timely detection of pathogen outbreaks in the U.S. swine population is crucial for protecting animal health and mitigating disruptions to food production. This study evaluates the efficacy of several state-of-the-art online change-point detection methods, including BEAST, Strucchange, a weighted CUSUM method, and several versions of BFastmonitor, in detecting outbreaks in pathogen case time series quickly and reliably. Time series data are simulated from state-level pathogen surveillance of Influenza A virus (IAV), Mycoplasma hyopneumoniae (MHP), Porcine deltacoronavirus (PDCoV), Porcine epidemic diarrhea virus (PEDV), and Porcine reproductive and respiratory syndrome virus (PRRSV) in the largest U.S. pork-producing states. Our results indicate that methods incorporating explicit modeling of trend and seasonality deliver more robust outbreak detection, particularly for time series exhibiting complex temporal and seasonal patterns. These methods generally outperform others in both timeliness and reliability, underscoring their operational value. Furthermore, we examine practical aspects of long-term monitoring, including the influence of stable period length, spacing between outbreaks, nonstationarity, and dependence structures. To demonstrate real-world applicability, we provide a detailed case study of BFastmonitor applied to an eight-year historical swine pathogen time series, highlighting its feasibility for routine surveillance.",
+    "authors": [
+      "Alan Moore",
+      "Lynna Chu",
+      "Guilherme Cezar",
+      "Giovani Trevisan",
+      "Daniel Linhares",
+      "Zhengyuan Zhu"
+    ],
+    "date": "2026-Sep-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810267/",
+    "doi": "10.1016/j.prevetmed.2026.107020",
+    "journal": "Preventive veterinary medicine",
+    "score": 0.4505,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42810091",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and genetic diversity of infectious bronchitis virus in Iranian poultry: A systematic review.",
+    "abstract": "Infectious bronchitis virus (IBV) is a highly contagious avian coronavirus that causes substantial economic losses in poultry production due to respiratory disease, reduced performance, and impaired egg production. In Iran, IBV has been repeatedly reported over the past two decades; however, evidence on diagnostic approaches and circulating lineages remains fragmented. This systematic review aimed to summarize the available Iranian literature on the molecular epidemiology and genetic diversity of IBV in poultry. We conducted a comprehensive search for relevant papers that reported the identification or molecular characterization of infectious bronchitis virus in Iranian poultry using key scientific databases and associated resources. We included 32 studies published between 2003 and 2022. Most investigations were conducted in broiler flocks, and most studies used molecular diagnostic methods, with RT-PCR being the most frequently reported approach, followed by real-time RT-PCR and nested RT-PCR; ELISA was used in a limited number of studies. Diverse circulating lineages were reported; GI-1 (Massachusetts-type), GI-13 (793/B-type), GI-19 (QX-like), and GI-23 (Variant-2/IS-1494/06-like) strains were often documented, suggesting co-circulation of many lineages in Iranian poultry populations. Genotype reporting was inconsistent across studies, and several investigations lacked complete molecular characterization. Additionally, quantitative synthesis of prevalence estimates could not be performed because the extracted dataset did not consistently report denominators (sample size) and numbers of positive samples. Overall, the evidence suggests sustained circulation of genetically diverse IBV lineages in Iran, supporting the need for continuous molecular surveillance, harmonized reporting, and vaccination strategies aligned with locally circulating strains to improve control of infectious bronchitis in Iranian poultry.",
+    "authors": [
+      "Arash Ghalyanchi Langeroudi",
+      "Hamideh Najafi",
+      "Kimia Malekahmadi",
+      "Sayyad Khanizadeh",
+      "Iman Pouladi"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810091/",
+    "doi": "10.1016/j.psj.2026.107786",
+    "journal": "Poultry science",
+    "score": 0.5643,
+    "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42810085",
+    "source": "pubmed",
+    "title": "Genotypic and phenotypic analysis of antimicrobial resistance in Salmonella enterica isolates from retail chicken products in Kuwait.",
+    "abstract": "Antimicrobial resistance in non-typhoidal Salmonella is recognized as an important threat to food safety and public health. The objectives of this study were to characterize the antimicrobial resistance patterns, molecular epidemiology and agreement between genetic resistance markers and phenotypic susceptibility profiles among Salmonella enterica isolates found in chicken products in Kuwait. Seventy-two Salmonella enterica isolates were tested for susceptibility to eleven antibiotics using the disk-diffusion method. Whole genome sequencing was performed to test the genotypic antibiotic resistance genes and associated mobile genetic elements. Phenotypically, resistance was higher to ampicillin, tetracycline and cefotaxime with rates of 97.1%, 95.7% and 89.9%, respectively. Genomic analysis identified 32 genes with the most common being tetA (98.6%), qacE (87.5%), sul1 (86.1%), floR (81.7%), aac(3)-IV (80.3%) and, blaCTX-M-65 (79.2%). The agreement between the genetic and phenotypic data varied, however, concordance was high for tetracycline (95.5%; k = 0.02), gentamicin (79.7%; k = 0.43), chloramphenicol (78.3%; k = 0.35) and meropenem (100%; k = 1.0), whereas, cefotaxime (10.1%; k = 0.0) and nalidixic acid (30.4%; k = 0.0) showed poor agreement. MLST analysis identified seven sequence types (STs) with ST32 and ST314 being the dominant lineages, representing 33.3% and 31.9% of isolates, respectively. Plasmid analysis showed 79.1% of isolates carried the IncFIB(pN55391) replicon. Integrons (attc & intl) were also identified in 83.3% of isolates. All the isolates were predicted as human pathogens at the confidence level of 95.5-98.5%. In conclusion, the widespread multidrug resistance and high load of resistance genes detected in Salmonella from retail chicken in Kuwait point to an important food safety concern. The findings support the need for routine surveillance in Kuwait that combines whole-genome sequencing with conventional susceptibility testing as a part of a broader One Health approach.",
+    "authors": [
+      "Ahmad Al-Dhumair",
+      "Nazima Habibi",
+      "Amani H Al Fadhli",
+      "Qadreyah Almatawah",
+      "Hanan Al Khalifah",
+      "Mohammad Al Hasan"
+    ],
+    "date": "2026-Sep-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810085/",
+    "doi": "10.1016/j.psj.2026.107844",
+    "journal": "Poultry science",
+    "score": 0.2461,
+    "fetched_at": "2026-10-01"
+  }
+]

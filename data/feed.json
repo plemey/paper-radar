@@ -23,6 +23,34 @@
     "fetched_at": "2026-08-07"
   },
   {
+    "id": "pubmed:42811277",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Evolution of Swine Influenza A Viruses, Vietnam, 2020-2024.",
+    "abstract": "Swine influenza A viruses (IAV-S) caused the 2009 H1N1 pandemic and pose a future zoonotic and pandemic threat. Vietnam represents a critical hotspot for IAV-S emergence within East and Southeast Asia, with dense swine and human populations and intensive livestock trade. We conducted genomic surveillance of IAV-S in Vietnam during 2020-2024, extending previous surveillance from 2013-2019. We identified multiple co-circulating H1 and H3 clades, including pandemic H1N1, Eurasian avian-like, and European lineages, by conducting phylogenetic analysis of 56 IAV-S isolates (21 H1N1, 31 H1N2, and 4 H3N2). Three H1 clades persisted exclusively in Vietnam, circulating up to 12 years. Phylogeographic analysis revealed multiple independent introduction events from North America, Europe, China, Thailand, and Cambodia. We detected extensive reassortment that frequently involved pandemic H1N1 virus internal genes. We identified several lineage-specific mutations associated with mammalian adaptation. Our findings underscore the ongoing IAV-S evolution and need for sustained surveillance in Vietnam.",
+    "authors": [
+      "Ngoc Anh Bui",
+      "Zoe Yi Song",
+      "Samuel M S Cheng",
+      "Duy Tung Dao",
+      "Lydia D J Chang",
+      "Gigi Y Z Liu",
+      "Quang Huy Nguyen",
+      "Thi Hang Dang",
+      "Quoc Hung Nguyen",
+      "Tom L Y Woo",
+      "Coco H C Chan",
+      "Tommy T Y Lam",
+      "Vuong N Bui",
+      "Malik Peiris"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811277/",
+    "doi": "10.3201/eid3210.260593",
+    "journal": "Emerging infectious diseases",
+    "score": 0.8038,
+    "fetched_at": "2026-10-01"
+  },
+  {
     "id": "pubmed:42642433",
     "source": "pubmed",
     "title": "Evolving dynamics of H5Nx avian influenza in China revealed by long-term wild bird surveillance.",
@@ -1212,6 +1240,25 @@
     "journal": "Infectious Disease Modelling",
     "score": 0.565,
     "fetched_at": "2026-09-15"
+  },
+  {
+    "id": "pubmed:42810091",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and genetic diversity of infectious bronchitis virus in Iranian poultry: A systematic review.",
+    "abstract": "Infectious bronchitis virus (IBV) is a highly contagious avian coronavirus that causes substantial economic losses in poultry production due to respiratory disease, reduced performance, and impaired egg production. In Iran, IBV has been repeatedly reported over the past two decades; however, evidence on diagnostic approaches and circulating lineages remains fragmented. This systematic review aimed to summarize the available Iranian literature on the molecular epidemiology and genetic diversity of IBV in poultry. We conducted a comprehensive search for relevant papers that reported the identification or molecular characterization of infectious bronchitis virus in Iranian poultry using key scientific databases and associated resources. We included 32 studies published between 2003 and 2022. Most investigations were conducted in broiler flocks, and most studies used molecular diagnostic methods, with RT-PCR being the most frequently reported approach, followed by real-time RT-PCR and nested RT-PCR; ELISA was used in a limited number of studies. Diverse circulating lineages were reported; GI-1 (Massachusetts-type), GI-13 (793/B-type), GI-19 (QX-like), and GI-23 (Variant-2/IS-1494/06-like) strains were often documented, suggesting co-circulation of many lineages in Iranian poultry populations. Genotype reporting was inconsistent across studies, and several investigations lacked complete molecular characterization. Additionally, quantitative synthesis of prevalence estimates could not be performed because the extracted dataset did not consistently report denominators (sample size) and numbers of positive samples. Overall, the evidence suggests sustained circulation of genetically diverse IBV lineages in Iran, supporting the need for continuous molecular surveillance, harmonized reporting, and vaccination strategies aligned with locally circulating strains to improve control of infectious bronchitis in Iranian poultry.",
+    "authors": [
+      "Arash Ghalyanchi Langeroudi",
+      "Hamideh Najafi",
+      "Kimia Malekahmadi",
+      "Sayyad Khanizadeh",
+      "Iman Pouladi"
+    ],
+    "date": "2026-Sep-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810091/",
+    "doi": "10.1016/j.psj.2026.107786",
+    "journal": "Poultry science",
+    "score": 0.5643,
+    "fetched_at": "2026-10-01"
   },
   {
     "id": "pubmed:42753459",
@@ -2698,6 +2745,33 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42811428",
+    "source": "pubmed",
+    "title": "Emergence of Macrolide-Resistant Bordetella pertussis, Peru, 2025.",
+    "abstract": "We report the emergence of macrolide-resistant Bordetella pertussis during a pertussis outbreak in Peru. Among 68 cases, 31% carried the A2047G gene mutation, conferring resistance to macrolides. Whole-genome sequencing revealed 2 genetically distinct groups, indicating multiple introductions into Peru. Our findings support strengthening surveillance for macrolide-resistant pertussis to inform control strategies.",
+    "authors": [
+      "Eduardo Juscamayta-López",
+      "Faviola Valdivia",
+      "Carmen Rodríguez-Cueva",
+      "Helen Horna",
+      "Yaneth Quispe",
+      "María Pía Soto",
+      "Segundo Torres",
+      "Victor Fiestas Solórzano",
+      "Martin Yagui",
+      "Vlademir Vicente Cantarelli",
+      "Efrain Montilla-Escudero",
+      "Víctor Silva",
+      "Ana Raquel Da Costa"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811428/",
+    "doi": "10.3201/eid3210.251477",
+    "journal": "Emerging infectious diseases",
+    "score": 0.4732,
+    "fetched_at": "2026-10-01"
+  },
+  {
     "id": "pubmed:42551187",
     "source": "pubmed",
     "title": "Intravenous immunoglobulin recalibrates monocyte responses to abortive SARS-CoV-2 infection across viral variants.",
@@ -3103,6 +3177,26 @@
     "doi": "10.1016/j.tvjl.2026.106807",
     "score": 0.4505,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42810267",
+    "source": "pubmed",
+    "title": "Early detection of emerging swine pathogens: Comparative evaluation of online change-point methods.",
+    "abstract": "Timely detection of pathogen outbreaks in the U.S. swine population is crucial for protecting animal health and mitigating disruptions to food production. This study evaluates the efficacy of several state-of-the-art online change-point detection methods, including BEAST, Strucchange, a weighted CUSUM method, and several versions of BFastmonitor, in detecting outbreaks in pathogen case time series quickly and reliably. Time series data are simulated from state-level pathogen surveillance of Influenza A virus (IAV), Mycoplasma hyopneumoniae (MHP), Porcine deltacoronavirus (PDCoV), Porcine epidemic diarrhea virus (PEDV), and Porcine reproductive and respiratory syndrome virus (PRRSV) in the largest U.S. pork-producing states. Our results indicate that methods incorporating explicit modeling of trend and seasonality deliver more robust outbreak detection, particularly for time series exhibiting complex temporal and seasonal patterns. These methods generally outperform others in both timeliness and reliability, underscoring their operational value. Furthermore, we examine practical aspects of long-term monitoring, including the influence of stable period length, spacing between outbreaks, nonstationarity, and dependence structures. To demonstrate real-world applicability, we provide a detailed case study of BFastmonitor applied to an eight-year historical swine pathogen time series, highlighting its feasibility for routine surveillance.",
+    "authors": [
+      "Alan Moore",
+      "Lynna Chu",
+      "Guilherme Cezar",
+      "Giovani Trevisan",
+      "Daniel Linhares",
+      "Zhengyuan Zhu"
+    ],
+    "date": "2026-Sep-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810267/",
+    "doi": "10.1016/j.prevetmed.2026.107020",
+    "journal": "Preventive veterinary medicine",
+    "score": 0.4505,
+    "fetched_at": "2026-10-01"
   },
   {
     "id": "pubmed:42683047",
@@ -4427,6 +4521,24 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42812357",
+    "source": "pubmed",
+    "title": "Molecular detection and genetic characterization of",
+    "abstract": "Giardia duodenalis is a ubiquitous enteric protozoan infecting humans, domestic animals, and wildlife worldwide. In Thailand, high densities of stray animals represent an important management challenge. However, molecular epidemiological data regarding stray cats remain limited. This study estimated the prevalence of G. duodenalis, characterized the identified genetic assemblages, and explored factors associated with PCR positivity in temple stray cats in Bangkok, Thailand. Fecal samples were collected from 500 stray cats residing across 43 temples in 24 districts of Bangkok. Detection of G. duodenalis was performed using nested PCR targeting the small subunit ribosomal RNA (SSU rRNA) gene. Positive samples were further characterized by genotyping at the glutamate dehydrogenase (gdh) and triosephosphate isomerase (tpi) loci. Phylogenetic analyses were conducted using the Maximum Likelihood method based on the Tamura 3-parameter model. Associated factors were evaluated using multivariable logistic regression. The overall prevalence of G. duodenalis was 10.8% (54/500; 95% CI: 8.4-13.8%), with positive cases identified in 12 of the 24 surveyed districts and 19 of the 43 sampled temples. Eight isolates were successfully genotyped, identifying assemblage B (sub-assemblage BIV, n = 4), assemblage F (n = 3), and assemblage A (sub-assemblage AI, n = 1). The absence of human contact was identified as an exploratory variable associated with higher odds of PCR positivity (adjusted odds ratio [aOR] = 8.80; 95% CI: 2.15-35.98; P = 0.002), while demographic factors (age, sex), geographic zone, and deworming history showed no statistically significant associations. Assemblages previously reported in humans and various animals were detected among a small number of successfully genotyped isolates, while the source, direction of transmission, and the reservoir status of temple stray cats could not be determined.",
+    "authors": [
+      "Vy Thi Tuong Le",
+      "Pornkamol Phoosangwalthong",
+      "Minh-Trang Thi Hoang",
+      "Tawin Inpankaew"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42812357/",
+    "doi": "10.3347/kjp.2015.53.1.119",
+    "journal": "Frontiers in parasitology",
+    "score": 0.356,
+    "fetched_at": "2026-10-01"
+  },
+  {
     "id": "pubmed:42562629",
     "source": "pubmed",
     "title": "Evolution of South Asian mountain biota: dispersal, fine-scale biogeography, phylogenetics and systematics of Nannenini jumping spiders.",
@@ -4464,111 +4576,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42564160/",
     "doi": "10.21680/2447-3359.2016v2n0ID10565",
     "score": 0.3479,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42655714",
-    "source": "pubmed",
-    "title": "Phylogenetic Evidence of Local HIV-1 Transmission and Antiretroviral Drug Resistance in the Middle East and North Africa.",
-    "abstract": "The molecular epidemiology and antiretroviral (ARV) drug resistance of human immunodeficiency virus type 1 (HIV-1) remain incompletely outlined in the Middle East and North Africa (MENA). The aim of this retrospective molecular epidemiology study was to analyze MENA HIV-1 sequences for phylogenetic clustering and to delineate surveillance drug-resistance mutations (SDRMs) for nucleoside reverse-transcriptase inhibitors (NRTIs), non-nucleoside reverse-transcriptase inhibitors (NNRTIs), and protease inhibitors (PIs) across various periods, locations, and subtypes/circulating recombinant forms (CRFs). Viral sequences were retrieved from the Los Alamos HIV Sequence Database as of 15 April 2026. Analyses were done using multiple sub-gene regions (two env regions (n = 224 and n = 60) and PR (n = 2413) and RT (n = 2103) of the pol gene). Phylogeny construction was conducted using maximum-likelihood estimation, while ARV drug resistance analysis was conducted using the Stanford HIVdb algorithm. The HIV-1 MENA sequences showed a remarkable genetic diversity, with co-circulation of multiple subtypes/CRFs, including subtype B in the Maghreb, Levant, and Egypt sub-regions, subtypes A1, G, CRF01_AE, and CRF02_AG in the Gulf Cooperation Council (GCC) and Yemen sub-region, and subtypes C and D in the Horn of Africa and Sudan sub-region. The percentage of MENA HIV-1 sequences in clusters was 10.3% for env1, 8.3% for env2, 22.0% for PR and 37.2% for RT. Phylogenetic reconstruction hinted at a structured epidemic dominated by small transmission units, with most clusters comprising dyads (n = 260) or networks (n = 142) and a limited number of large clusters (n = 8) that were largely confined within national boundaries, with only occasional cross-border linkages (n = 8). Overall SDRM prevalence was 3.2% in the PR region and 14.9% in the RT region, with a higher percentage of NNRTI-associated mutations (10.0%) than NRTI-associated mutations (9.1%) and dual-class resistance observed in 4.1% of sequences. Phylogenetic clustering was not associated with the probability of harboring SDRMs; however, negative binomial models showed that non-clustered sequences had a greater burden of NRTI-associated mutations, whereas no such association was observed for NNRTI- or PI-associated mutations. The findings showed predominantly localized and fragmented MENA HIV-1 transmission dynamics. Heterogeneous ARV drug resistance dynamics indicated that resistance emergence might be shaped by broader epidemiologic and treatment-related factors rather than ongoing clustered transmission. There is a need for coordinated molecular surveillance and optimized ART strategies across the MENA countries.",
-    "authors": [
-      "Esraa Al-Fraihat",
-      "Amal Irshaid",
-      "Mohammed Sallam",
-      "Johan Snygg",
-      "Rasha Awawdeh",
-      "Hasanain Al-Shakerchi",
-      "Sama Al-Baidhani",
-      "Malik Sallam"
-    ],
-    "date": "2026-Aug-14",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655714/",
-    "doi": "10.3390/v18080897",
-    "journal": "Viruses",
-    "score": 0.3479,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42633788",
-    "source": "pubmed",
-    "title": "ACE2 decoy Fc-fusions and bispecific killer engagers require Fc engagement for in vivo efficacy against SARS-CoV-2.",
-    "abstract": "SARS-CoV-2 has continued to evolve over time, necessitating the adaptation of vaccines to maintain efficacy. Monoclonal antibodies (mAbs) against SARS-CoV-2 were a key line of defense for unvaccinated or immunocompromised individuals. However, these mAbs are now ineffective against current SARS-CoV-2 variants. Here, we tested 3 aspects of αSARS-CoV-2 therapeutics. First, we tested whether Fc engagement is necessary for in vivo clearance of SARS-CoV-2. Second, we tested bispecific killer engagers (BiKEs) that simultaneously engage SARS-CoV-2 and a specific Fc receptor. Benefits of these engagers include the ease of manufacturing, stability, more cell-specific targeting, and high affinity binding to Fc receptors. Using both mAbs and BiKEs, we found that both neutralization and Fc receptor engagement were necessary for effective SARS-CoV-2 clearance. Third, due to ACE2 being necessary for viral entry, ACE2 will maintain binding to SARS-CoV-2 despite viral evolution. Therefore, we used an ACE2 decoy Fc-fusion or BiKE, instead of an αSARS-CoV-2 antibody sequence, as a potential therapeutic that would withstand viral evolution. We found that the ACE2 decoy approach also required Fc receptor engagement and, unlike traditional neutralizing antibodies against specific variants, enabled the clearance of two distinct SARS-CoV-2 variants. These data show the importance of Fc engagement for mAbs, the utility of BiKEs as therapies for infectious disease, and the in vivo effectiveness of the ACE2 decoy approach. With further studies, we predict that combining neutralization, the cellular response, and this ACE2 decoy approach will benefit individuals with ineffective antibody levels.",
-    "authors": [
-      "Jenna K Dick",
-      "Venkatramana D Krishna",
-      "Dustin Hicks",
-      "Jules A Sangala",
-      "Robert J Oldham",
-      "Benjamin T Zandstra",
-      "Carly Baehr",
-      "J Sjef Verbeek",
-      "Mark S Cragg",
-      "Marco Pravetoni",
-      "Maxim C-J Cheeran",
-      "Geoffrey T Hart"
-    ],
-    "date": "2026-Aug-04",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42633788/",
-    "doi": "10.1093/jimmun/vkag235",
-    "journal": "Journal of immunology (Baltimore, Md. : 1950)",
-    "score": 0.3464,
-    "fetched_at": "2026-08-24"
-  },
-  {
-    "id": "pubmed:42575608",
-    "source": "pubmed",
-    "title": "First detection of Dicrocoelium dendriticum (Digenea: Dicrocoelidae) from cattle in the West Bank, Palestine.",
-    "abstract": "Dicrocoelium dendriticum is a globally distributed trematode that infects the bile ducts of ruminants and causes dicrocoeliasis, leading to economic losses in livestock production. Despite favorable ecological conditions, its presence in cattle had not previously reported in Palestine. This short communication reports the first detection and characterization of D. dendriticum in cattle from the West Bank, Palestine. Adult flukes were recovered from bile ducts during routine post-mortem inspection at Al-Bireh slaughterhouse and identified based on morphological characteristics. Molecular confirmation was performed using PCR analysis targeting the mitochondrial NAD1 gene, followed by sequencing and BLAST analysis, which showed 100% identity with reference D. dendriticum sequences in GenBank. The combined morphological and molecular findings confirm the occurrence of D. dendriticum in cattle in Palestine. These results provide baseline data for the regional epidemiology of dicrocoeliasis and highlight the need for broader parasitological and molecular surveillance in livestock to assess prevalence, genetic diversity and potential economic and public health implications.",
-    "authors": [
-      "Kifaya Azmi",
-      "Sami Mo'tan",
-      "Ahmad Amro",
-      "Ziad Abdeen",
-      "Maram Ja'afreh",
-      "Omar Hamarsheh"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575608/",
-    "doi": "10.1016/j.vprsr.2026.101530",
-    "score": 0.3456,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42700938",
-    "source": "pubmed",
-    "title": "Molecular epidemiology and phylogeographic architecture of oncogenic intracellular bacteria in cervical cancer patients across Northern China.",
-    "abstract": "Oncogenic intracellular bacteria, including Chlamydia trachomatis, Mycoplasma genitalium, and Fusobacterium nucleatum, have emerged as significant contributors to cervical carcinogenesis. Despite growing interest in microbial oncology, the molecular epidemiological landscape and phylogeographic distribution of these pathogens in Northern China remain poorly characterized. This study aimed to determine the prevalence, co-infection patterns, genotypic diversity, and spatial phylogeographic clustering of oncogenic intracellular bacteria among cervical cancer patients across five provinces of Northern China. A cross-sectional, multi-center study was conducted between March 2022 and November 2024 across Shaanxi, Heilongjiang, Beijing, Shandong, and Inner Mongolia. Cervical swab specimens were collected from 1247 confirmed cervical cancer patients. Pathogen detection was performed using multiplex real-time polymerase chain reaction, 16S rRNA gene amplicon sequencing, and whole-genome sequencing. Phylogeographic analyses employed maximum likelihood and Bayesian evolutionary inference frameworks. Statistical analyses included multivariate logistic regression and geographic information system-based spatial clustering. The overall prevalence of at least one oncogenic intracellular bacterium was 68.3% (n = 852). Chlamydia trachomatis was the most prevalent pathogen detected in 41.2% of participants. Co-infection with two or more bacteria was identified in 29.7% of cases and was independently associated with advanced-stage cervical cancer (adjusted odds ratio = 2.87; 95% confidence interval: 1.94 to 4.23; p < 0.001). Phylogeographic analysis revealed three distinct molecular clades with evidence of bidirectional gene flow between Shaanxi and Heilongjiang. Whole-genome sequencing identified 14 novel virulence gene variants not previously characterized in Chinese clinical isolates. Oncogenic intracellular bacteria are highly prevalent and genotypically diverse among cervical cancer patients in Northern China. The identified phylogeographic clustering and novel virulence variants have direct implications for regional screening programs, targeted antimicrobial strategies, and the development of region-specific molecular diagnostic panels.",
-    "authors": [
-      "Min Li",
-      "Tianjiao Zhang",
-      "Zhen Shen",
-      "Xia Zhang"
-    ],
-    "date": "2026-Sep-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42700938/",
-    "doi": "10.1016/j.meegid.2026.106016",
-    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
-    "score": 0.3432,
-    "fetched_at": "2026-09-06"
-  },
-  {
-    "id": "pubmed:42564151",
-    "source": "pubmed",
-    "title": "Epidemiology of viral and atypical bacterial respiratory infections among children hospitalised at a Kenyan tertiary referral centre: a cross sectional multiplex PCR study.",
-    "abstract": "Severe acute respiratory infections (SARIs) cause high paediatric morbidity and mortality particularly in sub-Saharan Africa. Understanding contemporary trends in SARI aetiology is needed to inform prevention strategies. We aimed to determine the current aetiology, severity and seasonality of SARIs based on pathogens detected by multiplex quantitative real-time polymerase chain reaction (qRT-PCR) tests, BioFire® respiratory panel 2.0 (RP 2) and 2.1plus (RP2.1plus). We conducted a retrospective cross-sectional analytic study among Kenyan children aged 0-18 years hospitalised between March 2018 and March 2023, with SARI and a positive nasopharyngeal swab multiplex qRT-PCR test. Cases were analyzed for their clinical characteristics, radiological features, laboratory data, seasonality of the respiratory pathogens and risk factors for severe infection. A total of 545 pathogens were detected in 382 cases,123 (22.5%) had polymicrobial detection, 14 (4%) had severe illness and three (0.8%) died. Rhinovirus (24%) and respiratory syncytial virus (21%) were the most common viral pathogens identified whereas Mycoplasma pneumoniae (2.4%) and Bordetella pertussis (1.8%) were the most common atypical pathogens detected. Infections peaked during the first dry season and the short rainy season. Lower respiratory tract infections and presence of co-morbidities like asthma,vitamin D deficiency and iron deficiency anaemia were associated with disease severity independent of age, sex and seasonality. Viruses accounted for majority of respiratory infections. Infections had two distinct peaks: the first dry season and the short rainy season, suggesting that respiratory vaccines should be scheduled prior to their onset.",
-    "authors": [
-      "Rohini Kalagouda Patil",
-      "Anne Irungu",
-      "John Chelanga Supra",
-      "Rahul Zode",
-      "Koigi Paul Kamau",
-      "Joseph K Mbuthia",
-      "Diana Marangu-Boore"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42564151/",
-    "doi": "10.1371/journal.pone.0232188",
-    "score": 0.3427,
     "fetched_at": "2026-08-09"
   }
 ]
