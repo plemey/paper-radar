@@ -1,0 +1,76 @@
+[
+  {
+    "id": "pubmed:42819557",
+    "source": "pubmed",
+    "title": "Prospective Molecular and Phenotypic Characterization of",
+    "abstract": "Urinary tract infections (UTIs) caused by extended-spectrum β-lactamase (ESBL)-producing Escherichia coli have become a major therapeutic challenge worldwide, especially in intensive care units. In northwestern Iran, the molecular epidemiology of the key resistance genes blaCTX-M and blaTEM, along with their potential co-carriage on plasmids, remains poorly understood. This gap limits the development of effective local empirical treatment guidelines and infection control strategies. A cross-sectional study was conducted at three tertiary-care hospitals in Tabriz, Iran (2025). We identified 100 non-duplicate Escherichia coli isolates recovered from ICU patients with UTIs using standard microbiological methods. Antimicrobial susceptibility testing was performed by the disk diffusion method according to CLSI 2024 guidelines. ESBL phenotype was confirmed using the combined disk test with Ceftazidime and Clavulanic acid. Genotypic detection of blaTEM and blaCTX-M was performed by conventional PCR. Chi-square and Fisher's exact tests were used to assess statistical associations. Among 135 culture-positive urine specimens, E. coli was the predominant pathogen (74.07%), followed by Klebsiella pneumoniae (11.85%). Universal resistance to Cefotaxime (100%) and high resistance to Ceftazidime (95%) were observed. Imipenem retained the highest in vitro activity (82% susceptibility). Phenotypic ESBL production was detected in 48/100 (48%) isolates. Among ESBL producers, blaTEM was present in 28 (58.3%), blaCTX-M in 20 (41.7%), and both genes co-occurred in 18 isolates (37.5%). The observed co-occurrence significantly exceeded expected values under independence (observed: 18 vs. expected: 11.7; Chi-square p = 0.0005; Fisher's exact p = 0.00025), demonstrating non-random co-occurrence consistent with, but not proof of, plasmid-mediated co-carriage. ESBL-producing E. coli carrying both blaTEM and blaCTX-M are highly prevalent among ICU-associated UTI in Tabriz. The statistically significant non-random co-occurrence of these genes has direct implications for surveillance strategies, necessitating simultaneous genotyping of both genes. Carbapenems remain effective, underscoring the urgency of their stewardship to prevent the emergence of carbapenem-resistant Enterobacterales (CRE) in this setting.",
+    "authors": [
+      "Mahdieh Sedghi",
+      "Shiva Ahmadishoar"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42819557/",
+    "doi": "10.2147/IDR.S637114",
+    "journal": "Infection and drug resistance",
+    "score": 0.121,
+    "fetched_at": "2026-10-02"
+  },
+  {
+    "id": "pubmed:42818709",
+    "source": "pubmed",
+    "title": "Estimating Divergence Times and Diversification Rates with the Unresolved Fossilized Birth-Death Process.",
+    "abstract": "Tip-dating using Fossilized Birth-Death (FBD) models offers a favorable alternative to conventional node-dating analyses of the evolutionary timescale, bypassing various conceptual and technical difficulties. However, despite their increasing popularity in phylogenetic studies, their use has remained rather limited in taxonomic scope because of the difficulty in collecting morphological data, which is often required for tip-dating analyses, and computational intractability when a large number of fossils are present. Recent studies, however, suggest that FBD models can also be used in a principled way as priors for molecular clock analyses, even in the absence of morphological data, relying only on temporal information and given clade assignments. Heath et al. (2014) introduced an \"unresolved\" FBD model in which uncertainty in fossil placements is analytically integrated out when morphological data are unavailable, providing a potential solution to this problem. Here, we show that the topological enumeration scheme used by Heath et al. (2014) to marginalize over unresolved fossil attachments overcounts configurations in which multiple fossil taxa can be resolved as a clade, and we provide a correction to this factor, yielding a valid marginalized unresolved likelihood. We apply our implementation to empirical datasets of Cetacea, Emydidae, and Palaeodictyopterida, and show that our method converges and yields reasonable estimates within a reasonable amount of time, even when hundreds of fossils are present.",
+    "authors": [
+      "Wonseop Lim",
+      "Levi Yoder Raskin",
+      "Jacky Kaiyuan Li",
+      "John P Huelsenbeck",
+      "Rasmus Nielsen"
+    ],
+    "date": "2026-Sep-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42818709/",
+    "doi": "10.64898/2026.09.10.749957",
+    "journal": "bioRxiv : the preprint server for biology",
+    "score": 0.2114,
+    "fetched_at": "2026-10-02"
+  },
+  {
+    "id": "pubmed:42818531",
+    "source": "pubmed",
+    "title": "Phylodynamic inference with the bounded coalescent: a point process perspective.",
+    "abstract": "The coalescent is a central framework in population genetics for modelling the ancestral relationships among sampled individuals through a genealogy, represented as a rooted and ranked binary tree. In this model, lineages coalesce at a rate inversely proportional to the effective population size, a time-varying quantity of primary interest. The bounded coalescent conditions genealogies on the time to the most recent common ancestor being bounded above by a fixed time. This model is useful in various contexts, such as phylodynamics of infectious diseases with known introduction times and single-cell lineage tracing in synthetic barcoding experiments. To our knowledge, there is no existing tool that infers variable effective population size trajectories under the bounded coalescent. We view estimation under the bounded coalescent as equivalent to estimation of the intensity function of an inhomogeneous point process. We provide an efficient algorithm for coalescent simulation under the bounded coalescent using point process methods, retaining the exactness of naive rejection sampling while substantially reducing computational cost and avoiding repeated numerical inversion of the bounded cumulative hazard. We then develop a Markov chain Monte Carlo procedure for posterior inference of effective population size trajectories that avoids discretization of the likelihood integrals. In simulations, conditioning on the bound reduces the median sum of squared errors in two of three settings, with less favourable results in the most rapidly varying setting. We illustrate the method using severe acute respiratory syndrome coronavirus 2 sequence data from Washington State.",
+    "authors": [
+      "Bingjing Tang",
+      "Shuangping Li",
+      "Julia A Palacios"
+    ],
+    "date": "2026-Sep-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42818531/",
+    "doi": null,
+    "journal": "ArXiv",
+    "score": 0.3091,
+    "fetched_at": "2026-10-02"
+  },
+  {
+    "id": "pubmed:42815046",
+    "source": "pubmed",
+    "title": "A large outbreak of acute gastroenteritis caused by rare group C rotavirus in schoolchildren in Yunnan, China: Clinical, epidemiological, and genomic characterization.",
+    "abstract": "We investigated the etiology, molecular epidemiology, and glycan-binding architecture of an acute gastroenteritis (AGE) outbreak among students at a primary school in Yunnan Province, China. After an institutional outbreak was declared in March 2025, we conducted epidemiological investigations and collected 25 specimens. The specimens were screened for enteric pathogens using multiplex real-time RT-PCR. Near-complete genomes were generated from three group C rotavirus (RVC) positive stool samples, and all 11 genome segments were analyzed phylogenetically. The VP8* domain of strain YN03 was modeled with AlphaFold3 and characterized structurally. No bacterial or alternative viral pathogens were detected. RVC RNA was detected in all 20 fecal samples and one rice sample. The outbreak strain had a monotypic G4-P [2]-I2-R2-C2-M2-A2-N2-T2-E2-H2 constellation, with ≥99.8% intra-outbreak nucleotide identity. VP7 and VP4 clustered within sub-lineages G4-III and P [2]-II, respectively, sharing 98.3%-98.8% identity with contemporary isolates from Europe and South and North Asia, but less than 94.7% identity with the earlier Chinese reference strain SZ94. Clinical manifestations were mild; abdominal pain was the most common symptom (76.7%), followed by vomiting (34.9%) and diarrhea (30.1%). Ten amino acid substitutions were identified in YN03 VP8*. Structural modeling revealed conservation of the topology and electrostatic surface properties of the type A glycan-binding pocket, and glycan-array analysis demonstrated binding of YN03 VP8* to the type A antigen. This study provides the first complete genomic characterization of an RVC outbreak in Yunnan and highlights the epidemic potential of G4P [2] strains, the need to include RVC in routine diagnostics, and priorities for future vaccine development.",
+    "authors": [
+      "Yihui Cao",
+      "Ruyi Che",
+      "Mingxiu Ma",
+      "Lingshan Kong",
+      "Sailing Jiang",
+      "Dandi Li",
+      "Xiaoman Sun",
+      "Wenpeng Gu"
+    ],
+    "date": "2026-Sep-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815046/",
+    "doi": "10.1016/j.virol.2026.111093",
+    "journal": "Virology",
+    "score": 0.5829,
+    "fetched_at": "2026-10-02"
+  }
+]
