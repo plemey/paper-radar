@@ -1,0 +1,96 @@
+[
+  {
+    "id": "pubmed:42825682",
+    "source": "pubmed",
+    "title": "Pneumocystis jirovecii Pneumonia Outbreaks in Solid Organ Transplant Recipients: A Systematic Review of Epidemiology, Transmission Dynamics, and Outbreak Investigations.",
+    "abstract": "Although Pneumocystis jirovecii pneumonia (PJP) outbreaks continue to occur in solid organ transplantation (SOT) recipients, no systematic review has synthesized the available evidence to provide an aggregated understanding of their epidemiology and transmission. We searched MEDLINE, Embase, Cochrane, and manual sources through May 1, 2024 for studies of PJP outbreaks in adult SOT recipients. Data on patient characteristics, immunosuppression, diagnostics, outcomes, outbreak investigations, and control measures were extracted. The primary outcome was all-cause mortality, and the secondary outcome was characterization of outbreak investigation. Twenty-nine outbreaks involving 360 SOT recipients (median age, 51.8 years [range, 22-70.5 years]; 32.6% female) were identified. Late-onset PJP (> 1 year posttransplant) occurred in 92.6% of outbreaks, which lasted a median of 365 days (range, 90-1260 days); kidney transplant recipients accounted for 77.8% of cases. Across 22 studies, the crude aggregate mortality was 19.0% (51 of 268 patients), while 27 of 64 patients (42.2%) required dialysis in six studies. Most patients were not on prophylaxis at diagnosis; breakthrough infections were rare (< 5%). Molecular typing was performed in most studies (21/28, 75%) among which single or predominant genotypes were identified in 19/20 (95%), supporting clonal transmission. Control measures included extended prophylaxis and surveillance, although their individual effectiveness could not be determined. Transplant centers remain susceptible to prolonged PJP outbreaks associated with substantial mortality. Nosocomial airborne transmission is likely. Most outbreaks occurred after prophylaxis discontinuation, but optimal control measures and prophylaxis duration remain uncertain. Standardized investigations incorporating molecular epidemiology will guide outbreak control and prevention.",
+    "authors": [
+      "Francesca Gioia",
+      "Sarah Almansour",
+      "Ani Orchanian-Cheff",
+      "Jay A Fishman",
+      "Seyed M Hosseini-Moghaddam"
+    ],
+    "date": "2026-Oct-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825682/",
+    "doi": "10.1111/tid.70333",
+    "journal": "Transplant infectious disease : an official journal of the Transplantation Society",
+    "score": 0.2244,
+    "fetched_at": "2026-10-03"
+  },
+  {
+    "id": "pubmed:42825572",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and pathological burden of",
+    "abstract": "Paratuberculosis (Johne's disease), caused by Mycobacterium avium subsp. paratuberculosis (MAP), is a chronic granulomatous enteritis affecting domestic and wild ruminants worldwide, with significant economic losses. Its potential zoonotic implications in humans have increased concern globally. Despite its global importance, limited data exist on MAP prevalence in Pakistan's Khyber Pakhtunkhwa province. A cross-sectional study was conducted in Peshawar district, Pakistan, using a multimodal diagnostic approach. Serum (n = 350), fecal (n = 350), and tissue samples (intestine and mesenteric lymph nodes; n = 400) were collected from cattle and buffaloes. Samples were analyzed using indirect enzyme-linked immunosorbent assay, Ziehl-Neelsen staining, histopathology, and PCR targeting IS900, IS1311, and Mycobacterium bovis-specific genes. Seroprevalence of MAP was 9% (17/175) in cattle and 4% (7/175) in buffaloes (P = 0.03). Acid-fast bacilli were detected in 22% (39/175) of cattle and 10% (19/175) of buffalo fecal samples. Gross pathological lesions, including thickness/corrugation in the intestine and hemorrhages/edematous swelling in the mesenteric lymph node, were found at higher frequencies in cattle compared to buffaloes. PCR confirmed MAP in 5% of cattle and 3% of buffalo tissue samples, while one cattle sample harbored M. bovis. Emaciated animals exhibited significantly higher lesion severity (P < 0.001). This study confirms endemic MAP infection in staple livestock of the study area, with higher susceptibility in cattle. This study underscores the importance of molecular diagnostics in surveillance and the critical role of abattoirs in monitoring disease prevalence. The presence of MAP and co-detection of M. bovis highlight the need for integrated control strategies under a One Health framework to investigate and mitigate potential zoonotic risks and production losses in resource-limited dairy systems.IMPORTANCEThis study provides the first comprehensive molecular epidemiological data on Mycobacterium avium subsp. paratuberculosis (MAP) in cattle and buffaloes from Khyber Pakhtunkhwa, Pakistan. Using a multimodal approach (serology, histopathology, and PCR), it reveals significant infection rates, with cattle being more susceptible than buffaloes. The work is critically significant as it confirms the endemic presence of MAP in a key dairy region and highlights a concurrent infection with Mycobacterium bovis, underscoring a compounded potential zoonotic risk. These findings emphasize the urgent need for integrated One Health strategies to mitigate transmission through improved surveillance, milk pasteurization, and control programs in resource-limited settings.",
+    "authors": [
+      "Farhan Anwar Khan",
+      "Salman Khan",
+      "Muhammad Saeed",
+      "Toufeeq Ur Rehman",
+      "Arshad Zahoor",
+      "Khadija Tul Kubra",
+      "Rajwali Khan"
+    ],
+    "date": "2026-Oct-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825572/",
+    "doi": "10.1128/spectrum.02890-25",
+    "journal": "Microbiology spectrum",
+    "score": 0.2907,
+    "fetched_at": "2026-10-03"
+  },
+  {
+    "id": "pubmed:42822827",
+    "source": "pubmed",
+    "title": "Whole-Genome Sequencing of Mycobacterium tuberculosis in Lebanon: Updated Genomic Insights.",
+    "abstract": "Lebanon is a low-burden tuberculosis (TB) country with a complex demographic context shaped by migration, socioeconomic instability, and recent healthcare disruptions. We aimed to characterize the population structure, drug resistance, and transmission dynamics of Mycobacterium tuberculosis using whole-genome sequencing (WGS). WGS was performed on 218 M. tuberculosis isolates collected in Lebanon between 2018 and 2024, of which 196 passed quality control. TB-Profiler identified lineages and resistance-associated mutations, with results compared against available phenotypic drug susceptibility testing (DST) and line-probe assays (LPA). TB-Annotator provided high-resolution sub-lineage classification, phylogenomic contextualization within a global MTB dataset, and identification of genomic clusters. Lineage 4 predominated (71.4%), followed by Lineage 3 (15.3%), Lineage 2 (6.6%), and Lineage 1 (6.1%), with a single rare Lineage 7 isolate. Resistance-associated mutations were identified in 41.3% of isolates, including MDR-TB (7.1%) and pre-XDR-TB (2.6%). WGS-based resistance prediction showed high concordance (91.8%-100%) with phenotypic DST and LPA. Fourteen genomic clusters included 29/195 isolates (14.9%); incorporation of publicly available Lebanese genomes identified additional Lineage 4-associated clusters, supporting ongoing local transmission. This nationwide WGS study revealed a highly diverse MTB population in Lebanon and supports the integration of WGS into routine TB surveillance and control activities.",
+    "authors": [
+      "Marianne Antar Soutou",
+      "Hiam Yaacoub",
+      "Zeina Awad",
+      "Laurice Tabet",
+      "Sirine Abou Ismail",
+      "Danielle Chaaya",
+      "Camille Allam",
+      "Clément Lecarpentier",
+      "Kevin LA",
+      "Nicolas Godron",
+      "Sukaina Basma",
+      "Laurent Raskine",
+      "Marianne Abifadel",
+      "Josette Najjar-Pellet",
+      "Emmanuelle Cambau",
+      "Christophe Sola"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42822827/",
+    "doi": "10.1016/j.ijid.2026.109155",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.2874,
+    "fetched_at": "2026-10-03"
+  },
+  {
+    "id": "pubmed:42820686",
+    "source": "pubmed",
+    "title": "Persistent SARS-CoV-2 infection in SCID rats reflects immune vulnerability of the upper airway and trachea.",
+    "abstract": "In immunocompromised patients, persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection carries the risk of prolonged viral shedding and emergence of new variants. To reproduce the key features of persistent SARS-CoV-2 infection and evaluate its transmissibility, mouse-passaged SARS-CoV-2 was administered intranasally to severe combined immunodeficiency (SCID) rats deficient in Rag2 and Il2rg genes. The virus replicated in SCID rats for at least 6 weeks without causing severe symptoms. The main replication sites were the nasal cavity and trachea, and replicating viruses were barely detectable in the lungs. Infected areas within the nasal cavity and trachea showed minimal infiltration of neutrophils and M2 macrophages; however, a strong inflammatory response was observed in the lungs. Serial sequencing of the viral genome revealed accumulation of persistent mutations, predominantly in regions encoding nonstructural proteins. The persistently shed virus retained its infectivity, enabling its transmission to uninfected SCID rats. This model provides new insights into the immunological and tissue-associated features of persistent SARS-CoV-2 infection and offers a practical research platform for developing therapeutic interventions. Persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in immunocompromised individuals promotes viral evolution and ongoing transmission, yet mechanistic studies have been limited by the absence of appropriate animal models. Existing mouse systems do not support longitudinal sampling or evaluate transmission, leaving critical questions unanswered. We established an SCID rat model that enables repeated noninvasive sampling from the same individuals, allowing longitudinal analysis of viral dynamics during prolonged infection. This approach revealed the emergence, disappearance, and fixation of viral mutations over time. Persistently infected rats also retained infectious and transmitted virus to naïve SCID rats, providing experimental evidence that prolonged infection preserves the transmission potential in this model. Persistent viral replication localized to the nasal cavity and trachea may be relevant to the upper-airway persistence reported in some immunocompromised patients. By capturing selected features of persistent SARS-CoV-2 infection under profoundly immunodeficient conditions, this model provides a valuable platform for investigating viral persistence, evolution, and transmission.",
+    "authors": [
+      "Kaya Miyazaki",
+      "Nozomi Shiwa-Sudo",
+      "Naoko Iwata-Yoshikawa",
+      "Yusuke Sakai",
+      "Kazuto Yoshimi",
+      "Tomoji Mashimo",
+      "Tadaki Suzuki",
+      "Eiichi N Kodama",
+      "Hideki Hasegawa",
+      "Noriyo Nagata"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42820686/",
+    "doi": "10.1128/spectrum.04105-25",
+    "journal": "Microbiology spectrum",
+    "score": 0.4185,
+    "fetched_at": "2026-10-03"
+  }
+]

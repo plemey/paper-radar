@@ -3729,6 +3729,30 @@
     "fetched_at": "2026-09-01"
   },
   {
+    "id": "pubmed:42820686",
+    "source": "pubmed",
+    "title": "Persistent SARS-CoV-2 infection in SCID rats reflects immune vulnerability of the upper airway and trachea.",
+    "abstract": "In immunocompromised patients, persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection carries the risk of prolonged viral shedding and emergence of new variants. To reproduce the key features of persistent SARS-CoV-2 infection and evaluate its transmissibility, mouse-passaged SARS-CoV-2 was administered intranasally to severe combined immunodeficiency (SCID) rats deficient in Rag2 and Il2rg genes. The virus replicated in SCID rats for at least 6 weeks without causing severe symptoms. The main replication sites were the nasal cavity and trachea, and replicating viruses were barely detectable in the lungs. Infected areas within the nasal cavity and trachea showed minimal infiltration of neutrophils and M2 macrophages; however, a strong inflammatory response was observed in the lungs. Serial sequencing of the viral genome revealed accumulation of persistent mutations, predominantly in regions encoding nonstructural proteins. The persistently shed virus retained its infectivity, enabling its transmission to uninfected SCID rats. This model provides new insights into the immunological and tissue-associated features of persistent SARS-CoV-2 infection and offers a practical research platform for developing therapeutic interventions. Persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in immunocompromised individuals promotes viral evolution and ongoing transmission, yet mechanistic studies have been limited by the absence of appropriate animal models. Existing mouse systems do not support longitudinal sampling or evaluate transmission, leaving critical questions unanswered. We established an SCID rat model that enables repeated noninvasive sampling from the same individuals, allowing longitudinal analysis of viral dynamics during prolonged infection. This approach revealed the emergence, disappearance, and fixation of viral mutations over time. Persistently infected rats also retained infectious and transmitted virus to naïve SCID rats, providing experimental evidence that prolonged infection preserves the transmission potential in this model. Persistent viral replication localized to the nasal cavity and trachea may be relevant to the upper-airway persistence reported in some immunocompromised patients. By capturing selected features of persistent SARS-CoV-2 infection under profoundly immunodeficient conditions, this model provides a valuable platform for investigating viral persistence, evolution, and transmission.",
+    "authors": [
+      "Kaya Miyazaki",
+      "Nozomi Shiwa-Sudo",
+      "Naoko Iwata-Yoshikawa",
+      "Yusuke Sakai",
+      "Kazuto Yoshimi",
+      "Tomoji Mashimo",
+      "Tadaki Suzuki",
+      "Eiichi N Kodama",
+      "Hideki Hasegawa",
+      "Noriyo Nagata"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42820686/",
+    "doi": "10.1128/spectrum.04105-25",
+    "journal": "Microbiology spectrum",
+    "score": 0.4185,
+    "fetched_at": "2026-10-03"
+  },
+  {
     "id": "pubmed:42710887",
     "source": "pubmed",
     "title": "Untangling the effects of within-host and between-host natural selection in viruses with applications to evolution of HIV-1 co-receptor usage.",
@@ -4559,22 +4583,5 @@
     "journal": "Frontiers in parasitology",
     "score": 0.356,
     "fetched_at": "2026-10-01"
-  },
-  {
-    "id": "pubmed:42562629",
-    "source": "pubmed",
-    "title": "Evolution of South Asian mountain biota: dispersal, fine-scale biogeography, phylogenetics and systematics of Nannenini jumping spiders.",
-    "abstract": "The northward drift of the Indian subcontinent and its biotic exchanges with adjacent landmasses have shaped biodiversity in South Asia. We investigate biogeographic patterns and evolutionary relationships within a clade of spiders endemic to South Asia, focusing on two newly identified species from India. Specimens of the jumping spider tribe Nannenini were collected from 15 localities across the Western Ghats-Sri Lanka biodiversity hotspot, including Sri Lanka's diverse climatic regions and Kerala's tropical forests. DNA sequencing was conducted for the mitochondrial gene COI, nuclear ribosomal RNA fragments (18S and 28S), and nuclear H3. Phylogenetic analyses using maximum likelihood and Bayesian inference approaches incorporated these data with time-calibrated molecular clocks. Bayesian Evolutionary Analysis methods were used for divergence time estimation and ancestral area reconstruction. Our analyses identified a robustly supported Nannenini clade with three distinct subclades. The tribe likely originated in the Oligocene-early Miocene, with the crown lineage inheriting a distribution established by earlier stem-lineage dispersal between Southeast and South Asia. It subsequently dispersed across both regions during the Late Oligocene and Miocene, as climatic and tectonic changes promoted lineage diversification. The Late Miocene cooling and aridification likely restricted forest-adapted species to montane refugia, particularly in Sri Lanka's Central Highlands and the montane zones of India, facilitating isolation and speciation. Montane environments acted as critical refugia during adverse climatic periods, enabling the survival and diversification of isolated populations. This research enhances understanding of Salticidae evolution and highlights the influence of the Indian subcontinent's geological history on present-day biodiversity patterns in Nannenini. Additionally, we describe a new genus and two new species: Indodelaxia Jose & Benjamin, gen. nov., I. albomaculata Jose & Benjamin, sp. nov. and I. thusharagiri Jose & Benjamin, sp. nov. ZooBank: urn:lsid:zoobank.org:act:96083E0A-861F-4A31-AAE3-94A8BB983A6E.",
-    "authors": [
-      "Athira Jose",
-      "Thakshila Herath",
-      "Suresh P Benjamin",
-      "Ambalaparambil V Sudhikumar"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42562629/",
-    "doi": "10.1071/IS26014",
-    "score": 0.3487,
-    "fetched_at": "2026-08-09"
   }
 ]
