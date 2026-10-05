@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pubmed:42828947",
+    "source": "pubmed",
+    "title": "Epidemiology of Clostridium chauvoei infections in southern Chile: Molecular prevalence, diagnostic gaps, and genetic characterization of cctA and nanA virulence genes.",
+    "abstract": "Blackleg, a mostly cattle disease caused by Clostridium chauvoei, represents a health challenge for the livestock industry. This study aimed to characterize the epidemiology of C. chauvoei infections in Southern Chile (Los Ríos and Los Lagos regions), where occasional outbreaks persist despite high perceived vaccination coverage. A cross-sectional study was conducted on 100 cattle farms (50 beef and 50 dairy), combining a structured survey on management practices with molecular detection (PCR) of C. chauvoei in soil and fecal samples. Additionally, the virulence genes cctA and nanA were sequenced to assess local genetic diversity and evolutionary stability compared to international strains. A farm-level molecular prevalence of 30% (95% CI: 21.6-40.0) for C. chauvoei was estimated, with detection in 20% of soil and 19% of fecal samples. A diagnostic gap was identified: although 51% of farms reported a history of blackleg, 0% utilized laboratory confirmation, relying exclusively on presumptive clinical and/or pathologic diagnosis. Multivariable analysis identified a history of clinical cases (OR=7.13; 95% CI: 2.3-26.2), routine necropsy (OR=3.13; 95% CI: 1.05-10.1), alkaline soil pH (OR=0.19; 95% CI: 0.04-0.73, compared to acidic soils), and the combined use of chemical and organic fertilization (OR=0.03; 95% CI: 0.001-0.60) as significant independent predictors of farm positivity. Despite a 98% vaccination coverage, 70.4% of farms failed to administer a booster dose to calves during the primary vaccination series. Genetic characterization demonstrated 100% nucleotide identity between Chilean sequences and international reference strains for both cctA and nanA genes. C. chauvoei is a ubiquitous and evolutionarily stable pathogen in Southern Chile. These findings suggest that persistent outbreaks in the region are attributable to improper immunization protocols and diagnostic deficiencies rather than vaccine strain mismatch.",
+    "authors": [
+      "Constanza Rodríguez",
+      "Eliser Mansilla",
+      "Claudia Márquez-Flández",
+      "José M Hernández-Agudelo",
+      "Cristóbal Verdugo",
+      "Francisco A Uzal",
+      "Mauricio A Navarro"
+    ],
+    "date": "2026-Sep-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828947/",
+    "doi": "10.1016/j.prevetmed.2026.107040",
+    "journal": "Preventive veterinary medicine",
+    "score": 0.3341,
+    "fetched_at": "2026-10-05"
+  },
+  {
+    "id": "pubmed:42828109",
+    "source": "pubmed",
+    "title": "The evolutionary dynamics of human influenza B virus in Bangladesh, 2007-2025.",
+    "abstract": "Influenza B virus causes significant seasonal respiratory illness, yet its long-term evolutionary data from South Asia remain limited. We investigated the evolutionary dynamics of influenza B viruses circulating in Bangladesh during 2007-2025. Complete hemagglutinin (HA) and neuraminidase (NA) gene sequences were analyzed using phylogenetic, evolutionary, demographic, selection pressure, amino acid variation, glycosylation, and genetic proximity analyses. Phylogenetic analyses showed clear segregation into the B/Victoria (B/Vic) and B/Yamagata (B/Yam) lineages. B/Vic viruses diversified after 2019 into multiple V1A-derived subclades, whereas B/Yam remained genetically conserved before disappearing after 2019. Viruses maintained high similarity to season-matched vaccine strains. HA evolved faster than NA (2.48 × 10-3 vs 2.12 × 10-3 substitutions/site/year), with the highest rate observed in B/Vic HA. Viral effective population size expanded during 2014-2016 and 2017-2019, followed by a marked decline during 2019-2021. Purifying selection predominated, although episodic diversifying selection occurred mainly in B/Vic viruses. Amino acid diversification was concentrated within HA antigenic loop regions, while glycosylation profiles remained largely conserved. B/Vic viruses in Bangladesh exhibited substantially greater evolutionary flexibility than B/Yam, driven primarily by antigenic diversification of HA. Continued genomic surveillance is important for monitoring viral evolution and informing vaccine strain selection.",
+    "authors": [
+      "Suprova Islam",
+      "Mehedi Hasan"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828109/",
+    "doi": "10.1371/journal.pone.0341567",
+    "journal": "IJID regions",
+    "score": 0.7054,
+    "fetched_at": "2026-10-05"
+  },
+  {
+    "id": "pubmed:42827976",
+    "source": "pubmed",
+    "title": "AI-guided epitope engineering of a SARS-CoV-2 spike antigen for broad sarbecovirus neutralization.",
+    "abstract": "The rapid evolution of SARS-CoV-2 and the ongoing risk of zoonotic spillover highlight the need for vaccines that provide broad protection beyond strain-specific immunity. Here, we present a structure-guided, AI-enabled strategy for rational antigen design that enhances cross-reactive B-cell epitope recognition across betacoronaviruses. By integrating comparative sequence analysis with conformational epitope prediction, we identified conserved epitope hotspots within the Spike receptor-binding domain and introduced targeted motif-level substitutions into a SARS-CoV-2 BA.2 backbone. Engineered Spike immunogens, delivered as mRNA-lipid nanoparticle vaccines, elicited robust antibody responses in mice and demonstrated broad neutralizing activity against antigenically diverse SARS-CoV-2 variants, including BA.5 and XBB.1.5, as well as zoonotic sarbecoviruses. Selected designs reached neutralisation breadth comparable to an Omicron-adapted clinical benchmark for shared SARS-CoV-2 antigens, while extending neutralising activity to divergent zoonotic sarbecoviruses. These findings show that minimal, structure-guided epitope remodeling can enhance the presentation of conserved epitopes and improve antibody breadth, providing a generalizable framework for designing vaccines resilient to viral evolution and future pandemic threats.",
+    "authors": [
+      "Alexandru Odainic",
+      "Ioannis Vardaxis",
+      "Matheus Ferraz",
+      "Katrin E Wiese",
+      "Lisette A H M Cornelissen",
+      "Akhilesh Sharma",
+      "Richard Stratford",
+      "Trevor Clancy",
+      "Kaïdre Bendjama"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827976/",
+    "doi": "10.1021/j100058a043",
+    "journal": "Frontiers in immunology",
+    "score": 0.4821,
+    "fetched_at": "2026-10-05"
+  },
+  {
+    "id": "pubmed:42827522",
+    "source": "pubmed",
+    "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern.",
+    "abstract": "The Anthropocene era has been characterized by a higher risk of zoonotic viral outbreaks, which often result from a combination of factors, such as climate change, biodiversity loss, land-use patterns, and increased opportunities for human-animal interactions. The current perspective provides an integrated synthesis of how climate change-driven alterations in rodent ecology impact the molecular evolution, transmission dynamics, and emergence of hantaviruses, with an emphasis on the underlying virological mechanisms and their implications for One Health preparedness. Hantaviruses have undergone extensive diversification throughout their evolution and host adaptation and can infect rodents, bats, reptiles, and fish. Rodents serve as the principal natural reservoirs for hantaviruses, with many viral species exhibiting long-term evolutionary associations with specific rodent host species. Climate change has been recognized as one of the key determinants for the emergence of hantavirus outbreaks in different parts of the world. Climate-related factors may facilitate viral amplification through multiple mechanisms, including their impact on evolution, mutation, and reassortment. To conclude, climate change has shaped the ecology, transmission dynamics, and molecular evolution of hantaviruses by altering rodent behavior, their habitats, and the environmental persistence of viral particles. Climate-induced ecological disruption has created opportunities for viral amplification within reservoir hosts and augmented the risk of zoonotic spillover into humans. These insights provide a conceptual framework for anticipating future outbreaks in the context of climate change and support the integration of ecological, virological, and public health surveillance systems. There is an urgent need to ensure that virological preparedness strategies evolve in accordance with changing environmental conditions by strengthening genomic surveillance and integrated One Health frameworks.",
+    "authors": [
+      "Saurabh RamBihariLal Shrivastava",
+      "Prateek Sudhakar Bobhate",
+      "Harshal Mendhe",
+      "Nandkishor Bankar",
+      "Ashwini Tidake",
+      "Prithvi Petkar"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827522/",
+    "doi": "10.1089/vbz.2023.0150",
+    "journal": "Frontiers in microbiology",
+    "score": 0.6279,
+    "fetched_at": "2026-10-05"
+  }
+]

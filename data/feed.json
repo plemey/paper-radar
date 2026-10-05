@@ -295,6 +295,22 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42828109",
+    "source": "pubmed",
+    "title": "The evolutionary dynamics of human influenza B virus in Bangladesh, 2007-2025.",
+    "abstract": "Influenza B virus causes significant seasonal respiratory illness, yet its long-term evolutionary data from South Asia remain limited. We investigated the evolutionary dynamics of influenza B viruses circulating in Bangladesh during 2007-2025. Complete hemagglutinin (HA) and neuraminidase (NA) gene sequences were analyzed using phylogenetic, evolutionary, demographic, selection pressure, amino acid variation, glycosylation, and genetic proximity analyses. Phylogenetic analyses showed clear segregation into the B/Victoria (B/Vic) and B/Yamagata (B/Yam) lineages. B/Vic viruses diversified after 2019 into multiple V1A-derived subclades, whereas B/Yam remained genetically conserved before disappearing after 2019. Viruses maintained high similarity to season-matched vaccine strains. HA evolved faster than NA (2.48 × 10-3 vs 2.12 × 10-3 substitutions/site/year), with the highest rate observed in B/Vic HA. Viral effective population size expanded during 2014-2016 and 2017-2019, followed by a marked decline during 2019-2021. Purifying selection predominated, although episodic diversifying selection occurred mainly in B/Vic viruses. Amino acid diversification was concentrated within HA antigenic loop regions, while glycosylation profiles remained largely conserved. B/Vic viruses in Bangladesh exhibited substantially greater evolutionary flexibility than B/Yam, driven primarily by antigenic diversification of HA. Continued genomic surveillance is important for monitoring viral evolution and informing vaccine strain selection.",
+    "authors": [
+      "Suprova Islam",
+      "Mehedi Hasan"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828109/",
+    "doi": "10.1371/journal.pone.0341567",
+    "journal": "IJID regions",
+    "score": 0.7054,
+    "fetched_at": "2026-10-05"
+  },
+  {
     "id": "pubmed:42761029",
     "source": "pubmed",
     "title": "Epidemiological characteristics and genetic evolution of rhinovirus in Jining City, 2024-2025.",
@@ -674,6 +690,26 @@
     "doi": "10.1128/spectrum.01005-26",
     "score": 0.6289,
     "fetched_at": "2026-08-13"
+  },
+  {
+    "id": "pubmed:42827522",
+    "source": "pubmed",
+    "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern.",
+    "abstract": "The Anthropocene era has been characterized by a higher risk of zoonotic viral outbreaks, which often result from a combination of factors, such as climate change, biodiversity loss, land-use patterns, and increased opportunities for human-animal interactions. The current perspective provides an integrated synthesis of how climate change-driven alterations in rodent ecology impact the molecular evolution, transmission dynamics, and emergence of hantaviruses, with an emphasis on the underlying virological mechanisms and their implications for One Health preparedness. Hantaviruses have undergone extensive diversification throughout their evolution and host adaptation and can infect rodents, bats, reptiles, and fish. Rodents serve as the principal natural reservoirs for hantaviruses, with many viral species exhibiting long-term evolutionary associations with specific rodent host species. Climate change has been recognized as one of the key determinants for the emergence of hantavirus outbreaks in different parts of the world. Climate-related factors may facilitate viral amplification through multiple mechanisms, including their impact on evolution, mutation, and reassortment. To conclude, climate change has shaped the ecology, transmission dynamics, and molecular evolution of hantaviruses by altering rodent behavior, their habitats, and the environmental persistence of viral particles. Climate-induced ecological disruption has created opportunities for viral amplification within reservoir hosts and augmented the risk of zoonotic spillover into humans. These insights provide a conceptual framework for anticipating future outbreaks in the context of climate change and support the integration of ecological, virological, and public health surveillance systems. There is an urgent need to ensure that virological preparedness strategies evolve in accordance with changing environmental conditions by strengthening genomic surveillance and integrated One Health frameworks.",
+    "authors": [
+      "Saurabh RamBihariLal Shrivastava",
+      "Prateek Sudhakar Bobhate",
+      "Harshal Mendhe",
+      "Nandkishor Bankar",
+      "Ashwini Tidake",
+      "Prithvi Petkar"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827522/",
+    "doi": "10.1089/vbz.2023.0150",
+    "journal": "Frontiers in microbiology",
+    "score": 0.6279,
+    "fetched_at": "2026-10-05"
   },
   {
     "id": "biorxiv:10.64898/2026.08.27.741102",
@@ -2610,6 +2646,29 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42827976",
+    "source": "pubmed",
+    "title": "AI-guided epitope engineering of a SARS-CoV-2 spike antigen for broad sarbecovirus neutralization.",
+    "abstract": "The rapid evolution of SARS-CoV-2 and the ongoing risk of zoonotic spillover highlight the need for vaccines that provide broad protection beyond strain-specific immunity. Here, we present a structure-guided, AI-enabled strategy for rational antigen design that enhances cross-reactive B-cell epitope recognition across betacoronaviruses. By integrating comparative sequence analysis with conformational epitope prediction, we identified conserved epitope hotspots within the Spike receptor-binding domain and introduced targeted motif-level substitutions into a SARS-CoV-2 BA.2 backbone. Engineered Spike immunogens, delivered as mRNA-lipid nanoparticle vaccines, elicited robust antibody responses in mice and demonstrated broad neutralizing activity against antigenically diverse SARS-CoV-2 variants, including BA.5 and XBB.1.5, as well as zoonotic sarbecoviruses. Selected designs reached neutralisation breadth comparable to an Omicron-adapted clinical benchmark for shared SARS-CoV-2 antigens, while extending neutralising activity to divergent zoonotic sarbecoviruses. These findings show that minimal, structure-guided epitope remodeling can enhance the presentation of conserved epitopes and improve antibody breadth, providing a generalizable framework for designing vaccines resilient to viral evolution and future pandemic threats.",
+    "authors": [
+      "Alexandru Odainic",
+      "Ioannis Vardaxis",
+      "Matheus Ferraz",
+      "Katrin E Wiese",
+      "Lisette A H M Cornelissen",
+      "Akhilesh Sharma",
+      "Richard Stratford",
+      "Trevor Clancy",
+      "Kaïdre Bendjama"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827976/",
+    "doi": "10.1021/j100058a043",
+    "journal": "Frontiers in immunology",
+    "score": 0.4821,
+    "fetched_at": "2026-10-05"
+  },
+  {
     "id": "pubmed:42632374",
     "source": "pubmed",
     "title": "Synergistic effect of AddaS03 and poly I:C adjuvants on antibody titers and Th1-biased T cell responses following RBD vaccination in BALB/c mice.",
@@ -4517,71 +4576,5 @@
     "doi": "10.1016/j.anaerobe.2026.103076",
     "score": 0.3618,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42701398",
-    "source": "pubmed",
-    "title": "Detection of livestock-associated MRSA ST398/t011 and hospital-associated MRSA ST239/t037 in a referral hospital in northeastern Iran: A six-month cross-sectional surveillance study (July-December 2025).",
-    "abstract": "Following initial detection of livestock-associated MRSA (LA-MRSA) ST398/t011 and hospital-associated MRSA (HA-MRSA) ST239/t037 in early 2025, we conducted a cross-sectional six-month surveillance study to determine whether these clones represent transient introductions or continued detection in a referral hospital in Bojnurd, North Khorasan Province, northeastern Iran. From July to December 2025, we collected 258 consecutive clinical specimens at Imam Reza Hospital, Bojnurd. MRSA isolates underwent antimicrobial susceptibility testing, SCCmec typing, spa typing, and multilocus sequence typing. PCR detected genes encoding Panton-Valentine leukocidin (PVL), toxic shock syndrome toxin (TSST-1), and other virulence factors. Livestock exposure was defined using a structured questionnaire. Among 61 S. aureus isolates (23.6%), 11 (18.0%) were MRSA, all belonging exclusively to two previously identified clones: ST398/t011/SCCmec V/agr I (n = 6; 54.5%) and ST239/t037/SCCmec III/agr I (n = 5; 45.5%). Resistance patterns remained clone-specific, with all ST398 isolates resistant to tetracycline and trimethoprim/sulfamethoxazole. The PVL gene was detected in one ST398 isolate (16.7%). All ST239 isolates carried tst and sec. Livestock exposure was reported in 83.3% of ST398-infected patients. Clinically, all 11 patients survived; only one required ICU admission, and none experienced treatment failure. This study documents continued detection of LA-MRSA ST398/t011 at a referral hospital in Bojnurd, co-circulating with endemic HA-MRSA ST239/t037. The detection of a PVL-positive ST398 isolate warrants further investigation and underscores the importance of integrated One Health surveillance. Given the small sample size (n = 11), these findings are descriptive and hypothesis-generating rather than confirmatory.",
-    "authors": [
-      "Seyed Ahmad Hashemi",
-      "Ali Haghbin",
-      "Ahmad Vosughi Motlagh",
-      "Amir Azimian"
-    ],
-    "date": "2026-Oct-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42701398/",
-    "doi": "10.1128/mbio.00305-11",
-    "journal": "New microbes and new infections",
-    "score": 0.3603,
-    "fetched_at": "2026-09-06"
-  },
-  {
-    "id": "pubmed:42586783",
-    "source": "pubmed",
-    "title": "Actionable genotypes beyond the coding sequence and their association with lifespan in the UK Biobank.",
-    "abstract": "The identification and reporting of actionable genotypes in the American College of Medical Genetics and Genomics (ACMG)-recommended secondary findings (SF) genes represent a key preventive strategy for hereditary diseases. Robust evidence quantifying their association with lifespan remains limited, particularly for non-coding regulatory variants, due to functional interpretation challenges. Using data from the UK Biobank, we investigated associations between genetic variants and all-cause mortality in 490 086 participants with whole-genome sequencing. We systematically interpreted pathogenic or likely pathogenic coding variants in the 81 genes listed in the ACMG SF V.3.2. In parallel, we conducted saturation mutagenesis combined with a massively parallel reporter assay on the core promoters of these genes to generate a functional map of every potential variant, which we then used to interpret the functionally promoter variants in the cohort and evaluated their associations with mortality and disease incidence. Coding actionable genotypes were present in 3.40% of participants and were associated with increased all-cause mortality (HR in females, 1.42; 95% CI 1.34 to 1.52; HR in males, 1.31; 95% CI 1.24 to 1.39). All rare variants within the core promoter regions of these genes revealed no significant association with survival. Functionally promoter variants with downregulating activity of cancer genes were associated with elevated mortality risk (HR in females, 1.15; 95% CI 1.01 to 1.31; HR in males, 1.12; 95% CI 1.00 to 1.26). Furthermore, our findings provide clues that functional promoter variants may merit consideration when expanding actionable genotype lists. Our findings demonstrate that functionally verified promoter variants represent a previously unrecognised determinant of mortality risk, highlighting the potential value of looking beyond coding sequences in future studies.",
-    "authors": [
-      "Congcong Chen",
-      "Jiawen Zhu",
-      "Ziye Xu",
-      "Xinyu Gu",
-      "Yanan Shi",
-      "Yingjia Chen",
-      "Yuan Xie",
-      "Xin Yuan",
-      "Qiqi Zhai",
-      "Jun Zhou",
-      "Na Qin",
-      "Juncheng Dai",
-      "Hongxia Ma",
-      "Guangfu Jin",
-      "Hongbing Shen",
-      "Zhibin Hu",
-      "Cheng Wang"
-    ],
-    "date": "2026-Aug-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42586783/",
-    "doi": "10.1136/jmg-2026-111659",
-    "score": 0.3561,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42812357",
-    "source": "pubmed",
-    "title": "Molecular detection and genetic characterization of",
-    "abstract": "Giardia duodenalis is a ubiquitous enteric protozoan infecting humans, domestic animals, and wildlife worldwide. In Thailand, high densities of stray animals represent an important management challenge. However, molecular epidemiological data regarding stray cats remain limited. This study estimated the prevalence of G. duodenalis, characterized the identified genetic assemblages, and explored factors associated with PCR positivity in temple stray cats in Bangkok, Thailand. Fecal samples were collected from 500 stray cats residing across 43 temples in 24 districts of Bangkok. Detection of G. duodenalis was performed using nested PCR targeting the small subunit ribosomal RNA (SSU rRNA) gene. Positive samples were further characterized by genotyping at the glutamate dehydrogenase (gdh) and triosephosphate isomerase (tpi) loci. Phylogenetic analyses were conducted using the Maximum Likelihood method based on the Tamura 3-parameter model. Associated factors were evaluated using multivariable logistic regression. The overall prevalence of G. duodenalis was 10.8% (54/500; 95% CI: 8.4-13.8%), with positive cases identified in 12 of the 24 surveyed districts and 19 of the 43 sampled temples. Eight isolates were successfully genotyped, identifying assemblage B (sub-assemblage BIV, n = 4), assemblage F (n = 3), and assemblage A (sub-assemblage AI, n = 1). The absence of human contact was identified as an exploratory variable associated with higher odds of PCR positivity (adjusted odds ratio [aOR] = 8.80; 95% CI: 2.15-35.98; P = 0.002), while demographic factors (age, sex), geographic zone, and deworming history showed no statistically significant associations. Assemblages previously reported in humans and various animals were detected among a small number of successfully genotyped isolates, while the source, direction of transmission, and the reservoir status of temple stray cats could not be determined.",
-    "authors": [
-      "Vy Thi Tuong Le",
-      "Pornkamol Phoosangwalthong",
-      "Minh-Trang Thi Hoang",
-      "Tawin Inpankaew"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42812357/",
-    "doi": "10.3347/kjp.2015.53.1.119",
-    "journal": "Frontiers in parasitology",
-    "score": 0.356,
-    "fetched_at": "2026-10-01"
   }
 ]
