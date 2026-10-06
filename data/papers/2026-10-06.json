@@ -1,0 +1,105 @@
+[
+  {
+    "id": "pubmed:42832612",
+    "source": "pubmed",
+    "title": "Sub-consensus haploid variant calling in long-read sequencing technology.",
+    "abstract": "Next-generation sequencing (NGS) is vital for tracking viral evolution during outbreaks. Oxford Nanopore Technologies (ONT) offers long-read, cost-effective sequencing, but accurate sub-consensus variant detection remains challenging. LoFreq, a widely used caller for sub-consensus variant calling in haploid genomes, was designed for short reads. This study assesses and benchmarks LoFreq variant identification accuracy on long-read data and proposes a calibration method to improve accuracy. We created truth sets using three SARS-CoV-2 spike gene plasmids (7179 bases, 100 SNVs) and whole Escherichia coli genomes. Libraries were sequenced using R9.4.1 and R10.4.1 flow cells. LoFreq's recall was benchmarked across chemistries and library sizes. We also introduced a method to adjust Phred quality scores for enhanced accuracy. LoFreq showed high sensitivity, detecting variants at frequencies as low as 0.1%, with best performance on R10.4.1. However, false discovery rates (FDR) were chemistry- and depth-dependent. Our Phred score calibration reduced false positives while maintaining recall, though it was less effective below 10% frequency and not suitable for structural variant detection. LoFreq can detect sub-consensus variants in ONT data, but high FDR limits direct use. Our calibration method improves accuracy, offering a simple Phred score adjustment approach that reduces false discovery rates in ONT data.",
+    "authors": [
+      "Xavier Zair",
+      "Andreas Wilm",
+      "Miles C Benton",
+      "Cheng Yong Tham",
+      "Lin Yang",
+      "Paola Florez de Sessions",
+      "October Michael Sessions",
+      "Eng Hui Chew",
+      "Swapnil Mishra"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832612/",
+    "doi": "10.1371/journal.pone.0356259",
+    "journal": "PloS one",
+    "score": 0.4231,
+    "fetched_at": "2026-10-06"
+  },
+  {
+    "id": "pubmed:42831961",
+    "source": "pubmed",
+    "title": "Molecular diversity and detection of pestiviruses across ruminant species in Türkiye.",
+    "abstract": "Pestiviruses have historically been described using host-associated disease names, such as Bovine Viral Diarrhoea Virus (BVDV) in cattle and Border Disease Virus (BDV) in small ruminants, and are important pathogens causing abortions, congenital anomalies, reproductive failure, and reduced productivity, resulting in substantial economic losses in livestock. This study investigated pestivirus infections in ruminant samples from Türkiye using serological and molecular methods, and RT-PCR-positive samples were further characterized by phylogenetic analysis. A total of 115 ruminant samples were collected from cattle (n = 76), sheep (n = 23), goats (n = 15), and buffalo (n = 1), including 85 samples collected in Türkiye and 30 whole-blood samples obtained from imported animals under quarantine. Antigen ELISA detected 34 positive samples, whereas RT-PCR identified pestiviral RNA in 61 samples. Molecular characterization was performed using primers targeting the 5'UTR, Npro, E2, and NS2-3 genomic regions. Phylogenetic analysis classified the 61 sequences into four pestivirus species: Pestivirus A [BVDV-1f (n = 32), BVDV-1 g (n = 4), BVDV-1 L (n = 7), and BVDV-1v (n = 1)], Pestivirus B [BVDV-2b (n = 1)], Pestivirus D (n = 4), and Pestivirus I (n = 12). Among the positive samples collected in Türkiye (n = 43), Pestivirus A, D, and I were identified, whereas imported animal samples (n = 18) contained Pestivirus A, B, and D. The detection of genetically diverse pestiviruses in both large and small ruminants indicates cross-host occurrence of multiple pestivirus species and subtypes in Türkiye. These findings expand current knowledge of the molecular diversity of pestiviruses circulating in ruminants in Türkiye and provide valuable data to support future surveillance, control, and eradication programs.",
+    "authors": [
+      "Onur Ülgenalp",
+      "Eda Erdem-Şahinkesen",
+      "Tuba Çiğdem Oğuzoğlu"
+    ],
+    "date": "2026-Oct-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831961/",
+    "doi": "10.3390/v9060128",
+    "journal": "Tropical animal health and production",
+    "score": 0.5177,
+    "fetched_at": "2026-10-06"
+  },
+  {
+    "id": "pubmed:42831628",
+    "source": "pubmed",
+    "title": "Receptor-binding geometry constrains viral antigenic evolution through fitness-evasion coupling.",
+    "abstract": "Although viral antigenic evolution is shaped by the competing demands of immune evasion and receptor-binding fitness, the physical principles underlying divergent viral evolutionary dynamics remain poorly understood. Here, by integrating structural biology, deep mutational scanning, and genomic surveillance data, we show that receptor-binding geometry constrains the spatial coupling between antibody escape and intrinsic viral fitness. In SARS-CoV-2, the exposed convex Spike-ACE2 interface spatially overlaps dominant neutralizing epitopes with receptor-contact residues, producing a stringent fitness-evasion trade-off. Consequently, viable escape mutations are largely restricted to a narrow peripheral region surrounding the receptor-binding core. As population immunity progressively saturates this limited escape space, continued adaptation increasingly requires coordinated saltational remodeling of the receptor-binding interface. In contrast, the influenza H3N2 hemagglutinin binds the small sialic acid ligand through a recessed pocket architecture that partially separates dominant antibody pressure from receptor-binding fitness constraints. This topological decoupling permits continuous stepwise antigenic drift without requiring frequent remodeling of the core binding site. Building on these findings, we develop a lightweight geometry-based framework that accurately identifies receptor-competitive antigenic hotspots across divergent viruses. Together, our results support a general model in which receptor geometry and protein surface topology strongly bias accessible antigenic evolutionary trajectories. Why some viruses evolve through gradual antigenic drift whereas others undergo recurrent evolutionary leaps remains a fundamental question in virology. By integrating protein structures, mutational scanning data, and genomic surveillance, we show that the geometry of the receptor-binding interface strongly influences how immune escape mutations affect viral fitness. In SARS-CoV-2, receptor-binding residues are highly exposed and overlap with dominant antibody targets, restricting immune escape to a narrow set of mutations and promoting periodic evolutionary leaps when this space becomes exhausted. In contrast, the receptor-binding pocket of influenza A virus H3N2 is partially shielded from antibody recognition, allowing continuous antigenic drift with fewer fitness constraints. We further demonstrate that these structural principles can be used to identify antigenic hotspots directly from virus-receptor complexes. These findings provide a mechanistic explanation for divergent viral evolutionary trajectories and offer a structural framework for studying and anticipating antigenic evolution.",
+    "authors": [
+      "Wentai Ma",
+      "Xuan Jiang",
+      "Mingkun Li"
+    ],
+    "date": "2026-Oct-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831628/",
+    "doi": "10.1128/jvi.01316-26",
+    "journal": "Journal of virology",
+    "score": 0.5349,
+    "fetched_at": "2026-10-06"
+  },
+  {
+    "id": "pubmed:42831627",
+    "source": "pubmed",
+    "title": "Subtype-specific differences in susceptibility to monoclonal antibodies and vaccines among contemporary RSV-A and RSV-B isolates.",
+    "abstract": "Respiratory syncytial virus (RSV) continues to circulate at high levels despite the introduction of new monoclonal antibodies (mAbs) and vaccines targeting the pre-fusion F (pre-F) protein. We analyzed the viral genome sequences of 133 RSV clinical samples collected during the 2022-2023 and 2023-2024 seasons and selected representative isolates for phenotypic testing. We selected four RSV-A and four RSV-B replication-competent, sequence-verified stocks and then assessed them for replication kinetics in vitro and neutralization sensitivity with a panel of F-targeting mAbs and polyclonal sera using a rabbit vaccination model. Isolates retained sensitivity to all mAbs tested. We detected no mutations in mAb binding sites in the isolates tested. RSV-A isolates were slightly less susceptible to multiple mAbs than RSV-B isolates. Antigenic cartography revealed a separation of antibody responses by subtype: RSV-A isolates clustered together and aligned with lower neutralization by antibodies such as MPE8 and 101F, whereas RSV-B isolates formed a distinct cluster associated with higher mAb susceptibility. In a rabbit vaccination model, RSV-A-only sera efficiently neutralized all RSV-A isolates and the RSV-B1 reference strain but showed diminished activity against contemporary RSV-B isolates. RSV-B-only sera displayed balanced neutralization across both subtypes. Combined RSV-A + RSV-B immunization produced uniformly strong responses to all isolates, suggesting that multivalent exposure may overcome subtype-specific antibody polarization. Collectively, our results demonstrate consistent antigenic divergence of RSV subtypes and underscore the importance of using contemporary isolates, rather than legacy reference strains, to guide F-directed immunoprophylaxis and vaccine design.IMPORTANCERespiratory syncytial virus (RSV) remains a major cause of lower respiratory tract infections. Although new monoclonal antibodies (mAbs) and vaccines have been approved in recent years, the impact of circulating genetic diversity on these therapeutics is incompletely understood. In this study, we demonstrate how recent RSV isolates respond to a panel of mAbs and whether sera from rabbits vaccinated with mRNA vaccines effectively neutralize these isolates. We observe that RSV-A isolates are slightly more resistant to neutralization by mAbs than RSV-B isolates and that a bivalent vaccine elicits broader neutralizing responses than the monovalent vaccine. This study provides insights into how viral diversity may influence antibody-mediated protection and suggests that recent RSV-B isolates may respond differently from the laboratory-adapted strains commonly used in research, an important consideration for the design of next-generation vaccines and antibody therapeutics.",
+    "authors": [
+      "Paula Eillanny Silva Marinho",
+      "Dibya Ghimire",
+      "João Tsai Silva",
+      "Jamie Devlin",
+      "SunYoung Kwon",
+      "Gordon Adams",
+      "Patricia Jorquera",
+      "Jeremy Luban",
+      "Jacob E Lemieux"
+    ],
+    "date": "2026-Oct-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831627/",
+    "doi": "10.1128/jvi.01221-26",
+    "journal": "Journal of virology",
+    "score": 0.4889,
+    "fetched_at": "2026-10-06"
+  },
+  {
+    "id": "pubmed:42830187",
+    "source": "pubmed",
+    "title": "Genomic epidemiology of Omicron (BA.1) as a driver of Pakistan's fifth SARS-CoV-2 wave.",
+    "abstract": "The emergence of the SARS-CoV-2 Omicron variant led to Pakistan's Omicron wave from December 2021 to March 2022. This study investigated the molecular epidemiology of the early Omicron wave in Pakistan through genomic surveillance and travel history-informed Bayesian phylogeographic inference. PCR-based genotyping and whole-genome sequencing shows a shift from the BA.1 lineage's early replacement of Delta as Pakistan's dominant lineage in December 2021, until it was replaced by BA.2 predominance by March 2022. We identify rare spike protein mutations and the absence of key mutations in circulating strains. In order to determine the earliest drivers of the BA.1 wave in Pakistan we performed Bayesian phylogeographic analysis which reveals multiple introductions of BA.1 into Pakistan, primarily from Northern Europe. Our findings highlight the importance of continued genomic surveillance, particularly at points of entry, and the need to address global disparities in sequencing capacity to better understand and control the spread of SARS-CoV-2 variants.",
+    "authors": [
+      "Barney I Potter",
+      "Zaira Rehman",
+      "Muhammad Salman",
+      "Aamer Ikram",
+      "Samuel L Hong",
+      "Gytis Dudas",
+      "Mandev S Gill",
+      "Guy Baele",
+      "Massab Umair"
+    ],
+    "date": "2026-Oct-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830187/",
+    "doi": "10.1016/j.meegid.2026.106039",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.5114,
+    "fetched_at": "2026-10-06"
+  }
+]
