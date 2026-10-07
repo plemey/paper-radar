@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pubmed:42837529",
+    "source": "pubmed",
+    "title": "Enriching Public Pathogen Genomic Records With Patient Metadata: Quantitative Study and Exploratory Case Analysis.",
+    "abstract": "During the COVID-19 pandemic, large-scale sequencing generated millions of SARS-CoV-2 genomes in public repositories including GenBank and GISAID. However, most records lack detailed patient metadata, including demographic information and clinical outcomes. This lack of host-associated information limits their utility for large-scale pathogen genomics analyses. Although sequence records linked to journal publications may contain relevant metadata, systematically extracting and linking this information requires substantial manual effort. This study aimed to assess host metadata completeness in GenBank SARS-CoV-2 records and to demonstrate, through an exploratory case study, analytical opportunities enabled by enriched clinical and demographic annotations for genomic epidemiology. The authors searched LitCovid for PubMed Central (PMC) articles published between January 2023 and December 2024 that reported original complete SARS-CoV-2 genome sequences deposited in GenBank with sequence-specific patient metadata from human hosts. Two independent reviewers screened eligible articles and manually extracted metadata on sample collection, demographics, treatments, serology, vaccination status, infection presentation, and clinical outcomes. Enriched metadata were defined as patient information in the publication but absent from GenBank records. Synonymous clinical and demographic terms were standardized using SNOMED CT, and Charlson Comorbidity Index scores were calculated when metadata were available. SARS-CoV-2 genomes were retrieved, assembled, and subjected to quality control using standard bioinformatics tools. To demonstrate enriched metadata's analytical value, we selected a subset of genomes with longitudinal sequencing, comprising 100 genomes from 34 patients across 4 studies for exploratory analysis of within-host viral evolution and patient outcomes. Among 116,600 articles identified through our PMC/LitCovid screening framework, approximately 0.02% (n=21) reported original complete SARS-CoV-2 genomes deposited in GenBank with accessible sequence-specific metadata. Within this eligible set, GenBank records contained on average 22% completeness for host metadata in our extraction schema. Completeness was confined to sample fields (averaging 81%); host demographic and clinical fields averaged 2%. Manual enrichment increased overall completeness by 30% on average, recovering 56% (14/25) of metadata types absent from GenBank records. In the longitudinal subset, enriched metadata enabled host-stratified analyses, showing nominal associations between immunocompromised status and higher within-host evolutionary rates (P=.02) and unique amino acid mutations (P=.04). Models with enriched patient and treatment metadata outperformed mutation-only models for mortality, hospitalization, and infection duration. Enriched host metadata improve the utility of pathogen genomic data by enabling analyses linking viral variation with demographics and clinical outcomes. Despite limited clinical and demographic information in examined GenBank records, manual enrichment facilitated a more comprehensive view of viral evolution and disease dynamics than sequence data alone. The case study's genotype-phenotype associations are exploratory and require validation in larger, independently collected cohorts. These findings highlight the need for more standardized, structured, and accessible patient metadata deposition with genomic sequences to strengthen pathogen genomics and precision public health research.",
+    "authors": [
+      "Michael J Pavia",
+      "Karen O'Connor",
+      "Graciela Gonzalez-Hernandez",
+      "Matthew Scotch"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837529/",
+    "doi": "10.2196/92529",
+    "journal": "JMIR bioinformatics and biotechnology",
+    "score": 0.4597,
+    "fetched_at": "2026-10-07"
+  },
+  {
+    "id": "pubmed:42836873",
+    "source": "pubmed",
+    "title": "Molecular Characterization of Cryptosporidium spp. in Sheep from Central Anatolia: First Report of Cryptosporidium bovis in Ovine Hosts in Türkiye.",
+    "abstract": "Cryptosporidium spp. are obligate intracellular apicomplexan parasites causing gastroenteritis and diarrhea in many vertebrates, including small ruminants. This study aimed to determine the occurrence and perform molecular characterization of Cryptosporidium spp. in healthy Akkaraman sheep across three provinces (Nevşehir, Sivas, and Kayseri) in the Central Anatolia Region of Türkiye. Fresh fecal samples were collected from 300 healthy Akkaraman sheep (100 per province) randomly selected from various small-scale farms. Following gDNA extraction, the presence of Cryptosporidium spp. was determined via polymerase chain reaction (PCR). To identify specific species, sequence analysis of the 18S ribosomal RNA (rRNA) gene was performed. The overall prevalence of Cryptosporidium spp. in sheep was 6.0% (18/300). Positivity differed significantly across age groups (p < 0.0001), but no significant difference was observed between genders (p = 0.548). Sequence analysis identified three Cryptosporidium species: C. parvum (2.3%; 7/300), C. bovis (2.3%; 7/300), and C. xiaoi (1.3%; 4/300). These sequences were registered in GenBank (Accession numbers: MZ027074-MZ027078). Phylogenetic analysis revealed that our isolates clustered within the same clades as reference sequences reported from different hosts and geographic regions. To the best of our knowledge, this is the first report of sheep infected with C. bovis in Türkiye. The findings provide detailed insights into the molecular epidemiology of ovine cryptosporidiosis in the region and highlight the critical importance of controlling Cryptosporidium infections in sheep due to their potential public health relevance.",
+    "authors": [
+      "Sümmani Çifci",
+      "Batuhan Aşkım Arslanhan",
+      "Zuhal Önder",
+      "Önder Düzlü"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836873/",
+    "doi": "10.1051/parasite/2020054",
+    "journal": "Acta parasitologica",
+    "score": 0.2645,
+    "fetched_at": "2026-10-07"
+  },
+  {
+    "id": "pubmed:42836613",
+    "source": "pubmed",
+    "title": "Toward broad-spectrum coronavirus vaccines: navigating viral evolution from past epidemics to future resilience.",
+    "abstract": "SUMMARYNewly emerged highly pathogenic coronavirus species, including SARS-CoV, MERS-CoV, and SARS-CoV-2, have successively triggered outbreaks worldwide over the past 25 years. Recently, several MERS-related coronaviruses have been identified from bats or pangolins. These viruses, along with previously found SARS-related coronaviruses, pose significant potential to infect humans and trigger pandemics. Therefore, it is necessary to develop broad-spectrum vaccines that can combat both currently circulating coronaviruses and those that may emerge in the future. Currently, approved COVID-19 vaccines provide strong protection against pre-Omicron variants, while their effectiveness against post-Omicron variants is reduced, and cross-protection against other potential coronaviruses remains limited. In the present review, we discuss vaccine research on SARS-CoV and MERS-CoV prior to the COVID-19 outbreak, as well as vaccine development following the outbreak. We also focus on strategies for developing broad-spectrum coronavirus vaccines and provide a perspective on future directions for coronavirus vaccine development.",
+    "authors": [
+      "Muzhuo Wang",
+      "Weijie Wang",
+      "Zhikai Chen",
+      "Lu Lu",
+      "Zezhong Liu",
+      "Shibo Jiang"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836613/",
+    "doi": "10.1128/mmbr.00100-25",
+    "journal": "Microbiology and molecular biology reviews : MMBR",
+    "score": 0.5865,
+    "fetched_at": "2026-10-07"
+  },
+  {
+    "id": "pubmed:42836344",
+    "source": "pubmed",
+    "title": "Genomic prediction of antimicrobial resistance in priority healthcare pathogens using Staramr.",
+    "abstract": "Treatment of healthcare-associated infections is becoming increasingly challenging due to rising antimicrobial resistance (AMR). As clinical microbiology and public health continue to transition toward whole-genome sequencing (WGS) for outbreak detection, diagnostics, and surveillance, the ability to accurately predict antimicrobial resistance from genomic sequence data will become crucial. In this study, in silico antimicrobial resistance prediction with the Staramr tool was refined from whole-genome sequencing data for four top-priority healthcare-associated bacteria: carbapenemase-producing Escherichia coli, carbapenemase-producing Klebsiella pneumoniae, methicillin-resistant Staphylococcus aureus, and vancomycin-resistant Enterococcus faecium. Isolates (n = 4,876) were collected in Canada within two national surveillance programs: the Canadian Nosocomial Infection Surveillance Program and the Canadian Ward Study. Broth microdilution was used as the gold standard to evaluate the performance of Staramr. The average sensitivity, specificity, and concordance of categorical antimicrobial resistance prediction compared to broth microdilution were 90.8%, 90.1%, and 92.4% for E. coli (n = 1,095); 87.7%, 91.7%, and 90.6% for K. pneumoniae (n = 687); 95.5%, 98.9%, and 96.3% for methicillin-resistant S. aureus (n = 2,150); and 95.4%, 97.9%, and 97.2% for vancomycin-resistant Enterococcus faecium (n = 944). Additionally, this internal tool refinement identified areas of improvement for antimicrobial resistance prediction. The average sensitivity, specificity, and concordance of antimicrobial resistance prediction were high (>90%) for most combinations of antimicrobials and species that were evaluated. While AMR prediction from WGS was very promising, it did not correlate well with current Clinical and Laboratory Standards Institute breakpoints for non-susceptibility for some antimicrobial-organism combinations. As in silico prediction of antimicrobial resistance has been improved in this study through tool refinement, it shows future promise for molecular methods to complement phenotypic antimicrobial susceptibility testing. This will allow for more precise tracking of the molecular epidemiology of resistance and cost savings when isolates are being sequenced for strain typing. In silico prediction of antimicrobial non-susceptibility in priority healthcare pathogens is becoming an important area of study due to the rising rates of resistance and the transition to whole-genome sequencing. To evaluate whether Staramr, an antimicrobial resistance (AMR) prediction tool, can reliably detect non-susceptibility in four top-priority healthcare-associated bacteria, we performed a validation study on a large Canadian clinical data set, which included carbapenemase-producing Escherichia coli and Klebsiella pneumoniae, methicillin-resistant Staphylococcus aureus, and vancomycin-resistant Enterococcus. Compared to traditional antimicrobial susceptibility testing, we found that Staramr was reliable for predicting non-susceptibility for most combinations of antimicrobials and organisms; however, some combinations require additional data on genetic mechanisms of resistance for accurate prediction. Additionally, this study identified areas for refinement for current drug-gene interpretation keys. Thus, this tool refinement study advances the use of genotypic methods of AMR prediction for high-priority healthcare pathogens.",
+    "authors": [
+      "MacKenzie A P Wilke",
+      "Laura F Mataseje",
+      "Nicole Lerminiaux",
+      "Melissa McCracken",
+      "Romaine Edirmanasinghe",
+      "Melanie Baxter",
+      "Ken Fakharuddin",
+      "Gurman Grewal",
+      "Xiao Rui Li",
+      "Eric Marnier",
+      "Aaron Petkau",
+      "Michael Mulvey",
+      "George Zhanel",
+      "George R Golding",
+      "Amrita Bharat"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836344/",
+    "doi": "10.1128/spectrum.01652-26",
+    "journal": "Microbiology spectrum",
+    "score": 0.3138,
+    "fetched_at": "2026-10-07"
+  },
+  {
+    "id": "pubmed:42833527",
+    "source": "pubmed",
+    "title": "Predominance of spa type t034 among clinical Staphylococcus aureus isolates from a provincial hospital in northern Vietnam.",
+    "abstract": "Clinical Staphylococcus aureus populations from rural and mountainous regions remain underrepresented in molecular surveillance. We characterized spa types and methicillin resistance among 107 clinical S. aureus isolates collected at H. G. General Hospital, northern Vietnam, in 2023 (n=47) and 2026 (n=60). Isolates were confirmed by nucA-targeted PCR and assessed for mecA, followed by spa typing. Type t034 predominated in both periods, accounting for 27.7% and 31.7% of isolates, respectively. Overall, t034 accounted for 29.9% (32/107), with 96.9% (31/32) being MRSA. These findings highlight t034 as a notable component of the local clinical S. aureus population.",
+    "authors": [
+      "Doai Van Nguyen",
+      "Toan Thi Do",
+      "Hoai-Linh Nguyen-Thi",
+      "Tuong Manh Ho",
+      "Cam-Ly Thi Nguyen",
+      "Hoai-Linh Thi Nguyen",
+      "Anh-Van Pham",
+      "Quyet Dang Nguyen",
+      "Lan-Anh Thi Le"
+    ],
+    "date": "2026-Oct-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42833527/",
+    "doi": "10.1016/j.ijmmb.2026.101314",
+    "journal": "Indian journal of medical microbiology",
+    "score": 0.3258,
+    "fetched_at": "2026-10-07"
+  }
+]

@@ -1062,6 +1062,26 @@
     "fetched_at": "2026-08-15"
   },
   {
+    "id": "pubmed:42836613",
+    "source": "pubmed",
+    "title": "Toward broad-spectrum coronavirus vaccines: navigating viral evolution from past epidemics to future resilience.",
+    "abstract": "SUMMARYNewly emerged highly pathogenic coronavirus species, including SARS-CoV, MERS-CoV, and SARS-CoV-2, have successively triggered outbreaks worldwide over the past 25 years. Recently, several MERS-related coronaviruses have been identified from bats or pangolins. These viruses, along with previously found SARS-related coronaviruses, pose significant potential to infect humans and trigger pandemics. Therefore, it is necessary to develop broad-spectrum vaccines that can combat both currently circulating coronaviruses and those that may emerge in the future. Currently, approved COVID-19 vaccines provide strong protection against pre-Omicron variants, while their effectiveness against post-Omicron variants is reduced, and cross-protection against other potential coronaviruses remains limited. In the present review, we discuss vaccine research on SARS-CoV and MERS-CoV prior to the COVID-19 outbreak, as well as vaccine development following the outbreak. We also focus on strategies for developing broad-spectrum coronavirus vaccines and provide a perspective on future directions for coronavirus vaccine development.",
+    "authors": [
+      "Muzhuo Wang",
+      "Weijie Wang",
+      "Zhikai Chen",
+      "Lu Lu",
+      "Zezhong Liu",
+      "Shibo Jiang"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836613/",
+    "doi": "10.1128/mmbr.00100-25",
+    "journal": "Microbiology and molecular biology reviews : MMBR",
+    "score": 0.5865,
+    "fetched_at": "2026-10-07"
+  },
+  {
     "id": "pubmed:42584933",
     "source": "pubmed",
     "title": "Longitudinal detection and genetic characterization of feline coronavirus in a captive cheetah population.",
@@ -3179,6 +3199,24 @@
     "fetched_at": "2026-08-23"
   },
   {
+    "id": "pubmed:42837529",
+    "source": "pubmed",
+    "title": "Enriching Public Pathogen Genomic Records With Patient Metadata: Quantitative Study and Exploratory Case Analysis.",
+    "abstract": "During the COVID-19 pandemic, large-scale sequencing generated millions of SARS-CoV-2 genomes in public repositories including GenBank and GISAID. However, most records lack detailed patient metadata, including demographic information and clinical outcomes. This lack of host-associated information limits their utility for large-scale pathogen genomics analyses. Although sequence records linked to journal publications may contain relevant metadata, systematically extracting and linking this information requires substantial manual effort. This study aimed to assess host metadata completeness in GenBank SARS-CoV-2 records and to demonstrate, through an exploratory case study, analytical opportunities enabled by enriched clinical and demographic annotations for genomic epidemiology. The authors searched LitCovid for PubMed Central (PMC) articles published between January 2023 and December 2024 that reported original complete SARS-CoV-2 genome sequences deposited in GenBank with sequence-specific patient metadata from human hosts. Two independent reviewers screened eligible articles and manually extracted metadata on sample collection, demographics, treatments, serology, vaccination status, infection presentation, and clinical outcomes. Enriched metadata were defined as patient information in the publication but absent from GenBank records. Synonymous clinical and demographic terms were standardized using SNOMED CT, and Charlson Comorbidity Index scores were calculated when metadata were available. SARS-CoV-2 genomes were retrieved, assembled, and subjected to quality control using standard bioinformatics tools. To demonstrate enriched metadata's analytical value, we selected a subset of genomes with longitudinal sequencing, comprising 100 genomes from 34 patients across 4 studies for exploratory analysis of within-host viral evolution and patient outcomes. Among 116,600 articles identified through our PMC/LitCovid screening framework, approximately 0.02% (n=21) reported original complete SARS-CoV-2 genomes deposited in GenBank with accessible sequence-specific metadata. Within this eligible set, GenBank records contained on average 22% completeness for host metadata in our extraction schema. Completeness was confined to sample fields (averaging 81%); host demographic and clinical fields averaged 2%. Manual enrichment increased overall completeness by 30% on average, recovering 56% (14/25) of metadata types absent from GenBank records. In the longitudinal subset, enriched metadata enabled host-stratified analyses, showing nominal associations between immunocompromised status and higher within-host evolutionary rates (P=.02) and unique amino acid mutations (P=.04). Models with enriched patient and treatment metadata outperformed mutation-only models for mortality, hospitalization, and infection duration. Enriched host metadata improve the utility of pathogen genomic data by enabling analyses linking viral variation with demographics and clinical outcomes. Despite limited clinical and demographic information in examined GenBank records, manual enrichment facilitated a more comprehensive view of viral evolution and disease dynamics than sequence data alone. The case study's genotype-phenotype associations are exploratory and require validation in larger, independently collected cohorts. These findings highlight the need for more standardized, structured, and accessible patient metadata deposition with genomic sequences to strengthen pathogen genomics and precision public health research.",
+    "authors": [
+      "Michael J Pavia",
+      "Karen O'Connor",
+      "Graciela Gonzalez-Hernandez",
+      "Matthew Scotch"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837529/",
+    "doi": "10.2196/92529",
+    "journal": "JMIR bioinformatics and biotechnology",
+    "score": 0.4597,
+    "fetched_at": "2026-10-07"
+  },
+  {
     "id": "pubmed:42676516",
     "source": "pubmed",
     "title": "Hepatitis A and E in rural northern India: clinico-epidemiological and molecular surveillance from a tertiary care hospital.",
@@ -4548,44 +4586,5 @@
     "journal": "International journal of molecular sciences",
     "score": 0.3755,
     "fetched_at": "2026-09-27"
-  },
-  {
-    "id": "pubmed:42655675",
-    "source": "pubmed",
-    "title": "Is PPR Epidemiological Research Addressing Global Eradication Priorities? A Scoping Review (2015-2025).",
-    "abstract": "The PPR Global Research and Expertise Network (GREN) plays a central role in identifying research priorities supporting the Global Peste des Petits Ruminants (PPR) Eradication Programme (GEP). A scoping review of PPR epidemiological research published between 2015 and 2025 was conducted to assess progress and remaining gaps across research domains relevant to GREN priorities. A total of 670 PPR-related publications were retrieved. Epidemiological research constituted 46.9% of the PPR literature, pathogenesis (19.1%), and diagnostics (15.6%), followed by vaccinology (9.5%) and immunology (7.9%). From the 273 epidemiological studies, most originated from Africa (53.1%) and Asia (37.7%). The epidemiological studies were categorized into seven domains. Molecular epidemiology and virus strain characterization represented the largest proportion of published studies (40.0%), followed by surveillance and disease monitoring (23.8%), transmission dynamics and risk modelling (12.5%), vaccination epidemiology (10.6%), analytical and risk factor epidemiology (8.4%), control strategy evaluation (2.9%), and socioeconomic research (1.8%). Progress towards GREN research priorities was variable. Molecular epidemiology and surveillance demonstrated the greatest methodological advancement, supported by widespread application of phylogenetics, serological surveillance, and expanding sequencing capacity across endemic settings. Transmission dynamics and risk modelling also showed increasing analytical sophistication through spatial modelling, network analysis, ecological suitability modelling, and dynamic simulation approaches, although applications remained geographically concentrated and only partially integrated into operational decision-support systems. In contrast, vaccination epidemiology, comparative evaluation of control strategies, and socioeconomic research remained limited in volume and operational integration. Across domains, important gaps persisted in implementation-focused evaluation, integrated surveillance systems, and translation of research evidence into adaptive eradication planning and policy development. Overall, the findings demonstrate substantial growth in the global PPR epidemiological evidence base over the past decade but also reveal a persistent imbalance across research domains and geographies. While major advances have been achieved in molecular characterization and descriptive surveillance, greater integration of epidemiological, operational, modelling, and socioeconomic evidence is needed to strengthen adaptive eradication planning and improve alignment between research priorities and policy implementation. Research and policy need to be better integrated, with policy needs driving research focus and research findings then informing policy. Experience from rinderpest eradication demonstrates that strong research-policy interfaces are essential to ensure that scientific evidence is translated into effective eradication strategies and decision-making.",
-    "authors": [
-      "Gezahegn Alemayehu",
-      "Theodore Knight-Jones"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655675/",
-    "doi": "10.3390/v18080857",
-    "journal": "Viruses",
-    "score": 0.3753,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42655043",
-    "source": "pubmed",
-    "title": "Lineage-Associated Genomic and Phenotypic Features of Bovine Mastitis-Associated",
-    "abstract": "Staphylococcus aureus is a major contagious pathogen causing bovine mastitis, with persistence and antimicrobial resistance posing ongoing challenges in dairy herds. From July 2022 to July 2023, 942 mastitis milk samples (267 clinical, 675 subclinical) from 10 farms in northwestern China yielded 98 S. aureus isolates (10.4%), which were characterized by whole-genome sequencing, antimicrobial susceptibility testing, biofilm assays, and virulence profiling. Ten sequence types, seven clonal complexes, and 16 spa types were identified, dominated by ST1 (42.9%) and ST97 (24.5%). ST1 was mainly associated with subclinical mastitis, whereas ST97 was enriched in clinical cases; a novel ST9955 (13.3%) was exclusively detected in subclinical isolates. No methicillin-resistant S. aureus was detected. Resistance was most frequently observed to penicillin (42.9%), erythromycin (28.6%), clindamycin (22.4%), and tetracycline (10.2%), with higher rates in clinical isolates. 65.3% of isolates exhibited strong biofilm-forming ability, which was significantly more frequent in subclinical cases (70.3% vs. 55.9%, p < 0.05). Virulence genes showed conserved adhesion/biofilm determinants but lineage-dependent distribution of immune evasion and toxin genes, with stable co-occurrence among capsule, biofilm, T7SS, iron acquisition, and immune evasion loci. Overall, the population was diverse but strongly lineage-structured, dominated by a few successful clones, highlighting the value of lineage-resolved surveillance for understanding and controlling bovine mastitis.",
-    "authors": [
-      "Ting Zhou",
-      "Xinying Tao",
-      "Zhiying Xue",
-      "Yongwang Huang",
-      "Yueqi Dong",
-      "Mohan Liu",
-      "Yilun Hu",
-      "Xin Wang",
-      "Yan Cui"
-    ],
-    "date": "2026-Aug-02",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655043/",
-    "doi": "10.3390/microorganisms14081698",
-    "journal": "Microorganisms",
-    "score": 0.3693,
-    "fetched_at": "2026-08-28"
   }
 ]
