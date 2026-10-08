@@ -498,6 +498,28 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42840147",
+    "source": "pubmed",
+    "title": "Large-scale characterization of the bovine virome reveals viral diversity and community patterns in Northwest China.",
+    "abstract": "Cattle play a critical role in global agriculture and food security while serving as hosts for diverse viruses with potential implications for animal and public health. To comprehensively characterize the bovine virome and its community patterns, we conducted a large-scale characterization of the beef cattle-associated virome in Northwest China using viral metagenomic sequencing. A total of 2,353 specimens, including nasal swabs, anal swabs, and serum, were collected from 794 cattle across 28 sites in Shaanxi, Gansu, and Ningxia, with nasal and anal swab specimens used for the metagenomic analyses. High-throughput sequencing identified viruses belonging to 14 phyla, 32 classes, 39 orders, 71 families, and 397 genera, revealing substantial viral diversity. Descriptive comparisons of the pooled libraries revealed differences in virome composition across geographic regions, farming systems, and sampling seasons, with the summer pool showing greater viral richness and contig abundance than the winter pool. Phylogenetic analyses revealed genetic relationships between several viral sequences detected in this study and viral lineages previously reported from humans and other animal hosts, raising hypotheses regarding broader host associations and potential cross-species transmission that require further investigation. Targeted PCR/RT-PCR screening and cell-culture-based virus characterization provided complementary validation of representative metagenomic findings and revealed frequent co-detection of multiple viral targets among the sampled cattle. Collectively, this study provides a large-scale characterization of the beef cattle-associated virome in Northwest China, expands current knowledge of viral diversity associated with beef cattle populations, and establishes a valuable resource for future virome surveillance, studies of viral evolution, and disease prevention.",
+    "authors": [
+      "Lingling Jiang",
+      "Yunyi Kong",
+      "Gang Zhang",
+      "Pu Wang",
+      "Min Fang",
+      "Qiang Liu",
+      "Sinong Zhang",
+      "Yong Li"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840147/",
+    "doi": "10.3233/SJI-200754",
+    "journal": "Frontiers in microbiology",
+    "score": 0.6661,
+    "fetched_at": "2026-10-08"
+  },
+  {
     "id": "pubmed:42570535",
     "source": "pubmed",
     "title": "Functional divergence of feline calicivirus genotypes shapes virulence and antigenic diversity.",
@@ -1976,6 +1998,26 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42839601",
+    "source": "pubmed",
+    "title": "VARIANT: Web Server for Decoding and Analyzing Viral Mutations at Genome and Protein Levels.",
+    "abstract": "A comprehensive analysis of viral mutations is essential for understanding viral evolution, disease epidemiology, diagnosis, drug resistance, and immune escape. However, challenges remain in capturing complex mutation patterns and supporting diverse viral families with varying genome architectures. To address these challenges, we present VARIANT, an openly accessible web server for mutational analysis of RNA viral genomes and associated viral products across both single- and multi-segment virus genomes. The server takes as input a viral reference genome, a reference protein sequence, and/or multiple sequence alignment, and automatically provides full annotation of mutation types, including standard categories such as point mutations (missense, silent, and nonsense), insertions, deletions, and frameshift events in both coding and non-coding regions. In addition, VARIANT detects two biologically significant mutation patterns that are often overlooked by conventional software/packages: \"row mutations\", \"hot mutations\", and separately annotates potential programmed ribosomal frameshifting regions. The server currently contains automatic analysis of major viral pathogens, including SARS-CoV-2, HIV-1, Influenza H3N2, Ebola virus, and Chikungunya virus. It also allows users to analyze additional viruses by uploading custom genome information. Users can track VARIANT analysis progress in real time, visualize mutation distributions, and download structured results in ZIP format. VARIANT also incorporates dual graph topology analysis to classify frameshifting element structures from dot-bracket notation input. This feature enables systematic comparison of RNA secondary structure motifs across viral families by mapping structures to a comprehensive library of dual graph topologies. The web server is freely available at https://variant.up.railway.app/.",
+    "authors": [
+      "Rui Wang",
+      "Xuhang Dai",
+      "Xin Cao",
+      "Changchuan Yin",
+      "Tamar Schlick",
+      "Guo-Wei Wei"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839601/",
+    "doi": "10.1016/j.bpj.2026.10.001",
+    "journal": "Biophysical journal",
+    "score": 0.5272,
+    "fetched_at": "2026-10-08"
+  },
+  {
     "id": "pubmed:42655652",
     "source": "pubmed",
     "title": "SARS-CoV-2 Surveillance in Free-Ranging Wildlife in New England and Virginia, United States, 2022-2025.",
@@ -2545,6 +2587,28 @@
     "doi": "10.1016/j.diagmicrobio.2026.117579",
     "score": 0.4938,
     "fetched_at": "2026-08-09"
+  },
+  {
+    "id": "pubmed:42840963",
+    "source": "pubmed",
+    "title": "Enhancing immune resilience in swine: a comprehensive meta-review of preventive and host-directed strategies against African swine fever and swine influenza.",
+    "abstract": "African swine fever (ASF) and swine influenza (SI) are among the most consequential infectious threats to global swine production because they combine major economic burden with fundamentally different transmission ecology, tissue tropism, and immune-pathological behavior. ASF is a highly lethal systemic disease characterized by macrophage tropism, immune dysregulation, environmental persistence, and severe trade and production consequences, whereas SI is a highly transmissible respiratory infection associated with recurrent herd-level morbidity, viral evolution, and zoonotic significance. Although these diseases differ markedly in biology and field presentation, both highlight the limitations of isolated pathogen-centered control strategies when implemented without integrated herd-level resilience measures. This meta-review synthesizes the cited literature into an evidence-based framework encompassing epidemiology, pathogenesis, surveillance, vaccination, biosecurity, herd management, supportive care, nutritional and immune-supportive measures, and host-directed regenerative approaches. Across the reviewed literature, the strongest field-supported evidence remains centered on surveillance, vaccination where applicable, biosecurity, and production-system management. At the same time, regenerative and host-supportive biologic strategies, including mitochondria-targeted peptides, thymic and organ-derived peptides, extracellular vesicle-based approaches, and stem cell-related therapies, demonstrate growing translational and immunomodulatory relevance within the broader context of immune resilience and recovery support. Comparative analysis further demonstrates that intervention priorities must remain aligned with disease biology: ASF control depends primarily on preventing viral introduction and limiting outbreak dissemination, whereas SI management benefits from integrated vaccination strategies, environmental optimization, mitigation of secondary bacterial disease, and continual adaptation to antigenic evolution. Within this framework, immune resilience is best understood not as a replacement for conventional disease control, but as a layered outcome arising from reduced infection pressure, preserved immune competence, regulated inflammatory responses, tissue recovery capacity, and supportive production practices.",
+    "authors": [
+      "Mike K S Chan",
+      "Thomas Skutella",
+      "Fiona Macniesia Thomas",
+      "Jonathan Robert Todd Lakey",
+      "Adrian Mutto",
+      "Katsuhiko Fukuda",
+      "Liu Baochi",
+      "Michelle B F Wong"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840963/",
+    "doi": "10.1186/s13287-020-01699-3",
+    "journal": "Frontiers in veterinary science",
+    "score": 0.4933,
+    "fetched_at": "2026-10-08"
   },
   {
     "id": "pubmed:42799091",
@@ -4526,65 +4590,5 @@
     "doi": "10.1016/j.cimid.2026.102514",
     "score": 0.3792,
     "fetched_at": "2026-08-19"
-  },
-  {
-    "id": "pubmed:42775567",
-    "source": "pubmed",
-    "title": "Genomic epidemiology and antimicrobial resistance of non-typhoidal",
-    "abstract": "Non-typhoidal Salmonella (NTS) is a major foodborne pathogen causing significant morbidity and mortality worldwide, particularly affecting children under 5 years of age. Despite its public health importance, systematic studies on NTS infection in children in Hainan Province, China, are limited. We performed a comprehensive retrospective analysis of 77 NTS isolates collected from children at the Hainan Women and Children's Medical Center between April 2023 and May 2024. The study integrated antimicrobial susceptibility testing, whole-genome sequencing, and phylogenetic reconstruction to elucidate the molecular epidemiology and resistance of this pathogen. The invasive infection rate of NTS was 10.4% (8/77; 95% CI: 4.6%-19.4%). Children under 3 years were disproportionately affected (66/77, 85.7%), and infections peaked in summer and autumn. Sixteen serotypes and 16 sequence types (STs) were identified. The predominant serotypes were monophasic 1,4,[5],12:i:- (31/77, 40.3%), Typhimurium (12/77, 15.6%), and Stanley (9/77, 11.7%). Serotype was strongly associated with ST, with monophasic 1,4,[5],12:i:- (ST34) (40.3%) and Typhimurium (ST19) (15.6%) being the most prevalent. The ST34 lineage demonstrated extensive multidrug resistance (23/31, 74.2%; 95% CI: 55.4%-88.1%) and accounted for the majority of resistance to ampicillin (29/31, 93.5%; 95% CI: 78.6%-99.2%) and ampicillin-sulbactam (24/31, 77.4%; 95% CI: 58.9%-90.4%). High-risk plasmids were identified, including IncHI2A-type vectors carrying the blaNDM-5 carbapenemase gene and an IncFIA/HI1 plasmid harboring the tet(X4) tigecycline resistance gene. Phylogeographic analysis indicated that the Hainan ST34 strains belong to a China-specific clade undergoing recent clonal expansion although evidence of international transmission was also detected. These findings reveal a distinct epidemiological pattern in Hainan, marked by the predominance of multidrug-resistant ST34 and an elevated invasive infection rate in young children. Targeted surveillance and \"One Health\" interventions in tropical regions are urgently needed to limit the spread of high-risk NTS clones.IMPORTANCEThis study addresses the research gap of pediatric non-typhoidal Salmonella (NTS) in tropical Hainan via comprehensive analysis of 77 clinical isolates. It characterizes the local molecular epidemiology, revealing regional epidemic features and high susceptibility in young children. The multidrug-resistant monophasic ST34 clone is identified as the predominant strain. Notably, high-risk resistance plasmids carrying blaNDM-5 and tet(X4) are detected, indicating hidden horizontal transmission risks of critical antibiotic resistance. Global phylogeny verifies the China-specific expansion of local ST34 strains with cross-regional and zoonotic potential. These findings underscore the severe threat of MDR NTS in tropical island areas, providing key epidemiological and genomic evidence for targeted surveillance, prudent antibiotic administration and One Health strategies, and offering vital references for NTS control in tropical and subtropical regions.",
-    "authors": [
-      "Huaiyu Jia",
-      "Tao Chen",
-      "Xiaozhuang Zhang",
-      "Guozhen Tian",
-      "Min Wang"
-    ],
-    "date": "2026-Sep-23",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42775567/",
-    "doi": "10.1128/spectrum.01502-26",
-    "journal": "Microbiology spectrum",
-    "score": 0.3791,
-    "fetched_at": "2026-09-24"
-  },
-  {
-    "id": "pubmed:42634754",
-    "source": "pubmed",
-    "title": "Molecular detection, genetic characterization, and phylogenetic relationships of <em>Theileria orientalis</em> in cattle and associated ticks from Wasit Province, Iraq.",
-    "abstract": "Theileria orientalis is an emerging tick-borne hemoprotozoan that has become a major cause of bovine theileriosis, leading to anemia, reduced productivity, and substantial economic losses in cattle. Despite increasing reports from neighboring countries, molecular epidemiological information and phylogenetic evidence for T. orientalis in Iraq remain scarce. This study aimed to determine the molecular prevalence of T. orientalis in cattle and their naturally infesting ticks in Wasit Province, Iraq; identify host-associated risk factors; and characterize the genetic diversity and phylogenetic relationships of local isolates relative to global reference strains. A cross-sectional study was conducted on 170 naturally tick-infested cattle from Wasit Province, Iraq, during July-August 2025. Whole blood and corresponding tick samples were collected from each animal. Genomic DNA was extracted and screened for T. orientalis using conventional polymerase chain reaction targeting the 18S rRNA gene. Positive amplicons were sequenced by Sanger sequencing, followed by sequence alignment, GenBank submission, and phylogenetic analysis using MEGA 11. Associations between infection and animal-related risk factors were evaluated using Chi-square analysis, odds ratio, relative risk, and 95% confidence intervals. Molecular analysis detected T. orientalis DNA in 21/170 (12.35%) cattle and 16/170 (9.41%) tick samples. Infection prevalence differed significantly according to age and sex. Cattle aged >3-6 years exhibited the highest infection risk, whereas male cattle showed significantly greater positivity and relative risk than females. Sequence analysis demonstrated high genetic conservation among Iraqi isolates. Phylogenetic reconstruction revealed that all cattle isolates clustered closely with a Turkish T. orientalis isolate (HQ197736.1), whereas tick isolates showed close genetic relationships with Turkish isolates (HQ197736.1 and OR211412.1) and a Chinese isolate (PQ207062.1), suggesting regional genetic connectivity and possible transboundary circulation of T. orientalis lineages. This study provides the first molecular detection and comprehensive phylogenetic characterization of T. orientalis simultaneously in cattle and associated tick vectors from Wasit Province, Iraq. The findings establish the first molecular evidence linking genetically related cattle and tick isolates in the country and provide an important baseline for understanding the epidemiology of oriental theileriosis. Expanded nationwide molecular surveillance, genotype-specific characterization using additional genetic markers, and integrated tick management programs are warranted to improve disease monitoring and reduce the impact of T. orientalis infection on the Iraqi cattle industry.",
-    "authors": [
-      "Abbas H K Sray",
-      "Ghassan J K Al-Abedi",
-      "Thuraya Khaled Abdulwahed",
-      "Israa M Essa",
-      "Zeid Alsadoon",
-      "Hasanain A J Gharban"
-    ],
-    "date": "2026-Jul-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42634754/",
-    "doi": "10.14202/vetworld.2026.2850-2863",
-    "journal": "Veterinary world",
-    "score": 0.378,
-    "fetched_at": "2026-08-24"
-  },
-  {
-    "id": "pubmed:42794572",
-    "source": "pubmed",
-    "title": "Identification of Four Compounds with S-RBD-Binding and Pseudovirus Entry-Inhibitory Activity.",
-    "abstract": "COVID-19, caused by SARS-CoV-2, remains a global health challenge because of viral evolution and immune escape. Although current therapies primarily target viral entry and replication, agents that directly interfere with the Spike receptor-binding domain (S-RBD) remain limited. Here, we combined virtual screening with biological validation to identify compounds capable of interfering with S-RBD function. A total of 3014 compounds from a customized drug library were screened by molecular docking. Candidate binding and functional activity were subsequently evaluated using cellular thermal shift assays, surface plasmon resonance, immunoprecipitation, immunofluorescence, and pseudovirus-entry assays against 2019-nCoV, Delta, and Omicron pseudoviruses. DOTAP chloride (KD = 49.94 μM), cefotiam hexetil hydrochloride (KD = 142.26 μM), melittin (KD = 34.98 μM), and teicoplanin (KD = 73.58 μM) showed detectable binding to the S-RBD and inhibited Spike-mediated pseudovirus entry. Molecular docking suggested that these interactions were mediated by potential binding modes involving hydrogen bonds and π-interactions. The compounds interfered with S-RBD/hACE2 colocalisation and inhibited pseudovirus entry with variant-dependent efficacy. DOTAP chloride (25 μM) inhibited entry of the 2019-nCoV and Omicron pseudoviruses, whereas the other three compounds showed activity across the tested variants. These findings identify four compounds with RBD-binding and entry-inhibition properties for further development as entry inhibitors.",
-    "authors": [
-      "Jingjie Zheng",
-      "Shitao Wang",
-      "Yuqing Zhou",
-      "Qiman Lin",
-      "Jingsong Guan",
-      "Yao Wang",
-      "Jianglin Fan"
-    ],
-    "date": "2026-Sep-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42794572/",
-    "doi": "10.3390/ijms27188136",
-    "journal": "International journal of molecular sciences",
-    "score": 0.3755,
-    "fetched_at": "2026-09-27"
   }
 ]
