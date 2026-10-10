@@ -1,0 +1,83 @@
+[
+  {
+    "id": "pubmed:42854155",
+    "source": "pubmed",
+    "title": "Interplay between Evolutionary and Epidemic Timescales Challenges the Outcome of Control Policies.",
+    "abstract": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact of control policies. Viral evolution has been reported to challenge the physics of the SIR model, changing the nature of the epidemic transitions or the early-time dynamics of outbreaks. Here we consider a minimal extension of the SIR model, allowing infectiousness to evolve, to explore how the latter mechanism affects the two aforementioned indicators. We show that evolution induces a nonmonotonic behavior of the epidemic peak with the basic reproduction number and undermines the impact of control policies, as lifting interventions too early can lead to worse epidemic scenarios than no action. We derive analytical expressions for the critical mutation rate and intervention time governing this behavior and identify a strong asymmetry between control strategies: while shortening the infectious period hinders transmission without suppressing the evolution of viral infectiousness, lowering transmission both reduces cases and slows down this evolution.",
+    "authors": [
+      "Santiago Lamata-Otín",
+      "Alex Arenas",
+      "Jesús Gómez-Gardeñes",
+      "David Soriano-Paños"
+    ],
+    "date": "2026-Sep-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854155/",
+    "doi": "10.1103/56yd-sfks",
+    "journal": "Physical review letters",
+    "score": 0.414,
+    "fetched_at": "2026-10-10"
+  },
+  {
+    "id": "pubmed:42849646",
+    "source": "pubmed",
+    "title": "Molecular detection and characterization of flea-associated bacteria: genetic diversity and co-occurrence patterns involving Bartonella, Rickettsia, and Wolbachia in Ctenocephalides felis felis from an Atlantic Forest region of Brazil.",
+    "abstract": "Ctenocephalides felis felis is a widespread ectoparasite of dogs and cats and has been associated with transmission of several microorganisms of veterinary and public health relevance. This study investigated the molecular occurrence, genetic diversity, and co-occurrence patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in fleas collected from dogs and cats in an Atlantic Forest area encompassing the Ilhéus and Itabuna microregions, Bahia State, northeastern Brazil. A total of 1,489 fleas were analyzed, including 1,301 collected from 81 dogs and 188 from 39 cats. PCR targeting the endogenous cox1 gene successfully amplified DNA from 95.77% of fleas collected from dogs and 97.34% of those collected from cats. Quantitative PCR (qPCR) targeting the 16S-23S rRNA internal transcribed spacer (ITS) revealed a higher molecular detection rate of Bartonella spp. in fleas from cats (34.43%) than in those from dogs (8.98%). Conversely, Rickettsia spp. was detected more frequently in fleas collected from dogs (24.8%) than from cats (3.28%). Wolbachia spp. was more frequently detected in female fleas from both dogs (52.8%) and cats (50.3%) than in male fleas (p < 0.05). Triple co-occurrence of the three microorganisms was detected in 0.08% (11/1246) of flea DNA samples positive the cox-1 endogenous gene and subjected to downstream molecular analyses for Bartonella spp., Rickettsia spp., and Wolbachia spp.. Phylogenetic analyses based on multiple molecular markers for Bartonella spp. (gltA, ftsZ, nuoG, and rpoB), Rickettsia spp. (gltA, htrA, ompA, and ompB), and Wolbachia spp. (gatB and wsp) confirmed the detection of Bartonella henselae, Bartonella clarridgeiae, Rickettsia felis, and Wolbachia spp. belonging to supergroups B and F. In fleas collected from dogs, the detection of Wolbachia spp. was associated with a higher predicted probability of Rickettsia spp. detection, whereas in fleas collected from cats it was associated with a lower predicted probability of Bartonella spp. detection. Overall, the findings revealed distinct host-associated molecular detection patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in C. felis felis, demonstrating the circulation and genetic diversity of these bacterial agents in flea populations. The detection of zoonotic bacterial agents in fleas highlights their relevance for integrated veterinary and public health surveillance within a One Health framework.",
+    "authors": [
+      "Lizeth Fernanda Banguero Micolta",
+      "Lorena Freitas das Neves",
+      "Ana Cláudia Calchi",
+      "Michelli Inácio Gonçalves Funnicelli",
+      "Anna Claudia Baumel Mongruel",
+      "Jamille Bispo de Carvalho Teixeira",
+      "Katharine Costa Dos Santos",
+      "Thammy Vieira Bittar",
+      "George Rego Albuquerque",
+      "Rosangela Zacarias Machado",
+      "Darci Moraes Barros-Battesti",
+      "Renata Santiago Alberto Carlos",
+      "Marcos Rogério André"
+    ],
+    "date": "2026-Oct-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42849646/",
+    "doi": "10.1016/j.actatropica.2026.108360",
+    "journal": "Acta tropica",
+    "score": 0.4229,
+    "fetched_at": "2026-10-10"
+  },
+  {
+    "id": "pubmed:42849142",
+    "source": "pubmed",
+    "title": "Tracking SARS-CoV-2: Molecular epidemiology and surveillance in Health Region VIII, Buenos Aires, Argentina (2020-2021).",
+    "abstract": "To describe the classical and molecular epidemiology of SARS-CoV-2 in Health Region VIII (HRVIII, Buenos Aires Province, Argentina), we analyzed 120421 respiratory samples from patients with acute respiratory infection during the first two pandemic years. Complete genome or partial spike gene sequences were obtained for phylogenetic analyses to investigate viral introductions, transmission dynamics, and genetic diversity. Substitution rates were estimated for predominant lineages. SARS-CoV-2 positivity was significantly higher in 2020 (37.4%) than in 2021 (31.9%, p<0.001). In 2020, positivity was higher among travelers (41.7%) than residents (36.4%), a trend that reversed in 2021 (33.4% vs. 28.0%), reflecting the region's socioeconomic and touristic characteristics. The first wave peaked at epidemiological week (EW) 37 of 2020 and was dominated by lineages B.1.1.33, N.3, and B.1.499. A resurgence in early 2021 involved lineage N.5 and emerging Alpha and Lambda variants. The second wave peaked at EW 20 and featured cocirculation of Gamma and Lambda, which were later displaced by Delta after EW 31. Estimated substitution rates ranged from 2.4×10-4 to 6.8×10-4substitutions/site/year across different clades. This study provides a detailed overview of SARS-CoV-2 circulation in HRVIII and underscores the importance of integrating genomic surveillance into public health systems to monitor emerging variants and support timely response strategies.",
+    "authors": [
+      "Carlos Cimmino",
+      "Andrés Culasso",
+      "Andrea Lerman",
+      "Rodolfo Campos",
+      "Osvaldo Uez",
+      "Débora Natalia Marcone"
+    ],
+    "date": "2026-Oct-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42849142/",
+    "doi": "10.1016/j.ram.2026.100756",
+    "journal": "Revista Argentina de microbiologia",
+    "score": 0.6127,
+    "fetched_at": "2026-10-10"
+  },
+  {
+    "id": "medrxiv:10.64898/2026.05.07.26352661",
+    "source": "medrxiv",
+    "title": "Simpler is not always better: Phylodynamic misspecification and deep-learning corrections",
+    "abstract": "Phylodynamics bridges the gap between epidemiology and pathogen genetic data. The birth-death (BD) model and its extensions serve to infer the average number of secondary infections R and the infection duration d from time-scaled pathogen phylogenies. Moreover, more complex models add extra parameters, such as the average length of the incubation period, the proportion of superspreaders in the infected population, or the speed-up in detection after contact-tracing. However, these additional parameters come at an important computational cost: While the simplest, BD, model, has a closed-form solution, its extensions do not and require numerical methods for their likelihood computation. This leads to increased computational times and potential numerical errors. Therefore, the BD model remains the favorite researchers choice for real dataset analyses, and is often applied even in cases where more complex epidemiological aspects are present. We investigated, using simulations, how model misspecification influences inference of R and d in the phylo-dynamic framework. We showed that the use of models not accounting for various epidemiological aspects leads to bias. In particular the simplest, BD, estimator tends to underestimate R in the presence of super-spreading, incubation or contact-tracing, which might be dangerous from the public health prospective. In contrast, deep-learning-based estimators for complex models, accounting for multiple epidemiological factors, performed well in our simulations both on the data where those factors were present and where they were absent. This motivates the use of complex epidemiologically realistic estimators, whose design has recently become possible thanks to deep learning.",
+    "authors": [
+      "XIE, R.",
+      "Gascuel, O.",
+      "ZHUKOVA, A."
+    ],
+    "date": "2026-10-06",
+    "url": "https://doi.org/10.64898/2026.05.07.26352661",
+    "doi": "10.64898/2026.05.07.26352661",
+    "score": 0.3652,
+    "fetched_at": "2026-10-10"
+  }
+]
