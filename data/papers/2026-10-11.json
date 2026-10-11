@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pubmed:42854793",
+    "source": "pubmed",
+    "title": "Pairwise coalescence times under the structured coalescent: A computational overview.",
+    "abstract": "Pairwise coalescence times are of fundamental importance in population genetic theory and inference. However, computing expectations and related quantities under the structured coalescent remains challenging. Here, we analyze two commonly used approximation strategies-the time-decomposition approach and the lineage-independence assumption-and characterize their underlying theoretical assumptions and computational properties. We also summarize recent algorithmic advances that relate the problem to the generalized Lyapunov equation. These methods enable exact computation with reduced complexity, and we further extend them to more general model settings. Finally, we discuss the potential role of iterative solvers in accelerating inference. Together, these insights clarify the computational landscape and provide a foundation for more flexible and accurate inference in structured populations.",
+    "authors": [
+      "Hao Shen"
+    ],
+    "date": "2026-Oct-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854793/",
+    "doi": "10.1016/j.tpb.2026.09.002",
+    "journal": "Theoretical population biology",
+    "score": 0.2013,
+    "fetched_at": "2026-10-11"
+  }
+]
