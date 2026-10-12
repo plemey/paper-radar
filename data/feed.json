@@ -3177,6 +3177,27 @@
     "fetched_at": "2026-09-03"
   },
   {
+    "id": "pubmed:42856818",
+    "source": "pubmed",
+    "title": "Prevalence, risk factors, and molecular epidemiology of simian foamy virus in free-living Macaca fascicularis at human-macaque interfaces in eastern Thailand.",
+    "abstract": "Long-tailed macaques (Macaca fascicularis) are widely distributed in Thailand and often inhabit areas where they come into contact with humans, creating opportunities for zoonotic pathogen transmission. Simian foamy virus (SFV), a retrovirus of the subfamily Spumaretrovirinae, is of particular One Health relevance; however, site-specific epidemiological and molecular information from areas with frequent human-macaque interactions in Thailand remains limited. This study investigated the prevalence, associated risk factors, and molecular epidemiology of SFV infection in free-living long-tailed macaques at human-macaque interfaces in Chonburi Province, Thailand. A total of 244 macaques from Si Racha, Sattahip, and Mueang districts of Chonburi Province were sampled. Paired blood and oral mucosal swabs were collected from each animal and examined for SFV proviral DNA using nested polymerase chain reaction. Apparent prevalence was estimated, and potential risk factors were assessed using univariate and multivariable logistic regression. Agreement between sample types was evaluated using McNemar's test and the Kappa coefficient (κ). Partial pol gene sequences from three SFV-positive samples were subjected to phylogenetic analysis against reference SFV sequences from different geographic regions. Overall, 137/244 macaques were SFV-positive, corresponding to a prevalence of 56.15%. SFV prevalence was 32.79% in oral swabs and 36.89% in blood samples, with no significant difference between sample types. In univariate analysis, adult macaques had higher odds of SFV infection than juveniles (OR = 2.69; 95% confidence interval [CI] = 1.54-4.70; p < 0.001), while macaques weighing >5.0 kg had higher odds than those weighing <5.0 kg (OR = 2.84; 95% CI = 1.54-5.24; p < 0.001). In multivariable analysis, only body weight remained significantly associated with SFV infection (adjusted OR = 1.40; 95% CI = 1.15-1.71; p < 0.001), whereas age, sex, and geographic location were not significant predictors. Phylogenetic analysis showed that all three Thai SFV isolates clustered within a broader lineage containing SFV sequences from humans and non-human primates in Asia. SFV was highly prevalent among free-living long-tailed macaques in Chonburi Province, with body weight emerging as the principal independent factor associated with infection. The molecular findings further demonstrate the genetic relationship of Thai SFV isolates with viruses circulating among human and non-human primate hosts in Asia. These findings provide epidemiological and molecular baseline data for SFV surveillance and support continued One Health monitoring at human-macaque interfaces in Thailand.",
+    "authors": [
+      "Daraka Tongthainan",
+      "Phairot Phromwat",
+      "Phawaran Meetipkit",
+      "Supriya Kongpom",
+      "Poramaporn Kromsuriyasak",
+      "Wachirawich Nimitpan",
+      "Suchawan Pornsukarom"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856818/",
+    "doi": "10.14202/vetworld.2026.3995-4007",
+    "journal": "Veterinary world",
+    "score": 0.4774,
+    "fetched_at": "2026-10-12"
+  },
+  {
     "id": "pubmed:42566464",
     "source": "pubmed",
     "title": "Novel insights into tomato leaf curl New Delhi virus introduction and evolution in Southeastern France using an advanced long-read sequencing workflow.",
@@ -3673,6 +3694,23 @@
     "journal": "Preventive veterinary medicine",
     "score": 0.4505,
     "fetched_at": "2026-10-01"
+  },
+  {
+    "id": "pubmed:42856093",
+    "source": "pubmed",
+    "title": "Taking a BREATH (Bayesian Reconstruction and Evolutionary Analysis of Transmission Histories) to simultaneously infer phylogenetic and transmission trees for partially sampled outbreaks.",
+    "abstract": "We introduce and apply Bayesian Reconstruction and Evolutionary Analysis of Transmission Histories (BREATH), a method to simultaneously construct phylogenetic trees and transmission trees using sequence data for a host-to-host outbreak. BREATH's transmission process that accounts for a flexible natural history of infection (including a latent period if desired) and a separate process for sampling. It allows for unsampled individuals and within-host evolution. It also accounts for the fact that an outbreak may still be ongoing at the time of analysis, using right truncation adjustment. We perform a simulation study to verify our implementation and explore sensitivity to unknown or misspecified parameters. We then apply BREATH to a previously-described 13-year outbreak of tuberculosis. We find that using a transmission process to inform the phylogenetic reconstruction results in better resolution of the phylogeny (in topology, branch length and tree height) and a more precise estimate of the time of origin of the outbreak. Considerable uncertainty remains about transmission events in the outbreak, but our reconstructed transmission network resolves two major waves of transmission consistent with the previously-described epidemiology, estimates the numbers of unsampled individuals, and describes some high-probability transmission pairs. An open source implementation of BREATH is available from https://github.com/rbouckaert/BREATH as the BREATH package to BEAST 2.",
+    "authors": [
+      "Caroline Colijn",
+      "Matthew Hall",
+      "Remco Bouckaert"
+    ],
+    "date": "2026-Oct-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856093/",
+    "doi": "10.1093/molbev/msag257",
+    "journal": "Molecular biology and evolution",
+    "score": 0.4497,
+    "fetched_at": "2026-10-12"
   },
   {
     "id": "pubmed:42683047",
@@ -4489,42 +4527,5 @@
     "journal": "Frontiers in immunology",
     "score": 0.4002,
     "fetched_at": "2026-09-24"
-  },
-  {
-    "id": "pubmed:42644715",
-    "source": "pubmed",
-    "title": "Pathogenicity and virulence of PRRSV: From regulated cell death reprogramming landscape and immune subversion to precision vaccinology.",
-    "abstract": "PRRSV remains a major challenge because pathogenicity arises from the convergence of rapid viral evolution, immune evasion, and maladaptive host responses rather than from isolated virulence determinants. This review synthesizes evidence from molecular and cellular studies, arguing that recurrent recombination, lineage turnover, and antigenic diversification continuously reshape viral fitness, tissue tropism, and vaccine efficacy. PRRSV suppresses interferon‑driven antiviral programs while rewiring inflammatory signaling and intertwined lytic and non-lytic regulated cell death cascades. The virus induces a phenotypic convergence akin to PANoptosis, notably marked by hyper-inflammatory pyroptotic responses in macrophages, which in turn facilitates immune dysfunction, delays the development of protective immunity, and contributes to persistent infection. We assess emerging intervention strategies, including consensus antigen design, rational attenuation, and nonreplicating platforms such as mRNA and protein nanoparticles. This framework explores regulated cell death pathways as a basis for identifying diagnostic biomarkers and developing precision vaccines for PRRSV.",
-    "authors": [
-      "Shinuo Cao",
-      "Mo Zhou",
-      "Zhi Wu",
-      "Shanyuan Zhu"
-    ],
-    "date": "2026-Dec-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42644715/",
-    "doi": "10.1080/21505594.2026.2718552",
-    "journal": "Virulence",
-    "score": 0.3998,
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42574991",
-    "source": "pubmed",
-    "title": "Prevalence and distribution of zoonotic Pentatrichomonas hominis and Blastocystis sp. in Crab-eating macaques in China.",
-    "abstract": "Pentatrichomonas hominis and Blastocystis sp. are enteric protists with the capacity to infect both non-human primates (NHPs), humans and other animal hosts, yet their epidemiology and coinfection patterns in NHPs remain poorly understood. Given the phylogenetic proximity of NHPs to humans, and the role of the Crab-eating macaque as a key animal model for human diseases, this species is considered a potential reservoir for zoonotic protists. Here, we investigate the occurrence and genetic profiles of P. hominis and Blastocystis sp. in NHPs from China. In this study, fresh fecal samples were collected from Crab-eating macaques in Beijing (n = 212) and Suzhou (n = 292). All samples were analyzed using species-specific PCR and SSU rRNA-based phylogenetic analysis. The resulting sequences were subjected to molecular analysis for species confirmation of P. hominis and subtype identification of Blastocystis sp. The overall prevalence of P. hominis was 55.16% (60.85% in Beijing, 51.03% in Suzhou), with juveniles showing significantly higher infection rates than adults at both sites (p < 0.0001). The overall prevalence of Blastocystis sp. was 50.6% (40.57% in Beijing, 57.88% in Suzhou), with adults exhibiting higher rates than juveniles. Two Blastocystis sp. genotypes were identified: ST1 (216 samples) and ST2 (39 samples). Coinfection of the two protists occurred at an overall rate of 18.65%. Phylogenetic analysis revealed that our P. hominis isolates are closely related to reference sequences AY758392 and JX565035, while Blastocystis sp. isolates formed two major clades (ST1 and ST2), with ST1 being the dominant subtype. Together, these results detail the epidemiology of P. hominis and Blastocystis sp. in Crab-eating macaques in China, including prevalence, age-dependent infection patterns, ST1 dominance, and coinfection rate. These extend global knowledge of these protists, particularly regarding subtype distribution and host age associations.",
-    "authors": [
-      "Qinghong Guo",
-      "Yingchun Hao",
-      "Yang Sini Fu",
-      "Jiahao Chen",
-      "Xinchao Liu",
-      "Wenchao Li"
-    ],
-    "date": "2026-Aug-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42574991/",
-    "doi": "10.1016/j.exppara.2026.109183",
-    "score": 0.3996,
-    "fetched_at": "2026-08-13"
   }
 ]
