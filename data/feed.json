@@ -860,6 +860,30 @@
     "fetched_at": "2026-08-27"
   },
   {
+    "id": "pubmed:42862757",
+    "source": "pubmed",
+    "title": "Newcastle disease virus: Insights into molecular epidemiology, dynamics of distribution and diagnostics.",
+    "abstract": "AbstractThe Newcastle disease virus (NDV) is the etiological agent of a highly transmissible avian disease, first recognized in 1926. The virus continues to pose a substantial threat to both commercial and domestic poultry farming globally, causing major outbreaks with high mortality rates and resulting in considerable economic losses. Despite the widespread use of vaccines and other control measures outbreaks persist. This is linked to the NDV significant genetic variability, its capacity to evolve under selective pressure and its wide range of natural hosts, with diverse virus variants continuing to circulate globally in both domestic and wild birds. Wild synanthropic and migratory birds play an important role in maintaining the virus and transmitting it across regions and continents. Summarized monitoring data from different countries evidences global picture of up-to-date virus distribution and changes in the different virus variant composition from 2017-2026. Some commonly used tests may miss newly emerging variants, and diagnostic procedures thus have to be regularly modified.",
+    "authors": [
+      "Anna D Solovieva",
+      "Olga A Kondakova",
+      "Dmitriy L Granovskiy",
+      "Ekaterina M Ryabchevskaya",
+      "Elizaveta P Umarova",
+      "Ekaterina A Evtushenko",
+      "Irina N Matveeva",
+      "Alexey A Agranovsky",
+      "Nikolai A Nikitin",
+      "Olga V Karpova"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862757/",
+    "doi": "10.1080/03079457.2026.2746602",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.6253,
+    "fetched_at": "2026-10-13"
+  },
+  {
     "id": "pubmed:42782136",
     "source": "pubmed",
     "title": "Genomic characteristics of the first five monkeypox virus clade Ib cases in Thailand: August 2024-March 2025.",
@@ -1083,6 +1107,21 @@
     "journal": "Microbial pathogenesis",
     "score": 0.5932,
     "fetched_at": "2026-08-22"
+  },
+  {
+    "id": "pubmed:42862853",
+    "source": "pubmed",
+    "title": "Vaccination accelerates the race of influenza virus against collective immunity.",
+    "abstract": "Respiratory viruses persist in a population, because their rapid evolution allows them to escape recognition by antibodies in previously-infected individuals. To optimize parameters of an effective vaccine, an epidemiological model of a population infected with an evolving virus is coupled to a model of multi-locus evolution. Model parameters are informed from influenza virus data. The cases of overlapping and non-overlapping effect of consecutive vaccinations are considered. The results predict that vaccination will accelerate viral evolution and may even increase infection incidence, unless one of two scenarios takes place: either antibodies elicited by vaccine are more broadly neutralizing than antibodies to natural infection, or the vaccine vector lies slightly ahead of the dominant virus variant in the evolutionary trajectory. These results suggest that the probabilistic prognosis of virus evolution represents a promising strategy of vaccine improvement complementing the search for broadly-neutralizing vaccines.",
+    "authors": [
+      "Igor M Rouzine"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862853/",
+    "doi": "10.1371/journal.ppat.1014311",
+    "journal": "PLoS pathogens",
+    "score": 0.5918,
+    "fetched_at": "2026-10-13"
   },
   {
     "id": "pubmed:42582832",
@@ -2174,6 +2213,31 @@
     "fetched_at": "2026-10-09"
   },
   {
+    "id": "pubmed:42860220",
+    "source": "pubmed",
+    "title": "Outbreak of BA Genotype-Derived RSV-B Lineages in Northeast India: Molecular Epidemiology and Phylogenetic Insights from Dibrugarh, 2022.",
+    "abstract": "Respiratory syncytial virus (RSV) is a major cause of respiratory illness in children, but molecular data from Northeast India remain limited. We investigated an RSV-B outbreak among 239 children aged <5 years in Dibrugarh, Assam, during November-December 2022. RSV-B was detected in 67 (28.0%) samples by real-time RT-PCR. G-gene sequencing of 43 isolates and phylogenetic analysis identified three BA genotype-derived lineages: B.D.E.1 (48.8%), B.D.E.1.2 (37.2%), and B.D.4.1.1 (14.0%). B.D.E.1 and B.D.E.1.2 predominated, comprising 86.0% of sequences. The conserved G:I252T substitution was present across all lineages, with predicted glycosylation differences. These findings provide evidence of RSV-B lineage circulation in Northeast India.",
+    "authors": [
+      "Biswajyoti Borkakoty",
+      "Nargis K Bali",
+      "Amrit K Borah",
+      "Aktarul I Siddique",
+      "Sobnom Gogoi",
+      "Neelanjana Saramah",
+      "Mousumi Dutta",
+      "Parismita Borah",
+      "Parishmita Boruah",
+      "Aniruddha Jakharia",
+      "Reeta Bora"
+    ],
+    "date": "2026-Oct-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860220/",
+    "doi": "10.1016/j.ijmmb.2026.101316",
+    "journal": "Indian journal of medical microbiology",
+    "score": 0.5261,
+    "fetched_at": "2026-10-13"
+  },
+  {
     "id": "pubmed:42847122",
     "source": "pubmed",
     "title": "Echovirus 19 Molecular Epidemiology in Russia and Some Central Asian Countries in 1999-2024.",
@@ -3103,6 +3167,32 @@
     "journal": "Scientific reports",
     "score": 0.4814,
     "fetched_at": "2026-09-02"
+  },
+  {
+    "id": "pubmed:42862470",
+    "source": "pubmed",
+    "title": "Co-occurrence of viral respiratory pathogens: prevalence, seasonal distribution, and symptomatology in outpatients in Bavaria, Germany, from April 2025 - March 2026.",
+    "abstract": "The Bavarian Influenza Sentinel (BIS + C) monitors the circulation of respiratory viruses in outpatients in Bavaria, Germany. After the Covid-19 pandemic, the molecular surveillance program was expanded for improved insight into the rate of viral infections. Only limited information on viral co-infections is yet available, so this study provides an insight into their co-occurrence, seasonal distribution, and symptomatic outcome. From calendar week 15/2025 to 14/2026, general practitioners and pediatricians collected swab samples from outpatients with acute respiratory diseases, that were tested for twelve viral pathogens using qPCR multiplex systems. At least one virus was found in 58.8% of the outpatients (n = 7,416/12,614) including 4.1% (n = 520) multiple viral detection, primarily in patients younger than 5 years and more frequent in males. The frequency of multiple virus detection ranges from 6.7% in influenza A (n = 118/1,761) to 43.3% in adenoviruses (n = 154/356) positive tested samples. The most common pathogens in multiple detections were entero-/rhinoviruses involved in 11.9% (n = 292/2,459). Differences in the reported symptoms between single- and co-infections have been found, including less muscle/joint pain in influenza A co-infections. The detected Ct values in co-infections compared to mono-infections were lower for SARS-CoV-2, adenoviruses, entero-/rhinoviruses, and coronaviruses. The frequency of multi-infections follows the seasonality of the corresponding viruses. Especially children under 5 years of age are affected by co-infections. Among the studied viruses, influenza A showed the lowest relative rate of co-detection, in line with its pronounced seasonality - a pattern that warrants further investigation.",
+    "authors": [
+      "Aline I Schöllkopf",
+      "Jennifer Flechsler",
+      "Rebecca Gerstner",
+      "Johannes Lutmayr",
+      "Alexander Nikola",
+      "Julia Papst",
+      "Sandra Schmidt",
+      "Veronika Zacherl",
+      "Caroline Herr",
+      "Ute Eberle",
+      "Andreas Sing",
+      "Nikolaus Ackermann"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862470/",
+    "doi": "10.1098/rspb.2021.2358",
+    "journal": "Infection",
+    "score": 0.4811,
+    "fetched_at": "2026-10-13"
   },
   {
     "id": "pubmed:42634831",
@@ -4432,100 +4522,5 @@
     "doi": "10.1021/acsnano.6c08330",
     "score": 0.4064,
     "fetched_at": "2026-08-17"
-  },
-  {
-    "id": "pubmed:42644605",
-    "source": "pubmed",
-    "title": "Immunological imprinting shapes the cross-reactive antibody responses to the KP.2 and LP.8.1 vaccine doses.",
-    "abstract": "The emergence of the SARS-CoV-2 Omicron BA.2.86 subvariant, a lineage derived from the BA.2 strain, led to the 2024-2025 COVID-19 vaccine update to include KP.2 or related JN.1-lineage spike antigens. We evaluated the magnitude, breadth, and durability of humoral immune responses following a single KP.2 vaccine dose in a longitudinal cohort of 21 individuals up to 6 months. KP.2 vaccination increased spike-specific binding and neutralizing antibodies against the ancestral WA.1 strain, as well as against the BA.5, XBB.1.5, and KP.2 variants. Power-law modeling estimated half-lives for WA.1- and KP.2-specific IgG responses at 770 and 248 days, respectively. Additionally, the KP.2 dose increased IgG1 and IgG4 subclasses more than IgG2 and IgG3 responses to both spike proteins. Serum-depletion experiments using WA.1 or KP.2 proteins demonstrated that most vaccine-elicited antibodies were cross-reactive. Consequently, KP.2 vaccine-induced antibodies retained broad neutralizing activity against recently circulating Omicron subvariants (BA.2.86, KP.3.1.1, XEC, LP.8.1, LF.7, XFG.3.12, PQ.1, BA.3.2.1, and RE.2). Using a live virus neutralization assay, XFG.3.12 showed the greatest reduction in neutralizing titers relative to KP.2 (4.2-fold). In a small subset, an LP.8.1 vaccine dose increased neutralizing activity against the matched variant while maintaining WA.1 and KP.2 cross-reactivity, but only modestly increased antibodies to divergent variants BA.3.2.1 and RE.2. Ultimately, these data indicate the KP.2 mRNA vaccine generates durable, cross-reactive responses against current Omicron subvariants. However, ongoing spike evolution impacts the neutralization of emerging lineages, highlighting the need for continued viral monitoring and timely vaccine updates. SARS-CoV-2 continues to evolve, raising ongoing concerns about how well updated vaccines protect against emerging variants. This study evaluates antibody responses after a KP.2 spike mRNA vaccine dose. It shows that a single dose induces durable and broadly cross-reactive immunity against both earlier strains and recently circulating Omicron subvariants. Despite this breadth, reduced neutralizing activity against certain emerging variants indicates that ongoing antigenic changes can impact vaccine-induced antibody effectiveness. These findings provide insight into how current vaccines perform over time and highlight the need to track viral evolution and update vaccine antigens to maintain broad protection against severe disease, hospitalization, and death.",
-    "authors": [
-      "Sanjeev Kumar",
-      "Lilin Lai",
-      "Madison L Ellis",
-      "Anamika Patel",
-      "Devyani Joshi",
-      "Jacob W Vander Velden",
-      "Jana Ziad Abu Faraj",
-      "Sonia T Wimalasena",
-      "Ramitha R Pallavi",
-      "Jad Iriss",
-      "Kareem Bechnak",
-      "Peter Cook",
-      "Meredith E Gardner",
-      "Heather N Hicks",
-      "Azaibi Tamin",
-      "Clint Paden",
-      "Jennifer L Harcourt",
-      "Sri Edupuganti",
-      "Nadine Rouphael",
-      "Eric A Ortlund",
-      "Alberto Moreno",
-      "Vineet D Menachery",
-      "Veronika I Zarnitsyna",
-      "Jens Wrammert",
-      "Mehul S Suthar"
-    ],
-    "date": "2026-Aug-26",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42644605/",
-    "doi": "10.1128/jvi.00749-26",
-    "journal": "Journal of virology",
-    "score": 0.4046,
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42611043",
-    "source": "pubmed",
-    "title": "Phylogenetic inference with not-so-rare mutations and tiny organisms.",
-    "abstract": "A common assumption in mathematical models of molecular evolution is that mutations are rare. One example is the boundary mutation assumption, which posits that mutations occur so infrequently that, by the time a new one arises, the previous mutation has already been fixed or lost in the population. This assumption, however, ignores recurrent mutations and can be problematic for highly diverse organisms such as bacteria and viruses. In this study, we challenge the assumption of infrequent mutation in phylogenetic inference. To do so, we compare two mutation models: one that incorporates recurrent mutations and another that allows only boundary mutations. Our results show that while tree topologies remain mostly unaffected, branch lengths and estimates of mutation bias and selection are substantially compromised. These patterns hold across both simulations and empirical case studies, including HIV, HCV and IAV viruses. Overall, this study highlights the importance of accounting for recurrent mutations in phylogenetic analyses of highly diverse organisms, many of which have significant epidemiological and medical relevance.",
-    "authors": [
-      "Rui Borges",
-      "Joseph Hughes"
-    ],
-    "date": "2026-Aug-18",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611043/",
-    "doi": "10.1093/sysbio/syag065",
-    "score": 0.4036,
-    "fetched_at": "2026-08-18"
-  },
-  {
-    "id": "pubmed:42575597",
-    "source": "pubmed",
-    "title": "PCR-based screening for vector-borne pathogens reveals different Mycoplasma species in cats from Kosovo.",
-    "abstract": "Vector-borne pathogens (VBPs) comprise a diverse range of pathogens, including viruses, bacteria, protozoa, and helminths, that are transmitted to vertebrate hosts by various species of arthropod vectors. The present study aimed to report the first data on the prevalence of VBPs in domestic cats in Kosovo and investigate associations with potential risk factors. Blood samples were collected from 107 domestic cats between April and October 2024 and preserved on filter papers. Samples were screened for VBPs, including Anaplasma spp., Ehrlichia spp., Babesia spp., Hepatozoon spp., Cytauxzoon spp., Bartonella spp., Filarioidea, Mycoplasma spp., Rickettsia spp., and Trypanosoma spp., using polymerase chain reaction (PCR), followed by sequence analysis. Haemotropic mycoplasma DNA was detected in 9 cats (8.4%, 95% CI: 4.2-15.8). Of the sequences obtained, three were identified as Mycoplasma haemofelis and six as Candidatus Mycoplasma haematominutum. The samples resulted negative for the presence of DNA from other VBPs. Significant variations in infection prevalence were associated with age, sex, outdoor access, and health status. This study provides the first molecular detection of Mycoplasma spp. infection in domestic cats from the capital region, Prishtina, and contributes to a better understanding of the epidemiology of this pathogen in the local feline population, which is essential for the development of effective preventive and control strategies.",
-    "authors": [
-      "Genita Rafuna",
-      "Kurtesh Sherifi",
-      "Shaqir Ahmeti",
-      "Zoë Tess Lara Lindhorst",
-      "Aleksandar Cvetkovikj",
-      "Edwin Kniha",
-      "Hans-Peter Fuehrer",
-      "Betim Xhekaj"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575597/",
-    "doi": "10.1016/j.vprsr.2026.101515",
-    "score": 0.4003,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42774733",
-    "source": "pubmed",
-    "title": "Deciphering defensive mechanisms in",
-    "abstract": "Riemerella anatipestifer (RA) is an economically important avian pathogen that has historically caused significant disease in waterfowls but is increasingly recognized in various poultry production systems and wild bird species, highlighting its expanding host range and adaptive potential. Despite the availability of vaccines and antimicrobial interventions, RA remains a persistent challenge due to serotype diversity, limited cross-protective immunity, evolving antimicrobial resistance patterns, and an incomplete understanding of the host-pathogen interactions that govern disease outcome. Recent advances in genomics, molecular epidemiology, immunology and vaccinology have generated new insights into RA evolution, pathogenicity, host adaptation, and immune protection. However, these advances remain fragmented, hindering the translation of mechanistic discoveries into broadly effective control strategies. Emerging evidence further indicates that disease progression is shaped not only by bacterial pathogenicity but also by the magnitude and regulation of host immune responses, where dysregulated inflammatory signaling and immune-mediated tissue damage contribute significantly to pathology. This review synthesizes current understanding of the dynamic interplay between pathogen adaptation, immune evasion, host defense responses, and immunopathogenesis that collectively determines disease susceptibility, progression and protection. Finally, we evaluate current vaccine platforms and alternative control approaches, identify major knowledge gaps, and highlight future directions for the development of durable, broadly protective and sustainable intervention strategies.",
-    "authors": [
-      "Rochelle A Flores",
-      "Cherry P Fernandez-Colorado",
-      "Paula Leona C Fletcher",
-      "Andrea Gail M Villavicencio",
-      "Woo H Kim",
-      "Wongi Min"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774733/",
-    "doi": "10.3390/ph19050727",
-    "journal": "Frontiers in immunology",
-    "score": 0.4002,
-    "fetched_at": "2026-09-24"
   }
 ]

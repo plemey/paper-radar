@@ -1,0 +1,126 @@
+[
+  {
+    "id": "pubmed:42862853",
+    "source": "pubmed",
+    "title": "Vaccination accelerates the race of influenza virus against collective immunity.",
+    "abstract": "Respiratory viruses persist in a population, because their rapid evolution allows them to escape recognition by antibodies in previously-infected individuals. To optimize parameters of an effective vaccine, an epidemiological model of a population infected with an evolving virus is coupled to a model of multi-locus evolution. Model parameters are informed from influenza virus data. The cases of overlapping and non-overlapping effect of consecutive vaccinations are considered. The results predict that vaccination will accelerate viral evolution and may even increase infection incidence, unless one of two scenarios takes place: either antibodies elicited by vaccine are more broadly neutralizing than antibodies to natural infection, or the vaccine vector lies slightly ahead of the dominant virus variant in the evolutionary trajectory. These results suggest that the probabilistic prognosis of virus evolution represents a promising strategy of vaccine improvement complementing the search for broadly-neutralizing vaccines.",
+    "authors": [
+      "Igor M Rouzine"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862853/",
+    "doi": "10.1371/journal.ppat.1014311",
+    "journal": "PLoS pathogens",
+    "score": 0.5918,
+    "fetched_at": "2026-10-13"
+  },
+  {
+    "id": "pubmed:42862757",
+    "source": "pubmed",
+    "title": "Newcastle disease virus: Insights into molecular epidemiology, dynamics of distribution and diagnostics.",
+    "abstract": "AbstractThe Newcastle disease virus (NDV) is the etiological agent of a highly transmissible avian disease, first recognized in 1926. The virus continues to pose a substantial threat to both commercial and domestic poultry farming globally, causing major outbreaks with high mortality rates and resulting in considerable economic losses. Despite the widespread use of vaccines and other control measures outbreaks persist. This is linked to the NDV significant genetic variability, its capacity to evolve under selective pressure and its wide range of natural hosts, with diverse virus variants continuing to circulate globally in both domestic and wild birds. Wild synanthropic and migratory birds play an important role in maintaining the virus and transmitting it across regions and continents. Summarized monitoring data from different countries evidences global picture of up-to-date virus distribution and changes in the different virus variant composition from 2017-2026. Some commonly used tests may miss newly emerging variants, and diagnostic procedures thus have to be regularly modified.",
+    "authors": [
+      "Anna D Solovieva",
+      "Olga A Kondakova",
+      "Dmitriy L Granovskiy",
+      "Ekaterina M Ryabchevskaya",
+      "Elizaveta P Umarova",
+      "Ekaterina A Evtushenko",
+      "Irina N Matveeva",
+      "Alexey A Agranovsky",
+      "Nikolai A Nikitin",
+      "Olga V Karpova"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862757/",
+    "doi": "10.1080/03079457.2026.2746602",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.6253,
+    "fetched_at": "2026-10-13"
+  },
+  {
+    "id": "pubmed:42862497",
+    "source": "pubmed",
+    "title": "Occurrence of bla",
+    "abstract": "This study investigated the genetic diversity and occurrence of blaNDM variants associated with carbapenem resistance in Enterobacterales obtained from colonization (rectal swabs) and infection sites in patients hospitalized in a public hospital in northeastern Brazil. A total of 58 multidrug-resistant clinical isolates were analyzed using ERIC-PCR to assess clonal relatedness, and PCR followed by amplicon sequencing to detect resistance genes (blaNDM, blaKPC, blaGES, blaVIM, and blaIMP). Klebsiella pneumoniae was the most frequently identified species (n = 28, 48.27%), followed by Serratia marcescens and Proteus mirabilis, among others. All seven P. mirabilis isolates were classified as XDR, as were six K. pneumoniae and three S. marcescens isolates. Amikacin (n = 46, 79.31% susceptible) and colistin (n = 37, 97.37% susceptible) exhibited the highest susceptibility rates among all antimicrobials tested against the majority of isolates. ERIC-PCR revealed multiclonal dissemination and high genetic variability among the isolates. The blaKPC gene was the most prevalent (n = 32, 55.17%), followed by blaNDM (n = 26, 44.83%). Among the blaNDM allelic variants, blaNDM-1 (n = 12, 46.15%) was the most common, followed by blaNDM-5 (n = 7, 26.92%) and blaNDM-29 (n = 1, 3.85%). This study reports the first detection in Brazil of blaNDM-5 in Klebsiella aerogenes, Citrobacter freundii, and Escherichia coli, in addition to reporting the first identification of blaNDM-29 in K. pneumoniae. Additionally, this study gives the first report in the Americas of blaNDM in Klebsiella ozaenae. These findings highlight the substantial potential for mutation and interspecies dissemination of blaNDM variants within the Enterobacterales order.",
+    "authors": [
+      "Lamartine Rodrigues Martins",
+      "Érica Maria de Oliveira",
+      "Maria Izabely Silva Pimentel",
+      "Elizabeth Maria Bispo Beltrão",
+      "Ana Catarina de Souza Lopes"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862497/",
+    "doi": "10.3389/fmicb.2021.743981",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "score": 0.2574,
+    "fetched_at": "2026-10-13"
+  },
+  {
+    "id": "pubmed:42862470",
+    "source": "pubmed",
+    "title": "Co-occurrence of viral respiratory pathogens: prevalence, seasonal distribution, and symptomatology in outpatients in Bavaria, Germany, from April 2025 - March 2026.",
+    "abstract": "The Bavarian Influenza Sentinel (BIS + C) monitors the circulation of respiratory viruses in outpatients in Bavaria, Germany. After the Covid-19 pandemic, the molecular surveillance program was expanded for improved insight into the rate of viral infections. Only limited information on viral co-infections is yet available, so this study provides an insight into their co-occurrence, seasonal distribution, and symptomatic outcome. From calendar week 15/2025 to 14/2026, general practitioners and pediatricians collected swab samples from outpatients with acute respiratory diseases, that were tested for twelve viral pathogens using qPCR multiplex systems. At least one virus was found in 58.8% of the outpatients (n = 7,416/12,614) including 4.1% (n = 520) multiple viral detection, primarily in patients younger than 5 years and more frequent in males. The frequency of multiple virus detection ranges from 6.7% in influenza A (n = 118/1,761) to 43.3% in adenoviruses (n = 154/356) positive tested samples. The most common pathogens in multiple detections were entero-/rhinoviruses involved in 11.9% (n = 292/2,459). Differences in the reported symptoms between single- and co-infections have been found, including less muscle/joint pain in influenza A co-infections. The detected Ct values in co-infections compared to mono-infections were lower for SARS-CoV-2, adenoviruses, entero-/rhinoviruses, and coronaviruses. The frequency of multi-infections follows the seasonality of the corresponding viruses. Especially children under 5 years of age are affected by co-infections. Among the studied viruses, influenza A showed the lowest relative rate of co-detection, in line with its pronounced seasonality - a pattern that warrants further investigation.",
+    "authors": [
+      "Aline I Schöllkopf",
+      "Jennifer Flechsler",
+      "Rebecca Gerstner",
+      "Johannes Lutmayr",
+      "Alexander Nikola",
+      "Julia Papst",
+      "Sandra Schmidt",
+      "Veronika Zacherl",
+      "Caroline Herr",
+      "Ute Eberle",
+      "Andreas Sing",
+      "Nikolaus Ackermann"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862470/",
+    "doi": "10.1098/rspb.2021.2358",
+    "journal": "Infection",
+    "score": 0.4811,
+    "fetched_at": "2026-10-13"
+  },
+  {
+    "id": "pubmed:42861193",
+    "source": "pubmed",
+    "title": "Posterior simulation-based calibration tests of phylogenetic dating methods.",
+    "abstract": "Simulation-based calibration (SBC) checking is a method to ensure that the inference machinery for a Bayesian statistical analysis is functioning in a correct and unbiased manner. Typically, SBC begins with sampling parameter values from the model priors (prior SBC). However, it has been shown that prior SBC can miss problems when these manifest only in certain regions of parameter space. In phylogenetics, this is relevant not only because of the vastness of tree and parameter space, but also because many phylogenetic analyses involve some degree of model misspecification. Posterior SBC is a recently developed method for checking that the inference algorithms function correctly for a given empirical dataset. Here I use posterior SBC to test the implementation of phylogenetic dating methods in the inference software BEAST 2. I test both the tip-dated approach, employing an Indo-European vocabulary dataset, and the node-dated approach, employing a molecular rRNA dataset of Tabanidae (horseflies). In both cases, posterior SBC tests indicate good calibration. Despite this, posterior predictive datasets simulated from the posterior distribution provided no further increase in the precision of node age estimates compared to the original posterior, a result consistent with previous literature showing fundamental theoretical limits to the identifiability of node ages. Nevertheless, these results suggest that phylogenetic dating methods in BEAST 2 are not biased by problems with the inference machinery, thereby increasing confidence in results obtained using these methods.",
+    "authors": [
+      "Benedict King"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42861193/",
+    "doi": "10.1186/s12862-020-01609-4",
+    "journal": "PeerJ",
+    "score": 0.2931,
+    "fetched_at": "2026-10-13"
+  },
+  {
+    "id": "pubmed:42860220",
+    "source": "pubmed",
+    "title": "Outbreak of BA Genotype-Derived RSV-B Lineages in Northeast India: Molecular Epidemiology and Phylogenetic Insights from Dibrugarh, 2022.",
+    "abstract": "Respiratory syncytial virus (RSV) is a major cause of respiratory illness in children, but molecular data from Northeast India remain limited. We investigated an RSV-B outbreak among 239 children aged <5 years in Dibrugarh, Assam, during November-December 2022. RSV-B was detected in 67 (28.0%) samples by real-time RT-PCR. G-gene sequencing of 43 isolates and phylogenetic analysis identified three BA genotype-derived lineages: B.D.E.1 (48.8%), B.D.E.1.2 (37.2%), and B.D.4.1.1 (14.0%). B.D.E.1 and B.D.E.1.2 predominated, comprising 86.0% of sequences. The conserved G:I252T substitution was present across all lineages, with predicted glycosylation differences. These findings provide evidence of RSV-B lineage circulation in Northeast India.",
+    "authors": [
+      "Biswajyoti Borkakoty",
+      "Nargis K Bali",
+      "Amrit K Borah",
+      "Aktarul I Siddique",
+      "Sobnom Gogoi",
+      "Neelanjana Saramah",
+      "Mousumi Dutta",
+      "Parismita Borah",
+      "Parishmita Boruah",
+      "Aniruddha Jakharia",
+      "Reeta Bora"
+    ],
+    "date": "2026-Oct-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860220/",
+    "doi": "10.1016/j.ijmmb.2026.101316",
+    "journal": "Indian journal of medical microbiology",
+    "score": 0.5261,
+    "fetched_at": "2026-10-13"
+  }
+]
