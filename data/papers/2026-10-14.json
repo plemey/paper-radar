@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pubmed:42863703",
+    "source": "pubmed",
+    "title": "Characterizing Recent HIV Infection by High-Fidelity Multiplexed Primer ID-Based Next-Generation Sequencing among Newly Diagnosed Individuals in Zhuhai, China: A Cross-Sectional Study.",
+    "abstract": "Differentiating recent from chronic HIV infections is critical for interrupting transmission chains. However, conventional Next-Generation Sequencing (NGS) is confounded by technical errors that inflate genetic diversity, blurring this distinction and compromising downstream molecular epidemiological analyses. We applied Multiplexed Primer ID-Based Next-Generation Sequencing (MPID-NGS) to plasma from 153 antiretroviral therapy (ART)‑naïve newly diagnosed with HIV individuals in Zhuhai, China (2022‑2024) to generate error‑corrected template consensus sequences, from which infection recency was classified using genetic diversity thresholds. We then benchmarked this approach against standard NGS and serological Limiting Antigen Avidity Enzyme Immunoassay (LAg-EIA), and further assessed selection pressures and reconstructed molecular transmission networks. MPID‑NGS removed >93% of Reverse Transcriptase (RT) and 69% of Variable Regions 1 to 3 (V1V3) low‑frequency artifacts. Primer ID (PID)‑corrected V1V3 diversity showed the strongest correlation with LAg‑EIA Normalized Optical Density (ODn) (ρ = 0.52), while other PID-corrected measures also showed significant but weaker associations, supporting the utility of error-corrected genetic diversity as a staging metric. We classified 15.7% as recent and 76.5% as chronic, with serological concordance of 87.5% and 86.4%, respectively. Despite overall purifying selection in RT, recent infections had significantly higher ω than chronic ones (p < 0.001), reflecting stage‑specific adaptive evolution. Men who have sex with men (MSM) showed higher RT ω than non‑MSM (p < 0.001) and independently predicted transmission clustering (aOR = 3.247, p = 0.003). An acute case exhibited transmitted/founder virus (T/F virus) hallmarks: ultra‑low diversity, star‑like phylogeny, reduced Potential N-Linked Glycosylation Sites (PNGS), and estimated infection time of only 19.5 days. MPID-NGS integrates high-fidelity staging, evolutionary profiling, and network analysis, revealing that recent MSM infections are strongly associated with local molecular clusters, elevated clustering risk, and distinct adaptive evolution, thus offering a robust tool for HIV-1 surveillance and intervention.",
+    "authors": [
+      "Di Yin",
+      "Hang Lyu",
+      "Weiming Tang",
+      "Qiaoxia Pan",
+      "Jing Zhang",
+      "Minjuan Shi",
+      "Yu Liao",
+      "Shuntai Zhou",
+      "Yi Zhou",
+      "Caijun Sun"
+    ],
+    "date": "2026-Oct-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863703/",
+    "doi": "10.1016/j.ijid.2026.109178",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.4041,
+    "fetched_at": "2026-10-14"
+  },
+  {
+    "id": "pubmed:42863260",
+    "source": "pubmed",
+    "title": "Rotavirus epidemiology, genotypes, and changes during the COVID-19 pandemic in an unvaccinated population, Denmark 2014-2024.",
+    "abstract": "Rotavirus is a major cause of gastroenteritis in children worldwide. Denmark has no routine rotavirus vaccination programme. We aimed to describe national trends in rotavirus epidemiology and genotype distribution from 2014 to 2024, including changes during and after the COVID-19 pandemic. Data on all diagnostic rotavirus analyses performed in Denmark between 2014 and 2024 were obtained from the Danish Microbiology Database. A subset of rotavirus-positive samples was submitted to the national reference laboratory for genotyping and linked with epidemiological data. A total of 18,246 rotavirus episodes were identified, and 1800 samples were selected for genotyping. The number of episodes declined during the COVID-19 restrictions in 2020-2021, followed by a substantial increase in 2022. The median age of infected patients increased from 20 to 27 months before the pandemic to 32 months in 2022. Test positivity returned to pre-pandemic levels in 2023-2024, whereas incidence remained elevated. Genotype distribution shifted over time, with G1P[8] dominating in 2014-2015, G3P[8] in 2016-2017 and 2022-2024, and G9P[8] in 2019-2021. Reinfections were uncommon. Rotavirus epidemiology in Denmark changed substantially during and after the COVID-19 pandemic, with changes in disease incidence, age distribution, and circulating genotypes. Continued surveillance remains important to monitor epidemiological trends.",
+    "authors": [
+      "Mona Katrine Alberthe Holm",
+      "Sofie Elisabeth Midgley",
+      "Jørgen Engberg",
+      "Lars Lemming",
+      "Jan Gorm Lisby",
+      "Lisbeth Lützen",
+      "Lene Nielsen",
+      "Alex Christian Yde Nielsen",
+      "Hans Linde Nielsen",
+      "Rune Micha Pedersen",
+      "Marianne Kragh Thomsen",
+      "Uffe Vest Schneider",
+      "Kristina Træholt Franck"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863260/",
+    "doi": "10.1016/j.jcv.2026.106018",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "score": 0.5101,
+    "fetched_at": "2026-10-14"
+  }
+]
