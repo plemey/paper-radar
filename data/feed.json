@@ -916,6 +916,37 @@
     "fetched_at": "2026-09-26"
   },
   {
+    "id": "pubmed:42870316",
+    "source": "pubmed",
+    "title": "Heterogeneous co-circulation of multiple DENV-1 and DENV-2 genotypes in Vung Tau during the 2023 dengue outbreak in Vietnam.",
+    "abstract": "Dengue virus (DENV) remains a significant global health threat, particularly in hyper-endemic regions like Vietnam, where the co-circulation of multiple serotypes and genotypes complicates disease control. In 2023, 6.5 million dengue cases and 6,800 deaths were reported globally, marking the largest dengue outbreak in the world. Vietnam recorded 149,557 dengue cases and 36 deaths, with a notable dominance of the DENV-2 serotype. This study provides a comprehensive genomic characterization of the 2023 outbreak using isolates collected from hospitalized patients (n = 148; 66.89% adults). To ensure robust viral recovery, we propagated 90 isolates using a low-passage, antibody-dependent enhancement (ADE)-based system. Whole-genome sequencing (WGS) of 53 isolates yielded 47 consensus sequences, including 26 complete genomes. Phylogenetic analysis revealed the simultaneous co-circulation of diverse DENV-1 and DENV-2 genotypes. DENV-1 isolates were predominantly genotype I (86%), clustering closely with prior Vietnamese strains and suggesting sustained endemic maintenance, while genotype IV (14%) was detected sporadically. Among DENV-2 isolates, the Cosmopolitan genotype was predominant (98%), with a smaller proportion (2%) belonging to the Asian 1 genotype. Both genotypes clustered with previously reported Vietnamese and regional Southeast Asian strains, indicating ongoing local circulation and regional viral exchange. Comparative mutational analysis of DENV-2 Cosmopolitan isolates identified multiple non-synonymous amino acid substitutions across the viral genome. Fourteen substitutions were shared between Vietnamese historical (2019-2022) and 2023 isolates, while 24 substitutions were unique to the 2023 outbreak strains. The majority of amino acid changes were concentrated within the NS5, E, NS1, and NS3 proteins, suggesting continued genetic diversification within the circulating Cosmopolitan lineage. Overall, these findings demonstrate the persistence of established DENV lineages alongside ongoing viral evolution during the 2023 outbreak in Vietnam. This study highlights the value of whole-genome surveillance for monitoring dengue virus genetic diversity and provides insight that may support future epidemiological surveillance, vaccine evaluation, and outbreak preparedness.",
+    "authors": [
+      "Melissa Alifa Da Costa",
+      "Hau Thi Bich Vu",
+      "Adeline Syin Lian Yeo",
+      "Jessica Manalaysay",
+      "Betül Ay",
+      "Kazumi Haga",
+      "Hina Horio",
+      "Islam Bakhrom Karimov",
+      "Thuy Thi Thu Nguyen",
+      "Hang Le Khanh Nguyen",
+      "Linh Ngoc Nguyen",
+      "Hang Thi Thu Pham",
+      "Lay Myint Yoshida",
+      "Montarop Yamabhai",
+      "Sujan Shresta",
+      "Mai Thi Quynh Le",
+      "Meng Ling Moi"
+    ],
+    "date": "2026-Oct-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870316/",
+    "doi": "10.1371/journal.ppat.1004604",
+    "journal": "Tropical medicine and health",
+    "score": 0.6184,
+    "fetched_at": "2026-10-15"
+  },
+  {
     "id": "pubmed:42849142",
     "source": "pubmed",
     "title": "Tracking SARS-CoV-2: Molecular epidemiology and surveillance in Health Region VIII, Buenos Aires, Argentina (2020-2021).",
@@ -1107,6 +1138,35 @@
     "journal": "Microbial pathogenesis",
     "score": 0.5932,
     "fetched_at": "2026-08-22"
+  },
+  {
+    "id": "pubmed:42870740",
+    "source": "pubmed",
+    "title": "Emergence of the GI-23 lineage of infectious bronchitis virus in Brazilian backyard poultry.",
+    "abstract": "Infectious bronchitis virus (IBV) remains a major threat to poultry production worldwide, with the GI-23 lineage emerging as one of the most epidemiologically relevant variants in recent years. Although GI-23 has been reported in Brazilian commercial poultry, its occurrence and genomic characteristics in backyard poultry remain poorly understood. This study investigated the molecular epidemiology and evolutionary features of IBV circulating in backyard poultry from São Paulo State, Brazil. Samples from 893 backyard birds were screened for IBV using RT-qPCR targeting the 5' untranslated region (5'UTR). Positive samples were further characterized by lineage-specific RT-PCR assays, S1 gene sequencing, virus isolation, and whole-genome sequencing, followed by phylogenetic, phylogenomic, and recombination analyses. IBV was detected exclusively in chickens, with an overall prevalence of 13.8% (42/304 swab pools; 95% CI: 10.1-18.2). Among RT-qPCR-positive samples, 23.9% were identified as belonging to the GI-23 lineage, while GI-1 and GI-11 lineages were not detected. Phylogenetic analysis of partial S1 gene sequences revealed multiple GI-23 sublineages circulating in Brazil, indicating different viral introductions. Whole-genome sequencing of a Brazilian GI-23 isolate showed high identity to a virus identified in Mexico and revealed recombination events involving European and Middle Eastern IBV lineages. These findings provide the molecular and genomic evidence of IBV GI-23 circulation in Brazilian backyard poultry and highlight the importance of monitoring viral evolution and supporting effective disease control strategies.",
+    "authors": [
+      "Andreina de Carvalho Araujo",
+      "Lilian de Moura Oliveira",
+      "Yongwoo Son",
+      "Ji-Yeong Kim",
+      "Raquel Rédua de Lima",
+      "Guilherme Pereira Scagion",
+      "Giovana Santos Caleiro",
+      "Jansen de Araújo",
+      "Rhubia Silveira Martins Rosa",
+      "Clarice Weis Arns",
+      "Izabelle Mariano Cordeiro",
+      "Paulo Roberto Blandino de Lima Dias",
+      "Fernando Rosado Spilki",
+      "Dong-Hun Lee",
+      "Helena Lage Ferreira"
+    ],
+    "date": "2026-Oct-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870740/",
+    "doi": "10.1080/03079457.2026.2718378",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "score": 0.5922,
+    "fetched_at": "2026-10-15"
   },
   {
     "id": "pubmed:42862853",
@@ -1935,6 +1995,26 @@
     "journal": "Microorganisms",
     "score": 0.5417,
     "fetched_at": "2026-09-27"
+  },
+  {
+    "id": "pubmed:42872825",
+    "source": "pubmed",
+    "title": "Variant escape site mapping and characterization of SARS-CoV-2 nucleocapsid rapid antigen test antibodies.",
+    "abstract": "Rapid antigen tests (RATs) were a critical tool for diagnosing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection during the height of the pandemic, but their performance depends on antibodies that remain robust to viral evolution. Since most commercial RATs target the viral nucleocapsid protein, mutations in this domain can compromise binding and test performance. To systematically define this risk, we used deep mutational scanning (DMS) to map escape mutations for 82 antibodies across 43 commercially available tests, generating the most comprehensive escape database of SARS-CoV-2 viral mutations to date. Most antibodies target conformational epitopes, with 47 (57%) mapping to the RNA-binding domain and 23 (28%) to the dimerization domain. Principal component analysis and clustering revealed escape phenotypes, including shared features outside of predicted epitopes. As the pandemic proceeded, we noted a change in industry preference from IgG to IgM-type antibodies, which was associated with changes to epitope sub-class prevalence. Analysis of paired capture-detection antibodies revealed a preference for targeting the same structural domain (20/33 or 61%), indicating a slight preference for test antibodies to hit orthogonal yet proximal sites. Together, the results establish a comprehensive resource for understanding how SARS-CoV-2 nucleocapsid protein mutations affect antibody binding and the phenotypes that underlie RAT antibody selection. This resource and approach can help prioritize antibodies for follow-up performance testing and support the design of more mutation-resilient diagnostics.IMPORTANCEIt is critical during a pandemic for diagnostic tests to be accurate and for the false negative rate to be kept low. The rapidly changing nature of SARS-CoV-2 exposed a weakness with using rapid antigen tests to diagnose infection, as mutations to the viral nucleocapsid protein can cause the virus to evade detection. In this work, we systematically tested the robustness of 82 antibodies from 43 separate commercially available tests by deliberately mutating the nucleocapsid protein and investigating which changes caused weakened binding to the test antibodies. In addition to determining which specific tests were at risk from certain mutations, we collated our datasets into a meta-analysis, allowing us to identify some best practices for designing robust tests. We, therefore, expect that this resource will support the design of more mutation-resilient diagnostics, whether for future variants of SARS-CoV-2 or in applying these principles to other respiratory viruses, such as influenza virus.",
+    "authors": [
+      "Alasdair D Keith",
+      "Meredith M Keen",
+      "Filipp Frank",
+      "Wilbur A Lam",
+      "Morgan Greenleaf",
+      "Eric A Ortlund"
+    ],
+    "date": "2026-Oct-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42872825/",
+    "doi": "10.1128/jvi.01001-26",
+    "journal": "Journal of virology",
+    "score": 0.5404,
+    "fetched_at": "2026-10-15"
   },
   {
     "id": "pubmed:42734805",
@@ -4456,66 +4536,5 @@
     "journal": "Viruses",
     "score": 0.4146,
     "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42854155",
-    "source": "pubmed",
-    "title": "Interplay between Evolutionary and Epidemic Timescales Challenges the Outcome of Control Policies.",
-    "abstract": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact of control policies. Viral evolution has been reported to challenge the physics of the SIR model, changing the nature of the epidemic transitions or the early-time dynamics of outbreaks. Here we consider a minimal extension of the SIR model, allowing infectiousness to evolve, to explore how the latter mechanism affects the two aforementioned indicators. We show that evolution induces a nonmonotonic behavior of the epidemic peak with the basic reproduction number and undermines the impact of control policies, as lifting interventions too early can lead to worse epidemic scenarios than no action. We derive analytical expressions for the critical mutation rate and intervention time governing this behavior and identify a strong asymmetry between control strategies: while shortening the infectious period hinders transmission without suppressing the evolution of viral infectiousness, lowering transmission both reduces cases and slows down this evolution.",
-    "authors": [
-      "Santiago Lamata-Otín",
-      "Alex Arenas",
-      "Jesús Gómez-Gardeñes",
-      "David Soriano-Paños"
-    ],
-    "date": "2026-Sep-25",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42854155/",
-    "doi": "10.1103/56yd-sfks",
-    "journal": "Physical review letters",
-    "score": 0.414,
-    "fetched_at": "2026-10-10"
-  },
-  {
-    "id": "pubmed:42584818",
-    "source": "pubmed",
-    "title": "Simplified Inhouse Nanoweb Membrane Enrichment Coupled Viral Whole Genome Shotgun Metagenomics Approach for Waste Water Surveillance.",
-    "abstract": "Wastewater/sewage represents a highly complex environmental matrix and harbors various viruses including viruses of epidemic and pandemic potential like Influenza A and, SARS-CoV-2. The limitations of available methods for sample concentration are cost, efficiency and time. NGS- metagenomics offer sample to virus genomic characterization for even non-cultivable viruses at highest resolution. In this study, we have collected samples from sewage treatment plants located in Gwalior region of Central India (December 2023 to March 2025). In this study a novel in house nanoweb membrane-based sample enrichment followed by magnetic bead based nucleic acid extraction was optimized in conjunction to shotgun whole genome metagenomics on Nanopore and ion torrent NGS. Both the methods were found comparable with commercially available methods by virus specific TaqMan qPCR. Both the methods were found successful in virus recovery at two log through 102GC/50 ml feline calicivirus, Influenza A virus, Zika virus, SARS-CoV-2 spiked in sewage matrix alone or in mixture), suggesting the optimized protocol found working for virus characterization at strain level. Here, we have standardized a simple field amenable waste water sample enrichment followed by nucleic acid extraction protocol, that can easily be integrated with latest onsite downstream molecular diagnostic platforms. The developed method is very simple, cost effective and field deployable. This will help to develop a suitable strategic plan for sewage surveillance towards early warning/microbial forensics and future decisions for prevention and therapeutic interventions.",
-    "authors": [
-      "Shashi Sharma",
-      "Pushpendra Kumar Sharma",
-      "Ekta Gupta",
-      "Paban Kumar Dash",
-      "Ambuj Srivastava"
-    ],
-    "date": "2026-Aug-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42584818/",
-    "doi": "10.1016/j.jhazmat.2022.128358",
-    "score": 0.411,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42576627",
-    "source": "pubmed",
-    "title": "Senecavirus a 3C protease cleaves RETREG1 to antagonize ER-phagy and promote viral replication via endoplasmic reticulum calcium signaling.",
-    "abstract": "Co-evolution between viruses and autophagy has led to the emergence of viral strategies that manipulate host endoplasmic reticulum (ER) homeostasis, ultimately promoting viral replication. ER turnover is achieved through selective autophagy, also referred to as ER-phagy, which is regulated by the RETREG1/FAM134B (reticulophagy regulator 1) family of reticulon proteins. Nevertheless, how viruses target RETREG1, a receptor for ER-phagy, remains largely unclear. In this study, we demonstrate that infection with Senecavirus A (SVA), an emerging picornavirus, triggers the cleavage of RETREG1, which functions as a negative regulator of viral replication. By screening viral proteins, we identified the SVA 3C protease (3C[pro]) as the executor of this cleavage event. Detailed mapping revealed that residues Q428, E430, and G431 of RETREG1 are involved in its cleavage by the 3C[pro], and the resulting two fragments fail to suppress viral replication. Furthermore, proteolytic cleavage of RETREG1 by 3C[pro] impairs its ability to relieve ER stress and mediate ITPR1 degradation via RETREG1-dependent ER-phagy. This disruption leads to increased ER calcium (Ca2+) release and subsequent activation of autophagy through the CAMKK2-PRKAA2-MTOR axis, which ultimately facilitates SVA replication. Taken together, these findings indicate that SVA antagonizes the antiviral function of RETREG1-mediated ER-phagy via its 3C[pro], highlighting RETREG1 as a potential therapeutic target for combating SVA infection.Abbreviations: 2-APB: 2-aminoethyl diphenylborinate; PRKAA2/AMPK: protein kinase AMP-activated catalytic subunit alpha 2; ATL3: atlastin GTPase 3; BHK-21: baby hamster kidney-21; CAMKK2: calcium/calmodulin dependent proteinkinase kinase2; CCPG1: cell cycle progression 1; CKAP4/CLIMP63: cytoskeleton associated protein 4; co-IP: co-immunoprecipitation; CQ: chloroquine; DAPI: 4',6-diamidino-2-phenylindole; DM: double mutant; EIF2AK3/PERK: eukaryotic translation initiation factor 2 alpha kinase 3; eGFP: enhanced green fluorescent protein; ER: endoplasmic reticulum; GFP: green fluorescent protein; HSPA5/GRP78/BiP: heat shock protein family A (Hsp70) member 5; HA: hemagglutinin; HDAC4: histone deacetylase 4; HEK-293T: human embryonic kidney 293T; hpi: hours post-infection; IFA: indirect immunofluorescence assay; ITPR1/IP3R1: inositol 1,4,5-trisphosphate receptor type 1; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; LIR: LC3-interacting region; mCherry: monomeric cherry; MTOR: mechanistic target of rapamycin kinase; REEP5: receptor accessory protein 5; RETREG1/FAM134B: reticulophagy regulator 1; RTN3: reticulon 3; SD: standard deviation; SEC61B: SEC61 translocon subunit beta; SEC62: SEC62 preprotein translocation factor; SERP1/RAMP4: stress associated endoplasmic reticulum protein 1; siRNA: small interfering RNA; SQSTM1/p62: sequestosome 1; ST: swine testis; SVA: Senecavirus A; TEM: transmission electron microscopy; TEX264: testis expressed 264, ER-phagy receptor; Tm: tunicamycin; U2OS: human osteosarcoma epithelial cells; UV: ultraviolet; ZVAD-FMK: benzyloxycarbonyl-Val-Ala-Asp(OMe)-fluoromethylketone; μg: microgram; μm: micrometer; μM: micromole.",
-    "authors": [
-      "Jingyu Mao",
-      "Ju Yu",
-      "Penghui Zeng",
-      "Xiaoyu Yang",
-      "Yongyan Shi",
-      "Yunjie Qu",
-      "Jianwei Zhou",
-      "Dedong Wang",
-      "Jiangwei Song",
-      "Yong Wang",
-      "Jue Liu",
-      "Lei Hou"
-    ],
-    "date": "2026-Aug-11",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576627/",
-    "doi": "10.1080/15548627.2026.2714544",
-    "score": 0.4079,
-    "fetched_at": "2026-08-13"
   }
 ]
