@@ -884,6 +884,31 @@
     "fetched_at": "2026-10-13"
   },
   {
+    "id": "pubmed:42878130",
+    "source": "pubmed",
+    "title": "First Phylodynamic Analysis of HRSV-A and HRSV-B in Rio de Janeiro, Brazil, Reveals Recurrent Dispersals From the Megalopolis Center to Suburban Cities.",
+    "abstract": "Human respiratory syncytial virus (HRSV) is the leading cause of acute lower respiratory tract infections in infants and represents a major burden to public health systems worldwide. Despite its epidemiological relevance, genomic surveillance of HRSV in Brazil remains limited. Here, we investigated the genetic diversity and dispersal dynamics of HRSV-A and HRSV-B in the state of Rio de Janeiro, Brazil, during the period immediately preceding the implementation of maternal vaccination and prophylactic monoclonal antibodies. A total of 136 near-complete HRSV genomes were recovered from respiratory samples collected between May 2024 and June 2025 using metagenomic sequencing. Phylogenetic analyses identified 11 HRSV-A and five HRSV-B lineages, with most sequences belonging to the A.D.3 and B.D.E.1 clades. Phylodynamic reconstructions revealed multiple independent introductions into the state, with the city of Rio de Janeiro acting as the primary within-state dispersal hub. Viral dispersal routes originating from the capital also showed greater mean transmission distances than those from other municipalities. Coinfections with additional respiratory viruses were frequently detected, and most HRSV-positive patients were children under 1 year of age. These results demonstrate that HRSV circulation in Rio de Janeiro is shaped by repeated introductions and strong spatial structuring centered around highly connected urban areas. Our findings underscore the importance of continuous genomic surveillance to monitor viral evolution, characterize transmission dynamics, and support science-based public health strategies against HRSV. Establishing robust monitoring systems will be critical to evaluate the impact of newly implemented immunization programs in Brazil.",
+    "authors": [
+      "Alessandra Pavan Lamarca",
+      "Melise Chaves Silveira",
+      "Renata Campos Azevedo",
+      "Maria Angélica Arpon Marandino Guimarães",
+      "Claudia Maria Braga de Mello",
+      "Adriana Cardoso Camargo",
+      "Leandro Magalhães de Souza",
+      "Alexandra Lehmkuhl Gerber",
+      "Ana Paula C Guimarães",
+      "Andréa Cony Cavalcanti",
+      "Ana Tereza Ribeiro Vasconcelos"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878130/",
+    "doi": "10.1002/jmv.71177",
+    "journal": "Journal of medical virology",
+    "score": 0.625,
+    "fetched_at": "2026-10-16"
+  },
+  {
     "id": "pubmed:42782136",
     "source": "pubmed",
     "title": "Genomic characteristics of the first five monkeypox virus clade Ib cases in Thailand: August 2024-March 2025.",
@@ -1094,6 +1119,34 @@
     "journal": "Journal of veterinary science",
     "score": 0.597,
     "fetched_at": "2026-10-09"
+  },
+  {
+    "id": "pubmed:42876840",
+    "source": "pubmed",
+    "title": "Global evolutionary dynamics of peste des petits ruminants virus reveals geographic lineage structuring and clade-defining mutational signatures.",
+    "abstract": "Peste des petits ruminants virus (PPRV) is recognized as one of the most economically significant transboundary pathogens affecting small ruminants. However, despite the increasing availability of whole-genome sequences, comprehensive global analyses integrating evolutionary history, phylogeography, and genome-wide lineage-defining molecular markers remain limited. This study investigated the global genomic diversity, evolutionary history, and molecular characteristics of PPRV using whole-genome sequences. A total of 212 temporally informative whole-genome sequences, retrieved from GenBank (between 1969 and 2025) representing all four recognized PPRV lineages, were analyzed using comparative genomics, Bayesian time-scaled phylogenetic reconstruction, and genome-wide candidate phylogenetic marker; single nucleotide polymorphism (SNP) analysis and codon-based selective-pressure analyses. The results demonstrated high genomic conservation across all genomes despite their broad geographic distribution. Bayesian analysis estimated a mean evolutionary rate of 5.07 × 10-4 substitutions per site per year (95% HPD: 4.79 × 10-4 to 5.35 × 10-4) and dated the most recent common ancestor of PPRV to 1839 (95% HPD: 1829 to 1848) which likely reflects the ancestry of currently sampled viral diversity rather than the historical emergence of PPRV. Lineage IV, the predominant contemporary lineage, was further subdivided into four geographically structured subclades: A, B.1, B.2a, and B.2b. A total of 125 subclade-associated fixed SNP signatures were identified, primarily within the L gene, with most variants resulting in nonsynonymous substitutions. The overlapping P, V, and C coding regions underscored the complex functional consequences of lineage-defining mutations. Gene-wide dN/dS values were below 1 for all six genes, indicating predominant purifying selection, while functional mapping identified several SNP related amino acid substitutions within experimentally characterized antigenic regions; however, these substitutions were not supported as positively selected in the present analyses. These results provide a comprehensive genomic framework for understanding PPRV evolution and identify candidate phylogenetic markers for lineage discrimination to support genomic surveillance, molecular epidemiology, and the Food and Agriculture Organization (FAO)-World Organisation for Animal Health (WOAH) Global PPR Eradication Programme.",
+    "authors": [
+      "Sarowar Haque",
+      "Md Mahfuj Islam",
+      "Anupam Das",
+      "Safayet Hossain Piyel",
+      "Tanvir Ahmed",
+      "Roni Mia",
+      "Sharmin Akter",
+      "Tofazzal Islam",
+      "Md M N Azim",
+      "Salima Akter",
+      "Mohammad Yaseen Ahmad",
+      "Amama Rani",
+      "Bonglee Kim",
+      "Md Golzar Hossain"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876840/",
+    "doi": "10.3390/v13010059",
+    "journal": "Frontiers in microbiology",
+    "score": 0.5968,
+    "fetched_at": "2026-10-16"
   },
   {
     "id": "pubmed:42628301",
@@ -4490,51 +4543,5 @@
     "journal": "Microbiology spectrum",
     "score": 0.4185,
     "fetched_at": "2026-10-03"
-  },
-  {
-    "id": "pubmed:42710887",
-    "source": "pubmed",
-    "title": "Untangling the effects of within-host and between-host natural selection in viruses with applications to evolution of HIV-1 co-receptor usage.",
-    "abstract": "The fitness of a pathogen can be characterized at multiple levels corresponding to different life cycle stages. Typically, epidemiological studies for measuring pathogen fitness compute a single selection coefficient for pathogen variants that encompasses the entire lifecycle. However, evolution towards greater fitness within hosts can potentially compromise transmissibility. To address this, we develop a population-genetic model and software for the inference of multi-level selection coefficients. Our approach builds on population-genetic models previously applied to macro-evolution, whereby speciation and extinction rates are state-dependent. We relate this state dependence to within- and between-host selection. Evolution of beneficial phenotypes within hosts may occur rapidly (higher 'speciation'), but reduce rates of dispersal between hosts (higher 'extinction'). This new coalescent-based method improves on existing multi-state speciation and extinction models by accounting for highly nonlinear population dynamics and variable sampling through time, making it suitable for epidemiology. We characterize the accuracy of this method using birth-death and coalescent simulations before analysing a real dataset of HIV-1 genetic sequences. We quantified the multi-level relative fitness underlying HIV-1 'co-receptor switching'. In accordance with previous observations, we estimate that the relative transmissibility of X4-tropic virus is 9%, while within-host switching to X4-tropism is approximately 7-fold higher than switching to R5-tropism, indicating a strong within-host and between-host trade-off of co-receptor usage.",
-    "authors": [
-      "Kieran O Drake",
-      "Vinicius Bonetti Franceschi",
-      "Fabrícia F Nascimento",
-      "Erik Volz"
-    ],
-    "date": "2026-Sep-09",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710887/",
-    "doi": "10.1098/rsif.2025.1012",
-    "journal": "Journal of the Royal Society, Interface",
-    "score": 0.416,
-    "fetched_at": "2026-09-09"
-  },
-  {
-    "id": "pubmed:42655674",
-    "source": "pubmed",
-    "title": "Cross-Border Circulation and Molecular Surveillance of HIV-1 in the Azov and Donbas Regions: A Study of Genetic Diversity and Drug Resistance.",
-    "abstract": "As critical geopolitical and migratory hubs in Eastern Europe, the Azov and Donbas regions represent an epidemiological melting pot for HIV-1 trafficking, exacerbating the global trend of rising dolutegravir (DTG) resistance through the cross-border dissemination of drug-resistant strains. This study presents a comprehensive molecular epidemiological analysis of HIV-1 in these regions in 2025 (N = 1666), focusing on drug resistance and cross-border transmission networks using phylogenetic and molecular network approaches. The study cohort was predominantly female (53.33%) and had heterosexual transmission (78.77%). Most patients (87.64%) received antiretroviral therapy (ART). Sub-subtype A6 predominated, with the radiation's origin traced to September 1994. Molecular network analysis identified the study area as a significant node, demonstrating viral exports towards the Russian Federation and Belarus, alongside multiple imports from Ukraine, Poland, and Russia. The overall resistance prevalence was 4.49% to integrase strand transfer inhibitors (INSTIs), 2.49% to protease inhibitors (PIs), 12.19% to nucleoside reverse transcriptase inhibitors (NRTIs), and 16.07% to non-nucleoside reverse transcriptase inhibitors (NNRTIs). Surveillance drug resistance mutations in treatment-naive individuals stood at 0.89% (INSTIs), 4.90% (PIs), 4.90% (NRTIs), and 8.82% (NNRTIs). Crucially, intermediate or high-level DTG resistance and key mutations (G118R, R263K, and Y143R) were detected in individuals without prior DTG exposure. This 4.49% integrase inhibitor resistance cannot be considered low; combined with intense cross-border viral dissemination, it may indicate the formation of a stable pool of resistant variants, potentially posing a risk of dolutegravir-based regimen failure and highlighting the need for enhanced regional molecular surveillance.",
-    "authors": [
-      "Anastasiia Antonova",
-      "Anatolii Vinokurov",
-      "Daria Kustova",
-      "Andrei Pochtovyi",
-      "Daria Ogarkova",
-      "Ruslan Adgamov",
-      "Anna Kuznetsova",
-      "Elena Tsyganova",
-      "Inna Kulikova",
-      "Andrei Plutnitskii",
-      "Vladimir Gushchin",
-      "Aleksandr Gintsburg",
-      "Denis Logunov",
-      "Aleksei Mazus"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655674/",
-    "doi": "10.3390/v18080856",
-    "journal": "Viruses",
-    "score": 0.4146,
-    "fetched_at": "2026-08-28"
   }
 ]

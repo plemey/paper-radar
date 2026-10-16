@@ -1,0 +1,97 @@
+[
+  {
+    "id": "pubmed:42878130",
+    "source": "pubmed",
+    "title": "First Phylodynamic Analysis of HRSV-A and HRSV-B in Rio de Janeiro, Brazil, Reveals Recurrent Dispersals From the Megalopolis Center to Suburban Cities.",
+    "abstract": "Human respiratory syncytial virus (HRSV) is the leading cause of acute lower respiratory tract infections in infants and represents a major burden to public health systems worldwide. Despite its epidemiological relevance, genomic surveillance of HRSV in Brazil remains limited. Here, we investigated the genetic diversity and dispersal dynamics of HRSV-A and HRSV-B in the state of Rio de Janeiro, Brazil, during the period immediately preceding the implementation of maternal vaccination and prophylactic monoclonal antibodies. A total of 136 near-complete HRSV genomes were recovered from respiratory samples collected between May 2024 and June 2025 using metagenomic sequencing. Phylogenetic analyses identified 11 HRSV-A and five HRSV-B lineages, with most sequences belonging to the A.D.3 and B.D.E.1 clades. Phylodynamic reconstructions revealed multiple independent introductions into the state, with the city of Rio de Janeiro acting as the primary within-state dispersal hub. Viral dispersal routes originating from the capital also showed greater mean transmission distances than those from other municipalities. Coinfections with additional respiratory viruses were frequently detected, and most HRSV-positive patients were children under 1 year of age. These results demonstrate that HRSV circulation in Rio de Janeiro is shaped by repeated introductions and strong spatial structuring centered around highly connected urban areas. Our findings underscore the importance of continuous genomic surveillance to monitor viral evolution, characterize transmission dynamics, and support science-based public health strategies against HRSV. Establishing robust monitoring systems will be critical to evaluate the impact of newly implemented immunization programs in Brazil.",
+    "authors": [
+      "Alessandra Pavan Lamarca",
+      "Melise Chaves Silveira",
+      "Renata Campos Azevedo",
+      "Maria Angélica Arpon Marandino Guimarães",
+      "Claudia Maria Braga de Mello",
+      "Adriana Cardoso Camargo",
+      "Leandro Magalhães de Souza",
+      "Alexandra Lehmkuhl Gerber",
+      "Ana Paula C Guimarães",
+      "Andréa Cony Cavalcanti",
+      "Ana Tereza Ribeiro Vasconcelos"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878130/",
+    "doi": "10.1002/jmv.71177",
+    "journal": "Journal of medical virology",
+    "score": 0.625,
+    "fetched_at": "2026-10-16"
+  },
+  {
+    "id": "pubmed:42877844",
+    "source": "pubmed",
+    "title": "Genomic Epidemiology and Antimicrobial Resistance Analyses of",
+    "abstract": "Klebsiella pneumoniae carbapenemase (KPC)-producing carbapenem-resistant Pseudomonas aeruginosa is a global health burden due to its multidrug resistance. However, the resistance characteristics, molecular epidemiology, and dissemination mechanisms of bla KPC-2-producing carbapenem-resistant P. aeruginosa in China remain limited. A total of 23 bla KPC-2-producing carbapenem-resistant P. aeruginosa isolates were collected in a hospital in Jiaxing, Zhejiang, from February 2021 to January 2025. Antimicrobial susceptibility testing and whole-genome sequencing were performed. Multilocus sequence typing, antimicrobial resistance genes, and virulence factors were identified. Phylogenetic analyses were performed, and genetic context analyses were conducted. Six sequence types (STs) were identified among 23 isolates, with ST463 accounting for 56.5%. All isolates exhibited multidrug-resistant phenotypes and were identified as carbapenem-resistant Pseudomonas aeruginosa. 17.4% of isolates showed resistance to ceftazidime/avibactam (CZA). All ST463 isolates co-harbored exoS and exoU. The core-genome MLST analysis identified two clusters within ST463 isolates, and the core-genome single-nucleotide polymorphism analysis revealed close genomic relatedness among ST4424 and ST4526 isolates. The bla KPC-2 genetic context was mainly associated with an ISKpn27-bla KPC-ISKpn6-like structure and IncU-related sequences. ST463 was identified as the predominance lineage among bla KPC-2-producing carbapenem-resistant P. aeruginosa in this study, and multidrug resistance genes and multiple virulence factor genes in the ST463 were demonstrated. Genomic analyses identified closely related isolates consistent with potential nosocomial transmission in the hospital. These findings highlighted the importance of continuous genomic surveillance, susceptibility monitoring, and strengthened infection control strategies for limiting the persistence and potential nosocomial spread of high-risk bla KPC-2-producing carbapenem-resistant P. aeruginosa.",
+    "authors": [
+      "Siwen Bao",
+      "Li Zhu",
+      "Xiaoqin Niu",
+      "Junhua Tian",
+      "Minjie Mao",
+      "Weifeng Shen",
+      "Qinlong Yu",
+      "Wei Wang"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42877844/",
+    "doi": "10.2147/IDR.S639126",
+    "journal": "Infection and drug resistance",
+    "score": 0.3314,
+    "fetched_at": "2026-10-16"
+  },
+  {
+    "id": "pubmed:42876840",
+    "source": "pubmed",
+    "title": "Global evolutionary dynamics of peste des petits ruminants virus reveals geographic lineage structuring and clade-defining mutational signatures.",
+    "abstract": "Peste des petits ruminants virus (PPRV) is recognized as one of the most economically significant transboundary pathogens affecting small ruminants. However, despite the increasing availability of whole-genome sequences, comprehensive global analyses integrating evolutionary history, phylogeography, and genome-wide lineage-defining molecular markers remain limited. This study investigated the global genomic diversity, evolutionary history, and molecular characteristics of PPRV using whole-genome sequences. A total of 212 temporally informative whole-genome sequences, retrieved from GenBank (between 1969 and 2025) representing all four recognized PPRV lineages, were analyzed using comparative genomics, Bayesian time-scaled phylogenetic reconstruction, and genome-wide candidate phylogenetic marker; single nucleotide polymorphism (SNP) analysis and codon-based selective-pressure analyses. The results demonstrated high genomic conservation across all genomes despite their broad geographic distribution. Bayesian analysis estimated a mean evolutionary rate of 5.07 × 10-4 substitutions per site per year (95% HPD: 4.79 × 10-4 to 5.35 × 10-4) and dated the most recent common ancestor of PPRV to 1839 (95% HPD: 1829 to 1848) which likely reflects the ancestry of currently sampled viral diversity rather than the historical emergence of PPRV. Lineage IV, the predominant contemporary lineage, was further subdivided into four geographically structured subclades: A, B.1, B.2a, and B.2b. A total of 125 subclade-associated fixed SNP signatures were identified, primarily within the L gene, with most variants resulting in nonsynonymous substitutions. The overlapping P, V, and C coding regions underscored the complex functional consequences of lineage-defining mutations. Gene-wide dN/dS values were below 1 for all six genes, indicating predominant purifying selection, while functional mapping identified several SNP related amino acid substitutions within experimentally characterized antigenic regions; however, these substitutions were not supported as positively selected in the present analyses. These results provide a comprehensive genomic framework for understanding PPRV evolution and identify candidate phylogenetic markers for lineage discrimination to support genomic surveillance, molecular epidemiology, and the Food and Agriculture Organization (FAO)-World Organisation for Animal Health (WOAH) Global PPR Eradication Programme.",
+    "authors": [
+      "Sarowar Haque",
+      "Md Mahfuj Islam",
+      "Anupam Das",
+      "Safayet Hossain Piyel",
+      "Tanvir Ahmed",
+      "Roni Mia",
+      "Sharmin Akter",
+      "Tofazzal Islam",
+      "Md M N Azim",
+      "Salima Akter",
+      "Mohammad Yaseen Ahmad",
+      "Amama Rani",
+      "Bonglee Kim",
+      "Md Golzar Hossain"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876840/",
+    "doi": "10.3390/v13010059",
+    "journal": "Frontiers in microbiology",
+    "score": 0.5968,
+    "fetched_at": "2026-10-16"
+  },
+  {
+    "id": "pubmed:42874687",
+    "source": "pubmed",
+    "title": "RNA-Dependent RNA Polymerase (RdRp): Structure, Function, and Antiviral Targeting in RNA Viruses.",
+    "abstract": "RNA-dependent RNA polymerase (RdRp) is the core catalytic enzyme that mediates RNA viral replication and transcription. The polymerase facilitates template and substrate channel assembly, nucleotide selectivity, and phosphodiester bond formation, making it an essential component of the viral life cycle. RdRps differ greatly in domain organization and replication initiation mechanisms across viruses, but their catalytic cores are highly conserved. The intrinsic low-fidelity replication of RdRp accelerates viral evolution, while some viruses fine-tune replication fidelity by proofreading exonucleases or accessory proteins that balance genome stability and adaptive variation. Given its conserved structure and non-redundant function, RdRp is a key target for broad-spectrum antiviral development, and numerous nucleoside (NIs) and non-nucleoside inhibitors (NNIs) are currently undergoing clinical or preclinical evaluation. However, three major obstacles limit inhibitor development: mutation-induced drug resistance, structural RdRp heterogeneity across viral species, and unfavorable pharmacokinetic properties. This review summarizes the structural basis and catalytic mechanisms of RdRp, discusses its functions during viral replication, genetic variation and virus-host interactions, and updates NI/NNI design, mechanisms, and development. We also dissect drug resistance mechanisms and inhibitor optimization strategies using advanced high-resolution structural and functional analyses. Overall, we provide insights for the rational development of broad-spectrum, potent antiviral agents with a low risk of RdRp resistance.",
+    "authors": [
+      "Wei Liu",
+      "Yiyi Feng",
+      "Fanxin Liu",
+      "Chan Ding",
+      "Xusheng Qiu",
+      "Jun Dai"
+    ],
+    "date": "2026-Oct-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874687/",
+    "doi": "10.1016/j.antiviral.2026.106544",
+    "journal": "Antiviral research",
+    "score": 0.3056,
+    "fetched_at": "2026-10-16"
+  }
+]
