@@ -3088,6 +3088,42 @@
     "fetched_at": "2026-10-09"
   },
   {
+    "id": "pubmed:42888037",
+    "source": "pubmed",
+    "title": "RSV Molecular Epidemiology Pre- and Post-COVID-19 Pandemic Periods in Seattle, Washington, USA.",
+    "abstract": "Globally, RSV declined to historically low levels following stay-at-home orders in 2020 and re-emerged as restrictions lifted, with large inter-seasonal outbreaks and other shifts in epidemiology. The effect of the pandemic restrictions on genomic diversity has not been well studied. Individuals with respiratory symptoms were enrolled into community-based surveillance studies and provided nasal swabs over three respiratory virus seasons from 2019 to 2022 in the Seattle metropolitan area in Washington State, USA. Samples were tested for RSV by RT-qPCR, with whole genome sequencing performed for a subset. Among children and adults, respectively, 1.8% (232/13,014) and 0.2% (86/46,042) of samples tested positive for RSV-A and 1.1% (139/13016) and 0.3% (119/46043) for RSV-B. Positive cases were observed in childcare (n = 39), clinic (n = 270), university (n = 20), workplace (n = 32) or nursing facility (n = 1) sites and through at-home self-administered testing (n = 253). Median age for all participants was 33 years (IQR: 23, 48) and 3 years (IQR: 3, 33) for those who tested positive. Cough (≥ 85%) and rhinorrhea (≥ 85%) were the most common symptoms for RSV cases. During 2019-2020, six RSV-A and three RSV-B lineages circulated (majority lineages A.D.1 and B.D.4.1.1). Almost no RSV was detected during 2020-2021. During 2021-2022, RSV-B lineage B.D.E.1 was dominant. In a community surveillance study spanning several years, RSV was commonly detected in young children across several sites. Circulation of RSV was disrupted by pandemic mitigation measures, with shifts in genomic diversity detected after lifting of pandemic restrictions.",
+    "authors": [
+      "Pavitra Roychoudhury",
+      "Julia C Bennett",
+      "Anna Elias-Warren",
+      "Erica Wetzler",
+      "Lea M Starita",
+      "Jeremy Stone",
+      "Ben Capodanno",
+      "Robin Prentice",
+      "Peter D Han",
+      "Sally B Grindstaff",
+      "David Reinhart",
+      "Jennifer K Logue",
+      "Caitlin R Wolf",
+      "Michael Boeckh",
+      "Christina M Lockwood",
+      "Amanda C Perofsky",
+      "Cécile Viboud",
+      "Jay Shendure",
+      "Trevor Bedford",
+      "Marco Carone",
+      "Janet A Englund",
+      "Helen Y Chu"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888037/",
+    "doi": "10.1111/irv.70332",
+    "journal": "Influenza and other respiratory viruses",
+    "score": 0.4942,
+    "fetched_at": "2026-10-17"
+  },
+  {
     "id": "pubmed:42551114",
     "source": "pubmed",
     "title": "Decoding dengue virus dynamics in central Karnataka through molecular epidemiology, Phylogenetics, and PCA-based analysis.",
@@ -4513,25 +4549,5 @@
     "journal": "Acta tropica",
     "score": 0.4229,
     "fetched_at": "2026-10-10"
-  },
-  {
-    "id": "pubmed:42575225",
-    "source": "pubmed",
-    "title": "Pathological insights of Porcine circovirus 2 infection in domestic pigs and molecular characterization of field virus.",
-    "abstract": "Porcine circovirus type 2 (PCV2) poses a major threat to global pig industry by causing growth retardation, immunosuppression, co-infections and mortality. PCV2 has high mutation rate and it causes several clinical manifestations and diverse pathological lesions. Therefore, routine disease surveillance is necessary to understand epidemiology, genetic variations and pathology. The study was conducted to investigate occurrence, pathology and genetic diversity of PCV2 circulating among pigs at Bareilly district, Uttar Pradesh, India. Tissue samples (n=130) from pigs were screened using PCR during 2023-2024. Pathological studies were carried out alongwith mutational and structural annotations of ORF2 gene of circulating PCV2. Total 36.15% samples found positive (47/130) for PCV2, with 14.89% showing co-infections with Streptococcus suis and Haemophilus parasuis. There were interstitial and bronchointerstitial pneumonia with inclusion bodies and lymphoid depletion in lymph nodes. PCV2 antigens were detected by IHC in alveolar macrophages, lymphoid follicles of bronchial lymph nodes and tonsils. Apoptotic lymphocytes were demonstrated by TUNEL assay. Two PCV2 isolates were sequenced and compared with an American strain. Phylogenetic analysis of ORF2 gene, revealed that the circulating virus belongs to PCV 2d genotype. Three amino acid substitutions were identified (Y8F, A59T/K, F154Y). Structural modeling based on the bat circovirus capsid protein (PDB ID: 6RPO) showed that these mutations may have altered local polarity but did not alter linear epitope landscape. Study has revealed high occurrence of PCV2 infections in nursing piglets in study area causing diverse pathological lesions and the circulating virus belonged to PCV2d genotype with three amino acid substitutions.",
-    "authors": [
-      "Thesni M Thomas",
-      "Chandrakanta Jana",
-      "Deepti Singh",
-      "Mukesh Kumar",
-      "M Karikalan",
-      "G Saikumar",
-      "R V S Pawaiya"
-    ],
-    "date": "2026-Aug-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575225/",
-    "doi": "10.1016/j.micpath.2026.108755",
-    "score": 0.4228,
-    "fetched_at": "2026-08-13"
   }
 ]
