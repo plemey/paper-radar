@@ -603,6 +603,27 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42883046",
+    "source": "pubmed",
+    "title": "Pangolin-Associated Viruses: Diversity, Evolutionary Adaptation, and Zoonotic Spillover Risks.",
+    "abstract": "Pangolin-associated viruses have received considerable attention because of their diversity and potential zoonotic relevance, yet the evidence remains fragmented. This review evaluates the diversity, evolutionary adaptation, and zoonotic spillover risks of pangolin-associated viruses. Diverse RNA and DNA viruses, such as coronaviruses, paramyxoviruses, astroviruses, parvoviruses, and papillomaviruses, have been detected in pangolins, showing substantial taxonomic and genomic variation. Studies of selected pangolin-associated viral groups have documented sequence variation and identified signals of recombination or reassortment. Some pangolin coronaviruses can use human receptors and replicate in human-derived cells, organoids, or transgenic animal models. Several viruses known to infect humans have also been detected in pangolin samples, although conclusive evidence of natural spillover from pangolins to humans is lacking. Most studies examine Sunda and Chinese pangolins from illegal trade or rescue centers, relying largely on nucleic acid detection and sequence analysis. Habitat disruption, wildlife trafficking, long-distance transport and captive-rescue operations may increase cross-host-pathogen exposure. Future work should prioritize surveillance of wild pangolin populations of known provenance and integrate virus isolation, tissue localization, serology, and functional assays to support pangolin conservation and reliable zoonotic-risk evaluation.",
+    "authors": [
+      "Cheng Yu",
+      "Yaoming Wu",
+      "Xiaoya Huang",
+      "Fanghui Mao",
+      "Xuelin Wang",
+      "Rongquan Zheng",
+      "Xiaoyong Chen"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883046/",
+    "doi": "10.3390/ani16193077",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.6598,
+    "fetched_at": "2026-10-17"
+  },
+  {
     "id": "pubmed:42693188",
     "source": "pubmed",
     "title": "Global transmission pathways and adaptive molecular evolution of avian infectious bronchitis GI-23 (Variant 2).",
@@ -709,6 +730,24 @@
     "journal": "Infectious medicine",
     "score": 0.6401,
     "fetched_at": "2026-09-06"
+  },
+  {
+    "id": "pubmed:42880507",
+    "source": "pubmed",
+    "title": "Zoonotic Viral Spillover: From Reservoir Ecology and Viral Evolution to Pandemic Prevention.",
+    "abstract": "Zoonotic viral spillover represents a major global health challenge arising from complex interactions among viral evolution, reservoir ecology, host biology, environmental disruption, and human activities. Successful emergence requires viruses to overcome successive ecological, cellular, and immunological barriers, including receptor compatibility, cellular tropism, replication efficiency, and innate immune restriction. Reservoir hosts such as bats, rodents, birds, and livestock contribute to viral maintenance and diversification through distinct ecological and physiological characteristics, while deforestation, agricultural expansion, wildlife trade, intensive farming, urbanization, and climate variability can increase opportunities for cross-species transmission. Following spillover, viral adaptation and host susceptibility determine whether infections remain sporadic or progress to sustained human transmission. This review integrates ecological, molecular, immunological, and anthropogenic determinants of zoonotic emergence and examines major historical spillover events involving coronaviruses, influenza viruses, filoviruses, henipaviruses, and arboviruses. We further evaluate genomic and metagenomic surveillance, wastewater monitoring, artificial intelligence, ecological modeling, and integrated One Health approaches for early risk assessment and pandemic preparedness. Major knowledge gaps include limited characterization of global viral diversity, surveillance bias, inadequate functional validation of newly identified viruses, fragmented data systems, and limited predictive capacity. Future prevention requires integration of technological innovation with ecological conservation, equitable surveillance capacity, responsible biotechnology governance, and sustainable One Health Planetary Health strategies.",
+    "authors": [
+      "Maryam Mashhadi Abolghasem Shirazi",
+      "Ochilova Dilorom",
+      "Shamuratova Gulnora Baxtiyorovna",
+      "Aseel Smerat"
+    ],
+    "date": "2026-Oct-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880507/",
+    "doi": "10.1016/j.virusres.2026.199818",
+    "journal": "Virus research",
+    "score": 0.64,
+    "fetched_at": "2026-10-17"
   },
   {
     "id": "pubmed:42682318",
@@ -1715,6 +1754,33 @@
     "fetched_at": "2026-09-25"
   },
   {
+    "id": "pubmed:42883035",
+    "source": "pubmed",
+    "title": "Emerging and Novel Ovine Viruses: Molecular Diagnostics, Genomic and Metagenomic Surveillance, and One Health Perspectives.",
+    "abstract": "Emerging and novel ovine viruses pose increasing threats to animal health, livestock productivity, trade, food security, and public health preparedness. Their emergence is driven by complex interactions among animal movement, mixed-species production systems, wildlife-livestock interfaces, arthropod vectors, environmental changes, and viral evolution. This review critically compares current strategies for identifying major, emerging, re-emerging, zoonotic, and newly recognized ovine viruses, with emphasis on their analytical sensitivity, turnaround time, throughput, operational cost, accessibility, field applicability, validation status, and capacity for novel-virus detection. Conventional diagnostic approaches, including virus isolation, serology, antigen detection, histopathology, and immunohistochemistry, remain essential for confirmation and flock-level surveillance but may be limited by slow turnaround, dependence on specialized facilities, reduced sensitivity at low viral loads, and an inability to identify highly divergent or unknown viruses. Targeted molecular assays, including PCR, RT-PCR, qPCR, multiplex assays, digital PCR, isothermal amplification, and CRISPR-based diagnostics, have improved detection speed and sensitivity but generally require prior knowledge of viral genomic targets. Genomic and metagenomic approaches, including whole-genome sequencing, next-generation sequencing, nanopore sequencing, viral metagenomics, bioinformatics, and phylogenetic analysis, provide broader detection capabilities by enabling characterization of viral diversity, outbreak tracing, co-infection identification, and discovery of previously unrecognized viruses. However, their interpretation remains challenging due to low viral abundance, poor sample quality, host nucleic acid background, contamination, incomplete reference databases, limited computational capacity, and the inability of sequence detection alone to confirm disease causality. Therefore, future ovine virus surveillance requires integration of molecular diagnostics with active, passive, outbreak-based, risk-based, vector, wildlife, and animal-movement surveillance within a One Health framework. Linking genomic information with ecological, epidemiological, and environmental data will be essential for transforming ovine virus surveillance from reactive diagnosis toward proactive preparedness. Advances in standardized sampling, validated field diagnostics, affordable sequencing, curated databases, bioinformatics capacity, and cross-sector data sharing will strengthen early recognition, risk assessment, and preparedness against emerging viral threats in sheep.",
+    "authors": [
+      "Gul Muhammad Shahbaz",
+      "Zeeshan Ashraf",
+      "Shuxin Chen",
+      "Chaofan Wang",
+      "Chenglong He",
+      "Huiping Sun",
+      "Lexiao Zhu",
+      "Lei Liu",
+      "Mingcheng Wang",
+      "Linglong Wu",
+      "Ruohuai Gu",
+      "Wei Li",
+      "Feng Xing"
+    ],
+    "date": "2026-Sep-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883035/",
+    "doi": "10.3390/ani16193066",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.5628,
+    "fetched_at": "2026-10-17"
+  },
+  {
     "id": "pubmed:42551977",
     "source": "pubmed",
     "title": "Whole-genome characterization and phylogenetic analysis of Equine Rotavirus A isolated from Jeju Island, Korea.",
@@ -2197,6 +2263,21 @@
     "journal": "Veterinary world",
     "score": 0.534,
     "fetched_at": "2026-08-24"
+  },
+  {
+    "id": "pubmed:42879065",
+    "source": "pubmed",
+    "title": "Scaling of SARS-CoV-2 Genomic Divergence with Cumulative COVID-19 Infections.",
+    "abstract": "The rate at which viral lineages accumulate genetic divergence is central to understanding pathogen evolution, yet direct empirical measurements are limited. The COVID-19 pandemic, through the combination of pandemic-scale replication and dense genomic surveillance, offers an opportunity to calibrate this relationship directly. Unlike previous analyses that use time as the independent variable, this study uses cumulative infections, providing an epidemiological clock calibrated in units of replication opportunity that is not confounded by variation in transmission intensity. A total of 1279 SARS-CoV-2 genomes from the Nextstrain open dataset, sampled between February 2020 and February 2023, were paired with contemporaneous estimates of cumulative global infections from the Institute for Health Metrics and Evaluation (IHME) to model genomic divergence from Wuhan-Hu-1 as a function of cumulative infections. Divergence increased sublinearly across roughly 14 billion infections over three years, with the most diverged circulating genomes accumulating only about 120 substitutions relative to Wuhan-Hu-1. Extrapolating the fitted relationships, generating the roughly 1000 substitutions that separate SARS-CoV-2 from its closest known sarbecovirus relatives would require on the order of 100-300 billion human infection-equivalents. These requirements would increase substantially in wildlife reservoir hosts, where viral replication per infection is orders of magnitude lower. Conservative estimates of the replication opportunity available in Rhinolophus bat populations imply that the common ancestor of SARS-CoV-2 and its nearest sequenced relatives predates modern virological surveillance by roughly a century. More realistic estimates raise this estimate to millennia, suggesting the closest known relatives of SARS-CoV-1 and SARS-CoV-2 cannot have served as their progenitors.",
+    "authors": [
+      "Robert D Morris"
+    ],
+    "date": "2026-Oct-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879065/",
+    "doi": "10.1038/s41586-020-2012-7",
+    "journal": "EcoHealth",
+    "score": 0.5332,
+    "fetched_at": "2026-10-17"
   },
   {
     "id": "pubmed:42655042",
@@ -4452,96 +4533,5 @@
     "doi": "10.1016/j.micpath.2026.108755",
     "score": 0.4228,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42729940",
-    "source": "pubmed",
-    "title": "Molecular epidemiology and antimicrobial resistance of human",
-    "abstract": "Streptococcus suis (S. suis) is an important zoonotic pathogen and a common colonizer of the upper respiratory tract of pigs. Human infections have been reported in several regions of China, including Guangxi, but genomic and antimicrobial resistance data from this region remain limited. This study investigated the molecular epidemiology, antimicrobial susceptibility, and genomic characteristics of human S. suis isolates collected in Baise City, Guangxi, from 2015 to 2021. This retrospective study included 39 non-duplicate clinical isolates confirmed as S. suis by whole-genome analysis. Antimicrobial susceptibility testing was performed using a broth microdilution-based system and interpreted according to the Clinical and Laboratory Standards Institute guidelines. Serotypes were determined by agglutination using type-specific antisera. Whole-genome sequencing was used for species confirmation, multilocus sequence typing, detection of antimicrobial resistance and virulence-associated genes, and core-protein phylogenetic analysis. The median patient age was 55 years, and 36/39 (92.3%) patients were male. Meningitis was documented in 34/39 (87.2%) patients, and hearing impairment occurred in 21/39 (53.8%). Pig- or pork-related exposure was recorded in 15/39 (38.5%) patients. Resistance was highest to tetracycline (38/39, 97.4%), followed by erythromycin and clindamycin (26/39, 66.7% each). Four isolates (10.3%) showed intermediate susceptibility to penicillin, but none were resistant. All isolates remained susceptible to ampicillin, ceftriaxone, levofloxacin, linezolid, vancomycin, and meropenem. Serotype 2 predominated (32/39, 82.1%), followed by serotype 14 (7/39, 17.9%), while ST1 (29/39, 74.4%) and ST7 (7/39, 17.9%) were the two major sequence types. Resistance genes were mainly associated with tetracyclines, macrolides, lincosamides, and aminoglycosides. All ST1 isolates carried mrp and lacked tet(40), while all ST7 isolates showed the reverse pattern. Serotype 2 and ST1 predominated among the human S. suis isolates collected at this center. Resistance to tetracycline, erythromycin, and clindamycin was common, while susceptibility to the β-lactams tested was largely preserved. Differences in virulence- and resistance-associated gene profiles were also observed between the major lineages, indicating distinct genetic characteristics among the locally circulating isolates.",
-    "authors": [
-      "Xueli Yi",
-      "Bin Luo",
-      "Yuanyuan Dai",
-      "Ying Wei",
-      "Shimao Zhong",
-      "Ying Deng",
-      "Chunfang Wang",
-      "Yuanji Teng"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729940/",
-    "doi": "10.1128/aac.00629-12",
-    "journal": "Frontiers in public health",
-    "score": 0.4224,
-    "fetched_at": "2026-09-13"
-  },
-  {
-    "id": "pubmed:42743823",
-    "source": "pubmed",
-    "title": "Molecular epidemiology and genomic characteristics of clinical Acinetobacter baumannii isolates from patients with hospital-acquired pneumonia in China, 2019-2020: a multicentre retrospective study.",
-    "abstract": "Carbapenem-resistant Acinetobacter baumannii (CRAB) is a leading cause of hospital-acquired pneumonia (HAP) with high mortality. However, large-scale nationwide data of HAP-causing CRAB in China remain limited. Here, we performed a nationwide multicentre retrospective study to characterise the molecular epidemiology and genomic features of 802 A. baumannii isolates from patients with HAP across 33 tertiary hospitals in China during 2019-2020. Antimicrobial susceptibility testing (AST), whole-genome sequencing (WGS), phylogenetic and comparative genomic analysis were used to investigate molecular epidemiology of HAP-causing CRAB strain. Clinical comparative analyses were carried out on data from 500 patients with HAP stratified by distinct antimicrobial susceptibility and genomic profiles, and a Galleria mellonella infection model was utilised for in vivo virulence assessment. The overall carbapenem resistance rate of A. baumannii was 82.0% (658/802), with marked regional variations. CRAB exhibited high resistance to conventional agents but remained largely susceptible to polymyxin, tigecycline, cefiderocol and sulbactam-durlobactam. Among enrolled patients, CRAB infection was linked to substantially higher mortality (39.0% vs. 17.5%), and multivariate analysis confirmed ICU admission and advanced age as independent risk factors for patients with CRAB infection. Molecular typing revealed STPas2 (96.2%) as the absolutely predominant type; STOxf208, STOxf195, STOxf540, and STOxf369 were the most prevalent Oxford sequence types with obvious geographic stratification and divergent comorbidity profiles among corresponding patients. A total of 654 CRAB isolates harboured carbapenemase genes, with blaOXA-23 dominating at 98.8%. Genomic analysis revealed lineage-specific features: STOxf208 carried more virulence genes, while STOxf540 harboured a broader antimicrobial resistance genes (ARGs). The STOxf208 clone mainly belonged to KL2 (62.1%) and KL7 (36.8%) serotypes, with KL2 strains possessing richer ARGs and virulence factors, and in vivo virulence assays further validated that KL2 strains possessed higher pathogenicity than KL7 strains. This study demonstrates the extremely high prevalence and clonal dominance of CRAB in Chinese patients with HAP, providing critical evidence for clinical treatment, antimicrobial stewardship, and targeted infection control. National Key Research and Development Program of China (2024YFE0106200), National Natural Science Foundation of China (U22A20338, 82502763, W2621007), Zhejiang Provincial Natural Science Foundation of China (LQN25H190006), Zhejiang Provincial Postdoctoral Science Foundation (ZJ2025058).",
-    "authors": [
-      "Jintao He",
-      "Qingye Xu",
-      "Minfei Peng",
-      "Haiyang Liu",
-      "Li Fang",
-      "Siyuan Yang",
-      "Yisha Zhang",
-      "Hanqi Zhang",
-      "Xiaochen Liu",
-      "Xi Li",
-      "Xiaoting Hua",
-      "Yunsong Yu",
-      "Hua Zhou"
-    ],
-    "date": "2026-Sep-15",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42743823/",
-    "doi": "10.1016/j.ebiom.2026.106483",
-    "journal": "EBioMedicine",
-    "score": 0.4206,
-    "fetched_at": "2026-09-17"
-  },
-  {
-    "id": "pubmed:42674547",
-    "source": "pubmed",
-    "title": "Assessing the Validity of the Fixed Tree Topology Assumption in Phylodynamic Inference.",
-    "abstract": "Fixed tree topologies are widely used in phylodynamic analyses to reduce computational burden, yet the consequences of this assumption remain insufficiently understood. Here, we systematically assess the impact of various fixed-topology strategies on phylogenetic and phylodynamic parameter estimates across a diverse set of viral datasets. We compare fully Bayesian joint inference with fixed-topology strategies, including conditioning on maximum likelihood trees subsequently dated with LSD or TreeTime. Our analyses show that global parameters of the substitution and site models are largely robust to the fixed-topology assumption, whereas parameters that depend on the temporal structure of the tree, such as molecular clock rates, node ages, and demographic histories, can exhibit substantial systematic differences in their estimates. We do treat unconstrained Bayesian analyses as the reference, although we recognize that these too are model-based approximations. Nevertheless, our results highlight serious discordance associated with fixing the topology and underscore the need for faster, time-aware methods that simultaneously integrate topology and parameter estimation. These findings raise important questions about the balance between computational efficiency and inferential accuracy in phylodynamic studies. phylodynamic, tree topology, Bayesian inference, BEAST.",
-    "authors": [
-      "Mathieu Fourment",
-      "Jiansi Gao",
-      "Marc A Suchard",
-      "Frederick A Matsen Iv"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42674547/",
-    "doi": "10.1093/sysbio/syag069",
-    "journal": "Systematic biology",
-    "score": 0.4205,
-    "fetched_at": "2026-09-01"
-  },
-  {
-    "id": "pubmed:42820686",
-    "source": "pubmed",
-    "title": "Persistent SARS-CoV-2 infection in SCID rats reflects immune vulnerability of the upper airway and trachea.",
-    "abstract": "In immunocompromised patients, persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection carries the risk of prolonged viral shedding and emergence of new variants. To reproduce the key features of persistent SARS-CoV-2 infection and evaluate its transmissibility, mouse-passaged SARS-CoV-2 was administered intranasally to severe combined immunodeficiency (SCID) rats deficient in Rag2 and Il2rg genes. The virus replicated in SCID rats for at least 6 weeks without causing severe symptoms. The main replication sites were the nasal cavity and trachea, and replicating viruses were barely detectable in the lungs. Infected areas within the nasal cavity and trachea showed minimal infiltration of neutrophils and M2 macrophages; however, a strong inflammatory response was observed in the lungs. Serial sequencing of the viral genome revealed accumulation of persistent mutations, predominantly in regions encoding nonstructural proteins. The persistently shed virus retained its infectivity, enabling its transmission to uninfected SCID rats. This model provides new insights into the immunological and tissue-associated features of persistent SARS-CoV-2 infection and offers a practical research platform for developing therapeutic interventions. Persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in immunocompromised individuals promotes viral evolution and ongoing transmission, yet mechanistic studies have been limited by the absence of appropriate animal models. Existing mouse systems do not support longitudinal sampling or evaluate transmission, leaving critical questions unanswered. We established an SCID rat model that enables repeated noninvasive sampling from the same individuals, allowing longitudinal analysis of viral dynamics during prolonged infection. This approach revealed the emergence, disappearance, and fixation of viral mutations over time. Persistently infected rats also retained infectious and transmitted virus to naïve SCID rats, providing experimental evidence that prolonged infection preserves the transmission potential in this model. Persistent viral replication localized to the nasal cavity and trachea may be relevant to the upper-airway persistence reported in some immunocompromised patients. By capturing selected features of persistent SARS-CoV-2 infection under profoundly immunodeficient conditions, this model provides a valuable platform for investigating viral persistence, evolution, and transmission.",
-    "authors": [
-      "Kaya Miyazaki",
-      "Nozomi Shiwa-Sudo",
-      "Naoko Iwata-Yoshikawa",
-      "Yusuke Sakai",
-      "Kazuto Yoshimi",
-      "Tomoji Mashimo",
-      "Tadaki Suzuki",
-      "Eiichi N Kodama",
-      "Hideki Hasegawa",
-      "Noriyo Nagata"
-    ],
-    "date": "2026-Oct-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42820686/",
-    "doi": "10.1128/spectrum.04105-25",
-    "journal": "Microbiology spectrum",
-    "score": 0.4185,
-    "fetched_at": "2026-10-03"
   }
 ]
