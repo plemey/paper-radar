@@ -1134,6 +1134,28 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42892551",
+    "source": "pubmed",
+    "title": "Reemergence of DENV-3III_C.1 and emergence of DENV-3III_B.3.2 in Ecuador: multiple introductions and dispersal patterns, 2022-2026.",
+    "abstract": "We characterized the reemergence of DENV-3III_C.1, the emergence of DENV-3III_B.3.2, and their phylogeographic spread in Ecuador during 2022-2026 through integrated epidemiologic and genomic surveillance. Lineage DENV-3III_C.1 formed a monophyletic Ecuadorian cluster closely related to Colombian viruses. The earliest sampled Ecuadorian sequence was detected in Esmeraldas, compatible with a possible introduction across the northern border followed by within-country dissemination. Lineage DENV-3III_B.3.2 comprised multiple Ecuadorian clades related to viruses from Colombia, Cuba, and the United States (travel-associated), consistent with independent introductions followed by geographic expansion. These findings reveal distinct transmission histories and support strengthened genomic surveillance at border crossings and other key points of entry.",
+    "authors": [
+      "Sully Márquez",
+      "Lizeth Salazar",
+      "Gabriela Echeverría-Garcés",
+      "Diana Gutiérrez-Pallo",
+      "Gabriel Trueba",
+      "Joseph N S Eisenberg",
+      "Josefina Coloma",
+      "Andrés Carrazco-Montalvo"
+    ],
+    "date": "2026-Oct-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892551/",
+    "doi": "10.1016/j.ijid.2026.109189",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.5982,
+    "fetched_at": "2026-10-18"
+  },
+  {
     "id": "pubmed:42847794",
     "source": "pubmed",
     "title": "Phylodynamic analysis provides insights into genotype displacement of duck hepatitis A virus in China.",
@@ -3187,6 +3209,32 @@
     "fetched_at": "2026-09-28"
   },
   {
+    "id": "pubmed:42889667",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of paediatric respiratory adenovirus infections in Île-de-France: findings from whole-genome sequencing.",
+    "abstract": "Human adenoviruses (HAdVs) are a frequent cause of respiratory tract infections in children; however, their epidemiological patterns and genomic diversity remain insufficiently characterized in Europe. As respiratory HAdVs can cause outbreaks of acute and severe disease and show periodic re-emergence, improved understanding of their circulation is needed. To investigate the epidemiology, age distribution, and genomic diversity of respiratory HAdVs in paediatric patients in Île-de-France during the first half of 2022. We retrospectively analysed 6 956 respiratory samples from patients < 18 years, collected at five hospitals (Jan-June 2022). HAdVs were detected by multiplex PCR. Viral loads were quantified in mono-infections, and whole-genome sequencing (WGS) was performed on samples with sufficient viral load. HAdVs were detected in 14% of samples, making them the second most prevalent virus after rhinovirus/enterovirus. Co-infections were frequent (64%), particularly in younger children. Among the 254 mono-infected samples with viral-load quantification, 110 (43%) had low or undetectable viral loads. WGS of 122 samples revealed HAdV species B (62.3%), C (34.4%), and F (3.3%). Species distribution varied by age: HAdV-C predominated in children under 2 years, while HAdV-B was more common in older children. The most frequent genotypes were B3 (76.3%), B66 (18.4%), and B7d (5.3%) within species B, and C1 (33.3%), C89 (26.2%), and C2 (23.8%) within species C. HAdVs are prevalent among children with respiratory infections, with age-specific patterns and substantial genomic diversity. The circulation of diverse genotypes, including recombinants and potentially more virulent variants, highlights the importance of sustained molecular surveillance.",
+    "authors": [
+      "Maud Salmona",
+      "Elise Diaz",
+      "Linda Feghoul",
+      "Abdeljalil Senhaji Rachik",
+      "Héloïse Delagrèverie",
+      "Honorine Fenaux",
+      "Aurélie Schnuriger",
+      "Audrey Baron",
+      "Lamia Limam",
+      "Séverine Mercier-Delarue",
+      "Elyanne Gault",
+      "Jérôme LeGoff"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42889667/",
+    "doi": "10.1038/srep07365",
+    "journal": "Virus evolution",
+    "score": 0.4925,
+    "fetched_at": "2026-10-18"
+  },
+  {
     "id": "pubmed:42575447",
     "source": "pubmed",
     "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
@@ -4499,55 +4547,5 @@
     "journal": "PLoS computational biology",
     "score": 0.4233,
     "fetched_at": "2026-09-01"
-  },
-  {
-    "id": "pubmed:42832612",
-    "source": "pubmed",
-    "title": "Sub-consensus haploid variant calling in long-read sequencing technology.",
-    "abstract": "Next-generation sequencing (NGS) is vital for tracking viral evolution during outbreaks. Oxford Nanopore Technologies (ONT) offers long-read, cost-effective sequencing, but accurate sub-consensus variant detection remains challenging. LoFreq, a widely used caller for sub-consensus variant calling in haploid genomes, was designed for short reads. This study assesses and benchmarks LoFreq variant identification accuracy on long-read data and proposes a calibration method to improve accuracy. We created truth sets using three SARS-CoV-2 spike gene plasmids (7179 bases, 100 SNVs) and whole Escherichia coli genomes. Libraries were sequenced using R9.4.1 and R10.4.1 flow cells. LoFreq's recall was benchmarked across chemistries and library sizes. We also introduced a method to adjust Phred quality scores for enhanced accuracy. LoFreq showed high sensitivity, detecting variants at frequencies as low as 0.1%, with best performance on R10.4.1. However, false discovery rates (FDR) were chemistry- and depth-dependent. Our Phred score calibration reduced false positives while maintaining recall, though it was less effective below 10% frequency and not suitable for structural variant detection. LoFreq can detect sub-consensus variants in ONT data, but high FDR limits direct use. Our calibration method improves accuracy, offering a simple Phred score adjustment approach that reduces false discovery rates in ONT data.",
-    "authors": [
-      "Xavier Zair",
-      "Andreas Wilm",
-      "Miles C Benton",
-      "Cheng Yong Tham",
-      "Lin Yang",
-      "Paola Florez de Sessions",
-      "October Michael Sessions",
-      "Eng Hui Chew",
-      "Swapnil Mishra"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42832612/",
-    "doi": "10.1371/journal.pone.0356259",
-    "journal": "PloS one",
-    "score": 0.4231,
-    "fetched_at": "2026-10-06"
-  },
-  {
-    "id": "pubmed:42849646",
-    "source": "pubmed",
-    "title": "Molecular detection and characterization of flea-associated bacteria: genetic diversity and co-occurrence patterns involving Bartonella, Rickettsia, and Wolbachia in Ctenocephalides felis felis from an Atlantic Forest region of Brazil.",
-    "abstract": "Ctenocephalides felis felis is a widespread ectoparasite of dogs and cats and has been associated with transmission of several microorganisms of veterinary and public health relevance. This study investigated the molecular occurrence, genetic diversity, and co-occurrence patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in fleas collected from dogs and cats in an Atlantic Forest area encompassing the Ilhéus and Itabuna microregions, Bahia State, northeastern Brazil. A total of 1,489 fleas were analyzed, including 1,301 collected from 81 dogs and 188 from 39 cats. PCR targeting the endogenous cox1 gene successfully amplified DNA from 95.77% of fleas collected from dogs and 97.34% of those collected from cats. Quantitative PCR (qPCR) targeting the 16S-23S rRNA internal transcribed spacer (ITS) revealed a higher molecular detection rate of Bartonella spp. in fleas from cats (34.43%) than in those from dogs (8.98%). Conversely, Rickettsia spp. was detected more frequently in fleas collected from dogs (24.8%) than from cats (3.28%). Wolbachia spp. was more frequently detected in female fleas from both dogs (52.8%) and cats (50.3%) than in male fleas (p < 0.05). Triple co-occurrence of the three microorganisms was detected in 0.08% (11/1246) of flea DNA samples positive the cox-1 endogenous gene and subjected to downstream molecular analyses for Bartonella spp., Rickettsia spp., and Wolbachia spp.. Phylogenetic analyses based on multiple molecular markers for Bartonella spp. (gltA, ftsZ, nuoG, and rpoB), Rickettsia spp. (gltA, htrA, ompA, and ompB), and Wolbachia spp. (gatB and wsp) confirmed the detection of Bartonella henselae, Bartonella clarridgeiae, Rickettsia felis, and Wolbachia spp. belonging to supergroups B and F. In fleas collected from dogs, the detection of Wolbachia spp. was associated with a higher predicted probability of Rickettsia spp. detection, whereas in fleas collected from cats it was associated with a lower predicted probability of Bartonella spp. detection. Overall, the findings revealed distinct host-associated molecular detection patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in C. felis felis, demonstrating the circulation and genetic diversity of these bacterial agents in flea populations. The detection of zoonotic bacterial agents in fleas highlights their relevance for integrated veterinary and public health surveillance within a One Health framework.",
-    "authors": [
-      "Lizeth Fernanda Banguero Micolta",
-      "Lorena Freitas das Neves",
-      "Ana Cláudia Calchi",
-      "Michelli Inácio Gonçalves Funnicelli",
-      "Anna Claudia Baumel Mongruel",
-      "Jamille Bispo de Carvalho Teixeira",
-      "Katharine Costa Dos Santos",
-      "Thammy Vieira Bittar",
-      "George Rego Albuquerque",
-      "Rosangela Zacarias Machado",
-      "Darci Moraes Barros-Battesti",
-      "Renata Santiago Alberto Carlos",
-      "Marcos Rogério André"
-    ],
-    "date": "2026-Oct-08",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42849646/",
-    "doi": "10.1016/j.actatropica.2026.108360",
-    "journal": "Acta tropica",
-    "score": 0.4229,
-    "fetched_at": "2026-10-10"
   }
 ]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "pubmed:42892551",
+    "source": "pubmed",
+    "title": "Reemergence of DENV-3III_C.1 and emergence of DENV-3III_B.3.2 in Ecuador: multiple introductions and dispersal patterns, 2022-2026.",
+    "abstract": "We characterized the reemergence of DENV-3III_C.1, the emergence of DENV-3III_B.3.2, and their phylogeographic spread in Ecuador during 2022-2026 through integrated epidemiologic and genomic surveillance. Lineage DENV-3III_C.1 formed a monophyletic Ecuadorian cluster closely related to Colombian viruses. The earliest sampled Ecuadorian sequence was detected in Esmeraldas, compatible with a possible introduction across the northern border followed by within-country dissemination. Lineage DENV-3III_B.3.2 comprised multiple Ecuadorian clades related to viruses from Colombia, Cuba, and the United States (travel-associated), consistent with independent introductions followed by geographic expansion. These findings reveal distinct transmission histories and support strengthened genomic surveillance at border crossings and other key points of entry.",
+    "authors": [
+      "Sully Márquez",
+      "Lizeth Salazar",
+      "Gabriela Echeverría-Garcés",
+      "Diana Gutiérrez-Pallo",
+      "Gabriel Trueba",
+      "Joseph N S Eisenberg",
+      "Josefina Coloma",
+      "Andrés Carrazco-Montalvo"
+    ],
+    "date": "2026-Oct-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892551/",
+    "doi": "10.1016/j.ijid.2026.109189",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.5982,
+    "fetched_at": "2026-10-18"
+  },
+  {
+    "id": "pubmed:42892464",
+    "source": "pubmed",
+    "title": "Genotype-resolved wastewater surveillance for monitoring human norovirus GII circulation.",
+    "abstract": "Norovirus GII causes a substantial global burden of acute gastroenteritis, and genotype-resolved wastewater surveillance offers a complementary approach for monitoring community circulation beyond cases captured by routine clinical surveillance. We monitored four municipal wastewater treatment plants in Beijing, China, from October 2023 to September 2024 and compared weekly GII genotype profiles with contemporaneous sporadic-case and outbreak surveillance. Strict-weekly genotype comparisons were the primary inference and used moving-block bootstrap confidence intervals, block-sign tests, and false-discovery-rate correction; centred 3-week profiles were used for description and sensitivity analysis. Bray-Curtis dissimilarity quantified compositional concordance, and same-week and lagged Spearman correlations compared wastewater GII concentration with clinical surveillance activity. In the centred 3-week wastewater series, GII.4 had the highest mean read-based relative abundance (31.1%), followed by GII.17 (17.5%) and GII.7 (15.2%). In strict-weekly comparisons, wastewater had lower GII.17 representation than sporadic cases (-32.6 percentage points) and lower GII.7 representation than outbreaks (-14.0 percentage points). Wastewater had higher GII.3, GII.4, GII.6, and GII.9 representation than sporadic cases and higher GII.9 and GII.13 representation than outbreaks; the GII.4 and GII.7 differences were sensitive to analytical specification, and the GII.13 effect was small. Mean strict-weekly Bray-Curtis dissimilarities were 0.590-0.679 in 32 common weeks. Same-week and lagged wastewater concentration correlations with sporadic-case positivity and outbreak case counts were not significant after temporal-dependence and multiplicity correction. Genotype-resolved wastewater surveillance documented co-circulating GII genotypes and recurrent source-specific differences, while read-based relative abundance remained dependent on catchment coverage and genotype-specific analytical performance.",
+    "authors": [
+      "Zichao Wang",
+      "Mengdi Tan",
+      "Meng Qin",
+      "Nan Yang",
+      "Weihong Li",
+      "Lingyu Shen",
+      "Zhaomin Feng",
+      "Daitao Zhang",
+      "Peng Yang",
+      "Quanyi Wang",
+      "Zhiyong Gao"
+    ],
+    "date": "2026-Oct-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892464/",
+    "doi": "10.1016/j.meegid.2026.106045",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.4216,
+    "fetched_at": "2026-10-18"
+  },
+  {
+    "id": "pubmed:42889667",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of paediatric respiratory adenovirus infections in Île-de-France: findings from whole-genome sequencing.",
+    "abstract": "Human adenoviruses (HAdVs) are a frequent cause of respiratory tract infections in children; however, their epidemiological patterns and genomic diversity remain insufficiently characterized in Europe. As respiratory HAdVs can cause outbreaks of acute and severe disease and show periodic re-emergence, improved understanding of their circulation is needed. To investigate the epidemiology, age distribution, and genomic diversity of respiratory HAdVs in paediatric patients in Île-de-France during the first half of 2022. We retrospectively analysed 6 956 respiratory samples from patients < 18 years, collected at five hospitals (Jan-June 2022). HAdVs were detected by multiplex PCR. Viral loads were quantified in mono-infections, and whole-genome sequencing (WGS) was performed on samples with sufficient viral load. HAdVs were detected in 14% of samples, making them the second most prevalent virus after rhinovirus/enterovirus. Co-infections were frequent (64%), particularly in younger children. Among the 254 mono-infected samples with viral-load quantification, 110 (43%) had low or undetectable viral loads. WGS of 122 samples revealed HAdV species B (62.3%), C (34.4%), and F (3.3%). Species distribution varied by age: HAdV-C predominated in children under 2 years, while HAdV-B was more common in older children. The most frequent genotypes were B3 (76.3%), B66 (18.4%), and B7d (5.3%) within species B, and C1 (33.3%), C89 (26.2%), and C2 (23.8%) within species C. HAdVs are prevalent among children with respiratory infections, with age-specific patterns and substantial genomic diversity. The circulation of diverse genotypes, including recombinants and potentially more virulent variants, highlights the importance of sustained molecular surveillance.",
+    "authors": [
+      "Maud Salmona",
+      "Elise Diaz",
+      "Linda Feghoul",
+      "Abdeljalil Senhaji Rachik",
+      "Héloïse Delagrèverie",
+      "Honorine Fenaux",
+      "Aurélie Schnuriger",
+      "Audrey Baron",
+      "Lamia Limam",
+      "Séverine Mercier-Delarue",
+      "Elyanne Gault",
+      "Jérôme LeGoff"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42889667/",
+    "doi": "10.1038/srep07365",
+    "journal": "Virus evolution",
+    "score": 0.4925,
+    "fetched_at": "2026-10-18"
+  }
+]
