@@ -1,0 +1,48 @@
+[
+  {
+    "id": "pubmed:42895331",
+    "source": "pubmed",
+    "title": "Sequencing-based molecular epidemiology of mesophilic",
+    "abstract": "This study investigated the prevalence, virulence gene distribution, antimicrobial resistance, and molecular epidemiology of mesophilic Aeromonas species from milk, dairy farm environments, and drinking water systems in Kashmir, India. Aeromonas prevalence varied between sample sources, with environmental samples having the highest detection rate (51.96%), followed by water sources (46.60%) and milk (36.15%). Following pasteurization and disinfection, prevalence in milk samples was significantly reduced, demonstrating the efficacy of hygiene measures in minimizing contamination. Higher detection rates were found in environmental sources like soil, cow dung, and milkers' hands, suggesting their role as potential sources of contamination. The Aeromonads exhibited a wide distribution of virulence determinants; species-associated variations were noted for the ahc and ast genes, while the fla gene was ubiquitous among isolates. Virulence gene distribution differed between species, with Aeromonas hydrophila exhibiting the most varied virulence profiles. Antimicrobial resistance patterns were generally comparable among the mesophilic Aeromonas species, and multidrug resistance was detected in 45.8% of the isolates. Analysis of gyrA, gyrB, and rpoD genes based on sequencing distinguished isolates into species-specific clades, with gyrB providing the highest intra-species resolution, suggesting its utility as an informative marker for molecular epidemiological investigations of Aeromonas. These results show that water systems and dairy environments are significant sources of genetically diverse Aeromonads carrying virulence and antimicrobial resistance determinants.IMPORTANCEAeromonas species are widely distributed in aquatic environments and are increasingly recognized as emerging opportunistic pathogens, yet their role in dairy production systems remains poorly understood. The prevalence and genetic relatedness of mesophilic Aeromonas spp. across milk, dairy farm environments, and drinking water systems remain underexplored. By integrating prevalence data from a large and diverse collection of samples with virulence profiling, antimicrobial resistance characterization, and sequencing-based molecular epidemiology, the present study provides a comprehensive assessment of Aeromonas populations across these interconnected compartments. The findings underscore the importance of hygienic practices during milk production and the need for routine monitoring of environmental and water sources associated with dairy systems. Improved understanding of the genetic diversity and distribution of Aeromonas can support more effective surveillance strategies and help mitigate potential risks to food safety and public health.",
+    "authors": [
+      "Maliha Gulzar",
+      "Mudasir Ali Rather",
+      "Syed Akram Hussain",
+      "Sabia Qureshi",
+      "Showkat Ahmad Shah",
+      "Mohammad Ruhail Gulzar",
+      "Ambreen Hamadani",
+      "Mehak Nisar Khan",
+      "Majid Shafi Kawoosa"
+    ],
+    "date": "2026-Oct-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895331/",
+    "doi": "10.1128/spectrum.01471-26",
+    "journal": "Microbiology spectrum",
+    "score": 0.2831,
+    "fetched_at": "2026-10-20"
+  },
+  {
+    "id": "pubmed:42894991",
+    "source": "pubmed",
+    "title": "Molecular detection and associated risk factors of infectious bronchitis virus (IBV) isolated from poultry in Khyber Pakhtunkhwa, Pakistan.",
+    "abstract": "Infectious bronchitis, caused by the infectious bronchitis virus (IBV), is a highly contagious multisystem disease affecting poultry of all ages and leading to significant economic losses worldwide. IBV exhibits considerable genetic variability, with numerous genotypes and lineages associated with respiratory, reproductive and kidney issues. This study aimed to investigate the molecular epidemiology of IBV in poultry-dense areas of Khyber Pakhtunkhwa, Pakistan. An outbreak-driven sampling method was used to collect a total of 425 clinical samples, including tracheal swabs and tissue specimens, from suspected flocks across different districts. Specifically, 100 samples were collected from Abbottabad and Mansehra, 90 from Mardan and Peshawar, and 45 from Malakand Division, proportionate to regional poultry populations. Viral RNA was extracted and tested using RT-PCR targeting the IBV S1 gene. Selected positive samples underwent Sanger sequencing. Sequence analysis was carried out using ClustalW in MEGA 12, and phylogenetic relationships were inferred via the Maximum Likelihood method based on the T92+G Tamura 3-parameter model with gamma distribution. The overall IBV prevalence was 29.6%. The highest prevalence was observed in Mansehra (39%), whereas Malakand Division had the lowest prevalence (7.7%). IBV detection was more frequent in young birds (35.2%) and layer flocks (33.7%) compared to broilers (30.7%). Phylogenetic analysis revealed that most circulating IBV strains belong to genotype GI-1, indicating ongoing circulation of classical IBV strains in the area. These findings highlight the importance of ongoing molecular surveillance and the development of region-specific vaccines. Implementing improved biosecurity measures, such as enhanced ventilation, thorough disinfection between production cycles, and all-in-all-out flock management, is essential to reduce IBV outbreaks and improve poultry health and productivity in Khyber Pakhtunkhwa.",
+    "authors": [
+      "F Islam",
+      "S Khan",
+      "Rafiullah",
+      "F A Khan",
+      "S S A Shah",
+      "M Shahid",
+      "K Khan",
+      "S U Hassan",
+      "H U Rahman"
+    ],
+    "date": "2026-Sep-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894991/",
+    "doi": "10.24425/pjvs.2026.3603",
+    "journal": "Polish journal of veterinary sciences",
+    "score": 0.5524,
+    "fetched_at": "2026-10-20"
+  }
+]

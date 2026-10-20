@@ -2001,6 +2001,29 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42894991",
+    "source": "pubmed",
+    "title": "Molecular detection and associated risk factors of infectious bronchitis virus (IBV) isolated from poultry in Khyber Pakhtunkhwa, Pakistan.",
+    "abstract": "Infectious bronchitis, caused by the infectious bronchitis virus (IBV), is a highly contagious multisystem disease affecting poultry of all ages and leading to significant economic losses worldwide. IBV exhibits considerable genetic variability, with numerous genotypes and lineages associated with respiratory, reproductive and kidney issues. This study aimed to investigate the molecular epidemiology of IBV in poultry-dense areas of Khyber Pakhtunkhwa, Pakistan. An outbreak-driven sampling method was used to collect a total of 425 clinical samples, including tracheal swabs and tissue specimens, from suspected flocks across different districts. Specifically, 100 samples were collected from Abbottabad and Mansehra, 90 from Mardan and Peshawar, and 45 from Malakand Division, proportionate to regional poultry populations. Viral RNA was extracted and tested using RT-PCR targeting the IBV S1 gene. Selected positive samples underwent Sanger sequencing. Sequence analysis was carried out using ClustalW in MEGA 12, and phylogenetic relationships were inferred via the Maximum Likelihood method based on the T92+G Tamura 3-parameter model with gamma distribution. The overall IBV prevalence was 29.6%. The highest prevalence was observed in Mansehra (39%), whereas Malakand Division had the lowest prevalence (7.7%). IBV detection was more frequent in young birds (35.2%) and layer flocks (33.7%) compared to broilers (30.7%). Phylogenetic analysis revealed that most circulating IBV strains belong to genotype GI-1, indicating ongoing circulation of classical IBV strains in the area. These findings highlight the importance of ongoing molecular surveillance and the development of region-specific vaccines. Implementing improved biosecurity measures, such as enhanced ventilation, thorough disinfection between production cycles, and all-in-all-out flock management, is essential to reduce IBV outbreaks and improve poultry health and productivity in Khyber Pakhtunkhwa.",
+    "authors": [
+      "F Islam",
+      "S Khan",
+      "Rafiullah",
+      "F A Khan",
+      "S S A Shah",
+      "M Shahid",
+      "K Khan",
+      "S U Hassan",
+      "H U Rahman"
+    ],
+    "date": "2026-Sep-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894991/",
+    "doi": "10.24425/pjvs.2026.3603",
+    "journal": "Polish journal of veterinary sciences",
+    "score": 0.5524,
+    "fetched_at": "2026-10-20"
+  },
+  {
     "id": "pubmed:42797785",
     "source": "pubmed",
     "title": "Molecular Epidemiology, Phylogeography, and Recombination Dynamics of PRRSV-2 Sublineage L1C in Mainland China.",
@@ -4527,25 +4550,5 @@
     "journal": "Frontiers in microbiology",
     "score": 0.4234,
     "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42672123",
-    "source": "pubmed",
-    "title": "Economic factors promoting vaccine nationalism in the face of viral evolution.",
-    "abstract": "The increasing interconnectedness of the modern world calls for globally equitable solutions to combat pandemic challenges. However, we have seen a tendency in recent decades for high-income countries to resort to \"vaccine nationalism,\" hoarding vaccine production to the detriment of lower-income countries. In addition, vaccine nationalism can prove detrimental to hoarding countries in the long term, as inequitable global vaccine distribution during the COVID-19 risked exacerbating the rise of harmful immune-escape variants that largely counteracted the original benefits of vaccine hoarding. Thus, vaccine hoarding may create a problem of time preference for a vaccine-producing country, where countries heavily discounting the future would opt for vaccine hoarding while countries lightly discounting the future would opt for vaccine sharing. Using a novel modeling framework integrating epidemiological, evolutionary, and economic processes, we demonstrate how high temporal discounting, low levels of outgroup prosociality, and high vaccine-distribution costs for low-income countries can promote vaccine-hoarding tendencies. We further show how these factors interact with epidemiological and evolutionary parameters to incentivize vaccine sharing in different ways: in some parameter regimes, vaccine sharing helps by reducing variant infections, while in others, vaccine sharing helps by reducing the probability of initial variant emergence. As a result, the optimal fraction of vaccines a country should share in our model is a bimodal function of the pathogen's transmissibility. We thus provide a nuanced, model-based exploration of how various factors may contribute to vaccine nationalism's emergence, emphasizing the need for international organizations to coordinate global vaccination responses to future pandemics.",
-    "authors": [
-      "Ari S Freedman",
-      "Bjarke Frost Nielsen",
-      "Chadi M Saad-Roy",
-      "Bryan T Grenfell",
-      "C Jessica E Metcalf",
-      "Simon A Levin"
-    ],
-    "date": "2026-Aug-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42672123/",
-    "doi": "10.1371/journal.pcbi.1014466",
-    "journal": "PLoS computational biology",
-    "score": 0.4233,
-    "fetched_at": "2026-09-01"
   }
 ]
