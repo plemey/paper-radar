@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pubmed:42898562",
+    "source": "pubmed",
+    "title": "New Delhi Metallo-β-Lactamase Plasmidomes of Intensive Care Unit Clinical and Environmental Enterobacterales Isolates.",
+    "abstract": "There are limited data on the molecular epidemiology of New Delhi metallo-β-lactamase (NDM)-producing carbapenem-resistant Enterobacterales (CRE) in Latin America, despite the high burden of NDM-CRE in the region. This study characterized bla NDM-harboring plasmids from CRE from patients and the environment of an Argentine hospital. We performed whole-genome sequencing of 40 environmental isolates (Klebsiella complex, n = 11; Enterobacter cloacae, complex n = 16; Citrobacter freundii, n = 10; Serratia marcescens, n = 3) and 4 clinical isolates (Klebsiella pneumoniae, n = 4) recovered from the environment and rectal surveillance samples of patients in the same intensive care units (ICUs) at a tertiary care center in Argentina, July 2023-February 2024, respectively. Representative genomic groups underwent Oxford Nanopore sequencing and hybrid genome assembly for complete plasmid characterization. Resolved bla NDM-harboring plasmids were compared across species and publicly available reference sequences to characterize plasmid relatedness and dissemination patterns. Ten representative genomic groups were identified across species, including 7 defined sequence types and 3 assigned in this study. bla NDM-1 and bla NDM-5 were present in 72.5% (29/40) and 27.5% (11/40) of environmental isolates, respectively (all 4 clinical isolates were bla NDM-5). Hybrid assembly of the representative genomic groups revealed bla NDM-1 was located on highly conserved plasmids belonging to the IncC incompatibility group across multiple CRE species. bla NDM-5 was restricted to Klebsiella spp. and was associated with structurally diverse plasmids including IncF- and IncHI1B/IncFIB-type backbones in both environmental and patient isolates. These findings highlight the ICU environment as a reservoir for bla NDM plasmids.",
+    "authors": [
+      "Florencia Martino",
+      "Denise De Belder",
+      "Renata Monge",
+      "Agustina Forastiero",
+      "Molly Patrick",
+      "Kara A Moser",
+      "Alejandra Corso",
+      "Fernando Pasteran",
+      "Matthew Robinson",
+      "Valeria Fabre"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42898562/",
+    "doi": "10.5281/zenodo.20548567",
+    "journal": "Open forum infectious diseases",
+    "score": 0.2395,
+    "fetched_at": "2026-10-21"
+  },
+  {
+    "id": "pubmed:42898163",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.",
+    "abstract": "Carbapenem-resistant Gram-negative bacilli are an increasing threat in diabetic foot ulcer (DFU) infections, limiting therapeutic options and worsening outcomes. However, data linking specific carbapenemase genes to clinical and metabolic factors remain limited. To isolate Gram-negative bacilli from deep tissue biopsies of DFUs, determine carbapenem susceptibility by minimum inhibitory concentration (MIC) testing, detect major carbapenemase genes by multiplex qPCR, and evaluate their association with glycemic control and Wagner grade. This cross-sectional study included 150 patients with infected DFUs. Isolates recovered from tissue and other specimens were identified by standard microbiological methods, and carbapenem susceptibility was assessed by MIC testing. Multiplex qPCR was used to detect blaKPC, blaNDM, blaOXA-48, blaVIM, and blaIMP, and associations between resistance determinants and clinical variables were analyzed statistically. The mean patient age was 56.4 ± 9.8 years, with a male predominance (61.3%), and high-grade ulcers (Wagner III-V) were present in 54.7% of patients. Klebsiella pneumoniae predominated (60.0%), followed by Pseudomonas aeruginosa and Escherichia coli (each 14.7%). Resistance to meropenem and imipenem was high (77.3% and 75.3%, respectively), and carbapenemase production was detected in 84.0% of isolates. blaKPC (28.0%) and blaNDM (24.0%) were the most prevalent genes and were significantly associated with phenotypic carbapenemase production (P = 0.002 and P = 0.006, respectively). Carbapenemase producers showed significantly higher fasting glucose and HbA1c levels than non-producers (P < 0.001), with no significant association observed for Wagner grade (P = 0.570). DFUs showed a high burden of carbapenemase-producing Gram-negative bacilli, driven mainly by blaKPC and blaNDM. Poor glycemic control was strongly associated with these resistant infections, underscoring the need for integrated metabolic management, molecular surveillance, and antimicrobial stewardship. These findings position glycemic control as a modifiable driver of antimicrobial resistance in DFUs.",
+    "authors": [
+      "Gamal Othman",
+      "Abdelnaser A Badawy",
+      "Rasha Hamed Al-Serwi",
+      "Maysaa El Sayed Zaki",
+      "Noha Tharwat Abou El-Khier",
+      "Nashwa M Alkassaby",
+      "Mohamed Saleh Ismail"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42898163/",
+    "doi": "10.3389/fcimb.2025.1690417",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.1044,
+    "fetched_at": "2026-10-21"
+  },
+  {
+    "id": "pubmed:42896810",
+    "source": "pubmed",
+    "title": "A Carbapenem-Resistant Acinetobacter baumannii Outbreak in an Intensive Care Unit: Detection Before Recognition and Persistence After Containment.",
+    "abstract": "We analyzed a carbapenem-resistant Acinetobacter baumannii (CRAB) outbreak in an intensive care unit (ICU) to improve insight into how this pathogen spreads within health care facilities and to inform the development of targeted control procedures. A CRAB outbreak in a tertiary referral center was investigated over a 5-month window with clinical data, molecular typing (AP-PCR, PFGE), and one month of environmental sampling. All ICU patients (n=31) were compared-epidemic-clone-positive (n=7) versus -negative (n=24)-using Mann-Whitney/Fisher tests and Firth penalized logistic regression. Although the outbreak spanned 6 days clinically, index patients had been colonized up to 41 days earlier. CRAB was recovered from high-touch surfaces; 6/7 patients developed pneumonia/VAP and 6/7 died (4 CRAB-attributable). Prior A. baumannii isolation (57% vs 0%) was the only independent risk factor (Firth odds ratio 34.7; P=.004). Despite treatment, infected patients redeveloped epidemic-clone infection up to 3.5 months later. In CRAB outbreaks, spread may begin weeks before clinical recognition, and-even months after the outbreak is contained-the epidemic clone can cause reinfection in previously treated patients; only high-resolution analyses spanning an extended period can document this. Multidisciplinary and administrative collaboration, extended and effective environmental disinfection, and effective isolation of positive patients are important for containing CRAB outbreaks.",
+    "authors": [
+      "Funda Memisoglu",
+      "Elif Seren Tanriverdi",
+      "Yusuf Yakupogullari",
+      "Zeynep Celik",
+      "Sibel Altunisik Toplu",
+      "Ayse Belin Ozer",
+      "Baris Otlu"
+    ],
+    "date": "2026-Oct-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896810/",
+    "doi": "10.1016/j.ajic.2026.10.010",
+    "journal": "American journal of infection control",
+    "score": 0.329,
+    "fetched_at": "2026-10-21"
+  }
+]
