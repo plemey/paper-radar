@@ -1406,6 +1406,23 @@
     "fetched_at": "2026-08-15"
   },
   {
+    "id": "pubmed:42902055",
+    "source": "pubmed",
+    "title": "Hantaviruses as Emerging Zoonotic Pathogens: Molecular Biology, Epidemiology, Therapeutics, vaccine, and Pathogenesis.",
+    "abstract": "Hantaviruses are globally distributed zoonotic pathogens belonging to the family Hantaviridae and are responsible for two major human diseases, hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS). Despite substantial progress in hantavirus research, important challenges remain in understanding the interactions among viral evolution, reservoir ecology, environmental change, transmission dynamics, and host immunopathology. This review provides an integrated One Health perspective that connects molecular virology and host-virus interactions with transmission ecology, global epidemiology, and the mechanisms underlying vascular leakage and severe disease. In addition to summarizing established knowledge, we highlight recent advances in hantavirus taxonomy, genomic and molecular surveillance, ecological and transmission modeling, and the identification of hantavirus circulation in previously underrecognized regions. Particular emphasis is placed on the role of reservoir host dynamics, climate and environmental change, habitat disturbance, and human-wildlife interactions in shaping spillover risk, as well as on endothelial dysfunction, immune dysregulation, and coagulation abnormalities as interconnected mechanisms of disease severity. We also identify persistent knowledge gaps concerning host susceptibility, viral persistence, determinants of differential virulence and tissue tropism, interspecies transmission, and the development of effective antiviral therapies and vaccines. By integrating these complementary perspectives, this review provides a framework for understanding hantavirus emergence and pathogenesis while identifying priorities for future surveillance, prevention, and therapeutic research.",
+    "authors": [
+      "Mohammad Mehdi Akbarin",
+      "Zahra Farjami",
+      "Hugo Ramírez Álvarez"
+    ],
+    "date": "2026-Oct-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902055/",
+    "doi": "10.1080/21645515.2016.1250989",
+    "journal": "Current microbiology",
+    "score": 0.5867,
+    "fetched_at": "2026-10-22"
+  },
+  {
     "id": "pubmed:42836613",
     "source": "pubmed",
     "title": "Toward broad-spectrum coronavirus vaccines: navigating viral evolution from past epidemics to future resilience.",
@@ -4525,30 +4542,5 @@
     "journal": "Microorganisms",
     "score": 0.424,
     "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42643749",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of",
-    "abstract": "The emergence of mcr-1-harboring avian pathogenic Escherichia coli (APEC) poses a significant One Health challenge due to its zoonotic potential and adverse effects on poultry production. A total of 50 mcr-1-positive APEC isolates were recovered from diseased chickens in Shanxi Province, China, between 2021 and 2024. All isolates were subjected to serotyping, phylogenetic grouping, antimicrobial susceptibility testing, detection of resistance and virulence-associated genes, and biofilm formation assessment. Serotyping identified O18 (28%) and O78 (20%) as the predominant serotypes, with no O1 detected. Phylogenetic analysis showed that phylogroup A was most prevalent (32.0%), followed by B2 (12.0%), D (12.0%), and B1 (10.0%); the remaining isolates (34.0%) were untypeable. All isolates were multidrug-resistant (resistant to ≥3 drug classes), with universal resistance to tetracycline and trimethoprim-sulfamethoxazole, and over 85% resistance to kanamycin, amoxicillin, florfenicol, and chloramphenicol. The resistance genes tetA, blaTEM, aphA, and sul2, as well as the virulence genes ibeB and ompA, were detected in all isolates (100%). Biofilm formation was observed in 96% of the isolates, though its correlation with individual resistance or virulence genes was weak. The findings demonstrate that mcr-1-positive APEC isolates in Shanxi Province exhibit high-level multidrug resistance, widespread virulence gene carriage, and strong biofilm-forming capacity, underscoring their potential public health risk through animal-to-human transmission. These data provide a baseline for local surveillance and highlight the need for enhanced antimicrobial stewardship in poultry production.).",
-    "authors": [
-      "Li Fangfang",
-      "Wang Haiyang",
-      "Shan Pengju",
-      "Wang Jingying",
-      "Hu Jiangang",
-      "Lian Liyan",
-      "Wang Zhihao",
-      "Saqib Nawaz",
-      "Bao Yinli",
-      "Han Xiangan",
-      "Wang Haidong"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42643749/",
-    "doi": "10.1128/spectrum.01595-22",
-    "journal": "Frontiers in microbiology",
-    "score": 0.4234,
-    "fetched_at": "2026-08-27"
   }
 ]

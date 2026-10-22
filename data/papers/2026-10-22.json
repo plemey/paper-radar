@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pubmed:42902369",
+    "source": "pubmed",
+    "title": "Mapping and analysis of the knowledge graph on the current status and key issues in global research on Norovirus infections in children over the past 28 years.",
+    "abstract": "Norovirus (NoV) is a major pathogen responsible for acute gastroenteritis and outbreaks of diarrhea in humans. Children, due to their underdeveloped immune systems and higher risk of exposure, constitute a population with a relatively concentrated incidence of infection and disease burden. In recent years, research on NoV infections in children has been growing globally; however, there remains a lack of systematic quantitative analysis regarding the evolution of research themes, models of international collaboration, and future development directions in this field. Therefore, this study employs bibliometric methods to conduct a visual analysis of the knowledge structure, research hotspots, and development trends in the global field of NoV infection research in children, providing a reference for future scientific research and the formulation of prevention and control strategies. This study retrieved literature on pediatric NoV infections published between January 1998 and December 2025 from the Web of Science Core Collection (WoSCC) database. Using CiteSpace, VOSviewer, and Bibliometrix software, we conducted a visual analysis of annual publication trends, countries/regions, institutions, authors, journals, keywords, and references to reveal the research trajectory, knowledge base, and cutting-edge directions in this field. This study included a total of 2,161 relevant publications. The results show that research on NoV infections in children worldwide has generally followed a steady upward trend, with activity remaining high in recent years. The United States, China, and Japan are the leading contributors to research in this field, with the United States exerting significant influence through international collaboration. The University of Tokyo, Emory University, and Chiang Mai University are the research institutions with the highest number of publications. Vinje, Jan; Ushijima, Hiroshi; and Khamrin, Pattara were the most prolific core authors, while Atmar, Robert L.; Lindesmith, Lisa C.; and Patel, Manish M. demonstrated strong academic influence. Keyword analysis revealed that research in this field primarily focuses on viral molecular characteristics, epidemiological features, and clinical manifestations in children, and is gradually expanding toward disease burden assessment, global prevention and control strategies, and vaccine development. Global research on NoV infections in children has evolved into a Multi-Disciplinary research framework driven by virology, epidemiology, clinical medicine, and public health. Current research focuses primarily on molecular epidemiology and genetic diversity, as well as epidemiological characteristics and outbreak transmission mechanisms, while the assessment of disease burden and the optimization of global prevention and control strategies are gradually emerging as key future research directions. In the future, international collaboration, multicenter surveillance, and interdisciplinary research should be further strengthened to advance research on pediatric NoV infection from describing disease characteristics toward precision surveillance, proactive prevention, and comprehensive control and prevention measures.",
+    "authors": [
+      "Zhengjiu Cui",
+      "Pengchen Wu",
+      "Yuzhu Dou",
+      "Qian Liu",
+      "Qigang Dai",
+      "Bin Yuan"
+    ],
+    "date": "2026-Oct-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902369/",
+    "doi": "10.1016/j.lwt.2021.112169",
+    "journal": "Tropical medicine and health",
+    "score": 0.39,
+    "fetched_at": "2026-10-22"
+  },
+  {
+    "id": "pubmed:42902055",
+    "source": "pubmed",
+    "title": "Hantaviruses as Emerging Zoonotic Pathogens: Molecular Biology, Epidemiology, Therapeutics, vaccine, and Pathogenesis.",
+    "abstract": "Hantaviruses are globally distributed zoonotic pathogens belonging to the family Hantaviridae and are responsible for two major human diseases, hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS). Despite substantial progress in hantavirus research, important challenges remain in understanding the interactions among viral evolution, reservoir ecology, environmental change, transmission dynamics, and host immunopathology. This review provides an integrated One Health perspective that connects molecular virology and host-virus interactions with transmission ecology, global epidemiology, and the mechanisms underlying vascular leakage and severe disease. In addition to summarizing established knowledge, we highlight recent advances in hantavirus taxonomy, genomic and molecular surveillance, ecological and transmission modeling, and the identification of hantavirus circulation in previously underrecognized regions. Particular emphasis is placed on the role of reservoir host dynamics, climate and environmental change, habitat disturbance, and human-wildlife interactions in shaping spillover risk, as well as on endothelial dysfunction, immune dysregulation, and coagulation abnormalities as interconnected mechanisms of disease severity. We also identify persistent knowledge gaps concerning host susceptibility, viral persistence, determinants of differential virulence and tissue tropism, interspecies transmission, and the development of effective antiviral therapies and vaccines. By integrating these complementary perspectives, this review provides a framework for understanding hantavirus emergence and pathogenesis while identifying priorities for future surveillance, prevention, and therapeutic research.",
+    "authors": [
+      "Mohammad Mehdi Akbarin",
+      "Zahra Farjami",
+      "Hugo Ramírez Álvarez"
+    ],
+    "date": "2026-Oct-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902055/",
+    "doi": "10.1080/21645515.2016.1250989",
+    "journal": "Current microbiology",
+    "score": 0.5867,
+    "fetched_at": "2026-10-22"
+  },
+  {
+    "id": "pubmed:42901976",
+    "source": "pubmed",
+    "title": "Genomic and structural insights into the in vivo development of cefiderocol resistance in Klebsiella pneumoniae.",
+    "abstract": "Cefiderocol is a newly developed siderophore-conjugated cephalosporin specifically designed to overcome multidrug-resistant (MDR) Gram-negative bacilli. Nevertheless, reduced susceptibility and resistance to cefiderocol has increasingly been reported, especially derived from alterations in iron transport systems and plasmid-mediated determinants and the expression of structural variants of β-lactamases. Moreover, cefiderocol resistance derived from target alteration remains insufficiently defined. This work aimed to characterize the genomic and structural basis of cefiderocol resistance emerging in vivo during therapy in Klebsiella pneumoniae. Comparative genomics revealed conserved plasmid architecture and no acquisition of novel β-lactamases or iron-uptake determinants. Eighty-two chromosomal variants were identified, among which a missense substitution in ftsI (FtsI G306V), located adjacent to the catalytic serine (S307) of PBP3, emerged as a plausible resistance determinant. Structural modelling suggests that the G306V substitution introduces a significant side-chain volumetric increase, resulting in locally increased steric hindrance within the active-site, possibly impairing cefiderocol interaction with its target. The absence of canonical iron-transport alterations further distinguishes this case from the predominant mechanism described in global molecular epidemiology studies. Large-scale genomic screening revealed a very low prevalence of substitutions affecting ftsI, including in resistance isolates, although possible clonal expansion cannot be ruled out. Our findings align with the broader epidemiological landscape in which cefiderocol resistance is heterogeneous and flexible. Therefore, incorporating analysis of ftsI variants within or proximal to the active-site into genomic surveillance frameworks could improve resistance detection to this last-resort antibiotic. KEY POINTS: • Resistance occurred without alterations in iron-uptake systems or siderophore pathways. • Mutations in FtsI (G306V) and AcrR (E91K) were identified as key candidates. • FtsI G306V is rare across cefiderocol resistant and global K. pneumoniae genomes.",
+    "authors": [
+      "Alexander Tristancho-Baró",
+      "Ana Isabel López-Calleja",
+      "Ana Milagro-Beamonte",
+      "Blanca Fortuño",
+      "Juan Manuel García-Lechuz",
+      "Rosa Martínez",
+      "Ruth Caballero",
+      "Miriam Latorre-Millán",
+      "Laura Clusa",
+      "Lilla Buzgó",
+      "Carmen Torres",
+      "Antonio Rezusta"
+    ],
+    "date": "2026-Jul-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901976/",
+    "doi": "10.1016/j.diagmicrobio.2022.115651",
+    "journal": "Applied microbiology and biotechnology",
+    "score": 0.1413,
+    "fetched_at": "2026-10-22"
+  }
+]
