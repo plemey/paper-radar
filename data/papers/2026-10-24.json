@@ -1,0 +1,211 @@
+[
+  {
+    "id": "pubmed:42912449",
+    "source": "pubmed",
+    "title": "Alignment-Free Tool for Assemblies and Reads in Genomic Surveillance of Tuberculosis.",
+    "abstract": "Whole-genome sequencing strengthens tuberculosis surveillance, but incomplete lineage schemes can misclassify isolates. We developed Pathotypr, an alignment-free tool for assemblies and reads, using 2,145 markers derived from 26,813 genomes. Across 88,071 samples, Pathotypr improved concordance, expanded uncommon lineage coverage, and detected resistance markers, supporting molecular epidemiology and public health surveillance.",
+    "authors": [
+      "Paula Ruiz-Rodriguez",
+      "Mireia Coscollá"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912449/",
+    "doi": "10.3201/eid3211.261074",
+    "journal": "Emerging infectious diseases",
+    "score": 0.3038,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42912439",
+    "source": "pubmed",
+    "title": "Post-COVID-19 Expansion of Streptococcus pyogenes Lineages Causing Toxic Shock Syndrome, Japan, 2023-2024.",
+    "abstract": "We analyzed 919 Streptococcus pyogenes isolates from laboratory-confirmed streptococcal toxic shock syndrome cases in Japan during 2023-2024. Post-COVID-19 resurgence was driven by expansion of M1UK (49.8%) and emerging M113SNPs (37.4%) lineages, replacing ancestral M1global. M113SNPs were associated with younger patient age and higher death rates in unadjusted analyses.",
+    "authors": [
+      "Tadayoshi Ikebe",
+      "Hitoshi Otsuka",
+      "Mari Sasaki",
+      "Takahiro Yamaguchi",
+      "Yoshimi Date",
+      "Yu Kazawa",
+      "Kazuki Saito",
+      "Kaho Ikeda",
+      "Rumi Okuno",
+      "Yukihiro Akeda"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912439/",
+    "doi": "10.3201/eid3211.260336",
+    "journal": "Emerging infectious diseases",
+    "score": 0.3938,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42912421",
+    "source": "pubmed",
+    "title": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025.",
+    "abstract": "In 2025, a respiratory disease outbreak occurred among camels in Kazakhstan. We detected Middle East respiratory syndrome coronavirus by using quantitative reverse transcription PCR in 38 symptomatic camels, demonstrating active circulation in Central Asia. Our findings highlight the need for enhanced surveillance to assess zoonotic transmission risk.",
+    "authors": [
+      "Aidyn Kydyrmanov",
+      "Yermukhammet Kassymbekov",
+      "Sardor Nuralibekov",
+      "Temirlan Sabyrzhan",
+      "Yelizaveta Khan",
+      "Marat Kumar",
+      "Aigerim Abdimadiyeva",
+      "Kobey Karamendin"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912421/",
+    "doi": "10.3201/eid3211.260394",
+    "journal": "Emerging infectious diseases",
+    "score": 0.5032,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42912130",
+    "source": "pubmed",
+    "title": "Can Hantavirus cruise into the next pandemic?",
+    "abstract": "Despite concerns arising from a recent ship-associated outbreak on the M/V Hondius cruise, current evidence suggests that Andes virus (ANDV) poses a low pandemic risk. Nevertheless, viral evolution, ecological changes, and reservoir host dynamics could drive future emergence of ANDV, underscoring the need for improved surveillance, diagnostics, therapeutics, and vaccine preparedness.",
+    "authors": [
+      "Nias Yg Peng",
+      "Alejandro Rojas-Fernandez",
+      "Joshua M Deerain",
+      "Julio Aguado",
+      "Marcio Rt Nunes",
+      "Alberto A Amarilla"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912130/",
+    "doi": "10.1590/0074-02760260231",
+    "journal": "Memorias do Instituto Oswaldo Cruz",
+    "score": 0.5551,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42910934",
+    "source": "pubmed",
+    "title": "Primer: Orbiviruses.",
+    "abstract": "Orbiviruses comprise numerous species and are transmitted by insect vectors. They are non-enveloped viruses with a multilayered capsid and a segmented double-stranded RNA (dsRNA) genome. Bluetongue virus (BTV), the prototype species of the genus Orbivirus, is a significant pathogen of livestock and is widely distributed throughout the world, causing serious periodic outbreaks with substantial economic consequences. Consequently, BTV has been extensively studied as a model orbivirus, resulting in a comprehensive understanding of its molecular epidemiology, genetics, biochemistry, structure, and replication cycle. This includes detailed insights into virus entry into host cells, synthesis of progeny viral components, assembly of new virions, and subsequent cell-to-cell transmission. This review summarizes the current literature on each of these aspects and discusses how this knowledge has been applied to develop novel vaccines against BTV and related orbiviruses. In addition, the review highlights important gaps in our understanding of virus replication within insect vectors, particularly Culicoides biting midges (gnats), at the molecular level. Addressing these gaps will provide valuable insights into orbivirus evolution, transmission, and the emergence of new viral strains.",
+    "authors": [
+      "Polly Roy"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910934/",
+    "doi": "10.1128/jvi.01325-26",
+    "journal": "Journal of virology",
+    "score": 0.4611,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42910725",
+    "source": "pubmed",
+    "title": "Molecular identification and characterization of Streptococcus agalactiae serotype Ia (ST7) associated with streptococcosis outbreaks in farmed tilapia in San Martín, Peru.",
+    "abstract": "Tilapia (genus Oreochromis) contribute significantly to food security and aquaculture development in the Department of San Martín, an administrative region in the Peruvian Amazon. During the final quarter of 2024, an investigation was carried out following reports of infectious disease outbreaks associated with unusually high mortality in farmed tilapia located in the provinces of Mariscal Cáceres and Bellavista. A total of 153 samples were analysed, including 120 broodstock, 24 fry, and 9 juvenile specimens. PCR testing detected Streptococcus agalactiae in at least 1 juvenile sample from each of Farms A and B, representing the first confirmed cases of S. agalactiae associated with the outbreaks. In the hatchery, microbiological analysis of broodstock and fry samples yielded 6 bacterial isolates compatible with Streptococcus spp., which were subsequently confirmed as S. agalactiae by PCR. At Farm C, S. agalactiae was confirmed through PCR, and 3 bacterial isolates (P01, P02, and P03) were recovered and comprehensively characterized. Molecular analyses confirmed all isolates as S. agalactiae. Further characterization identified serotype Ia using conventional PCR and sequence type ST7 through multilocus sequence typing (MLST). Three representative isolates obtained from diseased juvenile tilapia were further characterized by whole-genome sequencing and MLST analysis, confirming their classification as S. agalactiae serotype Ia sequence type ST7. Clinical signs observed during the outbreaks included erratic swimming, lethargy, exophthalmos, fin erosion, and hepatic alterations, consistent with streptococcosis. This study represents the first molecular characterization of S. agalactiae serotype Ia ST7 associated with streptococcosis outbreaks in farmed tilapia in Peru.",
+    "authors": [
+      "Anghela V Mogollón-Calderón",
+      "Francisco M Ulloa-Stanojlovic",
+      "Stephanie Tapia-Chirinos",
+      "Carlos A Yong-Rojas",
+      "Katherine Zapata Lovera",
+      "José Rodríguez-Callan",
+      "Rodolfo Velazco-Peña",
+      "Marco C Medina Morillo",
+      "Vanessa Quevedo-Alvarado",
+      "Muriel Gómez-Sánchez Orezzoli"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910725/",
+    "doi": "10.3354/dao03938",
+    "journal": "Diseases of aquatic organisms",
+    "score": 0.3045,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42909907",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and resistance mechanisms of carbapenem-resistant Gram-negative bacilli in a referral hospital in Lima, Peru.",
+    "abstract": "Carbapenem-resistant Gram-negative bacilli (CR-GNB) represent a significant public health threat, as they are associated with high mortality in healthcare settings. Carbapenemase production is the predominant resistance mechanism, and horizontal gene transfer drives the rapid dissemination of antimicrobial resistance (AMR). This study aimed to characterize the phenotypic and genotypic AMR profiles of CR-GNB isolated from patients at Arzobispo Loayza National Hospital (Lima, Peru) between October 2021 and January 2022. We conducted a cross-sectional study and collected clinical and epidemiological data from patients with bacterial infections. MALDI-TOF identified pathogens, and antimicrobial susceptibility was interpreted according to CLSI guidelines. A subset of isolates underwent whole-genome sequencing (Illumina) to determine genomic resistance markers. A total of 159 patients were included (median age = 54 years; 66.7% male); 72.3% had confirmed clinical infections, and 66% were admitted to the ICU. The most frequent infection types were pneumonia, urinary tract infection and bacteraemia. Overall, 97.5% of isolates were classified as XDR. Carbapenem resistance approached 100% (imipenem 99.4%, meropenem 98.7%). Whole-genome data revealed clonal diversity among Klebsiella pneumoniae (ST13/ST15) carrying bla NDM-1; Acinetobacter baumannii uniformly harboured bla OXA-23; and Pseudomonas aeruginosa included high-risk clones ST357 (bla IMP-93) and ST111 (bla IMP-18, bla VIM-2). These findings demonstrate a critical burden of XDR-GNB and the presence of multiple carbapenemases (NDM, IMP, KPC and VIM) associated with clinically relevant high-risk lineages. Strengthening molecular surveillance, optimizing antimicrobial stewardship and reinforcing infection-control measures are urgently needed to contain CR-GNB in critical-care settings in Peru.",
+    "authors": [
+      "Eddie Angles-Yanqui",
+      "Katherine Yauri-Condor",
+      "Jorge Velásquez-Pomar",
+      "Rosa Hernandez-Hernandez",
+      "Angel Salazar",
+      "Pamela Yañez",
+      "Diana Flores-Leon",
+      "Ronnie G Gavilan"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909907/",
+    "doi": "10.1093/jacamr/dlag236",
+    "journal": "JAC-antimicrobial resistance",
+    "score": 0.2572,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42909479",
+    "source": "pubmed",
+    "title": "High",
+    "abstract": "Using fluorescently labeled African Swine Fever Virus (ASFV) strains, a high (~0.2) quasi-recombinant frequency (qRF3-4) was detected ex vivo during 3-4 replication cycles in naïve porcine alveolar macrophages (PAM). While co-infection and recombination frequencies remained low in PAM, they increased sharply between the second and fourth viral cycles. Infection multiplicity and synchronicity significantly influenced ASFV recombination frequency, which correlated positively with genetic distance. Crossing the ASFV/Lv17/WB/Rie1 mutants yielded a saturation curve resembling the Haldane mapping function, plateauing at ~20% recombination frequency at 160 kbp. Crossing less homologous strains (ASFV/Lv17/WB/Rie1 × ASFV/NHV/P68) reduced the recombination frequency; however, at large marker distances (140 kbp), it approached values (0.18) observed in homologous strains. A novel mathematical model estimated the average co-infection rate to be 0.47 after three viral cycles. Empirical application of the model revealed that 1 centimorgan translates to ~550-1650 bp, meaning offspring virions from a single cell undergo an average of 1.15-3.45 recombination events. This high recombination rate is consistent with in vivo observations and has critical implications for ASFV prevention and vaccination strategies. Such genomic plasticity can facilitate rapid viral evolution, potentially undermining the efficacy of live-attenuated vaccines globally.",
+    "authors": [
+      "István Mészáros",
+      "Ferenc Olasz",
+      "István Miklós",
+      "Eszter Göltl",
+      "Barbara Oláh",
+      "Zoltán Zádori"
+    ],
+    "date": "2026-Dec-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909479/",
+    "doi": "10.1080/01652176.2026.2740247",
+    "journal": "The veterinary quarterly",
+    "score": 0.3894,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42908697",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and geographic distribution of",
+    "abstract": "Theileriosis is endemic in Central Asia; however, the geographic distribution and genetic diversity of Theileria spp. in livestock in Kazakhstan remain poorly characterized. This study aimed to determine the occurrence, geographic distribution, and genetic diversity of Theileria spp. in cattle and sheep in Kazakhstan. Blood samples from 6,224 cattle from 172 settlements across all 17 provinces of Kazakhstan and 1,467 sheep from 52 settlements in five southern provinces were collected during July-August 2022 and 2023. Samples were screened using a genus-level PCR targeting the 28S ribosomal RNA (28S rRNA) gene, followed by bidirectional sequencing for species identification. Selected T. orientalis-positive samples were further characterized by major piroplasm surface protein (MPSP) genotyping. Among cattle, 2,142 out of 6,224 (34.4%) tested positive by PCR for at least one species of Theileria. Theileria annulata, T. orientalis, and T. sinensis were detected in 27.1, 15.1, and 0.5% of cattle, respectively. The simultaneous detection of two or three species of Theileria was recorded in 508 of 2,142 (23.7%) PCR-positive cattle. Theileria orientalis was detected in all 17 surveyed provinces, T. annulata in 16, and T. sinensis in five. MPSP analysis identified T. orientalis genotypes 1 (\"Chitose\"), 2 (\"Ikeda\"), and 3 (\"Buffeli\"). Among sheep, 169 out of 1,467 (11.5%) tested positive by PCR; T. ovis, Theileria sp. genotype OT3, and T. annulata were detected in 5.5, 4.4, and 2.6% of the animals examined, respectively. T. orientalis genotype 2 (\"Ikeda\"), T. sinensis, and Theileria sp. genotype OT3 were detected in Kazakhstan for the first time. The study demonstrated a widespread but geographically heterogeneous detection of Theileria species among sampled cattle across Kazakhstan and enabled the first molecular characterization of infections caused by Theileria species in sheep in that country. The detection of T. orientalis genotype 2 (\"Ikeda\"), T. sinensis, and Theileria sp. genotype OT3 expands the known diversity of Theileria species circulating in Central Asia. Since sampling was not conducted on a probabilistic basis, the observed PCR positivity should not be interpreted as representative of Theileria prevalence in the national livestock population. The data obtained serve as a starting point for targeted molecular surveillance of livestock and their associated tick vectors.",
+    "authors": [
+      "Kassym Mukanov",
+      "Alexander Ostrovskii",
+      "Dinara Kamalova",
+      "Anara Ryskeldina",
+      "Amirkhan Kassen",
+      "Maxat Berdikulov",
+      "Sarsenbay Abdrakhmanov",
+      "Alexandr Shevtsov",
+      "Christian Bauer"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908697/",
+    "doi": "10.1016/j.ijppaw.2019.05.005",
+    "journal": "Frontiers in veterinary science",
+    "score": 0.2781,
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "id": "pubmed:42905897",
+    "source": "pubmed",
+    "title": "Molecular Prevalence and Genotype Detection of Babesia microti in Multiple Wild Rodent Species and Suncus murinus From Subtropical Mountainous Regions of South-Central Zhejiang, China.",
+    "abstract": "Human babesiosis, an emerging zoonosis with ongoing geographic expansion, is primarily caused by Babesia microti, a tick-borne apicomplexan parasite that resides within host erythrocytes. While small mammals serve as its recognized reservoir hosts, the relative contribution of sympatric wild rodents and shrews in subtropical mountain endemic areas of Eastern China remains poorly characterized. In South-central Zhejiang, an endemic focus of human babesiosis, systematic data on local small-mammal hosts remain limited. In this study, 630 small mammals, comprising six rodent species and the shrew Suncus murinus, were captured across six counties in Zhejiang Province of China. Host identity was confirmed by morphological examination and mitochondrial cytochrome b (cytb) barcoding. Whole-blood DNA was screened for B. microti by TaqMan real-time quantitative PCR (qPCR); positive specimens were further analyzed by nested PCR (NPCR) targeting the 18S rRNA gene, followed by sequencing for genotype identification. The overall qPCR-positive rate was 3.0% (19/630). Geographically, B. microti infections were detected in four out of six surveyed counties, with Jinyun County showing the highest prevalence of 6.9%, followed by Qingyuan (4.0%), Wencheng (3.2%), and Qingtian (3.0%); no positive samples were identified in the Yunhe and Jingning counties. Among the sampled species, Niviventer lotipes showed the highest prevalence (11.7%, 12/103), followed by S. murinus (3.8%, 2/52), Alexandromys fortis (3.7%, 3/81), Apodemus agrarius (1.0%, 1/99), and Rattus norvegicus (0.5%, 1/222). No positive results were detected in R. tanezumi (n = 62) or Leopoldamys edwardsi (n = 11). Fifteen of the 19 samples yielded positive amplification by NPCR and were successfully sequenced. All 15 sequenced isolates were assigned to the Kobe genotype and exhibited close genetic relatedness to previously reported local human-derived and tick-derived strains. The dominance of a single haplotype (n = 14) across host species and counties indicates genetically homogeneous circulation of the Kobe genotype within local small-mammal communities, with host species rather than sampling county as the significant determinant of infection risk. These findings suggest that N. lotipes may be an important reservoir host in this region, and shrews may represent understudied secondary hosts, supporting the inclusion of both rodents and shrews in regional babesiosis surveillance.",
+    "authors": [
+      "Jie Xu",
+      "Jia-Qi Zhang",
+      "Jian-Feng Zhang",
+      "Yan Feng",
+      "Xuan Zhang",
+      "Wen-Jie Xu",
+      "Xiao-Xiao Wang",
+      "Ji-Min Sun",
+      "Wei Ruan"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905897/",
+    "doi": "10.1155/tbed/9501371",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.3747,
+    "fetched_at": "2026-10-24"
+  }
+]

@@ -1972,6 +1972,26 @@
     "fetched_at": "2026-08-29"
   },
   {
+    "id": "pubmed:42912130",
+    "source": "pubmed",
+    "title": "Can Hantavirus cruise into the next pandemic?",
+    "abstract": "Despite concerns arising from a recent ship-associated outbreak on the M/V Hondius cruise, current evidence suggests that Andes virus (ANDV) poses a low pandemic risk. Nevertheless, viral evolution, ecological changes, and reservoir host dynamics could drive future emergence of ANDV, underscoring the need for improved surveillance, diagnostics, therapeutics, and vaccine preparedness.",
+    "authors": [
+      "Nias Yg Peng",
+      "Alejandro Rojas-Fernandez",
+      "Joshua M Deerain",
+      "Julio Aguado",
+      "Marcio Rt Nunes",
+      "Alberto A Amarilla"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912130/",
+    "doi": "10.1590/0074-02760260231",
+    "journal": "Memorias do Instituto Oswaldo Cruz",
+    "score": 0.5551,
+    "fetched_at": "2026-10-24"
+  },
+  {
     "id": "pubmed:42759431",
     "source": "pubmed",
     "title": "Real-time forecasting of porcine reproductive and respiratory syndrome virus type 2 genetic variant expansion in the field.",
@@ -2994,6 +3014,28 @@
     "fetched_at": "2026-09-07"
   },
   {
+    "id": "pubmed:42912421",
+    "source": "pubmed",
+    "title": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025.",
+    "abstract": "In 2025, a respiratory disease outbreak occurred among camels in Kazakhstan. We detected Middle East respiratory syndrome coronavirus by using quantitative reverse transcription PCR in 38 symptomatic camels, demonstrating active circulation in Central Asia. Our findings highlight the need for enhanced surveillance to assess zoonotic transmission risk.",
+    "authors": [
+      "Aidyn Kydyrmanov",
+      "Yermukhammet Kassymbekov",
+      "Sardor Nuralibekov",
+      "Temirlan Sabyrzhan",
+      "Yelizaveta Khan",
+      "Marat Kumar",
+      "Aigerim Abdimadiyeva",
+      "Kobey Karamendin"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912421/",
+    "doi": "10.3201/eid3211.260394",
+    "journal": "Emerging infectious diseases",
+    "score": 0.5032,
+    "fetched_at": "2026-10-24"
+  },
+  {
     "id": "pubmed:42655667",
     "source": "pubmed",
     "title": "Sheeppox and Goatpox: Molecular Epidemiology, Phylogeny and Transmission Patterns.",
@@ -3952,6 +3994,21 @@
     "fetched_at": "2026-08-23"
   },
   {
+    "id": "pubmed:42910934",
+    "source": "pubmed",
+    "title": "Primer: Orbiviruses.",
+    "abstract": "Orbiviruses comprise numerous species and are transmitted by insect vectors. They are non-enveloped viruses with a multilayered capsid and a segmented double-stranded RNA (dsRNA) genome. Bluetongue virus (BTV), the prototype species of the genus Orbivirus, is a significant pathogen of livestock and is widely distributed throughout the world, causing serious periodic outbreaks with substantial economic consequences. Consequently, BTV has been extensively studied as a model orbivirus, resulting in a comprehensive understanding of its molecular epidemiology, genetics, biochemistry, structure, and replication cycle. This includes detailed insights into virus entry into host cells, synthesis of progeny viral components, assembly of new virions, and subsequent cell-to-cell transmission. This review summarizes the current literature on each of these aspects and discusses how this knowledge has been applied to develop novel vaccines against BTV and related orbiviruses. In addition, the review highlights important gaps in our understanding of virus replication within insect vectors, particularly Culicoides biting midges (gnats), at the molecular level. Addressing these gaps will provide valuable insights into orbivirus evolution, transmission, and the emergence of new viral strains.",
+    "authors": [
+      "Polly Roy"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910934/",
+    "doi": "10.1128/jvi.01325-26",
+    "journal": "Journal of virology",
+    "score": 0.4611,
+    "fetched_at": "2026-10-24"
+  },
+  {
     "id": "pubmed:42837529",
     "source": "pubmed",
     "title": "Enriching Public Pathogen Genomic Records With Patient Metadata: Quantitative Study and Exploratory Case Analysis.",
@@ -4478,69 +4535,5 @@
     "doi": "10.1016/j.clinmicnews.2015.07.004",
     "score": 0.4262,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42713834",
-    "source": "pubmed",
-    "title": "Molecular Epidemiology and Phylogenetic Analysis of HTLV-1 in HIV-1-infected Patients in Tehran, Iran.",
-    "abstract": "Human T-lymphotropic virus 1 (HTLV-1) and Human Immunodeficiency Virus 1 (HIV-1) can be transmitted through similar routes, so co-infection may occur, especially in endemic regions. Since there is limited data on this co-infection, its genotypes, and genetic variations in Iran, we aimed to investigate HTLV-1/HIV-1 co-infection to gain a better understanding of its epidemiology. Whole blood and plasma of 282 HIV-1-infected patients were sampled in Tehran, Iran. Briefly, plasma samples were used to investigate HTLV I/II antibody seroprevalence by ELISA, and PBMCs were used for molecular analysis of Tax, LTR, and ENV regions. Then, amplified LTR and ENV were subjected to sequencing, phylogenetic analysis, and variation determination. Out of 282 HIV-1-infected individuals (31.9% female and 68.1% male, with a mean age of 43.80 ± 11.25), 6 samples (2.1%) were seropositive, and provirus was detected in 2 samples (0.7%). Both samples belonged to HTLV-1aTC, and after genetic variation analysis for both LTR and ENV regions, the ENV region displayed 6 and 7 point mutations in each isolate, respectively, relative to the ATK HTLV-1 prototype, with 5 and 4 of these mutations being nonsynonymous. Analysis of the LTR region identified 8 mutations in each isolate, comprising 7 point mutations and one deletion. This survey confirms the prevalence of HTLV-1 among people living with HIV-1, highlighting the need for ongoing monitoring of this population. Additionally, the findings in this study indicate that HTLV-1aTC is predominant among the studied population, consistent with previous reports worldwide, and nucleotide variations are present in both investigated HTLV-1 regions.",
-    "authors": [
-      "Sahel Abyar",
-      "Seyed Reza Mohebbi",
-      "Seyed Masoud Hosseini",
-      "Shabnam Kazemian",
-      "Amir Sadeghi",
-      "Mohammad Reza Zali"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42713834/",
-    "doi": "10.1002/jmv.71107",
-    "journal": "Journal of medical virology",
-    "score": 0.4254,
-    "fetched_at": "2026-09-09"
-  },
-  {
-    "id": "pubmed:42734806",
-    "source": "pubmed",
-    "title": "Nanopore Sequencing for Chikungunya Virus: Principles and Application.",
-    "abstract": "Nanopore sequencing is transforming viral genomics through real-time, portable, long-read analysis of RNA and DNA. Unlike traditional short-read platforms, it detects nucleotide sequences by measuring ionic current changes as nucleic acids pass through nanoscale pores, enabling direct single-molecule sequencing and base modification detection. Its simplicity, flexibility, and capacity for ultra-long reads make it ideal for resolving complex genomic regions, structural variants, and full viral genomes. These advantages have accelerated its use in pathogen surveillance and outbreak response, especially in resource-limited settings. For chikungunya virus (CHIKV), nanopore sequencing allows rapid, culture-independent recovery of complete genomes from clinical and vector samples, enabling real-time tracking of viral diversity, evolution, and spread. Experiences from Ebola, Zika, and COVID-19 have demonstrated the power of portable sequencing, now applied to CHIKV monitoring. Advances in tools such as Guppy, Dorado, Minimap2, and Medaka enhance read quality, consensus accuracy, and downstream analyses. Despite challenges in basecalling and error correction, robust quality control pipelines ensure reliable results. Ongoing improvements in chemistry, flow cell design, and machine learning will further enhance fidelity and throughput, establishing nanopore sequencing as a cornerstone of CHIKV genomic surveillance and epidemic preparedness.",
-    "authors": [
-      "Talita Émile Ribeiro Adelino",
-      "Joilson Xavier",
-      "Vagner Fonseca",
-      "Marta Giovanetti"
-    ],
-    "date": "2027-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42734806/",
-    "doi": "10.1038/s41588-022-01033-y",
-    "journal": "Methods in molecular biology (Clifton, N.J.)",
-    "score": 0.4241,
-    "fetched_at": "2026-09-15"
-  },
-  {
-    "id": "pubmed:42654988",
-    "source": "pubmed",
-    "title": "Molecular Epidemiology and Genetic Characterization of Feline Panleukopenia Virus among Clinically Suspected Domestic Cats in Tamil Nadu, India.",
-    "abstract": "Feline panleukopenia virus (FPV) causes feline panleukopenia (FP), a highly contagious and often fatal disease in domestic cats. This study investigated FPV detection, associated epidemiological factors, and partial VP2 genetic characteristics among clinically suspected cats presented in Chennai, Tamil Nadu, India. Exploratory molecular docking was also performed to compare predicted VP2-transferrin receptor type-1 interactions in feline and canine systems. FPV DNA was detected in 83 of 180 clinically suspected cats (46.11%). Multivariable analysis revealed higher odds of FPV PCR positivity in female cats than in male cats (aOR: 2.65; 95% CI: 1.35-5.21) and lower odds in vaccinated cats than in unvaccinated cats (aOR: 0.41; 95% CI: 0.17-0.97). Compared with summer, higher odds were observed during the southwest monsoon (aOR: 3.59; 95% CI: 1.26-10.20) and northeast monsoon (aOR: 17.11; 95% CI: 3.86-75.80), whereas age group and breed were not significantly associated with PCR positivity. FPV was successfully isolated from four of the ten PCR-positive clinical samples inoculated onto CRFK cells. Partial VP2 sequencing of 13 PCR-positive samples showed 98.1-98.5% nucleotide identity with the vaccine reference strain and identified several nucleotide and amino acid substitutions. Most study sequences clustered with Indian FPV reference strains, whereas one sequence clustered separately within the carnivore parvovirus grouping. Molecular docking of the (TfR1-VP2 interaction identified differences in the predicted interaction patterns between feline and canine complexes, with the feline complex exhibiting a more favourable ZRANK score. However, these findings represent computational predictions and require experimental validation. Overall, the study highlights the circulation of genetically diverse FPV strains in southern India and underscores the importance of continued surveillance and molecular characterization to support disease monitoring and control strategies.",
-    "authors": [
-      "Raja Paramasivam",
-      "Ravi Vijayalakshmi",
-      "Mani Saminathan",
-      "Manoharan Parthiban",
-      "Vivekanandan Vinitha",
-      "Munisamy Chandrasekar",
-      "Viswanathan Naveenkumar",
-      "Aswathy Nair",
-      "Farnaz Nabiya",
-      "Swetha Saravanan",
-      "Dhananchezhiyan Sekar",
-      "Gopal Dhinakar Raj"
-    ],
-    "date": "2026-Jul-27",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654988/",
-    "doi": "10.3390/microorganisms14081642",
-    "journal": "Microorganisms",
-    "score": 0.424,
-    "fetched_at": "2026-08-28"
   }
 ]
