@@ -2976,6 +2976,45 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42914001",
+    "source": "pubmed",
+    "title": "Molecular epidemiological characteristics and pathogenicity of Chinese PRRSV-2 L1B sublineage strains in piglets.",
+    "abstract": "PRRSV evolves through mutation and recombination during circulation, contributing to the emergence and spread of genetically diverse lineages. Among these, the PRRSV-2 L1B sublineage has been detected in multiple countries, but its molecular epidemiology and pathogenicity remain poorly characterized. We investigated the molecular epidemiology of L1B PRRSV in China and assessed its pathogenicity in piglets. L1B strains were detected in multiple Chinese provinces. Phylogenetic analysis based on the ORF5 sequences revealed that all Chinese L1B PRRSV strains cluster within the L1B sublineage of PRRSV-2. These strains harbor a 131-amino-acid discontinuous deletion (111+1+19) in the Nsp2 protein and carry cluster-associated amino acid substitutions at positions 137 and 178 of the GP5 protein. Whole-genome analysis revealed that Chinese L1B strains possess complex genetic backgrounds, likely arising from recombination between indigenous circulating strains (NADC30-like and HP-PRRSV) and the introduced L1B strains. Animal challenge experiments demonstrated that inoculation with the representative isolate TZJ2547 induced clinical symptoms including fever, coughing, and decreased feed intake, accompanied by persistent viremia, high viral RNA loads in multiple tissues, and pathological lesions in the lungs and lymphoid tissues. These findings indicate that TZJ2547 exhibits moderate pathogenicity in the challenged piglets. This study characterizes the epidemiological distribution, genomic characteristics, and recombination profile of L1B PRRSV in China. To the best of our knowledge, this study reports the first systematic pathogenicity evaluation of a Chinese L1B PRRSV isolate in piglets. Collectively, these findings provide fundamental data to inform the surveillance and control of this viral sublineage.",
+    "authors": [
+      "Jinhao Li",
+      "Jiahao Shi",
+      "Haitao Qi",
+      "Xueli Zhang",
+      "Chao Li",
+      "Bangjun Gong",
+      "Zhenyang Guo",
+      "Zixuan Feng",
+      "Haonan Kang",
+      "Ziyu Song",
+      "Gaijie Wang",
+      "Tianze Chen",
+      "Shaochong Yang",
+      "Ailin Dong",
+      "Yan-Dong Tang",
+      "Lirun Xiang",
+      "Kuan Zhao",
+      "Qian Wang",
+      "Jinmei Peng",
+      "Guohui Zhou",
+      "Tongqing An",
+      "Xuehui Cai",
+      "Zhi-Jun Tian",
+      "Hu Xu",
+      "Hongliang Zhang"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42914001/",
+    "doi": "10.1016/j.tvjl.2026.106944",
+    "journal": "Veterinary journal (London, England : 1997)",
+    "score": 0.5045,
+    "fetched_at": "2026-10-24"
+  },
+  {
     "id": "pubmed:42560031",
     "source": "pubmed",
     "title": "Oncogenic viruses in the genomic era: Integration, instability, and cancer evolution.",
@@ -4460,6 +4499,26 @@
     "fetched_at": "2026-09-02"
   },
   {
+    "id": "pubmed:42920182",
+    "source": "pubmed",
+    "title": "Clonal, regionally clustered spread-rather than vertical transmission-explains surges in fluoroquinolone‑resistant Campylobacter jejuni in Finnish broilers.",
+    "abstract": "Campylobacter jejuni is a major zoonotic foodborne pathogen, with poultry recognized as an important reservoir for human infection. Although antimicrobial use in Finnish broiler production is minimal, sporadic increases in fluoroquinolone- and tetracycline-resistant C. jejuni have been detected. We investigated the population structure, antimicrobial resistance, and transmission pathways of C. jejuni in Finnish poultry production. A total of 333 C. jejuni isolates collected from breeder (n = 145) and broiler (n = 188) flocks during 2014-2019 were characterized using whole-genome sequencing, antimicrobial resistance profiling, multilocus sequence typing (MLST), core-genome MLST (cgMLST), and phylogenomic analysis. Resistance to fluoroquinolones and tetracycline was concentrated in specific years and was strongly associated with particular lineages, especially ST-206 clonal complex (CC), whereas the predominant ST-45 CC was largely susceptible. Genomic clustering identified several resistant clones circulating among geographically proximate broiler farms, indicating regional horizontal dissemination. Resistant isolates from breeders were uncommon, and no genomic evidence supported vertical transmission of resistant strains from breeder to broiler flocks. Instead, resistance peaks were primarily attributable to clonal expansion of successful resistant lineages. Transient increases in fluoroquinolone- and tetracycline-resistant C. jejuni in Finnish broiler production were driven mainly by regional clonal horizontal spread rather than vertical transmission from breeders to broilers. These findings highlight the value of genomic surveillance for detecting and tracking antimicrobial-resistant Campylobacter lineages and support the integration of molecular epidemiology into poultry surveillance and control programmes.",
+    "authors": [
+      "Anniina Jaakkonen",
+      "Aava Marte",
+      "Päivikki Perko-Mäkelä",
+      "Hannele Nauholz",
+      "Satu Olkkola",
+      "Rauni Kivistö"
+    ],
+    "date": "2026-Oct-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920182/",
+    "doi": "10.1136/vr.104823",
+    "journal": "Acta veterinaria Scandinavica",
+    "score": 0.4329,
+    "fetched_at": "2026-10-24"
+  },
+  {
     "id": "pubmed:42646672",
     "source": "pubmed",
     "title": "Equity and Pandemic Influenza Vaccine Response: The PIP Framework as a Model for an Efficient Pandemic Influenza Response Through Equitable Vaccine Access.",
@@ -4495,45 +4554,5 @@
     "doi": "10.1002/vms3.70815",
     "score": 0.4321,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42703469",
-    "source": "pubmed",
-    "title": "Molecular characterization of peste des petits ruminants virus in small ruminants from the Savannah District, Northern Ivory Coast.",
-    "abstract": "Objectives: Peste des petits ruminants (PPR) is a highly contagious viral disease affecting sheep and goats, with significant socio-economic consequences. The disease is endemic in the Ivory Coast; molecular data on circulating strains, particularly in the northern Savannah district, remain limited. This study aimed to characterize the PPR virus (PPRV) strains circulating among sheep and goats in this area. Materials and Methods: A total of 355 nasal swabs were collected from unvaccinated small ruminants, regardless of clinical status, across three regions of the Savannah district (Poro, Tchologo, and Bagoué). Viral ribonucleic acid (RNA) was extracted and screened using real-time reverse transcription polymerase chain reaction (RT-qPCR) targeting the nucleoprotein (N) gene of PPRV, followed by conventional RT-PCR (RT-cPCR). Positive amplicons were sequenced using the Sanger method, and phylogenetic analysis was performed with PhyML and edited in MEGA X software. Results: Out of 355 samples analyzed, 25 (7%) tested positive by RT-qPCR, and 17 of these were amplified by RT-cPCR for nucleotide sequencing. Ten sequences were of sufficient quality for phylogenetic analysis. All sequences described in this study clustered within lineage IV of PPRV and shared high nucleotide identity (96-98%) with previously described West African PPRV strains. Phylogenetic reconstruction revealed two distinct sub-clusters, suggesting possible multiple viral introductions, likely facilitated by uncontrolled transboundary livestock movements. Conclusions: This study provides the first molecular evidence of PPRV circulation in the Savannah district, confirming the dominance of lineage IV. The findings underscore the need for enhanced molecular surveillance and cross-border collaboration to inform regional vaccination and eradication efforts.",
-    "authors": [
-      "Konan Ange-Sylvestre Goli",
-      "Aristide Anicet Zobo",
-      "Augustino Alfred Chengula",
-      "Melvyn Quan",
-      "Benjamin Kiffopan M'Bari",
-      "Mariam Makange",
-      "Jean Nepomuscene Hakizimana",
-      "Peter Thompson",
-      "Gerald Misinzo"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42703469/",
-    "doi": "10.1007/978-3-030-25385-1_3",
-    "journal": "Journal of advanced veterinary and animal research",
-    "score": 0.4318,
-    "fetched_at": "2026-09-07"
-  },
-  {
-    "id": "pubmed:42579070",
-    "source": "pubmed",
-    "title": "Ebola virus disease in the modern era: pathogenesis, therapeutic advances, vaccine strategies, and global health preparedness.",
-    "abstract": "Ebola virus disease (EVD) remains one of the most severe and complex viral hemorrhagic fevers confronting global public health systems. Since its first recognized emergence in 1976, recurrent outbreaks caused primarily by Zaire ebolavirus have demonstrated the extraordinary epidemic potential of filoviruses, particularly in regions with fragile healthcare infrastructure. The unprecedented West African epidemic of 2013-2016 fundamentally altered scientific understanding of Ebola virus transmission, pathogenesis, clinical progression, and outbreak management. Subsequent outbreaks in the Democratic Republic of Congo and Uganda have further emphasized the persistent risk posed by Ebola virus disease despite advances in diagnostics, therapeutics, and vaccination strategies. Ebola virus infection is characterized by extensive immune dysregulation, aberrant inflammatory responses, endothelial dysfunction, coagulopathy, and progressive multiorgan injury. Recent studies have significantly expanded understanding of viral persistence, post-Ebola syndrome, host immune responses, and mechanisms of viral immune evasion. Parallel developments in molecular diagnostics, genomic surveillance, monoclonal antibody therapy, and recombinant vaccine platforms have substantially improved survival outcomes and epidemic control measures. Although India has not experienced endemic Ebola outbreaks, globalization and increasing international mobility have heightened the possibility of imported infections, necessitating robust preparedness frameworks. Following the West African epidemic, India strengthened airport surveillance, laboratory biosafety capacity, integrated disease surveillance systems, and emergency outbreak-response protocols. However, substantial challenges remain regarding rapid diagnostics, healthcare infrastructure, biosafety training, and public awareness. This review critically examines current advances in Ebola virus epidemiology, molecular biology, pathogenesis, clinical manifestations, diagnostics, therapeutics, vaccine development, and public health preparedness, with particular emphasis on implications for India and future global health security.",
-    "authors": [
-      "Dola Sundeep",
-      "Kovuri Umadevi",
-      "Jaweria Masood",
-      "Nayanika Tummala"
-    ],
-    "date": "2026-Aug-11",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42579070/",
-    "doi": "10.1016/j.clinmicnews.2015.07.004",
-    "score": 0.4262,
-    "fetched_at": "2026-08-13"
   }
 ]
