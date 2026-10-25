@@ -1,0 +1,248 @@
+[
+  {
+    "id": "pubmed:42926962",
+    "source": "pubmed",
+    "title": "THRESHER: A tool for evidence-based, phylogeny-corrected SNP thresholds for whole genome molecular epidemiology.",
+    "abstract": "Whole-genome sequencing (WGS) is the gold standard for bacterial pathogen surveillance, where transmission is commonly inferred by calculating pairwise single nucleotide polymorphisms (SNPs) and applying a fixed threshold below which two genomes are considered the \"same\" strain. Such cutoffs are largely arbitrary. The relationship between genetic distance and epidemiological linkage varies with sample size, sampling duration, setting, and patterns of infection and carriage. A threshold calibrated in one study may not transfer to another. To address this, we present THRESHER, a pipeline that infers data-driven phylothresholds directly from each dataset's genomic structure. THRESHER implements four endpoint methods, plateau, public, peak , and discrepancy , with each reflecting a distinct hypothesis about what constitutes the \"sameness\" of a strain. Across 55 published datasets spanning Staphylococcus aureus, Clostridioides difficile , and Klebsiella pneumoniae , THRESHER reproduced the originally reported strain compositions in smaller studies. In larger studies, where the two diverged, SNP distances and phylogenetic topology supported THRESHER's assignments. In simulated populations with known strain structure, THRESHER recovered transmission clusters with substantially higher sensitivity than fixed cutoffs while retaining high specificity.",
+    "authors": [
+      "Qianxuan She",
+      "Andries Feder",
+      "Erin Theiller",
+      "Joseph P Zackular",
+      "Ahmed M Moustafa",
+      "Paul J Planet"
+    ],
+    "date": "2026-Oct-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926962/",
+    "doi": "10.64898/2026.10.07.26364951",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "score": 0.3869,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926885",
+    "source": "pubmed",
+    "title": "Neonatal mpox in Pakistan: a case study in infection prevention and control gaps and opportunities for improvement.",
+    "abstract": "In 2026, a cluster of neonatal deaths from mpox clade Ib was identified in Khairpur, Sindh, marking Pakistan's first pediatric mpox mortality and its first detection of clade Ib. The country had previously recorded only imported clade IIb cases. The cluster mirrors earlier iatrogenic pediatric human immunodeficiency virus (HIV) outbreaks in Ratodero, Mirpur Khas, and Taunsa, and recurrent nosocomial Crimean-Congo hemorrhagic fever (CCHF) outbreaks. A structured comparative clinical and case review reports analysis of six infectious disease outbreaks in Pakistan (2019-2026) was conducted. Peer-reviewed literature was identified through PubMed, Scopus, and Google Scholar (January 2021-September 2026) using outbreak-specific terms combined with \"Pakistan,\" \"iatrogenic,\" \"nosocomial,\" \"infection prevention and control,\" and \"International Health Regulations (IHR).\" Gray literature was retrieved from World Health Organization (WHO) country and joint-mission reports, Pakistan's National Institutes of Health advisories, provincial acquired immunodeficiency syndrome control program dashboards, ProMED-mail, and named journalistic investigations where peer-reviewed evidence was not yet available. Outbreaks were compared against IHR 2005 core capacities and the tripartite One Health framework. Infection prevention and control (IPC) failures were assessed by cross-referencing outbreak reports with WHO minimum IPC requirements and the 2025 IPC Assessment Framework assessments in Sindh. Across the six outbreaks, more than 2050 children were affected between 2019 and 2026. The Khairpur cluster (26 confirmed cases, 50% infants under six months, eight neonates) is consistent with maternal-infant vertical transmission and healthcare-associated amplification, not with adult sexual networks. A separate Karachi cluster (n = 8) demonstrated sustained human-to-human transmission from an index case with recent travel to Central Africa. Points-of-entry syndromic screening missed clade Ib because concealed lesions evade visual assessment. Cross-cutting failures include syringe reuse by unregulated practitioners, driving pediatric HIV; personal protective equipment and isolation shortfalls causing fatal nosocomial CCHF among staff each Eid-ul-Azha; and absent integrated One Health surveillance. The 2026 neonatal deaths reflect unreformed clinical practice, not a novel pathogen. Priorities include enforceable provincial IPC audits, a ban on unregulated practitioners, molecular-epidemiology-linked points-of-entry surveillance, a clinical pathway for mpox in pregnancy and in neonates, regional-language risk communication, and Modified Vaccinia Ankara - Bavarian Nordic for Mpox and antiviral stockpiling.",
+    "authors": [
+      "Mariyam Sarfraz",
+      "Nadia Noreen",
+      "Nasim Akhtar"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926885/",
+    "doi": "10.1002/uog.24968",
+    "journal": "IJID regions",
+    "score": 0.3757,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926754",
+    "source": "pubmed",
+    "title": "Molecular evidence of a dominant multidrug resistant",
+    "abstract": "Acinetobacter baumannii is a major nosocomial pathogen because of its genomic plasticity and capacity to acquire multidrug resistance (MDR), particularly resistance to carbapenems. The World Health Organization classifies carbapenem-resistant A. baumannii as a critical-priority pathogen. Molecular epidemiological data from Latin America remain limited, especially for northern Peru. Drug-resistant A. baumannii isolates collected between 2015 and 2021 at a tertiary referral hospital in northern Peru were characterized by antimicrobial susceptibility testing, BOX-PCR, ERIC-PCR, REP-PCR, and matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS). All seven isolates met the criteria for MDR, and Ac-4268 showed an extensively drug-resistant phenotype. Repetitive-element PCR identified a group of six isolates with similar banding profiles and a divergent isolate, Ac-4268. Several isolates in the six-isolate group retained susceptibility to one or more aminoglycosides, whereas Ac-4268 was resistant to all antimicrobials tested. The combined molecular and phenotypic findings are consistent with the possible persistence of a dominant related lineage, but they do not establish transmission without whole-genome sequencing and epidemiological linkage data. This study provides additional molecular epidemiological evidence on MDR A. baumannii in northern Peru. The findings suggest that a dominant related lineage may have persisted in the hospital alongside a genetically divergent isolate with an extensively drug-resistant phenotype. Confirmation of clonal transmission requires higher-resolution genomic and epidemiological analyses.",
+    "authors": [
+      "Kevin G Quispe Choque",
+      "Nataly Ruiz Quiñones",
+      "Milena Binatti Ferreira",
+      "Ana L Perini-Leme-Giordano",
+      "Angélica Zaninelli Schreiber",
+      "Fabiana Fantinatti Garboggini",
+      "Fanny L Casado",
+      "Rene Flores Clavo"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926754/",
+    "doi": "10.1007/s11033-025-10353-1",
+    "journal": "New microbes and new infections",
+    "score": 0.2369,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926417",
+    "source": "pubmed",
+    "title": "Within- and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets.",
+    "abstract": "Since late 2021, highly pathogenic H5 avian influenza viruses have spread across the Americas, resulting in hundreds of outbreaks in agriculture and 71 human spillovers. In the United States, human infections overwhelmingly derive from exposure to infected agricultural animals. However, little is known about how these viruses evolve during outbreaks in agriculture, or how they spread locally, key information for understanding human infection risk. We produced high-quality deep sequence data from commercial and live bird market (LBM) outbreaks in Pennsylvania from 2023-2025. We uncover repeated spillovers from wild to domestic birds, and evidence of high circulating diversity in LBMs that likely moved across state lines. Samples collected from the same outbreak shared a significant fraction of viral variation, suggesting high circulating diversity and a strong signal of transmission linkage. Samples from poultry collectively harbored 9 known adaptive variants, including PB2 D701N, suggesting that rare, adaptive variants may circulate in settings where human exposure risk is high. Our data suggest that outbreaks in poultry pose opportunities for subsequent viral evolution, supporting continued efforts to stamp out transmission. We also find that LBMs experience outbreak risk from domestic and wild sources and promote viral mixing between species, suggesting that enhanced tracking and biosecurity may be useful in these settings. Finally, our data suggest the potential to use within-sample variation for enhanced outbreak linkage within these outbreak settings.",
+    "authors": [
+      "Anna S Jaeger",
+      "Elena Cruz-Adames",
+      "Stephen D Shank",
+      "Irina Chupikova",
+      "Katie Kumta",
+      "Lisa A Murphy",
+      "Eman Anis",
+      "Louise H Moncla"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926417/",
+    "doi": "10.64898/2026.07.17.739193",
+    "journal": "bioRxiv : the preprint server for biology",
+    "score": 0.6929,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926191",
+    "source": "pubmed",
+    "title": "Bioactive constituents in Salvia miltiorrhiza Bunge (Danshen) against SARS-CoV-2: Antiviral activity, mechanisms, metabolism and safety.",
+    "abstract": "Although the global impact of coronavirus disease 2019 (COVID-19) has declined, continued circulation and viral evolution highlight the sustained need for effective therapeutic strategies. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continuously evolves through genetic mutations to enhance its adaptability to hosts, thereby posing significant challenges to global public health. Consequently, the discovery of novel antiviral agents remains imperative. Salvia miltiorrhiza Bunge (Danshen), a widely utilized traditional Chinese medicine (TCM), has demonstrated preclinical antiviral activity in silico, in vitro and in animal models. However, existing evidence on Danshen's bioactive constituents against SARS-CoV-2 is predominantly preclinical. Further clinical investigations are required to validate the antiviral efficacy of isolated monomers. Consequently, a systematic understanding of these aspects remains incomplete. This review summarizes the preclinical antiviral activity and underlying mechanisms of bioactive constituents derived from Danshen against SARS-CoV-2, together with their metabolism and safety profiles. By synthesizing these findings, we aim to provide insights into the potential of these constituents for further development, thereby guiding the discovery of natural antiviral lead compounds against SARS-CoV-2 and future emerging viral infections. Please cite this article as: Song YH, Wang RY, Xiang YS, Yu DM, Li HT, Lu JN, Qin PC, Li YX, Zhang CC, Chen LL. Bioactive constituents in Salvia miltiorrhiza Bunge (Danshen) against SARS-CoV-2: Antiviral activity, mechanisms, metabolism and safety. J Integr Med. 2026; Epub ahead of print.",
+    "authors": [
+      "Yu-Heng Song",
+      "Ru-Yu Wang",
+      "Yu-Sen Xiang",
+      "Dan-Mei Yu",
+      "Hong-Tao Li",
+      "Jia-Ni Lu",
+      "Peng-Cheng Qin",
+      "Ye-Xi Li",
+      "Cong-Cong Zhang",
+      "Li-Li Chen"
+    ],
+    "date": "2026-Oct-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926191/",
+    "doi": "10.1016/j.joim.2026.09.005",
+    "journal": "Journal of integrative medicine",
+    "score": 0.3962,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926065",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of carbapenemase producing Enterobacterales; insights into microbial diversity and transmission in the mid-west of Ireland.",
+    "abstract": "The World Health Organization recognises Carbapenemase-producing Enterobacterales (CPE) as a global health security threat. The aim of this study is to review the molecular epidemiology of CPE in the mid-west of Ireland over a four-year period (2018 - 2022) with characterisation of CPE strains causing clusters. A retrospective genomic and clinical surveillance study was undertaken of CPE isolates from patient and environmental sources. 426 patients yielded 542 CPE organisms; 255 (60%) were male. Isolates from screening samples predominated (504/542, 92%). 412 (96.7%) patients were from acute settings. 114 (23.4%) were known CPE contacts before detection. Citrobacter freundii complex prevalence was highest (151/542, 28%) followed by Escherichia coli (120/542, 22%). Ten carbapenemase genes were identified; blaOXA-48 (n=221) became the most prevalent by the end of the study period in comparison to a higher prevalence of blaKPC-2 (n= 315) for the first three years. 47 environmental isolates were also studied; Citrobacter freundii complex blaKPC-2 predominated again (31/47, n=66%). The genetic background of Citrobacter species and E. coli was highly diverse with ST 420 and ST38 being the predominant sequence types, respectively. Several cluster codes were assigned, suggestive of putative transmission events between patients and their environment. In the context of new CPE detections per 10,000 admissions increasing from 5.275 in 2018 to 15.863 in 2022, ongoing screening, coupled to clinical and genomic surveillance are essential to control their spread.",
+    "authors": [
+      "N H O'Connell",
+      "J Powell",
+      "P Kiely",
+      "C P Dunne"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926065/",
+    "doi": "10.1016/j.jhin.2026.10.007",
+    "journal": "The Journal of hospital infection",
+    "score": 0.2474,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42926015",
+    "source": "pubmed",
+    "title": "Spatiotemporal Origin and Cross-Regional Transmission Dynamics of HIV-1 Circulating Recombinant Form (CRF85_BC) in Developed Eastern China: A Seven-Year Comprehensive Molecular Surveillance Study.",
+    "abstract": "HIV-1 CRF85_BC is an emerging B/C circulating recombinant form first designated in Sichuan, China in 2016 and recently detected in Zhejiang Province, eastern China, whose cross-regional spread remains poorly defined. We therefore investigated when and from where it was introduced into eastern China, whether it has established sustained local transmission, and which populations and geographic hubs are driving its onward spread. Using HIV surveillance data and 259 pol sequences from Zhejiang (2017-2023), we integrated phylogenetic analysis, Bayesian phylogeography and molecular transmission networks to delineate the genetic origins, dissemination pathways and epidemic characteristics of CRF85_BC. CRF85_BC was initially detected in Jiaxing in 2017 and had spread to all 11 prefecture-level cities of Zhejiang by 2023, becoming the 5th most prevalent HIV-1 subtype in the province. Phylogeographic analysis indicated multiple introductions from Sichuan and Yunnan followed by sustained intra-provincial transmission centred on Jiaxing. The transmission network showed a 70.66% clustering rate; Jiaxing accounted for 48.63% of clustered cases and 58.60% of all genetic linkages, and adults aged ≥60 years and heterosexual contact were the main correlates of clustering. Four large clusters sustained local transmission; across their 10 time intervals the posterior median effective reproduction number (Re) ranged from 0.45 to 2.68, exceeded 1 in 24 of the 40 intervals, while the 95% credible intervals remained wide and included 1. This study provides the first systematic evidence of CRF85_BC establishment in eastern China, underscoring the value of province-wide molecular surveillance for informing precision HIV interventions.",
+    "authors": [
+      "Qin Fan",
+      "Jiafeng Zhang",
+      "Jun Jiang",
+      "Hehe Zhao",
+      "Xiaohong Pan",
+      "Hui Xing",
+      "Yaping Yao",
+      "Yi Feng",
+      "Yong Yan",
+      "Xiaobei Ding",
+      "Wei Cheng",
+      "Xin Zhou",
+      "Yan Xia",
+      "Chengliang Chai",
+      "Jianmin Jiang"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926015/",
+    "doi": "10.1016/j.ijid.2026.109207",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.5079,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42925384",
+    "source": "pubmed",
+    "title": "Newcastle disease virus research: pioneering scientists, landmark discoveries, and virological innovations.",
+    "abstract": "Newcastle disease (ND) has been recognized for a century as one of the most consequential viral diseases of poultry, and its scientific history provides a distinctive example of how sustained investigation of a single pathogen can drive advances across veterinary medicine, virology, immunology, epidemiology, molecular biology, vaccinology, and biotechnology. The severe outbreaks reported in Java, Indonesia, and Newcastle-upon-Tyne, England, during 1926 marked the beginning of the recognized scientific history of ND and initiated an international research effort that progressed from disease recognition and experimental characterization to diagnostics, vaccination, molecular pathogenesis, and genomic epidemiology. During the 1940s and 1950s, investigations of viral propagation, antigenicity, pathogenicity, and attenuation established the foundations of live and inactivated vaccination. From the 1960s onward, molecular investigations progressively elucidated the determinants of ND virus (NDV) replication, protein processing, and virulence, particularly the role of the fusion-protein cleavage site. The emergence of nucleotide sequencing and phylogenetic analysis during the 1980s and 1990s subsequently transformed strain characterization and provided the foundations for molecular epidemiology and genotype classification. Complete-genome sequencing and the establishment of reverse-genetics systems in the late 1990s further transformed NDV from an organism studied primarily through observation and isolation into a genetically tractable experimental system. Subsequent international efforts standardized NDV genotype nomenclature and enabled increasingly detailed analyses of viral evolution and geographic dissemination. In parallel, NDV research expanded beyond conventional disease control into recombinant vaccine development, systems-level host-virus studies, molecular diagnostics, and oncolytic virotherapy. This historical perspective traces these major scientific transitions from 1926 to 2026, emphasizing the investigators, experimental systems, conceptual advances, and technological innovations that collectively transformed NDV research from disease recognition into a multidisciplinary molecular and translational fields.",
+    "authors": [
+      "Aziz Ul-Rahman",
+      "Muhammad Munir"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925384/",
+    "doi": "10.1186/s13567-024-01429-0",
+    "journal": "Veterinary research communications",
+    "score": 0.552,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42925053",
+    "source": "pubmed",
+    "title": "Draft genome sequence of",
+    "abstract": "We report the genome sequence of Klebsiella pneumoniae strain MGC01. Whole-genome sequencing generated 9,155,698 high-quality reads, achieving approximately 265-fold coverage. The final assembly comprises 5,159,509 bp with a GC content of 57.55% and 33 contigs. PlasmidFinder identified an IncM1 plasmid replicon, and Kleborate detected the intrinsic β-lactamase gene blaSHV-1. This sequence supports molecular epidemiology and pathogenicity studies.",
+    "authors": [
+      "Martin Haney",
+      "Wei Xu"
+    ],
+    "date": "2026-Oct-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925053/",
+    "doi": "10.1128/mra.00955-26",
+    "journal": "Microbiology resource announcements",
+    "score": 0.3015,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42924524",
+    "source": "pubmed",
+    "title": "Antibiotic Resistance in India Over a Decade: A Systematic Review and Meta-analysis of Clinical and Molecular Evidence (2015-2025).",
+    "abstract": "Antibiotic resistance is a major global public health threat that compromises the effectiveness of antibiotic agents and increases morbidity, mortality, and health care costs. India faces a substantial AMR burden driven by high infectious disease prevalence, widespread antibiotic use, and variable surveillance capacity. This systematic review and meta-analysis aimed to synthesize evidence on antibiotic resistance patterns in India from 2015 to 2025, estimate the prevalence of resistance among major bacterial pathogens, evaluate molecular resistance determinants, and assess mortality associated with resistant infections. A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Google Scholar, surveillance reports, and grey literature was conducted following PRISMA 2020 guidelines. Studies reporting antibiotic resistance data from India between January 2015 and December 2025 were included. Data extraction and quality assessment were performed independently by 2 reviewers. A random-effects meta-analysis was used to estimate the pooled prevalence of antibiotic resistance, molecular determinants of resistance, and mortality outcomes, and heterogeneity was assessed using the Cochrane Q and I2 statistics. Forty-six studies met the inclusion criteria. The pooled prevalence of antibiotic resistance was 55.7% (95% CI: 47.4%-63.9%; I2=98.6%). High resistance rates were reported among major gram-negative pathogens, particularly Klebsiella pneumoniae, Escherichia coli, Acinetobacter baumannii, and Pseudomonas aeruginosa. Molecular meta-analysis demonstrated a pooled prevalence of resistance-associated genes of 64.5% (95% CI: 46.0%-83.0%), with blaNDM, blaOXA-48-like, and blaKPC being the most frequently reported determinants. Mortality associated with resistant infections was 31.0% (95% CI: 18.2%-43.8%). Substantial heterogeneity was observed across all analyses. Available evidence indicates that antibiotic resistance remains a significant health care challenge in India. High levels of multidrug resistance, widespread dissemination of carbapenemase genes, and considerable mortality associated with resistant infections underscore the need for strengthened antibiotic stewardship, standardized surveillance, expanded molecular diagnostics, and coordinated public health interventions. However, the findings should be interpreted cautiously because of substantial heterogeneity and the predominance of studies from tertiary-care settings. This review was registered with PROSPERO (CRD420261406324).",
+    "authors": [
+      "Sai S Gudla",
+      "Siva K A Bhumireddy",
+      "Meher S Nandula"
+    ],
+    "date": "2026-Oct-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924524/",
+    "doi": "10.2174/0118742858376149250305044659",
+    "journal": "Journal of patient safety",
+    "score": 0.1937,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42922681",
+    "source": "pubmed",
+    "title": "Forecasting viral evolution from phylogenetic trees.",
+    "abstract": "Viral mutation forecasting plays a key role in pandemic preparedness by enabling researchers to anticipate novel variants and design proactive interventions. Evolutionary histories, represented as phylogenetic trees, offer key insights into the emergence of past and present strains, yet their role in predicting future sequence changes remains largely unexplored. We introduce antiGen, a machine learning model that forecasts the evolutionary future of viruses by learning from their evolutionary past. antiGen achieves state-of-the-art performance for predicting mutations to the SARS-CoV-2 spike protein, anticipating never-before-seen mutations and mutations that emerge years after the model's training window. antiGen-forecasted spike mutations also retain pseudoviral infectivity in vitro. Moreover, antiGen demonstrates leading predictive performance on surface proteins of influenza virus, respiratory syncytial virus, and dengue virus despite far less available sequencing data. Viral evolution models that explicitly learn from phylogenetic structure offer a valuable resource for applications ranging from epidemiological modeling to therapeutic development.",
+    "authors": [
+      "Ivan Specht",
+      "Soyoon Park",
+      "Seyone Chithrananda",
+      "Claudia L Driscoll",
+      "Garyk Brixi",
+      "Julia A Palacios",
+      "Brian L Hie"
+    ],
+    "date": "2026-Sep-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42922681/",
+    "doi": "10.64898/2026.08.27.741102",
+    "journal": "bioRxiv : the preprint server for biology",
+    "score": 0.626,
+    "fetched_at": "2026-10-25"
+  },
+  {
+    "id": "pubmed:42921311",
+    "source": "pubmed",
+    "title": "Diverse",
+    "abstract": "Staphylococcus aureus is a human pathogen associated with both hospital- and community-acquired infections. Data on its molecular epidemiology in North Central Nigeria are currently unavailable. This study investigated the antibiotic resistance, virulence genes, and the population structure of S. aureus in a tertiary hospital in North Central Nigeria. S. aureus strains from various clinical specimens collected between July 2017 and July 2021 were characterized based on antibiotic susceptibility testing and PCR detection of nuc, mecA, PVL (lukS-PV/lukF-PV), and immune evasion (scn, sak, chp) genes. Genotyping of the strains was performed by spa typing and whole-genome sequencing (WGS) of representative strains. Of the 169 S. aureus strains, 52% (n = 88) were recovered from wound infections. The resistance rates were highest for penicillin (n = 162; 96%), followed by trimethoprim-sulfamethoxazole (n = 128; 76%), tetracycline (n = 66; 39%), gentamicin (n = 54; 32%), ciprofloxacin (n = 53; 31%), erythromycin (n = 31; 18%), and clindamycin (n = 3; 2%). Overall, 90 (53%) were mecA-positive (MRSA), and 81 strains (48%) were multidrug-resistant (MDR). Genotyping revealed a diverse S. aureus population, comprising 37 spa types and 19 sequence types (STs) in nine clonal complexes (CC1, CC5, CC8, CC15, CC22, CC30, CC45, CC88, CC121) and two singletons (ST152 and ST7572). The predominant MRSA lineages comprised CC1-ST772-MRSA-V-t657, CC8-ST789-MRSA-V-t091, and ST152-MRSA-Vc-t4690, while the common methicillin-susceptible S. aureus (MSSA) lineages were ST152-MSSA-t355, CC15-ST15-MSSA-t084, and CC5-ST5-MSSA-t311. The dfrG gene was detected across lineages, and 65% of all strains (MSSA: 68%; MRSA: 62%) were PVL-positive. Phylogenetic analysis revealed strain diversity, suggesting the dissemination of different lineages across various wards within the hospital. The S. aureus population at a tertiary hospital in North-Central Nigeria is highly diverse. The detection of PVL-positive ST152-MRSA-Vc and MDR CC1-ST722-MRSA-V is of significant public health concern. Genomic surveillance of S. aureus, combined with clinical data, is essential for effective infection prevention and control strategies.",
+    "authors": [
+      "Rasaki Adewole Raheem",
+      "Charles Nwabuisi",
+      "Abayomi Fadeyi",
+      "Bashirat Ayobola Olanipekun",
+      "Ademola Ibraheem Hamzat",
+      "Tomiwa Olumide Adesoji",
+      "Taofiq Adewale Sulayman",
+      "Alexander Mellmann",
+      "Frieder Schaumburg",
+      "Adebayo Osagie Shittu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42921311/",
+    "doi": "10.3389/fcimb.2016.00146",
+    "journal": "Frontiers in microbiology",
+    "score": 0.2692,
+    "fetched_at": "2026-10-25"
+  }
+]

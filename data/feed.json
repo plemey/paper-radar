@@ -373,6 +373,28 @@
     "fetched_at": "2026-09-19"
   },
   {
+    "id": "pubmed:42926417",
+    "source": "pubmed",
+    "title": "Within- and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets.",
+    "abstract": "Since late 2021, highly pathogenic H5 avian influenza viruses have spread across the Americas, resulting in hundreds of outbreaks in agriculture and 71 human spillovers. In the United States, human infections overwhelmingly derive from exposure to infected agricultural animals. However, little is known about how these viruses evolve during outbreaks in agriculture, or how they spread locally, key information for understanding human infection risk. We produced high-quality deep sequence data from commercial and live bird market (LBM) outbreaks in Pennsylvania from 2023-2025. We uncover repeated spillovers from wild to domestic birds, and evidence of high circulating diversity in LBMs that likely moved across state lines. Samples collected from the same outbreak shared a significant fraction of viral variation, suggesting high circulating diversity and a strong signal of transmission linkage. Samples from poultry collectively harbored 9 known adaptive variants, including PB2 D701N, suggesting that rare, adaptive variants may circulate in settings where human exposure risk is high. Our data suggest that outbreaks in poultry pose opportunities for subsequent viral evolution, supporting continued efforts to stamp out transmission. We also find that LBMs experience outbreak risk from domestic and wild sources and promote viral mixing between species, suggesting that enhanced tracking and biosecurity may be useful in these settings. Finally, our data suggest the potential to use within-sample variation for enhanced outbreak linkage within these outbreak settings.",
+    "authors": [
+      "Anna S Jaeger",
+      "Elena Cruz-Adames",
+      "Stephen D Shank",
+      "Irina Chupikova",
+      "Katie Kumta",
+      "Lisa A Murphy",
+      "Eman Anis",
+      "Louise H Moncla"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926417/",
+    "doi": "10.64898/2026.07.17.739193",
+    "journal": "bioRxiv : the preprint server for biology",
+    "score": 0.6929,
+    "fetched_at": "2026-10-25"
+  },
+  {
     "id": "pubmed:42698237",
     "source": "pubmed",
     "title": "Pre-Pandemic Scientific Insights into Influenza A (H3N2): Viral Evolution, Host Responses, and Evidence-Based Preventive Strategies.",
@@ -834,6 +856,27 @@
     "journal": "Frontiers in microbiology",
     "score": 0.6279,
     "fetched_at": "2026-10-05"
+  },
+  {
+    "id": "pubmed:42922681",
+    "source": "pubmed",
+    "title": "Forecasting viral evolution from phylogenetic trees.",
+    "abstract": "Viral mutation forecasting plays a key role in pandemic preparedness by enabling researchers to anticipate novel variants and design proactive interventions. Evolutionary histories, represented as phylogenetic trees, offer key insights into the emergence of past and present strains, yet their role in predicting future sequence changes remains largely unexplored. We introduce antiGen, a machine learning model that forecasts the evolutionary future of viruses by learning from their evolutionary past. antiGen achieves state-of-the-art performance for predicting mutations to the SARS-CoV-2 spike protein, anticipating never-before-seen mutations and mutations that emerge years after the model's training window. antiGen-forecasted spike mutations also retain pseudoviral infectivity in vitro. Moreover, antiGen demonstrates leading predictive performance on surface proteins of influenza virus, respiratory syncytial virus, and dengue virus despite far less available sequencing data. Viral evolution models that explicitly learn from phylogenetic structure offer a valuable resource for applications ranging from epidemiological modeling to therapeutic development.",
+    "authors": [
+      "Ivan Specht",
+      "Soyoon Park",
+      "Seyone Chithrananda",
+      "Claudia L Driscoll",
+      "Garyk Brixi",
+      "Julia A Palacios",
+      "Brian L Hie"
+    ],
+    "date": "2026-Sep-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42922681/",
+    "doi": "10.64898/2026.08.27.741102",
+    "journal": "bioRxiv : the preprint server for biology",
+    "score": 0.626,
+    "fetched_at": "2026-10-25"
   },
   {
     "id": "biorxiv:10.64898/2026.08.27.741102",
@@ -2082,6 +2125,22 @@
     "fetched_at": "2026-09-27"
   },
   {
+    "id": "pubmed:42925384",
+    "source": "pubmed",
+    "title": "Newcastle disease virus research: pioneering scientists, landmark discoveries, and virological innovations.",
+    "abstract": "Newcastle disease (ND) has been recognized for a century as one of the most consequential viral diseases of poultry, and its scientific history provides a distinctive example of how sustained investigation of a single pathogen can drive advances across veterinary medicine, virology, immunology, epidemiology, molecular biology, vaccinology, and biotechnology. The severe outbreaks reported in Java, Indonesia, and Newcastle-upon-Tyne, England, during 1926 marked the beginning of the recognized scientific history of ND and initiated an international research effort that progressed from disease recognition and experimental characterization to diagnostics, vaccination, molecular pathogenesis, and genomic epidemiology. During the 1940s and 1950s, investigations of viral propagation, antigenicity, pathogenicity, and attenuation established the foundations of live and inactivated vaccination. From the 1960s onward, molecular investigations progressively elucidated the determinants of ND virus (NDV) replication, protein processing, and virulence, particularly the role of the fusion-protein cleavage site. The emergence of nucleotide sequencing and phylogenetic analysis during the 1980s and 1990s subsequently transformed strain characterization and provided the foundations for molecular epidemiology and genotype classification. Complete-genome sequencing and the establishment of reverse-genetics systems in the late 1990s further transformed NDV from an organism studied primarily through observation and isolation into a genetically tractable experimental system. Subsequent international efforts standardized NDV genotype nomenclature and enabled increasingly detailed analyses of viral evolution and geographic dissemination. In parallel, NDV research expanded beyond conventional disease control into recombinant vaccine development, systems-level host-virus studies, molecular diagnostics, and oncolytic virotherapy. This historical perspective traces these major scientific transitions from 1926 to 2026, emphasizing the investigators, experimental systems, conceptual advances, and technological innovations that collectively transformed NDV research from disease recognition into a multidisciplinary molecular and translational fields.",
+    "authors": [
+      "Aziz Ul-Rahman",
+      "Muhammad Munir"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925384/",
+    "doi": "10.1186/s13567-024-01429-0",
+    "journal": "Veterinary research communications",
+    "score": 0.552,
+    "fetched_at": "2026-10-25"
+  },
+  {
     "id": "pubmed:42764048",
     "source": "pubmed",
     "title": "Molecular epidemiology of the globally spreading genetic lineage IV of peste des petits ruminants virus.",
@@ -2947,6 +3006,35 @@
     "journal": "Journal of infection and public health",
     "score": 0.5086,
     "fetched_at": "2026-08-28"
+  },
+  {
+    "id": "pubmed:42926015",
+    "source": "pubmed",
+    "title": "Spatiotemporal Origin and Cross-Regional Transmission Dynamics of HIV-1 Circulating Recombinant Form (CRF85_BC) in Developed Eastern China: A Seven-Year Comprehensive Molecular Surveillance Study.",
+    "abstract": "HIV-1 CRF85_BC is an emerging B/C circulating recombinant form first designated in Sichuan, China in 2016 and recently detected in Zhejiang Province, eastern China, whose cross-regional spread remains poorly defined. We therefore investigated when and from where it was introduced into eastern China, whether it has established sustained local transmission, and which populations and geographic hubs are driving its onward spread. Using HIV surveillance data and 259 pol sequences from Zhejiang (2017-2023), we integrated phylogenetic analysis, Bayesian phylogeography and molecular transmission networks to delineate the genetic origins, dissemination pathways and epidemic characteristics of CRF85_BC. CRF85_BC was initially detected in Jiaxing in 2017 and had spread to all 11 prefecture-level cities of Zhejiang by 2023, becoming the 5th most prevalent HIV-1 subtype in the province. Phylogeographic analysis indicated multiple introductions from Sichuan and Yunnan followed by sustained intra-provincial transmission centred on Jiaxing. The transmission network showed a 70.66% clustering rate; Jiaxing accounted for 48.63% of clustered cases and 58.60% of all genetic linkages, and adults aged ≥60 years and heterosexual contact were the main correlates of clustering. Four large clusters sustained local transmission; across their 10 time intervals the posterior median effective reproduction number (Re) ranged from 0.45 to 2.68, exceeded 1 in 24 of the 40 intervals, while the 95% credible intervals remained wide and included 1. This study provides the first systematic evidence of CRF85_BC establishment in eastern China, underscoring the value of province-wide molecular surveillance for informing precision HIV interventions.",
+    "authors": [
+      "Qin Fan",
+      "Jiafeng Zhang",
+      "Jun Jiang",
+      "Hehe Zhao",
+      "Xiaohong Pan",
+      "Hui Xing",
+      "Yaping Yao",
+      "Yi Feng",
+      "Yong Yan",
+      "Xiaobei Ding",
+      "Wei Cheng",
+      "Xin Zhou",
+      "Yan Xia",
+      "Chengliang Chai",
+      "Jianmin Jiang"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926015/",
+    "doi": "10.1016/j.ijid.2026.109207",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "score": 0.5079,
+    "fetched_at": "2026-10-25"
   },
   {
     "id": "pubmed:42656253",
@@ -4472,87 +4560,5 @@
     "journal": "Microorganisms",
     "score": 0.4371,
     "fetched_at": "2026-09-27"
-  },
-  {
-    "id": "pubmed:42682518",
-    "source": "pubmed",
-    "title": "Dengue outbreaks in China during 2005-2023: a systematic analysis.",
-    "abstract": "Dengue fever is a major global public health concern. While China has not yet established stable, local transmission of the disease, imported cases frequently lead to local dengue epidemics throughout the year. This paper aims to outline the characteristics of dengue outbreaks in China between 2005 and 2023. We collected literature on dengue in China from various databases and extracted relevant data for analysis. This data included patients' sociodemographic characteristics, serotype composition, and clinical manifestations, which we then summarized and compared, evaluating the relationship between dengue virus (DENV) serotypes and clinical manifestations, and analyzing the monthly and regional distribution patterns of dengue fever cases based on case data obtained from the China Public Science and Health Data Center (CPC). In the included studies, the ratio of male to female was approximately 1:1, The age group with the highest proportion of dengue patients is those aged 30 to 39. Their occupations were predominantly business service, and the predominant serotype of the infection was DENV-1, followed by DENV-2. The major clinical signs and symptoms in dengue patients were fever, asthenia, and headache. Patients infected with DENV-1, 3 were associated with some specific clinical phenotypes. Dengue cases typically peak between September and October each year. Although these cases are primarily concentrated in the southern regions of China, there is a noticeable trend of increasing incidence in northern areas over time. This study offers an in-depth examination of the molecular epidemiology, clinical characteristics, and the seasonal and geographic distribution of dengue cases in China from 2005 to 2023. The findings provide valuable insights for future research on dengue epidemics.",
-    "authors": [
-      "Kun Peng",
-      "Xiaodan Huang",
-      "Pengxiang Huang",
-      "Hongli Zhao",
-      "Xiao Pan",
-      "Nuo Xu",
-      "Hao Yin",
-      "Yingchun Yang",
-      "Chenxin Han",
-      "Maoqing Gong",
-      "Hongmei Liu"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42682518/",
-    "doi": "10.1371/journal.pntd.0013702",
-    "journal": "Frontiers in cellular and infection microbiology",
-    "score": 0.4347,
-    "fetched_at": "2026-09-02"
-  },
-  {
-    "id": "pubmed:42920182",
-    "source": "pubmed",
-    "title": "Clonal, regionally clustered spread-rather than vertical transmission-explains surges in fluoroquinolone‑resistant Campylobacter jejuni in Finnish broilers.",
-    "abstract": "Campylobacter jejuni is a major zoonotic foodborne pathogen, with poultry recognized as an important reservoir for human infection. Although antimicrobial use in Finnish broiler production is minimal, sporadic increases in fluoroquinolone- and tetracycline-resistant C. jejuni have been detected. We investigated the population structure, antimicrobial resistance, and transmission pathways of C. jejuni in Finnish poultry production. A total of 333 C. jejuni isolates collected from breeder (n = 145) and broiler (n = 188) flocks during 2014-2019 were characterized using whole-genome sequencing, antimicrobial resistance profiling, multilocus sequence typing (MLST), core-genome MLST (cgMLST), and phylogenomic analysis. Resistance to fluoroquinolones and tetracycline was concentrated in specific years and was strongly associated with particular lineages, especially ST-206 clonal complex (CC), whereas the predominant ST-45 CC was largely susceptible. Genomic clustering identified several resistant clones circulating among geographically proximate broiler farms, indicating regional horizontal dissemination. Resistant isolates from breeders were uncommon, and no genomic evidence supported vertical transmission of resistant strains from breeder to broiler flocks. Instead, resistance peaks were primarily attributable to clonal expansion of successful resistant lineages. Transient increases in fluoroquinolone- and tetracycline-resistant C. jejuni in Finnish broiler production were driven mainly by regional clonal horizontal spread rather than vertical transmission from breeders to broilers. These findings highlight the value of genomic surveillance for detecting and tracking antimicrobial-resistant Campylobacter lineages and support the integration of molecular epidemiology into poultry surveillance and control programmes.",
-    "authors": [
-      "Anniina Jaakkonen",
-      "Aava Marte",
-      "Päivikki Perko-Mäkelä",
-      "Hannele Nauholz",
-      "Satu Olkkola",
-      "Rauni Kivistö"
-    ],
-    "date": "2026-Oct-23",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920182/",
-    "doi": "10.1136/vr.104823",
-    "journal": "Acta veterinaria Scandinavica",
-    "score": 0.4329,
-    "fetched_at": "2026-10-24"
-  },
-  {
-    "id": "pubmed:42646672",
-    "source": "pubmed",
-    "title": "Equity and Pandemic Influenza Vaccine Response: The PIP Framework as a Model for an Efficient Pandemic Influenza Response Through Equitable Vaccine Access.",
-    "abstract": "Equity is fundamental to an effective pandemic vaccination response, yet the COVID-19 pandemic demonstrated how inequitable access, driven by purchasing power and delayed supply for low- and middle-income countries (LMICs), prolonged transmission and enabled viral evolution. The Pandemic Influenza Preparedness (PIP) Framework offers a model for providing timely and equitable access to pandemic influenza vaccines. Through legally binding advance supply agreements, the PIP Framework secures real-time access by the WHO to a proportion of global vaccine production and mandates allocation based on public health risk and need. In doing so, it addresses the two axes of inequity observed in previous pandemics-distribution and timeliness-by ensuring that affected populations that do not have access, irrespective of income status, are not at the back of the queue.",
-    "authors": [
-      "Kate S Rawlings",
-      "Olga Kim",
-      "Anne Huvos"
-    ],
-    "date": "2026-Jul-24",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42646672/",
-    "doi": "10.3390/vaccines14080653",
-    "journal": "Vaccines",
-    "score": 0.4323,
-    "fetched_at": "2026-08-27"
-  },
-  {
-    "id": "pubmed:42559980",
-    "source": "pubmed",
-    "title": "Molecular Detection and Phylogenetic Characterization of Bartonella bovis in Dairy Cattle From Central Thailand.",
-    "abstract": "Bartonella bovis is an emerging ruminant pathogen with zoonotic potential. Although various Bartonella species have been detected in animals in Thailand, none have been reported in dairy cattle. We investigated the occurrence and genetic characteristics of Bartonella spp. in dairy cattle from central Thailand and examined associations with farm management practices. Blood samples were collected from 522 cattle on 43 farms in four provinces and examined for Bartonella DNA by PCR targeting the gltA, rpoB, and ribC genes. Sequencing, phylogenetic analyses, and nucleotide sequence type (ntST) network analyses were also performed. Risk factors were assessed using Fisher's exact test and multivariable logistic regression. Bartonella DNA was detected in 4.21% of samples, with all positives identified as B. bovis. Univariable analysis showed significantly higher prevalence in small/medium-scale farms and separate feeding systems. However, in the multivariable model, farm size showed a strong trend toward association with B. bovis detection, although the association did not reach statistical significance. The dominant gltA sequence type (ntST04) was detected across all farm sizes and feeding practices, whereas a peripheral variant (ntST02) differed by nine nucleotide substitutions from a ked-associated Bartonella sequence (GenBank ID: OQ716819). Both rpoB and ribC networks revealed seven distinct groups that were closely related to the B. bovis reference sequences, with nucleotide identities of 99.42%-100% and 99.41%-100%, respectively. This study provides new molecular evidence of B. bovis circulation in the Thai dairy cattle population, highlighting the need for improved surveillance and biosecurity, particularly in small-scale operations, to mitigate potential zoonotic risks within a One Health framework.",
-    "authors": [
-      "Wittawat Wechtaisong",
-      "Kritsada Thongmeesee",
-      "Chalida Sri-In",
-      "Aung Aung",
-      "Wisa Tiyamanee",
-      "Satoru Konnai",
-      "Sonthaya Tiawsirisup"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559980/",
-    "doi": "10.1002/vms3.70815",
-    "score": 0.4321,
-    "fetched_at": "2026-08-09"
   }
 ]
