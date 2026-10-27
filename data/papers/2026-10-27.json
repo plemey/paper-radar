@@ -1,0 +1,285 @@
+[
+  {
+    "id": "pubmed:42932013",
+    "source": "pubmed",
+    "title": "Phylogenetic Profiling and Molecular Detection of Babesia and Theileria spp. in Ticks Infesting Livestock Across Kashmir Valley, India.",
+    "abstract": "Ticks are major vectors of protozoan hemoparasites, particularly Babesia and Theileria, causing substantial morbidity and economic losses in livestock. Data on molecular prevalence and circulating species in the high-altitude Kashmir Valley are limited. This study investigated the prevalence, distribution, and phylogenetic relationships of piroplasm infections in ticks infesting domestic ruminants. A cross-sectional survey was conducted across eight districts of the Kashmir Valley. A total of 4,965 livestock animals were examined, of which 1,800 were found tick-infested, yielding an overall infestation rate of 36.27%. Collected ticks were morphologically identified and screened for Babesia and Theileria DNA using genus-specific 18 S rRNA PCR. Positive amplicons were sequenced and subjected to phylogenetic analysis. Of the 1,800 ticks examined, Haemaphysalis constituted 1,529 (84.0%), followed by Rhipicephalus 171 (9.5%) and Ornithodoros 100 (5.5%). Overall PCR positivity was 19/1,800 (1.06%) for Babesia spp. and 10/1,800 (0.56%) for Theileria spp. Babesia DNA was detected in ticks from cattle (3/720; 0.42%), sheep (14/720; 1.94%), and goats (2/360; 0.56%), whereas Theileria DNA was detected in ticks from cattle (5/720; 0.69%) and goats (5/360; 1.39%). Female ticks showed significantly higher Babesia positivity than males (13/648; 2.01% vs. 3/792; 0.38%; P = 0.004). Tick infestation peaked during summer months. Phylogenetic analysis showed that the Kashmir Babesia sequences clustered with B. bovis reference sequences, while the Theileria sequences clustered with T. cf. luwenshuni-related sequences. This molecular and phylogenetic study provides evidence of B. bovis and T. luwenshuni-like sequences in ticks collected from livestock in the Kashmir Valley. Haemaphysalis was the predominant tick genus associated with the detected piroplasmid infections. Although overall PCR positivity was low, the findings provide baseline data for piroplasm surveillance and support further characterization using higher-resolution molecular markers.",
+    "authors": [
+      "Altaf Hussain Khan",
+      "Indrani Jadhav",
+      "Bashir Ahmad Fomda",
+      "Uksim Qadri",
+      "Idrees Mehraj Allaie",
+      "Qounsar Nisar",
+      "Tahseen Bilal Rather",
+      "Yaawar Mir"
+    ],
+    "date": "2026-Oct-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932013/",
+    "doi": "10.1007/s11686-022-00625-2",
+    "journal": "Acta parasitologica",
+    "score": 0.3643,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931475",
+    "source": "pubmed",
+    "title": "Hepatitis E Virus Genotype 3 in Quindío, Colombia: One Health Surveillance and First Genomic Characterization Reveal Cryptic Regional Divergence.",
+    "abstract": "Hepatitis E virus genotype 3 (HEV-3) is a zoonotic pathogen whose burden in Latin America remains underestimated. We conducted a cross-sectional One Health surveillance study (2019-2024) in Quindío, Colombia, testing 42 pig fecal, 8 farm runoff, 4 tributary water samples, and 5 clinical serum samples from patients with hepatitis of undetermined etiology by reverse transcription quantitative PCR (RT-qPCR). Positive and selected clinical/environmental samples underwent Oxford Nanopore MinION sequencing targeting the open reading frame 2 and 3 (ORF2/ORF3) junction, k-mer fingerprinting (k = 25), consensus generation, phylogenetic analysis, and Sanger confirmation. HEV RNA was detected in 8/42 pig fecal samples (19.0%), 4/8 runoff samples (50.0%), 1/4 tributary samples (25.0%), and 4/5 serum samples (80.0%). K-mer analysis identified strong HEV signals in two clinical samples (44.5% and 39.5% of reads) and wastewater (97.2%). Phylogenetic analysis classified Colombian isolates within HEV-3 (bootstrap 83%), while Sanger sequencing confirmed HEV-specific motifs. Two sequences were deposited in GenBank (PZ262436, PZ262437), representing the first Colombian HEV-3 genomic records. These findings demonstrate HEV-3 circulation across porcine, environmental, and human compartments and highlight substantial genomic divergence, supporting locally calibrated molecular approaches and strengthened One Health genomic surveillance in Colombia and Latin America.",
+    "authors": [
+      "Maria Mercedes González",
+      "Omar David Moreno",
+      "Leonardo Padilla-Sanabria",
+      "Jhon Carlos Castaño-Osorio"
+    ],
+    "date": "2026-Oct-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931475/",
+    "doi": "10.3390/tropicalmed11100290",
+    "journal": "Tropical medicine and infectious disease",
+    "score": 0.4235,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931241",
+    "source": "pubmed",
+    "title": "Co-Circulation of ST11-KL30 and ST11-KL64 Carbapenem-Resistant",
+    "abstract": "Carbapenem-resistant Klebsiella pneumoniae (CRKP) and hypervirulent CRKP (hv-CRKP) are growing global threats with regional heterogeneity. We collected 93 non-duplicate CRKP isolates from a hospital in Urumqi, China, from January to December 2024. Antimicrobial susceptibility was tested using the VITEK 2 system, hypermucoviscosity was assessed by the string test, resistance and virulence genes were detected by polymerase chain reaction (PCR), and clonal lineages were determined by multilocus sequence typing (MLST) and capsular typing. Isolates were mainly from the intensive care unit (ICU) (36.56%) and respiratory department (31.18%), with sputum (51.62%) the predominant specimen type. Resistance rates to most β-lactams exceeded 97%. blaKPC was the predominant carbapenemase gene (94.62%), and hv-CRKP accounted for 54.84% of isolates. Sequence type 11 (ST11) was the dominant clone (89.25%), with K-locus types (KL30) (44 isolates) and KL64 (31 isolates) most common. ST11-KL30 exhibited significantly lower resistance rates to amikacin, gentamicin, trimethoprim-sulfamethoxazole, and tigecycline, and lower blaTEM carriage compared with ST11-KL64 (p < 0.05); it also showed a lower proportion of hv-CRKP and string test positivity. This study is the first to show that ST11-KL30 and ST11-KL64 co-circulate as dominant hv-CRKP-carrying clones in Urumqi, clarifying their resistance and phenotypic differences and providing key data for regional surveillance.",
+    "authors": [
+      "Hefei Zha",
+      "Qian Shi",
+      "Yongxin Li",
+      "Chunyan Liu",
+      "Xin Zhang"
+    ],
+    "date": "2026-Oct-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931241/",
+    "doi": "10.3390/pathogens15101089",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.3489,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931236",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of",
+    "abstract": "Anaplasma capra is an emerging tick-borne pathogen with zoonotic potential. Since its first description, the pathogen has been reported in several countries across Asia, Europe, and Africa; however, information on its distribution in Türkiye remains limited. This study investigated its molecular occurrence in 654 cattle from 157 farms across six provinces in the Black Sea Region of Türkiye. DNA samples were examined using nested PCR and a previously developed TaqMan quantitative PCR assay targeting the groEL gene. Six samples tested positive by both methods, whereas ten additional samples were positive only by qPCR, resulting in an apparent molecular detection frequency of 2.45% (16/654). The paired assay results differed significantly (exact McNemar test, p = 0.00195), with moderate agreement between the methods (Cohen's κ = 0.539; 95% CI: 0.288-0.791). Sequencing of the six nestedPCR-positive amplicons showed that all sequences were identical within the analyzed fragment and clustered within the known genotype 1 lineage. No significant associations were found between qPCR positivity and province, age, or sex. These findings provide molecular evidence of A. capra in cattle from the Black Sea Region. However, because the ten qPCR-only results were not independently confirmed, the estimated detection frequency and the potential value of qPCR for surveillance should be interpreted cautiously and validated using independent reference methods.",
+    "authors": [
+      "Husnu Furkan Sakar",
+      "Kursat Altay",
+      "Ufuk Erol",
+      "Omer Faruk Sahin"
+    ],
+    "date": "2026-Oct-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931236/",
+    "doi": "10.3390/pathogens15101084",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.3908,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931213",
+    "source": "pubmed",
+    "title": "Retrospective Whole-Genome Sequencing and Molecular Epidemiological Analysis of Austrian WNV-2 Veterinary Cases (2008-2025).",
+    "abstract": "The West Nile virus of the lineage 2 (WNV-2) has become endemic in large parts of Europe; however, comprehensive whole-genome sequence datasets documenting long-term national circulation are still sparse. This study aimed for the retrospective genetic characterization of WNV-2 detected in animals in Austria between the first introduction in 2008 and 2025 using whole-genome sequencing. Phylogenetic analyses of the sequences allowed the viral diversity, lineage dynamics and molecular epidemiology to be investigated within a broader European context. Twenty-four Austrian WNV-2-positive samples originating from birds (22), one horse and one alpaca were subjected to in-house whole-genome amplification and Illumina sequencing. The generated genomes were analyzed using maximum-likelihood phylogenies and a European WNV-2 Nextstrain build comprising approximately 1000 publicly available whole-genome sequences. Whole-genome sequences were successfully recovered for all selected samples, indicating a reliable whole-genome amplification method for the chosen Austrian strains. The phylogenetic analysis identified three different WNV-2 subclades circulating in Austria (D2, E1 and E2) and revealed multiple periods of subclade co-circulation. Furthermore, Austria and Hungary were inferred as important geographic locations in the diversification and dissemination of WNV-2 in Europe. These findings demonstrate the dynamic circulation as well as the repeated introduction of WNV-2 subclades into Austria and highlight the value of whole-genome sequencing surveillance for monitoring lineage turnover and improving the understanding of WNV-2 evolution across Europe.",
+    "authors": [
+      "Michaela Stätter",
+      "Daniel Polzer",
+      "Katharina Reisp",
+      "Friedrich Schmoll",
+      "Anna Stöger",
+      "Sandra Revilla-Fernández"
+    ],
+    "date": "2026-Oct-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931213/",
+    "doi": "10.3390/pathogens15101061",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.608,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931194",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology and Conjugative Transferability of",
+    "abstract": "Carbapenem-resistant Klebsiella pneumoniae is a major threat to global health, with increasing incidence in developing countries, including Egypt. This study determined carbapenem-resistance prevalence among clinical K. pneumoniae isolates from two Egyptian tertiary hospitals, characterized the major carbapenemase genes, and assessed the transferability of the resistance plasmids. VITEK® 2 and MALDI-TOF MS identified 94 non-duplicate isolates. Susceptibility was determined by Kirby-Bauer diffusion and VITEK® 2. MICs of imipenem, meropenem and colistin were confirmed by broth microdilution. Isolates were classified as multidrug-resistant (MDR), extensively drug-resistant (XDR), or pandrug-resistant (PDR) according to established definitions. Phenotypic (modified Hodge test [MHT], modified carbapenem inactivation method [mCIM], modified Carba NP test [mCNP]) and genotypic (PCR/BlastN) evaluation of carbapenemase production and plasmid transferability by conjugation were carried out in 18 isolates, selected to represent every carbapenemase genotype identified in the collection. All isolates were MDR, and 94.68% were carbapenem-resistant and fulfilled the criteria for XDR, remaining susceptible only to colistin and tigecycline. Carbapenemase production was confirmed phenotypically in 98.9% and genotypically in 97.9% of isolates. blaOXA-48 (94.7%) and blaNDM-1 (69.1%) predominated, with 67.0% co-carriage; blaKPC occurred in 5.3%. Conjugation transferred carbapenemase-encoding plasmids to Escherichia coli J53 from 77.8% (14/18) of donors, conferring carbapenem non-susceptibility in all transconjugants. All isolates were colistin-susceptible by broth microdilution, the reference method. The high XDR prevalence, along with the conjugative transferability of blaOXA-48/blaNDM-1, is consistent with a mobile carbapenemase-encoding plasmid reservoir in Egyptian tertiary care, highlighting the significance of carbapenemase surveillance and stewardship. Plasmid characterization and clonal typing were not performed and are required to define that reservoir fully.",
+    "authors": [
+      "Mohamed Abd El-Gawad El-Sayed Ahmed",
+      "Amr Elsayed Ibrahim Elghopashy",
+      "Yasser M Ragab",
+      "Reham R El-Lakany",
+      "Doaa Abdelrahman",
+      "Alaa A Omar",
+      "Reham M Goda"
+    ],
+    "date": "2026-Oct-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931194/",
+    "doi": "10.3390/pathogens15101043",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.2322,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931182",
+    "source": "pubmed",
+    "title": "Prisons as Hotspots of Tuberculosis: A Silent Threat in Ecuador.",
+    "abstract": "Tuberculosis (TB) has become established as a critical public health crisis within Ecuador's penitentiary system, with incidence and prevalence rates that drastically exceed those of the general population. This narrative review aims to synthesize the available evidence regarding the epidemiological burden, structural determinants, and transmission dynamics of TB in Ecuadorian prisons. We conducted a structured literature search in PubMed, Scopus, and Web of Science, using keywords related to tuberculosis, prisons, and Ecuador. Within the literature review, a severe epidemiological burden was found when evaluating 2015-2016 TB control and treatment risks at CPL Guayas No. 1 (Ecuador's largest prison), which reported an incidence of 3947 per 100,000 inmates, approximately 68 times the national average. Structural determinants, especially extreme overcrowding exceeding 140% in some facilities, poor ventilation, and limited access to rapid diagnostics such as Xpert MTB/RIF, enable prisons to act as amplifiers of pathogen transmission. Furthermore, the review highlights the circulation of rifampicin-resistant strains and the predominance of lineage 4 (LAM sublineage), which is strongly associated with drug resistance in the Ecuadorian context. Because the infection transcends prison walls through released inmates, staff, and visitors, the disease spreads into the general community, increasing state costs and control challenges. In conclusion, evidence demonstrates that structural deficiencies and extreme overcrowding drive this health crisis. Based on these findings, urgent structural interventions are recommended to reduce overcrowding and strengthen healthcare infrastructure, integrating criminal justice policies with public health strategies.",
+    "authors": [
+      "Carolina Viteri-Dávila",
+      "Deyaneira Cevallos-Arteaga",
+      "Lennys Berutti-Suárez",
+      "Carlos Bastidas-Caldes"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931182/",
+    "doi": "10.3390/pathogens15101029",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.2656,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931177",
+    "source": "pubmed",
+    "title": "Mapping Hepatitis B Virus Research and Genomic Diversity in Latin America and the Caribbean.",
+    "abstract": "Background: Hepatitis B virus (HBV) infection remains a major public health challenge in Latin America and the Caribbean (LAC). Mapping scientific production and viral genomic diversity is essential to identify consolidated research fields, as well as areas of opportunity to improve and expand research across the region. Methods: An integrated analysis combining bibliometrics, text-mining, and phylogenetics was performed on HBV literature indexed in PubMed, Scopus, and Web of Science (1970-2025), alongside 9528 GenBank sequences (including full-length genomes, individual genes, and partial diagnostic fragments). Results: A total of 4083 publications were identified, of which 72.1% (2942/4083) were from Brazil, Mexico, and Argentina. Most were original articles (75.8%; 2749/3628) involving human cohorts (95.8%; 2471/2580), where primary research fields centered on serological profiling, co-infections, vaccination, genotype characterization, and blood safety, whereas hepatocellular carcinoma, antiviral therapy, and metabolic comorbidities were the least frequently studied areas. In vitro (10.1%; 260/2580) and animal models (6.9%; 177/2580) accounted for a minor fraction of the literature. Eight circulating HBV genotypes (A-H) were detected, dominated by A (43.4%; 4138/9528), F (29.3%; 2787/9528), and D (19.8%; 1885/9528), while genotype H was largely confined to Mexico (3.2%; 306/9528). Marked geographic clustering was observed (p < 0.001), reflecting both autochthonous American and immigrant lineages. Conclusions: Epidemiological studies represent the most consolidated domain in LAC, yet research remains concentrated in a few countries with persistent experimental and clinical gaps. Fostering cross-border collaboration and investing in underexplored translational areas will be decisive in achieving regional hepatitis B elimination.",
+    "authors": [
+      "Alexis Jose-Abrego",
+      "Sonia Roman",
+      "Irene M Mariscal-Martinez",
+      "Karina Gonzalez-Aldaco",
+      "Arturo Panduro"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931177/",
+    "doi": "10.3390/pathogens15101025",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.5035,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931172",
+    "source": "pubmed",
+    "title": "Temporal Comparison of Virulence-Associated Characteristics and Metabolic Activity in Fluoroquinolone-Resistant",
+    "abstract": "The aim of this study was to compare the virulence-associated characteristics and metabolic activity of fluoroquinolone-resistant (FR) Escherichia coli O25 ST131 isolates recovered from urine samples of outpatients in Zagreb, Croatia, during two study periods, 2011/2012 and 2017/2018. The O25 ST131 clonal lineage was identified by rapid multiplex PCR targeting the O25pabB and trpA genes. PCR was used to detect blaCTX-M, blaCTX-M-15, blaTEM, and blaSHV β-lactamase genes, as well as the virulence-associated genes fimH, papC, hlyA, cnf1, and traT. Metabolic activity was evaluated using the VITEK 2 GN card, and serum resistance was assessed using a serum susceptibility assay. Differences between study periods were analyzed using linear regression and the chi-square test. A total of 4354 and 7717 E. coli isolates were recovered during the first and second study periods, respectively, and 170 FR E. coli O25 isolates were collected. Among the O25 ST131 isolates, 30/45 (66.7%) from the first study period and 75/114 (65.8%) from the second study period were ESBL-positive, with CTX-M-15 predominating. The fimH gene was detected in all 159 O25 ST131 isolates (100%), whereas hlyA, papC, cnf1, and traT were detected in 35 (22%), 43 (27%), 35 (22%), and 123 (77%) isolates, respectively. Compared with the first study period, isolates from the second period showed significantly higher frequency of papC, hlyA, and cnf1, as well as higher serum resistance and metabolic potential (p < 0.01). These findings demonstrate temporal differences in selected virulence-associated characteristics, serum resistance, and metabolic activity among FR E. coli O25 ST131 isolates and support the need for continued surveillance of this clinically important clonal lineage in the community.",
+    "authors": [
+      "Jasmina Vraneš",
+      "Maja Anušić",
+      "Vladimira Tičić",
+      "Sandra Šuto",
+      "Ivana Kolčić",
+      "Tatjana Marijan",
+      "Branka Bedenić"
+    ],
+    "date": "2026-Sep-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931172/",
+    "doi": "10.3390/pathogens15101020",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.3676,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931163",
+    "source": "pubmed",
+    "title": "Baseline Lenacapavir Resistance and Capsid Variability in Bulgaria: A Next-Generation Sequencing Study of Newly Diagnosed HIV-1 Infections.",
+    "abstract": "Lenacapavir, the first approved HIV-1 capsid inhibitor, is now being introduced for both treatment and pre-exposure prophylaxis, yet the capsid-coding region lies outside the pol fragment examined in routine genotypic resistance testing, and baseline data on capsid variability remain scarce, particularly in epidemics dominated by non-B lineages. We applied next-generation sequencing of the HIV-1 gag gene to 103 lenacapavir-naive individuals newly diagnosed in Bulgaria between 2023 and 2025. Nine lineages were identified. Subtype B accounted for 46.6% of the sequences, whereas non-B lineages together predominated (53.4%), led by sub-subtype F1 (13.6%) and CRF01_AE (8.7%); a further 10.7% remained unassigned and grouped predominantly with BF1 recombinant references. The distribution of these lineages differed significantly according to the probable route of transmission (p = 0.007). No major lenacapavir resistance-associated mutation was detected (0 of 103; 95% CI 0.0-3.6). Substitutions at position 107 were the only changes observed at a resistance-associated position: T107S in two individuals and a T107T/S mixture in one (2.9% combined). Notably, the two T107S sequences formed a CRF01_AE pair supported by a bootstrap value of 100, indicating that this accessory polymorphism can persist in closely related viruses. All viruses were genotypically predicted to remain susceptible to lenacapavir. These findings establish a molecular baseline for capsid surveillance in Bulgaria, a South-Eastern European country with a genetically diverse HIV-1 epidemic.",
+    "authors": [
+      "Ivailo Alexiev",
+      "Aleksandra Partsuneva",
+      "Reneta Dimitrova",
+      "Asya Kostadinova",
+      "Anna Gancheva",
+      "Lyubomira Grigorova",
+      "Kristina Stoyanova",
+      "Maria Nikolova",
+      "Radoslava Emilova",
+      "Nina Yancheva",
+      "Dimitar Strashimirov",
+      "Ivan Baltadzhiev",
+      "Tsetsa Doychinova",
+      "Pavlina Parusheva",
+      "Ivelina Todorova"
+    ],
+    "date": "2026-Sep-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931163/",
+    "doi": "10.3390/pathogens15101011",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.3618,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42931156",
+    "source": "pubmed",
+    "title": "Carbapenem-Resistant",
+    "abstract": "Carbapenem-resistant Klebsiella pneumoniae (CRKP) is the pathogen driving the deterioration of the European antimicrobial resistance landscape, and the burden falls disproportionately on Romania and South-Eastern Europe. The objective of this review was to synthesise evidence published between 2020 and 2025 on the epidemiology, molecular characteristics, clinical impact, and pandemic-era trajectory of CRKP healthcare-associated infections across South-Eastern Europe, including Romania. This retrospective, qualitative narrative review combined the international literature with a deliberately multilingual search of national-language sources in Romanian, Bulgarian, Greek, Croatian, Slovenian, and Serbian, including congress abstract books, doctoral theses, national reference-laboratory reports, and agency surveillance series that are absent from PubMed. Three findings emerge. First, the region is not epidemiologically uniform: estimated incidence of carbapenem-resistant K. pneumoniae bloodstream infection in 2024 ranged from 0.62 per 100,000 population in Slovenia to 20.31 in Romania, against a European Union/European Economic Area (EU/EEA) figure of 3.46, and the steepest relative rise between 2019 and 2024 was recorded in Bulgaria (+374.1%). Second, a distinctive molecular signature has consolidated in the northern half of the region: co-production of a metallo-β-lactamase with an OXA-48-like enzyme (OXA-48, a class D, oxacillinase-type carbapenemase), reported in 44.4-61.2% of characterised Romanian isolates across independent centres, which removes ceftazidime-avibactam from the therapeutic repertoire and leaves aztreonam-avibactam and cefiderocol as the principal remaining options. Third, the pandemic did not produce a single regional signal but a consistent sequence-a transient interruption of upward trends during 2020, a marked acceleration from 2021, and persistence of the elevated level after 2022-with national-language surveillance from Croatia and Slovenia showing that the direction of the apparent pandemic effect depends on whether incidence or resistance proportion is measured. The national-language literature adds granularity unavailable in English, but the evidence base remains structurally uneven: Albania, Kosovo, and North Macedonia contribute almost no primary data, and no country in the region has published a CRKP-attributable mortality estimate for the review period. CRKP in Romania and South-Eastern Europe now maps onto three molecular zones-OXA-48 predominance in the Western Balkans and Croatia, a KPC-to-metallo-β-lactamase transition in Greece, and metallo-β-lactamase plus OXA-48-like co-production in Romania and increasingly Bulgaria-that require different empirical therapy; the COVID-19 pandemic did not create this burden but accelerated and entrenched it, and closing the region's mortality-data and Western Balkan surveillance gaps should be a priority for future research.",
+    "authors": [
+      "Roxana-Carmen Cernat",
+      "Oana-Elena Ioniţă",
+      "Maria-Elena Vodarici",
+      "Nicola-Maria Militaru",
+      "Rareș-Alexandru Constantin",
+      "Nela-Daniela Efrim",
+      "Elena Mocanu",
+      "Edmond Puca",
+      "Daniela Piţigoi",
+      "Valeriu Gheorghiţă",
+      "Irina-Magdalena Dumitru"
+    ],
+    "date": "2026-Sep-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931156/",
+    "doi": "10.3390/pathogens15101004",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.2353,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42930755",
+    "source": "pubmed",
+    "title": "Perspective: Evolutionary Genetics Is the Backbone of Genomic Epidemiology in Fungal Pathogens.",
+    "abstract": "Genome sequencing is rapidly becoming a routine component of outbreak investigation and pathogen surveillance. In human fungal pathogens, however, the analytical framework has often remained centered on a single tree built from variants called against one reference genome. While that representation has been and will continue to be useful, epidemiological inference can also benefit from other approaches drawn from evolutionary genetics. Here, I review the transition from multilocus sequence typing to genome-scale epidemiology in human fungal pathogens, summarize representative successes in Coccidioides, Cryptococcus, Candida auris, Aspergillus fumigatus, Histoplasma, Sporothrix, Pneumocystis, and other fungi, and identify biological and technical sources of error that are still inconsistently addressed. More than a critique, this piece is a call to action. I argue that we need to start treating phylogenetic trees as one layer of evidence within a broader population-genetic framework and not as a stopping point. From a data collection point of view, we need a more robust epidemiological metadata collection scheme. From an analytical point of view, analyses of gene-tree discordance, demographic inference, ancestry, and structural variation can reveal features that a single tree derived from concatenated markers cannot. The amount of public sequence data is no longer the only limiting factor. The next pressing challenge is to translate the data generated by genomic and phylogenetic analyses into reproducible evolutionary inference while preserving and communicating the uncertainty that matters for public-health decisions.",
+    "authors": [
+      "Daniel R Matute"
+    ],
+    "date": "2026-Oct-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930755/",
+    "doi": "10.3390/jof12100790",
+    "journal": "Journal of fungi (Basel, Switzerland)",
+    "score": 0.3432,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "pubmed:42927797",
+    "source": "pubmed",
+    "title": "Spatiotemporal analysis of HIV-1 subtype B transmission networks in Uruguay.",
+    "abstract": "To reconstruct the evolutionary and demographic history of HIV-1 subtype B in Uruguay and characterize the establishment, persistence, and regional connectivity of its major transmission lineages. Nationwide molecular epidemiological and phylodynamic study of 491 HIV-1 subtype B pol sequences derived from routine resistance genotyping in Uruguay between 2007 and 2021. Maximum-likelihood and Bayesian phylogenetic approaches were used to classify pandemic and Caribbean subtype B lineages, identify viral introductions and local transmission clusters, estimate their times of emergence, reconstruct the demographic dynamics of major Uruguayan lineages, and assess their regional origins and transmission tempo. Pandemic subtype B accounted for 96.3% of sequences. We identified 229 independent introductions, of which only 52 (22.7%) generated detectable local transmission clusters, revealing marked heterogeneity in lineage establishment. The two largest country-specific lineages, BPAN-UY-I (n = 37) and BPAN-UY-II (n = 30), emerged independently in the mid-to-late 1980s and underwent sustained expansion until approximately 2010, followed by stabilization and recent declines in effective reproductive number. The median estimated maximum interval between successive infections was 25.4 months, with 49.3% of intervals <2 years and 21.5% >5 years. Among South American lineages with inferred regional ancestry, Brazil was the predominant source of both clustered and sporadic introductions. HIV-1 subtype B in Uruguay represents a mature, highly compartmentalized epidemic shaped by recurrent viral introductions but sustained predominantly by a small number of early-established founder lineages. These findings highlight the enduring effects of historical contingency, transmission-network structure, and regional connectivity on contemporary HIV epidemic dynamics.",
+    "authors": [
+      "A A Podchibiakin",
+      "I Arantes",
+      "R Flieller",
+      "D Ruchansky",
+      "M Brasesco",
+      "H Chiparelli",
+      "G Bello",
+      "D Mir"
+    ],
+    "date": "2026-Oct-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927797/",
+    "doi": "10.1016/j.meegid.2026.106047",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.4693,
+    "fetched_at": "2026-10-27"
+  },
+  {
+    "id": "arxiv:2610.32942v1",
+    "source": "arxiv",
+    "title": "A Central Limit Theorem for the Driver Site Frequency Spectrum",
+    "abstract": "We consider a supercritical two-type continuous-time linear birth-death process with mutation and selection, in which wild-type individuals give rise to mutant offspring with a larger net-growth rate. We previously had obtained first-order law of large number results for the driver site frequency spectrum. We return to obtain a second-order central limit theorem, in which we show stable convergence of a scaling of the deviation of the SFS from its first-order limit. We provide a central limit theorem at both large detection times and sizes. Then, we apply these results to obtain confidence intervals for a class of consistent estimators for the fitness advance.",
+    "authors": [
+      "Armaan Ahmed",
+      "Jasmine Foo",
+      "Kevin Leder"
+    ],
+    "date": "2026-10-23",
+    "url": "https://arxiv.org/abs/2610.32942v1",
+    "doi": null,
+    "score": 0.0709,
+    "fetched_at": "2026-10-27"
+  }
+]

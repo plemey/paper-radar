@@ -1111,6 +1111,26 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:42931213",
+    "source": "pubmed",
+    "title": "Retrospective Whole-Genome Sequencing and Molecular Epidemiological Analysis of Austrian WNV-2 Veterinary Cases (2008-2025).",
+    "abstract": "The West Nile virus of the lineage 2 (WNV-2) has become endemic in large parts of Europe; however, comprehensive whole-genome sequence datasets documenting long-term national circulation are still sparse. This study aimed for the retrospective genetic characterization of WNV-2 detected in animals in Austria between the first introduction in 2008 and 2025 using whole-genome sequencing. Phylogenetic analyses of the sequences allowed the viral diversity, lineage dynamics and molecular epidemiology to be investigated within a broader European context. Twenty-four Austrian WNV-2-positive samples originating from birds (22), one horse and one alpaca were subjected to in-house whole-genome amplification and Illumina sequencing. The generated genomes were analyzed using maximum-likelihood phylogenies and a European WNV-2 Nextstrain build comprising approximately 1000 publicly available whole-genome sequences. Whole-genome sequences were successfully recovered for all selected samples, indicating a reliable whole-genome amplification method for the chosen Austrian strains. The phylogenetic analysis identified three different WNV-2 subclades circulating in Austria (D2, E1 and E2) and revealed multiple periods of subclade co-circulation. Furthermore, Austria and Hungary were inferred as important geographic locations in the diversification and dissemination of WNV-2 in Europe. These findings demonstrate the dynamic circulation as well as the repeated introduction of WNV-2 subclades into Austria and highlight the value of whole-genome sequencing surveillance for monitoring lineage turnover and improving the understanding of WNV-2 evolution across Europe.",
+    "authors": [
+      "Michaela Stätter",
+      "Daniel Polzer",
+      "Katharina Reisp",
+      "Friedrich Schmoll",
+      "Anna Stöger",
+      "Sandra Revilla-Fernández"
+    ],
+    "date": "2026-Oct-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931213/",
+    "doi": "10.3390/pathogens15101061",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.608,
+    "fetched_at": "2026-10-27"
+  },
+  {
     "id": "pubmed:42734168",
     "source": "pubmed",
     "title": "Molecular Epidemiology, Genogroup Classification and Diversity of Infectious Bursal Disease Virus.",
@@ -3141,6 +3161,25 @@
     "fetched_at": "2026-09-07"
   },
   {
+    "id": "pubmed:42931177",
+    "source": "pubmed",
+    "title": "Mapping Hepatitis B Virus Research and Genomic Diversity in Latin America and the Caribbean.",
+    "abstract": "Background: Hepatitis B virus (HBV) infection remains a major public health challenge in Latin America and the Caribbean (LAC). Mapping scientific production and viral genomic diversity is essential to identify consolidated research fields, as well as areas of opportunity to improve and expand research across the region. Methods: An integrated analysis combining bibliometrics, text-mining, and phylogenetics was performed on HBV literature indexed in PubMed, Scopus, and Web of Science (1970-2025), alongside 9528 GenBank sequences (including full-length genomes, individual genes, and partial diagnostic fragments). Results: A total of 4083 publications were identified, of which 72.1% (2942/4083) were from Brazil, Mexico, and Argentina. Most were original articles (75.8%; 2749/3628) involving human cohorts (95.8%; 2471/2580), where primary research fields centered on serological profiling, co-infections, vaccination, genotype characterization, and blood safety, whereas hepatocellular carcinoma, antiviral therapy, and metabolic comorbidities were the least frequently studied areas. In vitro (10.1%; 260/2580) and animal models (6.9%; 177/2580) accounted for a minor fraction of the literature. Eight circulating HBV genotypes (A-H) were detected, dominated by A (43.4%; 4138/9528), F (29.3%; 2787/9528), and D (19.8%; 1885/9528), while genotype H was largely confined to Mexico (3.2%; 306/9528). Marked geographic clustering was observed (p < 0.001), reflecting both autochthonous American and immigrant lineages. Conclusions: Epidemiological studies represent the most consolidated domain in LAC, yet research remains concentrated in a few countries with persistent experimental and clinical gaps. Fostering cross-border collaboration and investing in underexplored translational areas will be decisive in achieving regional hepatitis B elimination.",
+    "authors": [
+      "Alexis Jose-Abrego",
+      "Sonia Roman",
+      "Irene M Mariscal-Martinez",
+      "Karina Gonzalez-Aldaco",
+      "Arturo Panduro"
+    ],
+    "date": "2026-Sep-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931177/",
+    "doi": "10.3390/pathogens15101025",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "score": 0.5035,
+    "fetched_at": "2026-10-27"
+  },
+  {
     "id": "pubmed:42912421",
     "source": "pubmed",
     "title": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025.",
@@ -3974,6 +4013,28 @@
     "fetched_at": "2026-08-28"
   },
   {
+    "id": "pubmed:42927797",
+    "source": "pubmed",
+    "title": "Spatiotemporal analysis of HIV-1 subtype B transmission networks in Uruguay.",
+    "abstract": "To reconstruct the evolutionary and demographic history of HIV-1 subtype B in Uruguay and characterize the establishment, persistence, and regional connectivity of its major transmission lineages. Nationwide molecular epidemiological and phylodynamic study of 491 HIV-1 subtype B pol sequences derived from routine resistance genotyping in Uruguay between 2007 and 2021. Maximum-likelihood and Bayesian phylogenetic approaches were used to classify pandemic and Caribbean subtype B lineages, identify viral introductions and local transmission clusters, estimate their times of emergence, reconstruct the demographic dynamics of major Uruguayan lineages, and assess their regional origins and transmission tempo. Pandemic subtype B accounted for 96.3% of sequences. We identified 229 independent introductions, of which only 52 (22.7%) generated detectable local transmission clusters, revealing marked heterogeneity in lineage establishment. The two largest country-specific lineages, BPAN-UY-I (n = 37) and BPAN-UY-II (n = 30), emerged independently in the mid-to-late 1980s and underwent sustained expansion until approximately 2010, followed by stabilization and recent declines in effective reproductive number. The median estimated maximum interval between successive infections was 25.4 months, with 49.3% of intervals <2 years and 21.5% >5 years. Among South American lineages with inferred regional ancestry, Brazil was the predominant source of both clustered and sporadic introductions. HIV-1 subtype B in Uruguay represents a mature, highly compartmentalized epidemic shaped by recurrent viral introductions but sustained predominantly by a small number of early-established founder lineages. These findings highlight the enduring effects of historical contingency, transmission-network structure, and regional connectivity on contemporary HIV epidemic dynamics.",
+    "authors": [
+      "A A Podchibiakin",
+      "I Arantes",
+      "R Flieller",
+      "D Ruchansky",
+      "M Brasesco",
+      "H Chiparelli",
+      "G Bello",
+      "D Mir"
+    ],
+    "date": "2026-Oct-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927797/",
+    "doi": "10.1016/j.meegid.2026.106047",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.4693,
+    "fetched_at": "2026-10-27"
+  },
+  {
     "id": "pubmed:42707236",
     "source": "pubmed",
     "title": "Molecular epidemiology of",
@@ -4495,70 +4556,5 @@
     "journal": "Cureus",
     "score": 0.4384,
     "fetched_at": "2026-09-20"
-  },
-  {
-    "id": "pubmed:42592558",
-    "source": "pubmed",
-    "title": "Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes.",
-    "abstract": "Accurate epidemic forecasting is crucial for outbreak preparedness, but existing data-driven models are often brittle. Typically trained on a single pathogen, they struggle with data scarcity during new outbreaks and fail under distribution shifts caused by viral evolution or interventions. However, decades of surveillance data and the design of various compartmental models from diverse diseases offer an untapped source of transferable knowledge. To leverage the collective lessons from history, we propose CAPE, the first open-source pre-trained model for epidemic forecasting. Unlike existing time series foundation models that overlook epidemiological challenges, CAPE models epidemic dynamics as mixtures of latent compartmental population states, termed compartmental prototypes. It models a flexible dictionary of compartment prototypes directly from a large collection of simulation data, enabling each outbreak to be expressed as a time-varying mixture that links observed infections to latent population states. To promote robust generalization, CAPE adopts the next-token-prediction paradigm during pre-training with lightweight epidemic-aware regularization that aligns the learned prototypes with epidemiological semantics. On a comprehensive benchmark spanning 17 diseases, CAPE significantly outperforms strong baselines with zero-shot forecasting. This work represents a principled step toward pre-trained epidemic models that are both transferable and epidemiologically grounded. We provide our code in: https://github.com/nuuuh/CAPE.",
-    "authors": [
-      "Zewen Liu",
-      "Juntong Ni",
-      "Bohan Wang",
-      "Max S Y Lau",
-      "Wei Jin"
-    ],
-    "date": "2026-Aug-08",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592558/",
-    "doi": "10.1145/3770855.3818928",
-    "score": 0.4379,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42568479",
-    "source": "pubmed",
-    "title": "Conserved CD4 T-cell responses correlate with antibody neutralization in solid organ transplant recipients after bivalent SARS-CoV-2 vaccination.",
-    "abstract": "Vaccines against SARS-CoV-2 and influenza require reformulation due to viral evolution. It remains unclear how vaccination against evolving antigens influences T-cell responses and the impact of reformulation on T-cell responses to new variants in immunocompromised hosts. Solid organ transplant recipients (SOTRs) had significantly lower antibody levels following vaccination and required repeated boosting during the COVID-19 pandemic. With the introduction of the Omicron spike (S) to the bivalent mRNA vaccines in 2022, the relative contribution of T-cell responses cross-reactive for Omicron mutated S sequences was assessed via intracellular cytokine staining using peptide pools containing conserved or mutated S sequences. S-specific CD4 T cells recognize both conserved and Omicron mutated S sequences pre- and post-bivalent vaccination, even in the absence of evidence of prior infection as detected by T-cell responses to a novel peptide pool. CD4 T-cell responses to both conserved and Omicron mutated sequences correlated with antibody pseudo-neutralization of BA.5 S. Importantly, pre-bivalent conserved S CD4 T-cell responses significantly correlated with antibody pseudo-neutralization of BA.5 S post-bivalent. These results emphasize the importance of conserved and cross-reactive responses in vaccine immunogenicity, providing a mechanism through which repeated boosting enhances vaccine immunogenicity in SOTRs and other immunocompromised populations.",
-    "authors": [
-      "Georgia Stavrakis",
-      "Katerina Roznik",
-      "Laila Stoddart",
-      "T Scott Johnston",
-      "Snigdha Panda",
-      "Camille Hage",
-      "Aura T Teles",
-      "Yolanda Eby",
-      "William A Werbel",
-      "Aaron A R Tobian",
-      "Aaron M Milstone",
-      "Alessandro Sette",
-      "Alba Grifoni",
-      "Andrew H Karaba",
-      "Elizabeth A Thompson",
-      "Andrea L Cox"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568479/",
-    "doi": "10.1002/cyto.a.21015",
-    "score": 0.4377,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42795703",
-    "source": "pubmed",
-    "title": "Whole-Genome Sequencing Analysis of ST1, ST11, ST17, and ST37",
-    "abstract": "Clostridioides difficile infection (CDI) is a major cause of antibiotic-associated diarrhea and pseudomembranous colitis and remains one of the most common healthcare-associated infections. Clostridioides difficile sequence types 1 and 11 (ST1 and ST11), which belong to multilocus sequence typing (MLST) clades 2 and 5, respectively, are widely recognized as epidemic-associated lineages. Both lineages harbor virulence-associated genetic features, including truncating variants in tcdC and carriage of the binary toxin locus (CdtLoc). ST37 (clade 4) has been an epidemic lineage in East Asia, whereas ST17 (clade 1) has been reported as a predominant lineage in the Republic of Korea and Japan. We performed short-read whole-genome sequencing (WGS) on 61 clinical isolates collected at a university-affiliated hospital in the Republic of Korea between February 2016 and April 2019. Long-read sequencing was additionally performed for 24 isolates, generating complete genomes by hybrid assembly. ST17 was the most prevalent sequence type (n = 16, 26.2%), followed by ST1 (n = 10, 16.4%). ST1 and ST11 isolates harbored the genetic features reported for these lineages, including truncating variants in tcdC. Genomic profiling further identified virulence-associated genes and antimicrobial resistance (AMR) determinants in diverse lineages. These findings characterize the genomic features of co-circulating C. difficile lineages and reveal the local presence of epidemic-associated strains.",
-    "authors": [
-      "Seongjin Cho",
-      "Young Kyung Lee",
-      "Kibum Jeon",
-      "Jae-Seok Kim"
-    ],
-    "date": "2026-Sep-21",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42795703/",
-    "doi": "10.3390/microorganisms14092122",
-    "journal": "Microorganisms",
-    "score": 0.4371,
-    "fetched_at": "2026-09-27"
   }
 ]
