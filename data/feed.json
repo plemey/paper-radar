@@ -1054,6 +1054,31 @@
     "fetched_at": "2026-10-15"
   },
   {
+    "id": "pubmed:42943990",
+    "source": "pubmed",
+    "title": "Retrospective and Contemporary Genomic Surveillance Reveals Genotype-Specific Dengue Lineage Dynamics in Rio de Janeiro.",
+    "abstract": "Dengue virus (DENV) transmission in Brazil is characterized by recurrent epidemics involving the introduction, persistence, and replacement of viral lineages. However, temporal gaps in genomic surveillance limit our understanding of how these processes shape successive epidemics in Rio de Janeiro. Here, in a retrospective observational molecular epidemiology study, we combined archived genomic data with publicly available sequences and epidemiological surveillance data to investigate the temporal dynamics of DENV serotypes and lineages in Rio de Janeiro. Archived DENV-positive samples were curated and subjected to whole-genome amplicon sequencing, and the resulting consensus sequences were analyzed together with publicly available sequences using time-scaled phylogenetic reconstruction and epidemiological data. We recovered 35 DENV genomes from samples collected in 2013, 2018, 2020, and 2021, including DENV-1 genotype V, DENV-2 genotypes II and III, and DENV-4 genotype II. Analysis of the combined datasets identified multiple Rio de Janeiro-associated clades with distinct temporal patterns. Publicly available sequences supported the broader clade structure and long-term temporal patterns independently of most genomes generated here. The newly generated genomes made genotype-specific contributions: the five DENV-1 genotype V genomes placed archived 2020-2021 samples within previously represented Rio de Janeiro-associated groups, while the single DENV-2 genotype II genome provided phylogenetic placement of a travel-associated 2018 case. In contrast, the 20 DENV-2 genotype III genomes identified a Rio de Janeiro-associated cluster not represented among the public sequences, and the nine DENV-4 genotype II genomes increased representation of the 2013 epidemic. Thus, the principal contribution of retrospective sequencing was to fill specific temporal and geographic gaps rather than to redefine the broader historical phylogenetic structure of all genotypes.",
+    "authors": [
+      "Gabriel Schuab",
+      "Carla de Oliveira",
+      "Carolina Cardoso Dos Santos",
+      "Laise de Moraes",
+      "Cintia Damasceno Dos Santos",
+      "Desiree Dos Santos Nunes",
+      "Juan Carlos Proença Moura",
+      "Felipe Gomes Naveca",
+      "Fernanda de Bruycker-Nogueira",
+      "Ana Maria Bispo de Filippis",
+      "Marta Giovanetti"
+    ],
+    "date": "2026-Sep-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42943990/",
+    "doi": "10.3390/v18101070",
+    "journal": "Viruses",
+    "score": 0.617,
+    "fetched_at": "2026-10-28"
+  },
+  {
     "id": "pubmed:42849142",
     "source": "pubmed",
     "title": "Tracking SARS-CoV-2: Molecular epidemiology and surveillance in Health Region VIII, Buenos Aires, Argentina (2020-2021).",
@@ -1271,6 +1296,28 @@
     "journal": "Frontiers in microbiology",
     "score": 0.5968,
     "fetched_at": "2026-10-16"
+  },
+  {
+    "id": "pubmed:42937133",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Varicella-Zoster Virus Among Patients From Two French Tertiary Care Hospitals: Differential Distribution of Clades According to Demographic Criteria.",
+    "abstract": "Varicella-zoster virus (VZV) nomenclature currently recognizes seven established clades (designated 1-6 and 9). A geographical segregation of VZV clades has been shown, with Clades 1, 3, and 6 predominating in Europe, Americas, and Australia, Clade 2 in Japan and East-Asia, and Clades 4 and 5 in Asia and Africa. This distribution of VZV clades is dependent on the importation of viral strains, because of immigration and travels, and the implementation of varicella vaccine. The surveillance of VZV epidemiology is therefore necessary. VZV genotyping strategies rely on evaluating a panel of single nucleotide polymorphisms (SNPs) across the different open reading frames (ORFs) of the viral genome. We described retrospectively the VZV clade distribution among 339 patients in Pitié-Salpêtrière (Paris) and Bordeaux University hospitals from 2018 to 2023. Clade 1 was detected in 27.1%, Clade 3 in 37.2%, Clade 5 in 31.9%, and other clades in 3.8% of the patients. The distribution of clades did not differ according to sex, immune status of the patients, and clinical presentation of VZV infection. However, patients infected with Clade 5 were statistically younger than those infected with other clades, especially European-born patients. This epidemiological characteristic of VZV Clade 5 may have multifactorial etiology, including the combination of viral, host, and environmental factors.",
+    "authors": [
+      "José Fernandez",
+      "Melinda Cheminet",
+      "Lucie Mazarguil",
+      "Mathilde Gay",
+      "Antoine Fauchois",
+      "Camille Tumiotto",
+      "Sonia Burrel",
+      "David Boutolleau"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937133/",
+    "doi": "10.1002/jmv.71198",
+    "journal": "Journal of medical virology",
+    "score": 0.596,
+    "fetched_at": "2026-10-28"
   },
   {
     "id": "pubmed:42628301",
@@ -1633,6 +1680,32 @@
     "fetched_at": "2026-09-07"
   },
   {
+    "id": "pubmed:42933678",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of dengue virus in the Bangka Belitung Islands, Indonesia, during the COVID-19 pandemic.",
+    "abstract": "Dengue virus (DENV) infection poses a major global health challenge with a rising number of infections worldwide. In Indonesia, molecular epidemiological studies have been limited, focusing primarily on Java Island, which has led to a sufficiency in comprehensive data of DENV characteristics. During the COVID-19 pandemic, fewer DENV epidemiological studies were conducted, further leaving a gap in our understanding of viral circulation during this period. Characterization of DENV serotypes, genotypes, and nucleotide substitutions is essential for improving clinical management and informing vaccine strategies. This study employed a cross-sectional design with consecutive sampling of suspected dengue patients from a private clinic and hospital in Bangka-Belitung, Indonesia, between 2019 and 2023. Patients with fever and two or more clinical symptoms of DENV infection were included. DENV infection was confirmed by NS1 antigen test, and positive samples were further analyzed for DENV serotypes by RT-PCR, followed by envelope gene analysis for phylogenetic characterization. Out of 92 suspected dengue infections, 74 cases (80.43%) were confirmed for DENV infection via RT-PCR, NS-1, or IgM antibody tests, with the majority of confirmed dengue cases occurred in children. DENV-3 was found to be the most dominant serotype (38.71%), followed by DENV-1 (11.83%), which aligns with previous studies characterizing the serotypes of circulating DENV strains. Phylogenetic analysis of DENV (1-4) during the COVID-19 pandemic revealed that these strains clustered into a distinct groups under the same genotypes as earlier outbreaks. This molecular epidemiology and seroprevalence data provide valuable insight into the circulating DENV strains in Indonesia. AUTHOR SUMMARY: Dengue virus (DENV) remains a major public health problem in Indonesia, one of the countries with the highest dengue burden worldwide. Although DENV is endemic throughout the Indonesian archipelago, information on the genetic diversity and circulation of DENV is still limited in many regions outside Java Island. Bangka Belitung Province is an understudied area where molecular epidemiological data are largely unavailable, making it difficult to understand local transmission patterns and support evidence-based control strategies. In this study, we investigated DENV infections in Bangka Belitung before and during the COVID-19 pandemic. We analyzed clinical samples from patients with suspected DENV infection to determine circulating serotypes and genetic characteristics of the virus. All four DENV serotypes were detected, with DENV-3 identified as the predominant serotype throughout the study period. Phylogenetic analyses showed that the circulating viruses belonged to genotypes that have been reported previously in Indonesia, indicating ongoing endemic transmission and genetic diversity within the country. Our findings provide the first comprehensive molecular epidemiological data on DENV circulation in Bangka Belitung. These results contribute to a better understanding of dengue transmission dynamics in Indonesia and highlight the importance of continuous molecular surveillance to detect viral introductions, monitor genetic changes, and support DENV prevention and control programs.",
+    "authors": [
+      "Beti Ernawati Dewi",
+      "Settrin Chenderawasi",
+      "Aisya Alma Asmiranti Kartika",
+      "Fathur Luthfiano Khairindra",
+      "Annisa Tsamara Faridah",
+      "Muhammad Farrel Ewaldo",
+      "Yeni Fitriani",
+      "Leonard Nainggolan",
+      "Timothy Lie",
+      "Linda Erlina",
+      "Tjahjani Mirawati Sudiro",
+      "Fithriyah Sjatha"
+    ],
+    "date": "2026-Oct-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933678/",
+    "doi": "10.1016/j.meegid.2026.106044",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.5732,
+    "fetched_at": "2026-10-28"
+  },
+  {
     "id": "pubmed:42762379",
     "source": "pubmed",
     "title": "Tick-host-virus triad in Crimean-Congo hemorrhagic fever transmission: global patterns across vector and reservoir species.",
@@ -1881,6 +1954,30 @@
     "journal": "Animals : an open access journal from MDPI",
     "score": 0.5628,
     "fetched_at": "2026-10-17"
+  },
+  {
+    "id": "pubmed:42943624",
+    "source": "pubmed",
+    "title": "Molecular Evolution of the HMPV-A",
+    "abstract": "Human metapneumovirus genotype A (HMPV-A) comprises genetically diverse lineages, but whether F-gene diversification is accompanied by changes in the conserved fusion (F) protein remains unclear. We analyzed 500 PARNAS-selected HMPV-A F gene sequences from 25 countries collected between 1982 and 2025 using time-scaled phylogenetics, Bayesian skyline analysis, evolutionary-rate and patristic-distance estimation, codon-based selection analysis, sequence-identity profiling, and structural epitope modeling. Three phylogenetically distinct clusters were identified. Cluster 1 diverged from the common ancestor of Clusters 2 and 3 around 1927. Cluster 3 comprised 435 representative sequences and showed the highest estimated evolutionary rate, greatest phylogenetic diversity, and the most pronounced recent demographic fluctuations. The overall evolutionary rate was 9.20 × 10-4 substitutions/site/year. Despite nucleotide-level diversification, whole-protein identity exceeded 97% in all clusters, 299 codons (approximately 55%) were consistently under negative selection, whereas positive-selection signals were limited and method-specific, with MEME identifying codons 188 and 271 and FUBAR identifying codon 528. Major neutralizing antibody-binding regions were largely conserved, and the six modeled representatives showed similar global F-protein backbone structures and predicted epitope-surface distributions, although A61S and K143T occurred within neutralizing antibody-binding sites and require experimental evaluation. These findings demonstrate lineage-specific F gene diversification under strong functional constraint and support the HMPV F protein as a broadly conserved intervention target.",
+    "authors": [
+      "Kazuhiko Harada",
+      "Fuminori Mizukoshi",
+      "Tatsuya Shirai",
+      "Ryusuke Kimura",
+      "Koo Nagasawa",
+      "Kazuto Ito",
+      "Isao Kurosawa",
+      "Kazuya Shirato",
+      "Akihide Ryo",
+      "Hirokazu Kimura"
+    ],
+    "date": "2026-Oct-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42943624/",
+    "doi": "10.3390/microorganisms14102386",
+    "journal": "Microorganisms",
+    "score": 0.5626,
+    "fetched_at": "2026-10-28"
   },
   {
     "id": "pubmed:42551977",
@@ -2252,6 +2349,36 @@
     "journal": "Nature",
     "score": 0.546,
     "fetched_at": "2026-09-17"
+  },
+  {
+    "id": "pubmed:42944093",
+    "source": "pubmed",
+    "title": "Molecular Characterisation of the Romanian African Swine Fever Virus p72 and B602L Genetic Markers.",
+    "abstract": "African swine fever (ASF) remains one of the most devastating transboundary diseases affecting domestic pigs and wild boars worldwide, making molecular epidemiology essential for understanding viral transmission and supporting disease control. This study aimed to characterise African swine fever virus (ASFV) isolates circulating in Romania through comparative analysis of the B646L (p72) gene and the B602L central variable region (CVR). Fifty-four ASFV-positive samples collected from domestic pigs and wild boars were confirmed by real-time PCR and subjected to molecular analysis. Following Sanger sequencing and sequence quality assessment, 32 reliable consensus sequences were retained for B602L and 33 for p72. Sequencing of the p72 gene demonstrated a very high degree of nucleotide conservation, confirming that all successfully sequenced isolates belonged to genotype II. In contrast, the B602L region exhibited limited intra-genotypic variability characterised by scattered single nucleotide polymorphisms and localised insertion/deletion events, providing additional molecular resolution compared to p72, although insufficient for fine-scale epidemiological tracking. No genetic segregation according to host species was observed for either genomic region, and sequences obtained from domestic pigs and wild boar were interspersed in the phylogenetic analyses, demonstrating a high degree of genetic similarity at the investigated loci. These findings highlight the complementary value of p72 and B602L for ASFV molecular characterisation, while also indicating that these partial genomic markers alone cannot resolve transmission pathways or epidemiological links between domestic and wild host populations.",
+    "authors": [
+      "Maria Rodica Gurău",
+      "Georgeta Ștefan",
+      "Alexandru Gligor",
+      "Sonia-Lucreția Beșleagă",
+      "Florica Bărbuceanu",
+      "Stelian Bărăităreanu",
+      "Elena Negru",
+      "Doru Valentin Hristescu",
+      "Vlad Barbu Vuță",
+      "Monica Muțiu",
+      "Daniel Nicolae Donescu",
+      "Ionica Iancu",
+      "Viorel Herman",
+      "Luminita Costinar",
+      "Corina Pascu",
+      "Doina Daneș"
+    ],
+    "date": "2026-Sep-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944093/",
+    "doi": "10.3390/vetsci13100997",
+    "journal": "Veterinary sciences",
+    "score": 0.5436,
+    "fetched_at": "2026-10-28"
   },
   {
     "id": "pubmed:42795539",
@@ -3483,6 +3610,26 @@
     "fetched_at": "2026-10-18"
   },
   {
+    "id": "pubmed:42945372",
+    "source": "pubmed",
+    "title": "KmerSignificance score: A discriminative and biologically informed framework for viral k-mer prioritization.",
+    "abstract": "Distinguishing closely related viral strains requires identifying genomic regions where subtle sequence differences carry biological significance. While k-mer-based approaches offer computational efficiency for genome analysis, existing methods lack standardized frameworks for evaluating which k-mers are most informative. Current selection strategies focus primarily on statistical discriminative power without integrating biological context. We introduce KmerSignificance Score (KSS), a k-mer prioritization framework combining three components: an information-theoretic method measuring strain-distinguishing capacity, an optimized amino acid substitution matrix (MIYATA_EVO) for mutation impact assessment, and a protein characterization score derived from annotations and database cross-references retrieved through UniProt. All three component scores and the integrated KSS are bounded in [0,1] by construction, providing a common numerical scale for ranking positions within a dataset. The discriminative component achieved a mean F1 of 0.881, not significantly different from chi-squared (0.876), the strongest of eight baselines. Top-ranked selections from the discriminative component nonetheless differed from those produced by chi-squared, especially for SARS-CoV-2 and HIV-1. The MIYATA_EVO matrix, optimized using a genetic algorithm, increased the composite agreement score across eight amino acid characteristics by 28.4% over the original MIYATA matrix. Across 17,471 viral proteins, the protein characterization score tracked UniProt's five-level annotation score closely (Kendall's τ=0.775), as expected for measures drawing on overlapping annotation content. Within each level, the continuous score provided finer numerical resolution among proteins. Literature cross-referencing on SARS-CoV-2 (278,738 sequences, 19 Pango-derived lineage labels), HIV-1 (12,223 sequences, 15 subtype labels), and human cytomegalovirus (HCMV; 399-646 sequences, 4-8 locus-specific genotypes) found that the top-ranked k-mers reported here map to established variant-defining mutations, subtype-specific polymorphisms, and genotype markers. KSS provides a standardized framework for viral k-mer prioritization with potential applications in variant surveillance, molecular epidemiology, and functional annotation. The tool is available at https://github.com/bioinfoUQAM/KmerSignificanceScore.",
+    "authors": [
+      "Dylan Lebatteux",
+      "Florian Corso",
+      "Hugo Soudeyns",
+      "Isabelle Boucoiran",
+      "Soren Gantt",
+      "Abdoulaye Baniré Diallo"
+    ],
+    "date": "2026-Oct-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945372/",
+    "doi": "10.1371/journal.pcbi.1014332",
+    "journal": "PLoS computational biology",
+    "score": 0.4914,
+    "fetched_at": "2026-10-28"
+  },
+  {
     "id": "pubmed:42575447",
     "source": "pubmed",
     "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
@@ -3861,6 +4008,27 @@
     "fetched_at": "2026-10-12"
   },
   {
+    "id": "pubmed:42944003",
+    "source": "pubmed",
+    "title": "Global Diversity of Norovirus Genotypes from 2002 to 2025: A Review of Temporal, Age-Specific and Regional Trends.",
+    "abstract": "Norovirus is a leading cause of acute gastroenteritis (AGE) worldwide, with significant morbidity and mortality, particularly in young children and older adults. This study characterizes the global prevalence and diversity of norovirus genotypes among sporadic cases. A review of English-language studies (published 2002-2026) that characterized norovirus genotype distribution among sporadic cases was conducted, excluding outbreak and asymptomatic detections. Pooled data were analyzed with stratifications by age group, region, and year of sample collection. A total of 20,588 cases were identified from 72 publications. There were 30 genotypes identified, with GII.4, GII.3, GII.2, GII.17, and GII.6 and each accounting for ≥5% of detections. GII.4 was the predominant genotype globally, accounting for 54% of cases and up to 80% among older adults across all years, but periodic fluctuation was seen, coinciding with fluctuations in the prevalence of other genotypes, especially GII.3, GII.2, and GII.17. Among GI genotypes, GI.3 was most prevalent (46%), particularly among adults. Genotype diversity was highest among children in low- and middle-income countries and in Asia/Oceania. Findings indicate that a small number of genotypes account for most cases. As genotyping characterizes the major capsid protein, the primary target of antibody recognition, findings have important implications for vaccine development and public health interventions.",
+    "authors": [
+      "Jennifer L Cannon",
+      "Christine Kim",
+      "Duncan Mahood",
+      "Brooke A Bollman",
+      "Guha Asthagiri Arunkumar",
+      "Benjamin A Lopman",
+      "Katherine B Carlson"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944003/",
+    "doi": "10.3390/v18101083",
+    "journal": "Viruses",
+    "score": 0.4772,
+    "fetched_at": "2026-10-28"
+  },
+  {
     "id": "pubmed:42566464",
     "source": "pubmed",
     "title": "Novel insights into tomato leaf curl New Delhi virus introduction and evolution in Southeastern France using an advanced long-read sequencing workflow.",
@@ -3990,6 +4158,28 @@
     "journal": "Frontiers in cellular and infection microbiology",
     "score": 0.4721,
     "fetched_at": "2026-09-18"
+  },
+  {
+    "id": "pubmed:42933365",
+    "source": "pubmed",
+    "title": "Genetic diversity of inclusion body hepatitis-associated fowl adenoviruses in Thailand from 2014 to 2025.",
+    "abstract": "Inclusion body hepatitis (IBH), caused by fowl adenoviruses (FAdVs), is an important disease affecting poultry health and production. Limited cross-protection among heterologous FAdV serotypes makes molecular surveillance essential for guiding disease prevention and control. Nevertheless, serotype distribution and genetic diversity of IBH-associated FAdVs in Thailand remain limited. To address this gap, a retrospective molecular study analyzed 56 FAdV-positive chickens associated with IBH or suspected IBH that were submitted for diagnostic investigation between 2014 and 2025. A partial hexon L1-loop region was amplified, sequenced, and analyzed by phylogenetic and deduced amino-acid comparisons. The isolates were classified into three serotypes: FAdV-8b, FAdV-11, and FAdV-2. FAdV-8b was the most frequently detected serotype, accounting for 30/56 isolates (53.57%), followed by FAdV-11 with 23/56 isolates (41.07%) and FAdV-2 with 3/56 isolates (5.36%). Temporal differences in serotype distribution were observed among the sequenced diagnostic submissions. All sequences collected during 2014-2018 belonged to species D and included FAdV-2 and FAdV-11. FAdV-8b was first detected in this dataset in 2019, and it accounted for 30 of the 35 sequences obtained during 2019-2025. Phylogenetic analysis separated Thai FAdV-8b isolates into three groups and FAdV-2 isolates into two groups, while FAdV-11 isolates were highly conserved within the analyzed region. Group-associated amino-acid substitutions were mainly located in the hypervariable regions of the Hexon L1-loop, suggesting potential relevance to within-serotype antigenic variation. Overall, these findings provide updated molecular epidemiological information on IBH-associated FAdVs in Thailand and underscore the need for continued molecular surveillance to inform diagnostic strategies and vaccine selection.",
+    "authors": [
+      "Ploypassorn Homklinkaew",
+      "Sittinee Kulprasertsri",
+      "Sakuna Phatthanakunanan",
+      "Kanyakodchanan Woramahatthanon",
+      "Kriangkrai Witoonsatian",
+      "Pun Panomwan",
+      "Thaweesak Songserm",
+      "Preeda Lertwatcharasarakul"
+    ],
+    "date": "2026-Oct-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933365/",
+    "doi": "10.1016/j.rvsc.2026.106451",
+    "journal": "Research in veterinary science",
+    "score": 0.4709,
+    "fetched_at": "2026-10-28"
   },
   {
     "id": "pubmed:42655655",
@@ -4394,167 +4584,5 @@
     "journal": "Preventive veterinary medicine",
     "score": 0.4505,
     "fetched_at": "2026-10-01"
-  },
-  {
-    "id": "pubmed:42856093",
-    "source": "pubmed",
-    "title": "Taking a BREATH (Bayesian Reconstruction and Evolutionary Analysis of Transmission Histories) to simultaneously infer phylogenetic and transmission trees for partially sampled outbreaks.",
-    "abstract": "We introduce and apply Bayesian Reconstruction and Evolutionary Analysis of Transmission Histories (BREATH), a method to simultaneously construct phylogenetic trees and transmission trees using sequence data for a host-to-host outbreak. BREATH's transmission process that accounts for a flexible natural history of infection (including a latent period if desired) and a separate process for sampling. It allows for unsampled individuals and within-host evolution. It also accounts for the fact that an outbreak may still be ongoing at the time of analysis, using right truncation adjustment. We perform a simulation study to verify our implementation and explore sensitivity to unknown or misspecified parameters. We then apply BREATH to a previously-described 13-year outbreak of tuberculosis. We find that using a transmission process to inform the phylogenetic reconstruction results in better resolution of the phylogeny (in topology, branch length and tree height) and a more precise estimate of the time of origin of the outbreak. Considerable uncertainty remains about transmission events in the outbreak, but our reconstructed transmission network resolves two major waves of transmission consistent with the previously-described epidemiology, estimates the numbers of unsampled individuals, and describes some high-probability transmission pairs. An open source implementation of BREATH is available from https://github.com/rbouckaert/BREATH as the BREATH package to BEAST 2.",
-    "authors": [
-      "Caroline Colijn",
-      "Matthew Hall",
-      "Remco Bouckaert"
-    ],
-    "date": "2026-Oct-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42856093/",
-    "doi": "10.1093/molbev/msag257",
-    "journal": "Molecular biology and evolution",
-    "score": 0.4497,
-    "fetched_at": "2026-10-12"
-  },
-  {
-    "id": "pubmed:42683047",
-    "source": "pubmed",
-    "title": "Molecular and Clinical Study of Bovine Coronavirus and",
-    "abstract": "Bovine respiratory disease (BRD) is a multifactorial syndrome causing major economic losses in cattle production worldwide. The present study investigated the prevalence, molecular characterization, and phylogenetic relationship of bovine coronavirus (BCoV) and Staphylococcus aureus co-infection in calves exhibiting respiratory and enteric signs. A total of 80 nasal and fecal samples were collected from calves aged 2 weeks to 2 months, showing clinical signs ranging from mild to acute disease. Clinical severity was categorized according to fever, dehydration, diarrhea, and respiratory distress. Molecular detection of BCoV was performed using real-time RT-PCR and conventional PCR targeting the N gene, while S. aureus isolates were identified by bacteriological culture, biochemical tests, and 16S rRNA gene amplification. Phylogenetic analysis was conducted using MEGA software and sequence alignment tools. The results showed that BCoV was detected in 35% of examined samples, while S. aureus was identified in 28% of cases. Co-infection was observed in 15% of calves and was significantly associated with severe clinical manifestations (p < 0.05). Acute and moderate cases demonstrated markedly higher BCoV positivity compared with mild cases. Agarose gel electrophoresis confirmed amplification of the BCoV N gene at 205 bp and the S. aureus 16S rRNA gene at approximately 1500 bp. Sequence alignment of local S. aureus isolates revealed highly conserved nucleotide regions, whereas phylogenetic analysis demonstrated genetic diversity among both bacterial and viral isolates. Local BCoV strains showed considerable sequence divergence compared with international reference strains, suggesting ongoing viral evolution. In conclusion, co-infection between BCoV and S. aureus significantly increases disease severity in calves and highlights the importance of integrated molecular diagnostics and continuous phylogenetic surveillance for effective BRD control strategies.",
-    "authors": [
-      "Karrar Jasim Hamzah",
-      "Noor R Abady",
-      "Diyar Khlaif Flaifel",
-      "Sumod Abdul Kadhem Salman",
-      "Dhay Ali Abed",
-      "Ahmed Hamzah Mosa"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42683047/",
-    "doi": "10.1186/s13620-021-00200-7",
-    "journal": "Veterinary medicine international",
-    "score": 0.4459,
-    "fetched_at": "2026-09-02"
-  },
-  {
-    "id": "pubmed:42583397",
-    "source": "pubmed",
-    "title": "Dynamic evolution of retroviral envelope-derived sequences in primates.",
-    "abstract": "It is known that several endogenous retroviruses, remnants of ancient retroviral integrations, retain envelope (env) genes encoding fusogenic proteins in primates. Whilst most env genes are degraded, a few have been co-opted by hosts, yet the entire evolutionary dynamics of env sequences remain poorly understood. To explore this, we screened and compared env open reading frames (ORFs) from 247 primate genomes. In total, 8683 nearly intact env-ORFs encoding 400 or more amino acids were identified, and their copy numbers ranged from 3 to 429 across primate species. Sequence similarity clustering revealed a clear evolutionary signature that distinguishes the small set of long-term co-opted env-derived genes, which are retained at low copy numbers across lineages, from the broader pool of rapidly turning-over env-ORFs. Applying this framework, we identified a previously unrecognized, single-copy env ortholog conserved across Tarsiiformes, named env-Tar1, and experimentally demonstrated its cell fusion activity in vitro, providing the first functional evidence of an env-derived gene co-opted in a tarsier lineage. Further, we found that certain co-opted env-derived genes may have lost their functions due to nonsense or indel mutations within specific primate lineages. Considering that many env genes tend to be maintained at low copy numbers and are reported to be under purifying selection, such dynamic evolutionary turnover of env-derived genes may be driven by host-virus arms races, as viruses and endogenous retroviruses often share cell-surface receptors.",
-    "authors": [
-      "Koichi Kitao",
-      "Kirill Kryukov",
-      "Lihua Jin",
-      "Yuta Shintaku",
-      "Takashi Hayakawa",
-      "So Nakagawa"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42583397/",
-    "doi": "10.1128/JVI.00684-20",
-    "score": 0.4433,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42551980",
-    "source": "pubmed",
-    "title": "East Asian",
-    "abstract": "The global molecular epidemiology of Mycobacterium avium subsp. paratuberculosis (MAP) has been well documented in North America and Europe, but the population-genetic framework of the East Asian lineages is underrepresented, hindering a complete understanding of the global genotype distribution and transmission dynamics. This study aimed to establish a regional molecular-typing framework for MAP in East Asia and investigate its genetic relatedness with global lineages to explore potential intercontinental connections associated with international livestock movements. The study integrated 12 newly characterized MAP isolates from South Korean ruminant herds (cattle and black goats, 2021-2024) with 34 global isolates across six continents. Genotypic characterization was performed using mycobacterial interspersed repetitive unit-variable number tandem repeat (MIRU-VNTR) and multilocus short sequence repeat (MLSSR) approaches to evaluate the allelic diversity and subtyping resolution. All South Korean isolates were identified as \"cattle-type\" (Type II) and predominantly belonged to the INRA Nouzilly MIRU-VNTR (INMV) genotype. Age-associated differences in MAP prevalence were observed among Korean ruminant herds (Fisher's exact test, p < 0.05), with distinct age-related patterns in beef and dairy cattle The integrated MIRU-VNTR and MLSSR approaches identified 14 and 31 distinct subtypes, respectively, with MLSSR showing superior discriminatory power (discriminatory index = 0.973 vs. 0.630 for MIRU-VNTR). This high allelic diversity in the global MLSSR dataset provided finer resolution than MIRU-VNTR for distinguishing the MAP subtypes across continents. This study provides a reference point for understanding the global diversity and distribution of MAP by bridging the genomic information gap in Asia. These findings underscore the potential of high-resolution, MLSSR-integrated surveillance as a practical tool for monitoring MAP across diverse geographical scales and for prioritizing isolates for future whole genome sequencing-based studies.",
-    "authors": [
-      "Jun Ho Lee",
-      "Su Min Kyung",
-      "Eun-Seo Lee",
-      "Han Gyu Lee",
-      "Eun-Yeong Bok",
-      "Srinand Sreevatsan",
-      "Han Sang Yoo"
-    ],
-    "date": "2026-Jul-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551980/",
-    "doi": "10.4142/jvs.26058",
-    "score": 0.4417,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42554480",
-    "source": "pubmed",
-    "title": "Whole-genome sequencing of adenovirus 41 directly from wastewater using nested overlapping PCR and MinION.",
-    "abstract": "Human adenovirus F41 (HAdV-F41) is one of the leading causes of children's acute gastroenteritis and was recently linked to an outbreak of severe acute hepatitis of unknown etiology among children during 2021 to 2022. While most evidence is based on clinical data, wastewater-based epidemiology offers a community-level approach to monitoring circulating strains and enhancing outbreak preparedness. In this study, we developed an overlapping amplicon-based whole-genome sequencing approach to directly detect HAdV-F41 from archived wastewater samples, using nested PCR with 13 primer sets. Archived wastewater samples were collected between 2021 and 2022 from three treatment plants in Seattle, USA. The viral load ranged from 1.2 × 103 to 8.4 × 103 genome copies per liter. The Oxford Nanopore platform was used for whole-genome sequencing. Complete or partial (>84%) HAdV-F41 genomes were recovered from wastewater samples, with mean coverage depths ranging from 10³ to 10⁵. The consensus sequences showed more than 99% similarity to reference genomes in the NCBI database. The phylogenetic analysis revealed that 2 sequences clustered within lineage 2a and 11 within lineage 2b, reflecting that at least two sub-lineages were circulating in the community at that time. Our results demonstrate that the overlapping amplicon-based whole-genome sequencing approach using the Oxford Nanopore platform reliably recovers HAdV-F41 genomes from wastewater. This method offers high-resolution genomic surveillance of circulating, clinically relevant HAdV-F41, supporting wastewater-based epidemiology as a valuable tool for detecting emerging variants and strengthening the early warning system for future disease outbreaks.IMPORTANCEHuman adenovirus F41 is a primary cause of childhood gastroenteritis and has been linked to recent outbreaks of severe acute hepatitis in children, yet community-level genomic surveillance of this virus remains limited. This study shows that wastewater can be used to recover nearly complete HAdV-F41 genomes through a targeted overlapping-amplicon sequencing strategy on the Oxford Nanopore platform. By applying this method to archived wastewater samples, we detected the simultaneous circulation of multiple viral lineages in a large city. These findings extend wastewater-based epidemiology beyond SARS-CoV-2 and emphasize its importance for monitoring clinically significant enteric viruses. The method described here offers a scalable tool for tracking viral evolution in communities and enhancing early warning systems for future outbreaks.",
-    "authors": [
-      "Naziba Nusrat",
-      "John S Meschke",
-      "Rachel Swanstrom",
-      "Roberto A Rodríguez"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42554480/",
-    "doi": "10.1128/spectrum.00471-26",
-    "score": 0.4409,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42576656",
-    "source": "pubmed",
-    "title": "Strengthening Regional Control of Transboundary Animal Diseases in the Greater Mekong Subregion of Southeast Asia: Four Decades of Diagnostics, Surveillance, Field Epidemiology, and Policy Translation.",
-    "abstract": "Transboundary animal and emerging infectious diseases (TADs, EIDs) threaten livestock health and production, food security, and the livelihoods of smallholder farmers in Southeast Asia (SEA). Outbreaks of TADs, including foot-and-mouth disease (FMD), classical swine fever (CSF), African swine fever (ASF), and lumpy skin disease (LSD), highlight ongoing risks associated with informal animal movement and cross-border trade. We reviewed four decades of research from Thailand, Lao PDR, and Cambodia in the Greater Mekong Subregion (GMS) to track the evolution of diagnostics, surveillance, and policies for these diseases. Incremental investments in laboratory diagnostics, epidemiology, abattoir surveillance, and field health measures were integrated into disease control strategies by adaptation to resource-limited, endemic settings and shaped by regional collaboration, notably through the SEA, China and Mongolia FMD (SEACFMD) campaign. Key achievements include establishing disease prevalence baselines, improving understanding of virus dynamics, identifying local disease risk factors, identifying veterinary service gaps, and rapidly increasing diagnostic and response capacity during outbreaks. Evidence from the studies reviewed suggests that integrating diagnostics with field surveillance, socioeconomic information, and regional coordination can provide actionable insights for disease control, although implementation and effectiveness have varied between diseases, countries, and time periods. This narrative review suggests that sustainable control requires long-term adaptive development of diagnostics, surveillance, and policy translation while recognising persistent heterogeneity in veterinary capacity, surveillance coverage, and biosecurity across the region. This review is based on a narrative synthesis of published literature, institutional reports, and programme experience.",
-    "authors": [
-      "Stuart D Blacksell",
-      "Peter A Windsor",
-      "James R Young",
-      "Syseng Khounsy",
-      "Phouvong Phommachanh",
-      "Russell D Bush",
-      "Harish Tiwari",
-      "Jarunee Siengsanan-Lamont",
-      "Nina Matsumoto",
-      "Sothyra Tum",
-      "James V Conlan",
-      "Somjai Kamolsiripichaiporn",
-      "Jaison B Kolenchery",
-      "Laurence J Gleeson",
-      "Michael P Ward"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576656/",
-    "doi": "10.1371/journal.pntd.0011244",
-    "score": 0.4402,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42694259",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of respiratory viral infections in hospitalized children in Novosibirsk, Russia, 2021-2023.",
-    "abstract": "Acute respiratory infections (ARIs) are among the leading global causes of morbidity and mortality in children. While viral agents of ARI are rigorously monitored, other pathogenic organisms and pathobionts - bacteria and fungi native to the host microbiome - remain largely neglected. Adenoviral types also warrant particular attention especially given the widespread use of adenoviral vector vaccines during the COVID-19 pandemic. Oro-nasal swabs collected from 1679 children under the age of 18 hospitalized in Novosibirsk, Russia between February 2021 and June 2023, were tested for the presence of nucleic acids by the diagnostic panel targeting 17 viruses, 12 bacteria and one yeast. Adenovirus-positive samples were additionally fine-typed by Sanger sequencing. Overall, 79.15% of samples were positive for at least one of 17 viral pathogens, with RSV (22.87% positives) and RhV (24.54% positives) dominating the etiological structure. Oro-nasal presence for respiratory pathobionts and opportunistic pathogens was 67.96% and 11.49%, respectively. Generally, viral seasonality was typical for continental climate, with only two notable deviations: MpV absence in spring of 2022 followed by earlier December peaks in the same year; an earlier RSV maximum in October 2021 with extended circulation the next epidemic season. Overall, the epidemiology of the analyzed viruses was consistent with worldwide surveillance trends and largely stable between the two later epidemic seasons. In viral-bacterial association analysis we identified two significantly attracted pairs, in which virus is known to facilitate bacterial adherence to respiratory epithelium. Adenovirus fine-typing provided preliminary evidence that serotypes 1, 2, 3, and 7 are the most frequently detected among the typed samples, while vaccine serotype AdV-5 was identified in only two cases. Broad target coverage allowed for a comprehensive analysis of epidemiological patterns, highlighting a trend toward stabilization of the etiological structure to pre-pandemic levels, and allowed for prioritization of clinically relevant viral-bacterial associations. Preliminary findings in adenoviral fine-typing are consistent with global trends in serotype prevalence and help address an important gap in regional adenoviral epidemiology.",
-    "authors": [
-      "Denis Evgenievich Maslov",
-      "Ivan Dmitrievich Osipov",
-      "Daria Sergeevna Zabelina",
-      "Diana Sergeevna Demina",
-      "Yulia Eduardovna Tomilova",
-      "Sabokhat Bakhromovna Berdieva",
-      "Viktoriya Viktorovna Makukha",
-      "Tatiana Valerievna Komissarova",
-      "Eduard Felixovich Agletdinov",
-      "Sergey Viktorovich Netesov"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42694259/",
-    "doi": "10.3390/v18010136",
-    "journal": "Frontiers in pediatrics",
-    "score": 0.4402,
-    "fetched_at": "2026-09-04"
-  },
-  {
-    "id": "pubmed:42763644",
-    "source": "pubmed",
-    "title": "Norovirus on Cruise Ships: A Recurring Sentinel Event.",
-    "abstract": "Norovirus remains the leading cause of acute gastroenteritis outbreaks worldwide and is particularly well adapted for transmission aboard cruise ships due to its low infectious dose, prolonged environmental persistence, and rapid person-to-person spread. We reviewed recent outbreaks to highlight recurring norovirus outbreaks and gaps in maritime surveillance. These demonstrate the vulnerability of cruise ships to rapid viral amplification and international dissemination. Current surveillance relies predominantly on symptomatic case reporting, limiting the ability to distinguish between single-source introduction, environmental persistence, foodborne transmission, and emergence of novel recombinant strains. Recent modelling studies have shown that early diagnosis and isolation of symptomatic individuals substantially reduce secondary transmission, yet routine genomic surveillance is rarely implemented onboard. Wastewater-based surveillance offers a practical, non-invasive early warning approach that can be integrated into existing ship infrastructure and complemented by genomic sequencing to identify circulating variants and transmission pathways. Incorporating molecular and wastewater surveillance into routine maritime health programmes would strengthen outbreak detection, improve infection control, and enhance global preparedness for recurrent norovirus outbreaks associated with international cruise travel.",
-    "authors": [
-      "Adarsh Pratik Deo",
-      "Nisha Thakur",
-      "Gursimran Kaur Mohi"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763644/",
-    "doi": "10.7759/cureus.114832",
-    "journal": "Cureus",
-    "score": 0.4384,
-    "fetched_at": "2026-09-20"
   }
 ]
