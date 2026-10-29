@@ -1079,6 +1079,30 @@
     "fetched_at": "2026-10-28"
   },
   {
+    "id": "pubmed:42946030",
+    "source": "pubmed",
+    "title": "Molecular epidemiological investigation of bovine coronavirus in some areas of Inner Mongolia and genetic evolution analysis of the S gene.",
+    "abstract": "Bovine coronavirus (BCoV) is a significant pathogen responsible for neonatal calf diarrhea and respiratory disorders. The spike (S) protein plays a pivotal role in mediating viral entry into host cells and eliciting immune responses. This study conducted a comprehensive analysis of the complete S gene sequences from field isolates. Nested PCR screening of 236 fecal samples collected from nine leagues and cities in Inner Mongolia yielded a positive rate of 7.63% (18/236), with marked regional variation; notably, Hinggan (Xing'an) League accounted for the largest proportion of positive cases (38.89%, 7/18 of total positives). Four complete S gene sequences (4092 bp) were obtained from positive specimens. Phylogenetic analysis demonstrated that the Inner Mongolian strains clustered within the Genogroup II (GII) lineage. Comparative analysis of the S protein amino acid sequences identified seven variation sites. Bioinformatics prediction suggested that the variant strain may possess altered antigenic properties, although these computational predictions require experimental validation. While the transmembrane domain (1308-1328) and the signal peptide cleavage site were highly conserved, variations in glycosylation and phosphorylation sites were observed. The secondary structure was predominantly composed of random coils (51.65% - 52.24%), suggesting structural flexibility. Furthermore, key functional motifs were conserved, although mutations within the receptor-binding domain (RBD), such as G573E, were identified, which warrant further investigation to determine their functional implications. This study provides a preliminary investigation into the epidemiology of BCoV in Inner Mongolia and analyzes the genetic variation of the S protein. These findings offer descriptive insights into the epidemiological patterns of BCoV in Inner Mongolia and establish a baseline for continuous molecular surveillance. While the identified genetic variations may provide reference information for future research, including vaccine-related studies, such implications remain speculative and would require extensive experimental validation.",
+    "authors": [
+      "Haojie Sang",
+      "Liuyi Yin",
+      "Jiaxin Sun",
+      "Lingpin Meng",
+      "Zheng Gao",
+      "Weiwei Gai",
+      "Zongfu Hu",
+      "Liyan Chen",
+      "Yang Song",
+      "Shubo Wen"
+    ],
+    "date": "2026-Oct-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42946030/",
+    "doi": "10.1016/j.micpath.2026.108881",
+    "journal": "Microbial pathogenesis",
+    "score": 0.6163,
+    "fetched_at": "2026-10-29"
+  },
+  {
     "id": "pubmed:42849142",
     "source": "pubmed",
     "title": "Tracking SARS-CoV-2: Molecular epidemiology and surveillance in Health Region VIII, Buenos Aires, Argentina (2020-2021).",
@@ -1704,6 +1728,32 @@
     "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
     "score": 0.5732,
     "fetched_at": "2026-10-28"
+  },
+  {
+    "id": "pubmed:42949294",
+    "source": "pubmed",
+    "title": "Bovine myxovirus resistance protein (Mx)1, but not Mx2, mediates antiviral activity against human and avian influenza A viruses, including H5N1 clade 2.3.4.4b.",
+    "abstract": "Highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b viruses have recently infected dairy cows in the United States, raising concerns about human spillover. The antiviral roles of bovine host defense factors, including myxovirus resistance proteins (bMx1 and bMx2), remain relatively understudied. We examined bMx1/bMx2 induction in differentiated bovine cells following HPAI H5N1 infection and assessed their antiviral activity using overexpression, knockdown, and mutagenesis approaches. Both bMx1 and bMx2 were more strongly induced in mammary cells than in tracheal cells. Overexpression of bMx1, but not bMx2, significantly inhibited seasonal influenza A viruses (IAVs), low-pathogenic, and highly pathogenic avian influenza viruses, including H5N1 2.3.4.4b, but not influenza B viruses. Conversely, knockdown of bMx1 resulted in enhanced IAV growth. Further, bMx1 inhibited early stages of viral replication, acting to reduce viral transcription and subsequent steps in the viral replication cycle. Known mutations that reduce human MxA (hMxA) activity also impaired bMx1 function, and mutations in the viral nucleoprotein (NP) associated with resistance to hMxA also reduced virus sensitivity to bMx1. Furthermore, phylogenetic analysis showed that a small minority (>0.03%) of avian H5N1 2.3.4.4b viruses already carry some of these NP mutations. These findings suggest that while current H5N1 viruses largely remain susceptible to bMx1, viral evolution or opportunistic reassortment could drive Mx resistance and increase pandemic risk.IMPORTANCEHighly pathogenic avian influenza viruses have spilled over into dairy cows and have been circulating on dairy farms in the United States since 2024. The innate antiviral immune responses of cows to influenza viruses have not been extensively studied. In this study, we focused on Mx proteins, a key part of the innate immune defense system toward viruses. We specifically looked at bovine Mx proteins and demonstrated antiviral activity toward different influenza viruses, including the highly pathogenic strains. We also showed that the mechanism of antiviral activity of bovine Mx1 was very similar to that of the human equivalent MxA protein. Further, we found that a small minority of these avian viruses have mutations associated with resistance to both bovine Mx1 and human MxA proteins. Overall, this work highlights the elevated pandemic risk for highly pathogenic influenza viruses through continual circulation in cows, a mammalian species in close proximity to humans.",
+    "authors": [
+      "Rubaiyea Farrukee",
+      "Yongyan Xia",
+      "Rachel Morris",
+      "James B Barnes",
+      "Clyde Dapat",
+      "Saira Hussain",
+      "Yi-Mo Deng",
+      "Victoria Meliopoulos",
+      "Stacey Schultz-Cherry",
+      "Sarah L Londrigan",
+      "Brad P Gilbertson",
+      "Patrick C Reading"
+    ],
+    "date": "2026-Oct-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949294/",
+    "doi": "10.1128/jvi.01372-26",
+    "journal": "Journal of virology",
+    "score": 0.5721,
+    "fetched_at": "2026-10-29"
   },
   {
     "id": "pubmed:42762379",
@@ -4346,6 +4396,25 @@
     "fetched_at": "2026-08-09"
   },
   {
+    "id": "pubmed:42949957",
+    "source": "pubmed",
+    "title": "Antigenic landscape of a highly mutated SARS-CoV-2 spike in ongoing viral evolution.",
+    "abstract": "The ongoing emergence of SARS-CoV-2 variants in an increasingly immune-experienced population is largely enabled by the plasticity of the Spike protein, which lies at the frontline of host immune pressure. Here, we investigated how extensive remodeling of the N-terminal domain (NTD) in Spike influences its antigenic properties. Using BA.2.87.1, a variant heavily mutated in this domain, we found that even large deletions do not substantially disrupt overall Spike structure or pseudovirus infectivity. However, our structural and binding analyses revealed that the NTD exhibits increased flexibility and that interaction with a heme-metabolite, known to facilitate the exposure of an immunodominant epitope, is lost. These conformational effects, coupled with 33 NTD mutations, compromised the ability of human convalescent antibodies to engage this domain, contributing to their reduced neutralizing capacity. Consequently, BA.2.87.1-like variants may escape recognition by the preexisting NTD-targeting antibodies, potentially reducing protection. Together, our results highlight the intrinsic adaptability of the Spike beyond the receptor-binding domain, with implications for immune escape during viral evolution.",
+    "authors": [
+      "Priscilla Turelli",
+      "Elise Eray",
+      "Charlène Raclot",
+      "Didier Trono",
+      "Aleksandar Antanasijevic"
+    ],
+    "date": "2026-Nov-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949957/",
+    "doi": "10.1073/pnas.2608185123",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "score": 0.4641,
+    "fetched_at": "2026-10-29"
+  },
+  {
     "id": "pubmed:42630966",
     "source": "pubmed",
     "title": "Enterovirus infections in children.",
@@ -4523,66 +4592,5 @@
     "journal": "Frontiers in immunology",
     "score": 0.4545,
     "fetched_at": "2026-09-09"
-  },
-  {
-    "id": "pubmed:42796647",
-    "source": "pubmed",
-    "title": "Inferring Seasonal Modulation of Early SARS-CoV-2 Transmissibility from Cross-Country Environmental and Population-Level Predictors.",
-    "abstract": "Seasonal variation in SARS-CoV-2 transmissibility is difficult to estimate directly from year-round epidemic data because interventions, behavior, reporting, immunity, and viral evolution change concurrently. We therefore asked whether cross-country differences observed during the initial exponential-growth phase could be used to infer country-specific seasonal modulation. Early-pandemic basic reproduction numbers (R0) from 118 countries were linked to 96 harmonized environmental and population-level predictors. Among nine candidate algorithms evaluated across 100 repeated train-test splits, ridge regression using the combined predictor set provided the best balance of predictive accuracy, generalization, and temporal stability. The selected model was then driven by daily climatological covariates to reconstruct annual baseline R0(t) profiles. Predicted transmissibility generally peaked during winter in the Northern Hemisphere and approximately six months later in the Southern Hemisphere, whereas equatorial countries showed weaker or multimodal patterns. Seasonal forcing amplitude increased strongly with absolute latitude (r = 0.85; mean 0.064 across 77 temperate countries), and predicted R0 peaks aligned more closely with minimum ultraviolet radiation than with minimum temperature. These ecological associations do not establish causality, but they provide country-specific seasonal-forcing parameters for epidemic models and a baseline environmental context for comparing early-pandemic trajectories.",
-    "authors": [
-      "Ognjen Milicevic",
-      "Magdalena Djordjevic",
-      "Igor Salom",
-      "Marko Djordjevic"
-    ],
-    "date": "2026-Aug-22",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42796647/",
-    "doi": "10.3390/pathogens15090879",
-    "journal": "Pathogens (Basel, Switzerland)",
-    "score": 0.4525,
-    "fetched_at": "2026-09-27"
-  },
-  {
-    "id": "pubmed:42551727",
-    "source": "pubmed",
-    "title": "Genetic diversity of Mycoplasma bovis associated with bovine respiratory disease outbreaks.",
-    "abstract": "Mycoplasma bovis is one of the main bacterial pathogens involved in bovine respiratory disease (BRD) outbreaks and is commonly found in feedlots worldwide. This study investigated the genetic diversity of M. bovis within and between BRD outbreaks occurring in Spanish feedlots and compared it with results obtained elsewhere. A total of 147 M. bovis isolates from 147 BRD outbreaks in beef fattening cattle from 127 feedlots located in 30 different provinces of Spain (n = 123 feedlots) and Portugal (n=4 feedlots) were characterized by multilocus sequence typing (MLST). A total of 36 different STs were detected among the 141 typeable M. bovis isolates analyzed (Simpson's diversity index =0.892). ST8 (21.3%) and ST29 (18.4%) were the most frequent and widely distributed geographically STs, with no other accounting for > 10% of the isolates. Different STs were identified in successive outbreaks occurring in the same feedlot. In addition, 19 isolates from five BRD outbreaks in which more than two isolates from different animals were available were subjected to whole genome sequencing (WGS) to assess M. bovis intra-outbreak genetic diversity: isolates belonging to different STs separated by > 700 SNPs were found within a single BRD outbreak, indicating that more than one strain of M. bovis can be involved simultaneously. Nevertheless, the presence of closely related isolates (0-10 SNPs) in different animals from a single outbreak strongly suggests clonal spread. Our results demonstrated the high genetic diversity of M. bovis circulating in Spanish feedlots and the dynamism and complexity of the M. bovis epidemiology.",
-    "authors": [
-      "Carlos Serna",
-      "José Luis Arnal",
-      "Ana I Vela",
-      "Ana Fernández",
-      "Marta Hernandez",
-      "Cristina Baselga",
-      "Celia Sanz",
-      "José Francisco Fernández-Garayzabal",
-      "Julio Alvarez",
-      "Dolores Cid"
-    ],
-    "date": "2026-Aug-04",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42551727/",
-    "doi": "10.1016/j.tvjl.2026.106807",
-    "score": 0.4505,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42810267",
-    "source": "pubmed",
-    "title": "Early detection of emerging swine pathogens: Comparative evaluation of online change-point methods.",
-    "abstract": "Timely detection of pathogen outbreaks in the U.S. swine population is crucial for protecting animal health and mitigating disruptions to food production. This study evaluates the efficacy of several state-of-the-art online change-point detection methods, including BEAST, Strucchange, a weighted CUSUM method, and several versions of BFastmonitor, in detecting outbreaks in pathogen case time series quickly and reliably. Time series data are simulated from state-level pathogen surveillance of Influenza A virus (IAV), Mycoplasma hyopneumoniae (MHP), Porcine deltacoronavirus (PDCoV), Porcine epidemic diarrhea virus (PEDV), and Porcine reproductive and respiratory syndrome virus (PRRSV) in the largest U.S. pork-producing states. Our results indicate that methods incorporating explicit modeling of trend and seasonality deliver more robust outbreak detection, particularly for time series exhibiting complex temporal and seasonal patterns. These methods generally outperform others in both timeliness and reliability, underscoring their operational value. Furthermore, we examine practical aspects of long-term monitoring, including the influence of stable period length, spacing between outbreaks, nonstationarity, and dependence structures. To demonstrate real-world applicability, we provide a detailed case study of BFastmonitor applied to an eight-year historical swine pathogen time series, highlighting its feasibility for routine surveillance.",
-    "authors": [
-      "Alan Moore",
-      "Lynna Chu",
-      "Guilherme Cezar",
-      "Giovani Trevisan",
-      "Daniel Linhares",
-      "Zhengyuan Zhu"
-    ],
-    "date": "2026-Sep-23",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42810267/",
-    "doi": "10.1016/j.prevetmed.2026.107020",
-    "journal": "Preventive veterinary medicine",
-    "score": 0.4505,
-    "fetched_at": "2026-10-01"
   }
 ]

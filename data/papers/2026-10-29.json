@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pubmed:42949957",
+    "source": "pubmed",
+    "title": "Antigenic landscape of a highly mutated SARS-CoV-2 spike in ongoing viral evolution.",
+    "abstract": "The ongoing emergence of SARS-CoV-2 variants in an increasingly immune-experienced population is largely enabled by the plasticity of the Spike protein, which lies at the frontline of host immune pressure. Here, we investigated how extensive remodeling of the N-terminal domain (NTD) in Spike influences its antigenic properties. Using BA.2.87.1, a variant heavily mutated in this domain, we found that even large deletions do not substantially disrupt overall Spike structure or pseudovirus infectivity. However, our structural and binding analyses revealed that the NTD exhibits increased flexibility and that interaction with a heme-metabolite, known to facilitate the exposure of an immunodominant epitope, is lost. These conformational effects, coupled with 33 NTD mutations, compromised the ability of human convalescent antibodies to engage this domain, contributing to their reduced neutralizing capacity. Consequently, BA.2.87.1-like variants may escape recognition by the preexisting NTD-targeting antibodies, potentially reducing protection. Together, our results highlight the intrinsic adaptability of the Spike beyond the receptor-binding domain, with implications for immune escape during viral evolution.",
+    "authors": [
+      "Priscilla Turelli",
+      "Elise Eray",
+      "Charlène Raclot",
+      "Didier Trono",
+      "Aleksandar Antanasijevic"
+    ],
+    "date": "2026-Nov-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949957/",
+    "doi": "10.1073/pnas.2608185123",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "score": 0.4641,
+    "fetched_at": "2026-10-29"
+  },
+  {
+    "id": "pubmed:42949294",
+    "source": "pubmed",
+    "title": "Bovine myxovirus resistance protein (Mx)1, but not Mx2, mediates antiviral activity against human and avian influenza A viruses, including H5N1 clade 2.3.4.4b.",
+    "abstract": "Highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b viruses have recently infected dairy cows in the United States, raising concerns about human spillover. The antiviral roles of bovine host defense factors, including myxovirus resistance proteins (bMx1 and bMx2), remain relatively understudied. We examined bMx1/bMx2 induction in differentiated bovine cells following HPAI H5N1 infection and assessed their antiviral activity using overexpression, knockdown, and mutagenesis approaches. Both bMx1 and bMx2 were more strongly induced in mammary cells than in tracheal cells. Overexpression of bMx1, but not bMx2, significantly inhibited seasonal influenza A viruses (IAVs), low-pathogenic, and highly pathogenic avian influenza viruses, including H5N1 2.3.4.4b, but not influenza B viruses. Conversely, knockdown of bMx1 resulted in enhanced IAV growth. Further, bMx1 inhibited early stages of viral replication, acting to reduce viral transcription and subsequent steps in the viral replication cycle. Known mutations that reduce human MxA (hMxA) activity also impaired bMx1 function, and mutations in the viral nucleoprotein (NP) associated with resistance to hMxA also reduced virus sensitivity to bMx1. Furthermore, phylogenetic analysis showed that a small minority (>0.03%) of avian H5N1 2.3.4.4b viruses already carry some of these NP mutations. These findings suggest that while current H5N1 viruses largely remain susceptible to bMx1, viral evolution or opportunistic reassortment could drive Mx resistance and increase pandemic risk.IMPORTANCEHighly pathogenic avian influenza viruses have spilled over into dairy cows and have been circulating on dairy farms in the United States since 2024. The innate antiviral immune responses of cows to influenza viruses have not been extensively studied. In this study, we focused on Mx proteins, a key part of the innate immune defense system toward viruses. We specifically looked at bovine Mx proteins and demonstrated antiviral activity toward different influenza viruses, including the highly pathogenic strains. We also showed that the mechanism of antiviral activity of bovine Mx1 was very similar to that of the human equivalent MxA protein. Further, we found that a small minority of these avian viruses have mutations associated with resistance to both bovine Mx1 and human MxA proteins. Overall, this work highlights the elevated pandemic risk for highly pathogenic influenza viruses through continual circulation in cows, a mammalian species in close proximity to humans.",
+    "authors": [
+      "Rubaiyea Farrukee",
+      "Yongyan Xia",
+      "Rachel Morris",
+      "James B Barnes",
+      "Clyde Dapat",
+      "Saira Hussain",
+      "Yi-Mo Deng",
+      "Victoria Meliopoulos",
+      "Stacey Schultz-Cherry",
+      "Sarah L Londrigan",
+      "Brad P Gilbertson",
+      "Patrick C Reading"
+    ],
+    "date": "2026-Oct-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949294/",
+    "doi": "10.1128/jvi.01372-26",
+    "journal": "Journal of virology",
+    "score": 0.5721,
+    "fetched_at": "2026-10-29"
+  },
+  {
+    "id": "pubmed:42949124",
+    "source": "pubmed",
+    "title": "Prevalence and Molecular Epidemiology of Nontyphoidal Salmonella enterica Serovars Enteritidis and Typhimurium in Bushmeat Carcasses Sold in the Centre Region Markets, Cameroon.",
+    "abstract": "Salmonella is a pathogen that causes gastrointestinal illness in consumers. Animal protection regulations are frequently disregarded by certain local populations, and the microbial risks associated with their consumption make this practice a serious public health concern. Highlighting these dangers may support state regulations and reduce consumer demand. Therefore, this study aimed to characterize the genetic diversity of nontyphoidal Salmonella isolates from bushmeat carcasses consumed in the Central Region of Cameroon. A total of 142 fresh carcass samples were collected from local markets for Salmonella isolation. Phenotypically identified isolates were subjected to multiplex polymerase chain reaction (PCR) targeting the InvA gene for the Salmonella genus, the IE-1 gene for Salmonella ser. Enteritidis, and the Flic-C gene for Salmonella ser. Typhimurium. For molecular typing, S. Enteritidis and S. Typhimurium isolates were further analyzed using Random Amplification of Polymorphic DNA (RAPD-PCR). Phenotypic analysis detected Salmonella spp. in 117 carcass samples (82.39%), and PCR confirmed 98 of these (69.01%) as true nontyphoidal Salmonella isolates, comprising 93 Salmonella ser. Enteritidis and five Salmonella ser. Typhimurium. Among the 98 confirmed NTS isolates, the InvA gene was detected in 45 (45.91%), and RAPD-PCR profiles were distinct for all isolates. At a similarity threshold of 80%, Salmonella ser. Typhimurium isolates were grouped into three clusters, while Salmonella ser. Enteritidis isolates were grouped into six clusters. This study shows that bushmeat is heavily contaminated with nontyphoidal Salmonella, predominantly S. Enteritidis serovars. These results may support future epidemiological research and help raise awareness of the microbial risks associated with bush meat.",
+    "authors": [
+      "Marius Dongmo",
+      "Akindeh Mbuh Nji",
+      "Rhoda Nsen Bughe",
+      "Calvino Fomboh Tah",
+      "Wilfred Fon Mbacham",
+      "Sylvain Leroy Sado Kamdem"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949124/",
+    "doi": "10.1002/mbo3.70441",
+    "journal": "MicrobiologyOpen",
+    "score": 0.3201,
+    "fetched_at": "2026-10-29"
+  },
+  {
+    "id": "pubmed:42948967",
+    "source": "pubmed",
+    "title": "Virological outcomes, resistance profile and viral evolution of lenacapavir-based regimens in heavily treatment-experienced people: data from the PRESTIGIO Registry.",
+    "abstract": "Lenacapavir (LEN) is a first-in-class, long-acting HIV-1 capsid inhibitor, approved for the treatment of heavily treatment-experienced (HTE) people with HIV (PWH) with multidrug resistance (MDR). To date, few data are available on resistance profiles in real life. Paired plasma and PBMC samples from nine HTE PWH with MDR enrolled in the PRESTIGIO Registry receiving LEN in combination with an optimized background regimen were collected before (baseline) and during LEN treatment. Next-generation sequencing was performed using in-house protocols. LEN susceptibility was assessed by single-cycle assay. Intra-patient viral evolution was evaluated through quasispecies distance analysis. At baseline, no major LEN resistance-associated mutations were detected; the accessory capsid polymorphism T107A was identified as a minority variant (5.9%) in one case, with phenotypic assays confirming full LEN susceptibility (mean fold-change: 1.2). Participants received LEN for a median [IQR] of 19.8 [18.5-23.2] months. Two individuals started LEN with undetectable viremia and maintained suppression. The other seven participants were viremic; six achieved viral suppression, with one experiencing a blip. One low-adherent participant exhibited persistent viremia with Q67K and K70H as the majority variants in both plasma (98.5%; 97.8%) and PBMCs (75.7%; 75.6%), conferring a 2081-fold reduction in LEN susceptibility. Intra-host variability in the capsid and pol regions remained low over time and across compartments. In this case series of HTE PWH with MDR, LEN was highly associated with maintenance or achievement of virological suppression and limited virus evolution, with only one participant remaining viremic and showing a majority highly LEN-resistant variant.",
+    "authors": [
+      "Maria Mercedes Santoro",
+      "Daniele Spalletta",
+      "Vincenzo Spagnuolo",
+      "Chiara Paletti",
+      "Greta Marchegiani",
+      "Maria Concetta Bellocchi",
+      "Riccardo Lolatto",
+      "Luca Carioti",
+      "Adriana Cervo",
+      "Antonio Di Biagio",
+      "Marta Fiscon",
+      "Emanuele Focà",
+      "Roberta Gagliardini",
+      "Stefano Rusconi",
+      "Maurizio Zazzi",
+      "Antonella Castagna",
+      "Francesco Saladini",
+      "Francesca Ceccherini-Silberstein"
+    ],
+    "date": "2026-Oct-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948967/",
+    "doi": "10.1093/jac/dkag335",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "score": 0.2922,
+    "fetched_at": "2026-10-29"
+  },
+  {
+    "id": "pubmed:42946030",
+    "source": "pubmed",
+    "title": "Molecular epidemiological investigation of bovine coronavirus in some areas of Inner Mongolia and genetic evolution analysis of the S gene.",
+    "abstract": "Bovine coronavirus (BCoV) is a significant pathogen responsible for neonatal calf diarrhea and respiratory disorders. The spike (S) protein plays a pivotal role in mediating viral entry into host cells and eliciting immune responses. This study conducted a comprehensive analysis of the complete S gene sequences from field isolates. Nested PCR screening of 236 fecal samples collected from nine leagues and cities in Inner Mongolia yielded a positive rate of 7.63% (18/236), with marked regional variation; notably, Hinggan (Xing'an) League accounted for the largest proportion of positive cases (38.89%, 7/18 of total positives). Four complete S gene sequences (4092 bp) were obtained from positive specimens. Phylogenetic analysis demonstrated that the Inner Mongolian strains clustered within the Genogroup II (GII) lineage. Comparative analysis of the S protein amino acid sequences identified seven variation sites. Bioinformatics prediction suggested that the variant strain may possess altered antigenic properties, although these computational predictions require experimental validation. While the transmembrane domain (1308-1328) and the signal peptide cleavage site were highly conserved, variations in glycosylation and phosphorylation sites were observed. The secondary structure was predominantly composed of random coils (51.65% - 52.24%), suggesting structural flexibility. Furthermore, key functional motifs were conserved, although mutations within the receptor-binding domain (RBD), such as G573E, were identified, which warrant further investigation to determine their functional implications. This study provides a preliminary investigation into the epidemiology of BCoV in Inner Mongolia and analyzes the genetic variation of the S protein. These findings offer descriptive insights into the epidemiological patterns of BCoV in Inner Mongolia and establish a baseline for continuous molecular surveillance. While the identified genetic variations may provide reference information for future research, including vaccine-related studies, such implications remain speculative and would require extensive experimental validation.",
+    "authors": [
+      "Haojie Sang",
+      "Liuyi Yin",
+      "Jiaxin Sun",
+      "Lingpin Meng",
+      "Zheng Gao",
+      "Weiwei Gai",
+      "Zongfu Hu",
+      "Liyan Chen",
+      "Yang Song",
+      "Shubo Wen"
+    ],
+    "date": "2026-Oct-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42946030/",
+    "doi": "10.1016/j.micpath.2026.108881",
+    "journal": "Microbial pathogenesis",
+    "score": 0.6163,
+    "fetched_at": "2026-10-29"
+  }
+]
