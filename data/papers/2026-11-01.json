@@ -1,0 +1,64 @@
+[
+  {
+    "id": "pubmed:42963503",
+    "source": "pubmed",
+    "title": "Characterization of influenza A(H3N2) viruses detected on a pig farm in Russia in 2017-2018.",
+    "abstract": "Pigs serve as \"mixing vessels\" for influenza A viruses, facilitating interspecies transmission and genomic reassortment. Here, we report characterization of influenza A(H3N2) viruses isolated from suckling and weaned piglets at one commercial pig farm in the Irkutsk Region, Russia, in August 2017 and May 2018. Full-genome sequencing revealed that their HA and NA segments clustered with human seasonal A(H3N2) strains circulating in 2002-2004, while the internal gene cassette was derived from A(H1N1)pdm09 viruses. PB1 and PB2 segments of viruses isolated in 2017 and 2018 belonged to different clusters of the A(H1N1)pdm09 lineage suggesting possible additional reassortment event. Hemagglutination inhibition assay and antigenic cartography demonstrated significant antigenic drift, with the swine isolates forming a discrete cluster ≥ 4 antigenic units distant from human seasonal A(H3N2) strains registered in 2007-2024. The viruses accumulated key substitutions, including HA1-A138S, associated with swine adaptation, yet retained full susceptibility to oseltamivir and zanamivir. Repeated detection of closely related reassortants at the same farm suggests their sustained circulation either within the farm or outside it, leading to reintroductions. Further studies are needed to understand the underlying mechanisms of this observation. Thus, our study identified a new genetic lineage of human-origin influenza A(H3N2) viruses in swine in Russia and highlighted once again that seasonal influenza viruses that stopped circulating in the human population long ago might remain undetected for years within swine and/or other unknown intermediate hosts, undergoing independent evolution and generating antigenically distinct variants that may evade pre-existing human immunity.",
+    "authors": [
+      "Alexey V Danilenko",
+      "Svetlana V Svyatchenko",
+      "Maria K Bragina",
+      "Natalia I Goncharova",
+      "Natalia P Kolosova",
+      "Ksenia I Ivanova",
+      "Andrey S Gudymo",
+      "Natalia V Danilchenko",
+      "Olga N Perfilieva",
+      "Anna V Maksyutova",
+      "Galina S Onkhonova",
+      "Ivan M Susloparov",
+      "Vasiliy Y Marchenko"
+    ],
+    "date": "2026-Oct-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963503/",
+    "doi": "10.1099/0022-1317-79-12-2947",
+    "journal": "Archives of virology",
+    "score": 0.7819,
+    "fetched_at": "2026-11-01"
+  },
+  {
+    "id": "pubmed:42962952",
+    "source": "pubmed",
+    "title": "Public sequence databases reveal annotation heterogeneity and deposition bias in Cryptosporidium and Giardia molecular surveillance.",
+    "abstract": "Molecular subtyping of Cryptosporidium and Giardia duodenalis relies heavily on public sequence repositories, but annotation heterogeneity and uneven deposition may bias epidemiological interpretation. We audited GenBank and UniProtKB records for Cryptosporidium GP60 and G. duodenalis gdh, tpi and bg, with SRA and CryptoDB used for contextual checks. GenBank metadata were extracted using qualifier-anchored parsing, host strings were normalized into 17 categories, host structure was compared across loci, and temporal host-category richness was assessed by rarefaction. UniProt annotations were evaluated for domain completeness, taxonomic consistency and GP60 domain boundaries. Among 22,980 GenBank records, 18,405 of 18,887 host-bearing records (97.45%) were classified. C. hominis GP60 was predominantly human-associated (89.8%), whereas C. parvum showed a broader zoonotic profile (54.0% cattle; 30.6% human; chi-square=4440.7, df=64, p<0.0001). UniProt domain annotation completeness ranged from 0% for tpi and bg to 89.6% for GP60 and 100% for gdh; GP60 Pfam starts occurred at 50 positions. Rarefied host-category richness increased from 3.0 before 2005 to 12.8 in 2020+, showing that temporal structure in deposited records persisted after equalizing sampling effort. A common Entrez Direct extraction idiom exposed 83.7% of records to potential metadata column misalignment. These findings show that database curation and deposition intensity are measurable sources of uncertainty in Cryptosporidium/Giardia molecular surveillance. The corrected extraction workflow and host-classification framework provide reusable tools for more reproducible host-ecological and zoonotic inference from public sequence data.",
+    "authors": [
+      "Asude Gulce Oryasin"
+    ],
+    "date": "2026-Oct-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962952/",
+    "doi": "10.1016/j.actatropica.2026.108389",
+    "journal": "Acta tropica",
+    "score": 0.3412,
+    "fetched_at": "2026-11-01"
+  },
+  {
+    "id": "pubmed:42962323",
+    "source": "pubmed",
+    "title": "Spatiotemporal evolution of SARS-CoV-2 Omicron variant and its lineages in India: Insights from geographic zone-based phylogenomics.",
+    "abstract": "The Omicron variant (B.1.1.529) triggered an unprecedented third wave of COVID-19 in India despite widespread prior immunity. We present the first country-wide, zone-resolved phylogenetic analysis of 7846 high-quality Omicron whole-genome sequences collected across all 28 states and 8 union territories of India from November 2021 to April 2022. Sequences were grouped into six broad geographic zones (Central, East, North, Northeast, South, West) and separate maximum-likelihood phylogenies were constructed for each zone. Across all zones, an early, diverse BA.1 cluster was rapidly and synchronously replaced by BA.2.10 and BA.2.12 lineages, culminating in nationwide dominance by April 2022. Characteristic mutations (e.g., S:704L unique to BA.2.12) emerged concurrently in all regions. Results of one-way ANOVA on patristic distances showed that both geographical zone (F = 10.34, P < 0.001) and sampling month (F = 7.41, P < 0.001) as the strongest correlates of genetic divergence, with sampling month reflecting time since lineage introduction. Age group and gender exerted statistically significant but weak effects (P < 0.001 and P < 0.05, respectively), with post-hoc Tukey HSD and Benjamini-Hochberg FDR correction showing no robust pairwise gender differences and only minor age-group clustering. Individuals aged ≥50 years contributed the largest share of sequences (n = 1992), reflecting known clinical sampling bias toward severe cases rather than lineage-specific adaptation. The findings show that intrinsic viral fitness, combined with national human mobility, was stronger than local selection pressures driven by demographic or environmental factors. The continuous under-sampling of northern and northeastern regions highlights the importance of equitable genomic surveillance in identifying new genetic lineages in high-burden areas.",
+    "authors": [
+      "Sree Sankar Darveekaran Nair",
+      "Wasimuddin",
+      "Yogendra Bhaskar",
+      "Vishnu Sukumari Nath",
+      "Kalyan De",
+      "Jithine Jayakumar Rajeswari"
+    ],
+    "date": "2026-Oct-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962323/",
+    "doi": "10.1016/j.virol.2026.111103",
+    "journal": "Virology",
+    "score": 0.5625,
+    "fetched_at": "2026-11-01"
+  }
+]
