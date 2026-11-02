@@ -2758,6 +2758,25 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:42966602",
+    "source": "pubmed",
+    "title": "Molecular Characterization of a Saudi Arabian DENV-3 Isolate and Identification of Potential Inhibitors Targeting Dengue Virus Proteins.",
+    "abstract": "The dengue virus (DENV) is a globally significant pathogenic virus. Understanding the genetic characteristics of the DENV is critical to elucidating viral evolution, diversity, and transmission. Furthermore, investigating DENV evolution using advanced molecular approaches can facilitate the identification of new genotypes and expand our knowledge of the DENV proteome, thereby supporting the development of novel therapeutics. Our study examines a DENV-3 isolate sequence at the molecular level and seeks to identify a potential inhibitor targeting crucial DENV proteins. Serum samples collected from confirmed dengue cases in Saudi Arabia (2024) were analysed to characterize crucial targets for potential antiviral development. We performed multiple sequence alignment, phylogenetic analysis, virtual screening, molecular docking, and ligand-protein interaction analysis. DENV-3 isolate is similar to the DENV virus from a Saudi Arabian isolate from 2016 (MZ857217.1), as demonstrated by phylogenetic research. The findings reveal a stable secondary structure of targets and identify at least four leading chemical compounds as anti-dengue therapeutic candidates that have higher predicted affinities toward the targets compared to the control. These findings enhance our molecular-level understanding of recent dengue isolates in Saudi Arabia and contribute to the development of antiviral medicines. They may inform future therapeutic strategies and outbreak management efforts.",
+    "authors": [
+      "Shymaa Damfo",
+      "Eitezaz Abdulshakoor Zaki",
+      "Nadia Alsuhaimi",
+      "Basmah Abdul Aziz Alharbi",
+      "Hind Hassan Alrashdi"
+    ],
+    "date": "2026-Oct-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966602/",
+    "doi": "10.1016/j.virusres.2026.199825",
+    "journal": "Virus research",
+    "score": 0.5302,
+    "fetched_at": "2026-11-02"
+  },
+  {
     "id": "pubmed:42573239",
     "source": "pubmed",
     "title": "Acquisition of specific human respiratory tract binding by 2.3.4.4b H5N1 hemagglutinins requires multiple mutations.",
@@ -4600,20 +4619,5 @@
     "journal": "Pediatric investigation",
     "score": 0.4636,
     "fetched_at": "2026-08-23"
-  },
-  {
-    "id": "pubmed:42910934",
-    "source": "pubmed",
-    "title": "Primer: Orbiviruses.",
-    "abstract": "Orbiviruses comprise numerous species and are transmitted by insect vectors. They are non-enveloped viruses with a multilayered capsid and a segmented double-stranded RNA (dsRNA) genome. Bluetongue virus (BTV), the prototype species of the genus Orbivirus, is a significant pathogen of livestock and is widely distributed throughout the world, causing serious periodic outbreaks with substantial economic consequences. Consequently, BTV has been extensively studied as a model orbivirus, resulting in a comprehensive understanding of its molecular epidemiology, genetics, biochemistry, structure, and replication cycle. This includes detailed insights into virus entry into host cells, synthesis of progeny viral components, assembly of new virions, and subsequent cell-to-cell transmission. This review summarizes the current literature on each of these aspects and discusses how this knowledge has been applied to develop novel vaccines against BTV and related orbiviruses. In addition, the review highlights important gaps in our understanding of virus replication within insect vectors, particularly Culicoides biting midges (gnats), at the molecular level. Addressing these gaps will provide valuable insights into orbivirus evolution, transmission, and the emergence of new viral strains.",
-    "authors": [
-      "Polly Roy"
-    ],
-    "date": "2026-Oct-22",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42910934/",
-    "doi": "10.1128/jvi.01325-26",
-    "journal": "Journal of virology",
-    "score": 0.4611,
-    "fetched_at": "2026-10-24"
   }
 ]

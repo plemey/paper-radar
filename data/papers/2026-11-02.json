@@ -1,0 +1,43 @@
+[
+  {
+    "id": "pubmed:42966602",
+    "source": "pubmed",
+    "title": "Molecular Characterization of a Saudi Arabian DENV-3 Isolate and Identification of Potential Inhibitors Targeting Dengue Virus Proteins.",
+    "abstract": "The dengue virus (DENV) is a globally significant pathogenic virus. Understanding the genetic characteristics of the DENV is critical to elucidating viral evolution, diversity, and transmission. Furthermore, investigating DENV evolution using advanced molecular approaches can facilitate the identification of new genotypes and expand our knowledge of the DENV proteome, thereby supporting the development of novel therapeutics. Our study examines a DENV-3 isolate sequence at the molecular level and seeks to identify a potential inhibitor targeting crucial DENV proteins. Serum samples collected from confirmed dengue cases in Saudi Arabia (2024) were analysed to characterize crucial targets for potential antiviral development. We performed multiple sequence alignment, phylogenetic analysis, virtual screening, molecular docking, and ligand-protein interaction analysis. DENV-3 isolate is similar to the DENV virus from a Saudi Arabian isolate from 2016 (MZ857217.1), as demonstrated by phylogenetic research. The findings reveal a stable secondary structure of targets and identify at least four leading chemical compounds as anti-dengue therapeutic candidates that have higher predicted affinities toward the targets compared to the control. These findings enhance our molecular-level understanding of recent dengue isolates in Saudi Arabia and contribute to the development of antiviral medicines. They may inform future therapeutic strategies and outbreak management efforts.",
+    "authors": [
+      "Shymaa Damfo",
+      "Eitezaz Abdulshakoor Zaki",
+      "Nadia Alsuhaimi",
+      "Basmah Abdul Aziz Alharbi",
+      "Hind Hassan Alrashdi"
+    ],
+    "date": "2026-Oct-31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966602/",
+    "doi": "10.1016/j.virusres.2026.199825",
+    "journal": "Virus research",
+    "score": 0.5302,
+    "fetched_at": "2026-11-02"
+  },
+  {
+    "id": "pubmed:42964838",
+    "source": "pubmed",
+    "title": "Environmental contamination and molecular epidemiology of",
+    "abstract": "Giardia duodenalis is an important enteric protozoan parasite transmitted via the fecal-oral route through the ingestion of environmentally resistant cysts, with contaminated soil and water serving as potential sources of infection. Although its molecular epidemiology has been extensively investigated in livestock, data on environmental contamination surrounding cattle farms remain limited in Korea. This study evaluated the occurrence and molecular characteristics of G. duodenalis in soil and water collected from cattle farm environments. Between July 2023 and June 2024, 364 environmental samples (185 soil and 179 water samples) were collected from beef and dairy cattle farms across three regions. Samples were screened for G. duodenalis by PCR targeting the small-subunit ribosomal RNA (SSU rRNA) gene. PCR-positive samples were subjected to sequencing and phylogenetic analysis, with additional PCR assays targeting the bg, gdh, and tpi genes performed for assemblage identification. G. duodenalis was detected in 2 of 364 samples (0.5%), comprising one soil sample and one water sample collected near beef cattle farms. Both positive samples were obtained in autumn and yielded identical SSU rRNA sequences that clustered phylogenetically with assemblage E; however, amplification of the bg, gdh, and tpi loci was unsuccessful. These findings provide the first molecular evidence of G. duodenalis DNA in environmental matrices surrounding Korean cattle farms. The detection of G. duodenalis DNA in soil and water provides preliminary evidence of environmental contamination. However, these findings do not establish cyst viability, infectivity, or zoonotic transmission, highlighting the need for further investigations within a One Health framework. This study provides baseline data for integrated One Health surveillance and underscores the importance of systematic environmental monitoring for elucidating transmission pathways, evaluating potential public health significance, and informing evidence-based biosecurity measures.",
+    "authors": [
+      "Haeseung Lee",
+      "Myungji Jo",
+      "Hyeyeon Kim",
+      "Kaifa Nazim",
+      "Seung-Hun Lee",
+      "Min-Goo Seo",
+      "Man Hee Rhee",
+      "Dongmi Kwak"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964838/",
+    "doi": "10.1016/J.ACTATROPICA.2017.08.030",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "score": 0.2979,
+    "fetched_at": "2026-11-02"
+  }
+]
