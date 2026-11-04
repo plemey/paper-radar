@@ -785,6 +785,36 @@
     "fetched_at": "2026-10-30"
   },
   {
+    "id": "pubmed:42971692",
+    "source": "pubmed",
+    "title": "Spike gene evolution in HCoV-OC43: Evidence of post-pandemic selective expansion.",
+    "abstract": "The aim is to characterise the evolution of the HCoV-OC43 spike from 2014 to 2024, spanning both the pre- and post-SARS-CoV-2 pandemic periods, in cases attended at a tertiary hospital in Catalonia. Respiratory specimens from patients with suspected acute respiratory infection were collected for laboratory-confirmation using a real-time PCR assay. A random selection of HCoV-OC43-positive specimens was performed per week. The whole spike gene was amplified by a nested RT-PCR using primers and protocol optimised from Gorse et al., 2017 and subsequently sequenced with the Illumina DNA Prep protocol. Further analyses were performed with MEGA and Nextclade softwares. The overall prevalence of seasonal coronaviruses was 5.18%, with HCoV-OC43 accounting for 47.93%. Phylogenetic analysis of the S gene revealed the predominance of cluster C. Mutation analysis showed that the RBD accumulated the highest number of substitutions prior to the pandemic, followed by a reduction afterwards, suggesting shifts in selective pressures. Positive Tajima's D values in the pre-pandemic period were consistent with stable endemic circulation, whereas negative values in the post-pandemic period suggested population expansion following a bottleneck. Comparative analyses revealed that HCoV-OC43 also exhibited lower evolutionary rates than SARS-CoV-2, in the S1 and the RBD regions, underscoring differential immune pressures. The present findings highlight the dynamic interplay between viral evolution and epidemiological changes associated with the pre- and post-pandemic periods in shaping the genetic landscape of endemic HCoVs.",
+    "authors": [
+      "Cristina Andrés",
+      "Mar Serra",
+      "Alejandra González-Sánchez",
+      "Ignasi Prats-Méndez",
+      "Maria Arnedo-Muñoz",
+      "Narcís Saubi",
+      "Ariadna Rando-Segura",
+      "Patricia Nadal-Barón",
+      "Juliana Esperalba",
+      "Eva Balada",
+      "Karen Garcia-Comuñas",
+      "Maria Carmen Martín",
+      "Miguel Valverde",
+      "Albert Canals",
+      "Nieves Larrosa",
+      "Andrés Antón"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971692/",
+    "doi": "10.1016/j.eimce.2026.503280",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+    "score": 0.6431,
+    "fetched_at": "2026-11-04"
+  },
+  {
     "id": "pubmed:42562267",
     "source": "pubmed",
     "title": "Integrated molecular, epidemiological, and bioinformatics perspectives on the Mpox virus: Implications for surveillance and Global Health preparedness.",
@@ -4585,21 +4615,5 @@
     "journal": "Frontiers in cellular and infection microbiology",
     "score": 0.4679,
     "fetched_at": "2026-09-08"
-  },
-  {
-    "id": "pubmed:42643861",
-    "source": "pubmed",
-    "title": "Stochastic intracellular replication dynamics shape population-level evolution in Influenza A Virus.",
-    "abstract": "Understanding the sources of genetic diversity in Influenza A Virus (IAV) infections is crucial for understanding the mechanisms of viral evolution and immune escape. Whereas prior studies have characterized the effects of population bottlenecks during host-to-host transmission and intrahost tissue-to-tissue dissemination, the role of intracellular replication processes on IAV genetic diversity remains largely unexplored. In this study, we used stochastic mathematical modelling to simulate the replication of genetically distinct IAV strains within individual cells and tissues. Our results reveal significant bottleneck effects within a single infection cycle of individual cells. Intracellular bottleneck effects are driven by stochastic molecular processes and lead to the expansion or elimination of neutral variants creating large-scale differences between the initial and final frequencies of genetic variants in individual cells. By expanding our findings to a population-level model, we show that IAV intracellular replication reduces the effective population size, thereby diminishing the impact of selection and increasing the role of genetic drift. Our findings highlight the impact of intracellular replication processes on IAV genetic diversity.",
-    "authors": [
-      "Ernesto Alejandro Segredo-Otero",
-      "David Gresham"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42643861/",
-    "doi": "10.1146/annurev-virology-100114-055135",
-    "journal": "Virus evolution",
-    "score": 0.4677,
-    "fetched_at": "2026-08-27"
   }
 ]
