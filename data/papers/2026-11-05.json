@@ -1,0 +1,89 @@
+[
+  {
+    "id": "pubmed:42981112",
+    "source": "pubmed",
+    "title": "Improving gene-based analysis of rare variants through Bayesian variable selection.",
+    "abstract": "A common approach for detecting rare variants (RVs) associated with complex human diseases is to perform a gene-based analysis or a region-based test of association. Typically, in a gene-based analysis, all the RVs pertaining to the gene considered are included in the statistical test, which potentially reduces its power since most RVs are likely not associated with the outcome of interest. As paradigm shift, we propose to add a variable selection step to choose the RVs that compose the gene-based test statistic as a way to enhance the power of the test. We propose a Bayes factor (BF) test statistic derived from the generalized linear model and its conjugate prior. A key component of our approach is the selection of the important RVs within a gene, which is performed through a birth-death Markov Chain Monte Carlo algorithm. Our approach can also leverage functional annotation at the RV level through the elicitation of the conjugate prior. Through simulation studies, we show that the proposed BF outperformed competing approaches both in terms of gene ranking and power to detect gene-based associations. The power of BF was improved by the use of the variable selection procedure and this gain of power was more substantial when functional annotation was included in this procedure. The application of our new approach to a large whole-exome sequencing data set comparing 1658 individuals with lung cancer to 1492 healthy controls was able to identify new genes associated with lung cancer and pointed towards interesting cancer-related pathways.",
+    "authors": [
+      "Jingxiong Xu",
+      "Nanwei Wang",
+      "Yonathan Brhane",
+      "Christopher I Amos",
+      "Laurent Briollais"
+    ],
+    "date": "2026-Nov-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981112/",
+    "doi": "10.1177/09622802261503307",
+    "journal": "Statistical methods in medical research",
+    "score": 0.2619,
+    "fetched_at": "2026-11-05"
+  },
+  {
+    "id": "pubmed:42979301",
+    "source": "pubmed",
+    "title": "Core genome multilocus sequence typing characteristics of",
+    "abstract": "Human brucellosis is a re-emerging zoonotic disease in Yunnan Province, China; however, the molecular epidemiological profile of circulating strains remains unclear. In this study, bacteriology, multilocus sequence typing (MLST), and core genome MLST (cgMLST) were applied to investigate the epidemiological relationships among strains. Bacteriological analysis revealed that among the 127 strains, nine were identified as Brucella melitensis (B. melitensis) biovar 1 and 118 as B. melitensis bv. 3, with these strains distributed across 13 cities and autonomous prefectures. Among the patients, 70.9% were male, 87.4% were livestock-exposed farmers, and 95.3% were aged 41-80 years, with infection peaking in the April-September agricultural season (70.1% of cases). The 127 B. melitensis strains were classified into two sequence types (STs): ST8 (n = 116) and ST39 (n = 11). ST8 is widely distributed in Northern China, whereas ST39 has mainly been reported in Southwestern China (Guizhou and Sichuan Provinces). These data indicate that B. melitensis sequence types ST8 and ST39 are jointly associated with the brucellosis epidemic in the human population of Yunnan Province. cgMLST analysis classified 127 strains into eight clusters (CI-VIII) and 21 STs, with 19 STs comprising strains from at least two cities isolated across two years. These findings suggest that the brucellosis epidemic in this region is driven by strains sharing a high degree of genetic homology. Global cgMLST analysis revealed high genetic similarity between the majority of strains in this study and isolates from Northern China, implying latent epidemiological links among these populations. Prioritizing dominant ST8 lineages is essential for effective brucellosis control and surveillance.",
+    "authors": [
+      "Qiuju Yang",
+      "Jiao Yang",
+      "Qing Zhang",
+      "Zhenjun Li",
+      "Xuexin Hou",
+      "Zhiguo Liu",
+      "Binbin Yu"
+    ],
+    "date": "2026-Oct-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979301/",
+    "doi": "10.1016/j.bsheal.2026.08.004",
+    "journal": "Biosafety and health",
+    "score": 0.4254,
+    "fetched_at": "2026-11-05"
+  },
+  {
+    "id": "pubmed:42978018",
+    "source": "pubmed",
+    "title": "Ecological niche partitioning and urbanization-driven restructuring of flea-borne pathogen communities in stray carnivores of Peninsular Malaysia: discovery of uncharacterised Bartonella lineages.",
+    "abstract": "Flea-borne bacteria are emerging zoonotic pathogens of increasing public health importance, yet their ecological distribution, community structure, and genetic diversity across contrasting landscapes in Southeast Asia remain poorly understood. This study investigated flea infestation, flea-borne bacterial pathogens, and their ecological associations in stray cats and dogs across urban, peri-urban, and rural landscapes of Peninsular Malaysia. A total of 296 stray cats and dogs were examined for flea infestation, and all recovered fleas (n = 636) were identified morphologically and screened individually for Bartonella spp., Rickettsia spp., and Orientia tsutsugamushi using polymerase chain reaction (PCR) assays followed by Sanger sequencing and phylogenetic analysis. Risk factors associated with flea infestation, Bartonella spp. and Rickettsia spp. occurrence were evaluated using generalized linear models (GLMs), generalized linear mixed-effects models (GLMMs), and Firth's penalized logistic regression, respectively. Pathogen community structure was assessed using alpha diversity indices, non-metric multidimensional scaling (NMDS), permutational multivariate analysis of variance (PERMANOVA), and tripartite ecological network analysis. Overall flea infestation prevalence was 32.09% (95/296), with infestation significantly higher in cats (39.44%) than dogs (13.25%) (χ2 = 10.672, df = 1, p = 0.001). All 636 fleas exhibited complete host-associated segregation, with Ctenocephalides felis (n = 485) occurring exclusively on cats and C. orientis (n = 151) exclusively on dogs. Flea-borne pathogens were detected in 71.86% (457/636) of fleas, comprising Bartonella henselae, B. clarridgeiae, B. koehlerae, several uncharacterized Bartonella lineages, Rickettsia felis, and R. asembonensis. Urban landscapes were associated with significantly higher Bartonella prevalence in C. felis (70.05%), whereas C. orientis was overwhelmingly dominated by R. asembonensis (94.04%). Ecological analyses demonstrated significant landscape-associated variation in pathogen community composition among C. felis populations but not C. orientis. Phylogenetic analysis identified a distinct, well-supported clade of previously uncharacterized Bartonella lineages (bootstrap = 100%). No O. tsutsugamushi was detected in any flea sample. Flea-borne pathogen communities in Peninsular Malaysia are structured by strong host-vector associations and ecological landscape, with peri-urban environments supporting greater pathogen diversity and urban landscapes demonstrated higher detection of Bartonella in C. felis. The discovery of previously uncharacterized Bartonella lineages expands the known diversity of flea-associated Bartonella in Malaysia and highlights the importance of integrating molecular epidemiology with community ecology to improve surveillance of emerging flea-borne zoonoses.",
+    "authors": [
+      "Justin Titi Alison",
+      "Anis Suhaila Taufik",
+      "Arief-Iman Jahfar",
+      "Auni Atikah AbdulHalim",
+      "Nurul Aini Husin",
+      "Noor Izwan-Anas",
+      "Mohammad Saiful Mansor",
+      "Zubaidah Ya'cob"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978018/",
+    "doi": "10.1371/journal.pntd.0006632",
+    "journal": "Parasites & vectors",
+    "score": 0.4214,
+    "fetched_at": "2026-11-05"
+  },
+  {
+    "id": "pubmed:42976511",
+    "source": "pubmed",
+    "title": "Changes in self-reported Long COVID in different variant-dominant phases of the SARS-CoV-2 pandemic: the influence of vaccination on a diverse Israeli cohort study.",
+    "abstract": "Long COVID (LC) risk varies across SARS-CoV-2 variants, but causal inference is complicated by rising vaccine coverage coinciding with viral evolution. We examined how pre-infection vaccination status modified LC risk across different pandemic periods dominated by different variants, to disentangle the contributions of viral evolution and vaccine-induced immunity. In this prospective cohort study of Israeli adults with SARS-CoV-2 infections from July 2021-March 2023, participants completed baseline and follow-up online surveys ≥60 days post-infection. LC was defined as ≥3 symptoms within validated symptom clusters. Infections were assigned to an infection period corresponding to the predominant circulating variant (Wild type, Alpha, Delta, Omicron) at onset time. Pre-infection vaccination was categorized as unvaccinated (0-1 doses), partially vaccinated (2 doses), or fully vaccinated (≥3 doses). Generalized estimating equations estimated multivariable risk ratios, adjusted for age, sex, and follow-up time. Among 1715 participants reporting 2018 infections, LC was reported following 30·4% of infections. In models adjusted for vaccination, LC risk did not differ between the Delta and Omicron-dominant periods (aRR 1·01, 95% CI 0·80-1·26). Among partially vaccinated individuals, infections during the Omicron-dominant period carried lower LC risk than during Delta (aRR 0·62, 95% CI 0·40-0·98). LC risk did not differ by variant-dominant periods among unvaccinated or fully vaccinated individuals. Observed differences in LC risk at various periods of the pandemic dominated by different variants may be largely explained by concurrent increases in vaccine coverage rather than intrinsic changes in variant pathogenicity. Full pre-infection vaccination conferred consistent protection against LC regardless of the period of variant dominance.",
+    "authors": [
+      "Sophie Lazar",
+      "Paul Kuodi",
+      "Haneen Shibli",
+      "Hiba Zayyad",
+      "Ofir Wertheim",
+      "Karine Beiruti Wiegler",
+      "Kamal Abu Jabal",
+      "Amiel A Dror",
+      "Saleh Nazzal",
+      "Daniel Glikman",
+      "Michael Edelstein"
+    ],
+    "date": "2026-Nov-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976511/",
+    "doi": "10.1016/j.vaccine.2026.129308",
+    "journal": "Vaccine",
+    "score": 0.4908,
+    "fetched_at": "2026-11-05"
+  }
+]

@@ -3963,6 +3963,31 @@
     "fetched_at": "2026-10-28"
   },
   {
+    "id": "pubmed:42976511",
+    "source": "pubmed",
+    "title": "Changes in self-reported Long COVID in different variant-dominant phases of the SARS-CoV-2 pandemic: the influence of vaccination on a diverse Israeli cohort study.",
+    "abstract": "Long COVID (LC) risk varies across SARS-CoV-2 variants, but causal inference is complicated by rising vaccine coverage coinciding with viral evolution. We examined how pre-infection vaccination status modified LC risk across different pandemic periods dominated by different variants, to disentangle the contributions of viral evolution and vaccine-induced immunity. In this prospective cohort study of Israeli adults with SARS-CoV-2 infections from July 2021-March 2023, participants completed baseline and follow-up online surveys ≥60 days post-infection. LC was defined as ≥3 symptoms within validated symptom clusters. Infections were assigned to an infection period corresponding to the predominant circulating variant (Wild type, Alpha, Delta, Omicron) at onset time. Pre-infection vaccination was categorized as unvaccinated (0-1 doses), partially vaccinated (2 doses), or fully vaccinated (≥3 doses). Generalized estimating equations estimated multivariable risk ratios, adjusted for age, sex, and follow-up time. Among 1715 participants reporting 2018 infections, LC was reported following 30·4% of infections. In models adjusted for vaccination, LC risk did not differ between the Delta and Omicron-dominant periods (aRR 1·01, 95% CI 0·80-1·26). Among partially vaccinated individuals, infections during the Omicron-dominant period carried lower LC risk than during Delta (aRR 0·62, 95% CI 0·40-0·98). LC risk did not differ by variant-dominant periods among unvaccinated or fully vaccinated individuals. Observed differences in LC risk at various periods of the pandemic dominated by different variants may be largely explained by concurrent increases in vaccine coverage rather than intrinsic changes in variant pathogenicity. Full pre-infection vaccination conferred consistent protection against LC regardless of the period of variant dominance.",
+    "authors": [
+      "Sophie Lazar",
+      "Paul Kuodi",
+      "Haneen Shibli",
+      "Hiba Zayyad",
+      "Ofir Wertheim",
+      "Karine Beiruti Wiegler",
+      "Kamal Abu Jabal",
+      "Amiel A Dror",
+      "Saleh Nazzal",
+      "Daniel Glikman",
+      "Michael Edelstein"
+    ],
+    "date": "2026-Nov-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976511/",
+    "doi": "10.1016/j.vaccine.2026.129308",
+    "journal": "Vaccine",
+    "score": 0.4908,
+    "fetched_at": "2026-11-05"
+  },
+  {
     "id": "pubmed:42575447",
     "source": "pubmed",
     "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
@@ -4589,31 +4614,5 @@
     "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
     "score": 0.4693,
     "fetched_at": "2026-10-27"
-  },
-  {
-    "id": "pubmed:42707236",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of",
-    "abstract": "Enterocytozoon bieneusi is a zoonotic parasite causing diarrheal disease in rural settings with frequent human-animal contact. We conducted a cross-sectional study in Heilongjiang, China, enrolling 69 households across 10 villages. Humans and domestic animals were sampled. Nested PCR targeting the ITS region was performed. Genotypes were determined by sequencing, and genetic diversity was assessed using DnaSP. Human prevalence was 11.0% (13/118), while overall animal prevalence was 23.4% (162/693), with sheep being the highest (66.7%), followed by pigs (46.1%) and geese (20.5%). Prevalence was significantly higher in mammals than poultry (32.9% vs. 13.9%; p < 0.001). Sequence analysis yielded 29 distinct genotypes (10 known, 19 novel), with EbpC (36.0%), BEB6 (13.7%), EbpA (13.7%), and D (11.4%) being the most prevalent, most clustering within zoonotic Group 1. Notably, zoonotic genotypes EbpC and EbpA were identified in chickens and geese, extending the known host range of these genotypes. Human-animal genotype sharing was observed in only one household (genotype EbpC between humans, pigs, chickens, and geese), while intraspecies circulation and occasional animal-animal genotype sharing were more common. Phylogenetic and network analyses suggested localized diversification, though single-locus ITS limits definitive evolutionary inference. E. bieneusi is highly prevalent in rural domestic animals in Heilongjiang, with genetically diverse and potentially zoonotic genotypes circulating in livestock and poultry. Although household-level human-animal transmission appears limited in this dataset, the presence of shared zoonotic genotypes highlights the need for expanded surveillance incorporating environmental sampling and multi-locus typing to clarify transmission pathways and inform One Health strategies.",
-    "authors": [
-      "Tao Hu",
-      "Feiyang Zheng",
-      "Weizhe Zhang",
-      "Yulu Sun",
-      "Hanyun Qin",
-      "Liang Zhao",
-      "Huazhang Lai",
-      "Jingwen Chen",
-      "He Li",
-      "Bo Yang",
-      "Xiaoli Zhang",
-      "Fengkun Yang"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707236/",
-    "doi": "10.1051/parasite/2020009",
-    "journal": "Frontiers in cellular and infection microbiology",
-    "score": 0.4679,
-    "fetched_at": "2026-09-08"
   }
 ]
