@@ -2098,6 +2098,40 @@
     "fetched_at": "2026-09-09"
   },
   {
+    "id": "pubmed:42982291",
+    "source": "pubmed",
+    "title": "Detection of the EAST AFRICA-2 topotype of serotype O foot-and-mouth disease virus in Ethiopia provides evidence of changing epidemiology in the Horn of Africa.",
+    "abstract": "This study describes the first detection of the serotype O, EAST AFRICA-2 (O/EA-2) topotype of foot-and-mouth disease virus (FMDV) in Ethiopia. Samples were collected from FMD outbreaks affecting cattle and small ruminants during 2024-2025. Molecular analyses assigned 41/49 sequences to the O/EA-2 topotype which has not been previously detected in the country. These sequences shared close genetic identity (99.5%) to those from Sudan and Kenya, highlighting the transboundary expansion of this lineage into the Horn of Africa. Virus neutralization testing demonstrated antigenic match of two representative field isolates to five commercially available FMD vaccines. The emergence of O/EA-2 alters Ethiopia's viral landscape, which was previously dominated by the O/EA-3 and O/EA-4 topotypes. These findings motivate further studies to monitor the spread of this topotype and encourage authorities to adopt well-matched high-potency vaccines to mitigate the clinical impacts of outbreaks due to this lineage.",
+    "authors": [
+      "Daniel Gizaw",
+      "Demessa Negassu",
+      "Fentahun Wondmnew",
+      "Takele Worku",
+      "Ayenalem Fentie",
+      "Tsion Bilata",
+      "Dereje Shegu",
+      "Getnet Abie Mekonnen",
+      "Krupali Parekh",
+      "Jemma Wadsworth",
+      "Hayley M Hicks",
+      "Nina Henning",
+      "Badi Maulidi",
+      "Berhanu Admassu",
+      "Anna B Ludi",
+      "Valerie Mioulet",
+      "Antonello Di Nardo",
+      "Nick J Knowles",
+      "Jef M Hammond",
+      "Donald P King"
+    ],
+    "date": "2026-Nov-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982291/",
+    "doi": "10.1016/j.meegid.2026.106054",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.5634,
+    "fetched_at": "2026-11-06"
+  },
+  {
     "id": "pubmed:42655726",
     "source": "pubmed",
     "title": "A Review: Bovine Coronavirus Evolution, Molecular Epidemiology, and Genetic Variation.",
@@ -3497,6 +3531,29 @@
     "fetched_at": "2026-10-25"
   },
   {
+    "id": "pubmed:42984192",
+    "source": "pubmed",
+    "title": "VENAS2: Bidirectional Mutation Modeling for Genomic Surveillance Reveals Reversions and Hidden Transmission Links in Pathogens.",
+    "abstract": "Accurately resolving pathogen evolution is essential for genomic surveillance, yet existing approaches often assume unidirectional mutation accumulation and fail to capture reversions that obscure lineage classification and transmission dynamics. Here we present VENAS2, a scalable framework that integrates genomic, temporal and geographic information to construct spatiotemporal evolutionary networks while explicitly modeling bidirectional mutational processes. Applied to 7.25 million SARS-CoV-2 genomes from GISAID between December 2019 and June 2024, VENAS2 reconstructed the evolutionary history of SARS-CoV-2 and precisely inferred the temporal dynamics of major variants of concern. Further application to the Viridian dataset revealed 4,654 distinct genomic sites with at least one potential reversion event, providing a systematic view of potential reversion signals during viral evolution. Extending to Mycobacterium tuberculosis, VENAS2 delineated major lineages and identified over threefold additional transmission clusters beyond conventional genomic distance-based methods, uncovering hidden links enriched for drug-resistant strains. These results demonstrate VENAS2's capacity to uncover cryptic evolutionary processes across viruses and bacteria, providing a generalizable platform that bridges genomic surveillance with actionable public health response.",
+    "authors": [
+      "Peng Zhang",
+      "Ruifang Cao",
+      "Yunchao Ling",
+      "Minjie Xu",
+      "Jiaqiang Qian",
+      "Liangxiao Ma",
+      "Guoping Zhao",
+      "Yixue Li",
+      "Guoqing Zhang"
+    ],
+    "date": "2026-Nov-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984192/",
+    "doi": "10.1093/molbev/msag273",
+    "journal": "Molecular biology and evolution",
+    "score": 0.5064,
+    "fetched_at": "2026-11-06"
+  },
+  {
     "id": "pubmed:42656253",
     "source": "pubmed",
     "title": "Molecular epidemiology, spatiotemporal patterns, and economic impact of African swine fever in Meghalaya, India.",
@@ -4571,48 +4628,5 @@
     "journal": "Research in veterinary science",
     "score": 0.4709,
     "fetched_at": "2026-10-28"
-  },
-  {
-    "id": "pubmed:42655655",
-    "source": "pubmed",
-    "title": "Using Lateral Flow Devices to Enhance Molecular Epidemiology and Evaluating the Rabies Surveillance System on Unguja Island, Zanzibar.",
-    "abstract": "Dog rabies remains a neglected tropical disease in many resource-limited endemic regions, including Unguja Island, Zanzibar. Classically, in such resource-limited settings, an underestimation of the impact of rabies, which directly correlates with insufficient diagnostic capabilities and surveillance efforts, leads to poor investment in effective rabies control. This study combined molecular epidemiology with retrospective analyses of surveillance data from 2016 to 2024 to better understand the transmission dynamics and assess the effectiveness and reliability of the rabies surveillance system on Unguja Island. Towards this goal, rabies RNA was extracted from used lateral flow devices for further molecular phylogenetic analyses of the partial nucleoprotein gene. From this analysis, we were able to conclude that the rabies lyssaviruses presently circulating on Unguja Island represent a distinct endemic cycle in comparison to rabies viruses from elsewhere in Tanzania. In addition, space-time analysis and the evaluation of testing rates identified high-risk rabies areas with particularly inadequate surveillance. These findings allow better understandings of the disease's impact, which will support improved surveillance and the implementation of targeted control strategies, and will pave the way for, hopefully, the elimination of dog rabies in the longer run.",
-    "authors": [
-      "Cayla Bosch",
-      "Ali Z Moh'D",
-      "Ramadhan J Ramadhan",
-      "Andre Coetzer",
-      "Ayla J Malan",
-      "Louis H Nel",
-      "Nicolette Wright"
-    ],
-    "date": "2026-Jul-29",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42655655/",
-    "doi": "10.3390/v18080836",
-    "journal": "Viruses",
-    "score": 0.4707,
-    "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42927797",
-    "source": "pubmed",
-    "title": "Spatiotemporal analysis of HIV-1 subtype B transmission networks in Uruguay.",
-    "abstract": "To reconstruct the evolutionary and demographic history of HIV-1 subtype B in Uruguay and characterize the establishment, persistence, and regional connectivity of its major transmission lineages. Nationwide molecular epidemiological and phylodynamic study of 491 HIV-1 subtype B pol sequences derived from routine resistance genotyping in Uruguay between 2007 and 2021. Maximum-likelihood and Bayesian phylogenetic approaches were used to classify pandemic and Caribbean subtype B lineages, identify viral introductions and local transmission clusters, estimate their times of emergence, reconstruct the demographic dynamics of major Uruguayan lineages, and assess their regional origins and transmission tempo. Pandemic subtype B accounted for 96.3% of sequences. We identified 229 independent introductions, of which only 52 (22.7%) generated detectable local transmission clusters, revealing marked heterogeneity in lineage establishment. The two largest country-specific lineages, BPAN-UY-I (n = 37) and BPAN-UY-II (n = 30), emerged independently in the mid-to-late 1980s and underwent sustained expansion until approximately 2010, followed by stabilization and recent declines in effective reproductive number. The median estimated maximum interval between successive infections was 25.4 months, with 49.3% of intervals <2 years and 21.5% >5 years. Among South American lineages with inferred regional ancestry, Brazil was the predominant source of both clustered and sporadic introductions. HIV-1 subtype B in Uruguay represents a mature, highly compartmentalized epidemic shaped by recurrent viral introductions but sustained predominantly by a small number of early-established founder lineages. These findings highlight the enduring effects of historical contingency, transmission-network structure, and regional connectivity on contemporary HIV epidemic dynamics.",
-    "authors": [
-      "A A Podchibiakin",
-      "I Arantes",
-      "R Flieller",
-      "D Ruchansky",
-      "M Brasesco",
-      "H Chiparelli",
-      "G Bello",
-      "D Mir"
-    ],
-    "date": "2026-Oct-25",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927797/",
-    "doi": "10.1016/j.meegid.2026.106047",
-    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
-    "score": 0.4693,
-    "fetched_at": "2026-10-27"
   }
 ]
