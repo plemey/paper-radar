@@ -3936,6 +3936,32 @@
     "fetched_at": "2026-10-09"
   },
   {
+    "id": "pubmed:42994295",
+    "source": "pubmed",
+    "title": "Serological and molecular characterization of avian metapneumovirus in chickens in Thailand.",
+    "abstract": "Avian metapneumovirus (aMPV) causes respiratory and reproductive disorders in poultry, leading to substantial economic losses worldwide. Despite its impact, epidemiological and genetic data on circulating aMPV strains in non-vaccinated chicken flocks in Thailand remain limited. This study evaluated the seroprevalence, viral distribution, and genetic characteristics of circulating aMPV strains across commercial chicken operations in Thailand to inform regional disease control strategies. A total of 134 tracheal swab and tissue samples from 60 farms, alongside 1,225 serum samples from 118 farms, were collected between July 2022 and July 2025 using convenience sampling. Samples were analyzed using nested reverse transcription-polymerase chain reaction targeting the glycoprotein gene and indirect enzyme-linked immunosorbent assay. Viral RNA was detected in 50.7% of tissue samples and 50.0% of sampled farms, whereas serological screening revealed a sample-level seroprevalence of 35.35% and a farm-level seroprevalence of 54.2%. Layer breeders exhibited the highest positivity rate (100%), followed by broiler breeders and layers, while commercial broilers showed the lowest prevalence. Geographically, the eastern region recorded the highest molecular positivity rate (60.98%), whereas the western region demonstrated the highest seropositivity rate (78.95%). Active clinical signs, including swollen head syndrome, facial swelling, coughing, and egg shell deformities, were more frequently observed in birds testing positive by reverse transcription-polymerase chain reaction (55.88%) than in seropositive birds. Phylogenetic analysis of partial glycoprotein gene sequences revealed that all detected Thai isolates belonged exclusively to aMPV subtype B, dividing into a field strain cluster (n = 43) and a vaccine-like cluster (n = 11). Local field strains formed a distinct lineage closely related to Thai turkey isolates but separate from foreign strains. Sequence identity between field isolates and commercial vaccine strains ranged from 95.3% to 100%. In conclusion, aMPV subtype B is widespread and endemic in Thai chicken populations. Continuous molecular surveillance is essential for monitoring viral evolution and selecting antigenically compatible vaccine strains for effective disease management.",
+    "authors": [
+      "Natchaya Satayaphongpan",
+      "Nantana Soda",
+      "Pimpakarn Suwan",
+      "Sudarat Wanarat",
+      "Worata Klinsawat",
+      "Orawan Boodde",
+      "Thaweesak Songserm",
+      "Nuananong Sinwat",
+      "Sittinee Kulprasertsri",
+      "Pun Panomwan",
+      "Manakorn Sukmak",
+      "Kriangkrai Witoonsatian"
+    ],
+    "date": "2026-Oct-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42994295/",
+    "doi": "10.1016/j.psj.2026.108004",
+    "journal": "Poultry science",
+    "score": 0.4954,
+    "fetched_at": "2026-11-08"
+  },
+  {
     "id": "pubmed:42888037",
     "source": "pubmed",
     "title": "RSV Molecular Epidemiology Pre- and Post-COVID-19 Pandemic Periods in Seattle, Washington, USA.",
@@ -4604,35 +4630,5 @@
     "doi": "10.1016/j.biopha.2026.119831",
     "score": 0.4728,
     "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42695189",
-    "source": "pubmed",
-    "title": "Detection of nirsevimab-resistant RSV-B variants in children carrying the F:N201T substitution through genomic surveillance, Spain, 2025/26 season.",
-    "abstract": "During Spain's 2025/26 RSV season, three children were infected with RSV-B viruses carrying the F protein N201T substitution. Two who received nirsevimab that season were hospitalised (one required intensive care); the third was treated previously. Recombinant expression studies confirmed reduced nirsevimab recognition. Genomic data indicated sporadic emergence across distinct RSV-B backgrounds rather than expansion of a single lineage. Findings highlight the importance of combining genomic surveillance with antigenic characterisation to detect and interpret variants with reduced susceptibility to antibody-based prevention.",
-    "authors": [
-      "María Iglesias-Caballero",
-      "Jose A Infantes",
-      "Albert Campoy",
-      "Sara Camarero-Serrano",
-      "Silvia Moreno",
-      "Olga Cano",
-      "Germán Vallejo-Palma",
-      "Carmen González-Velasco",
-      "Cristina Gaona",
-      "Pedro Camacho-Martinez",
-      "Laura Merino-Diaz",
-      "Sonia Vázquez-Morón",
-      "Francisco Pozo",
-      "Jose A Lepe",
-      "Vicente Mas",
-      "Inmaculada Casas"
-    ],
-    "date": "2026-Sep-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42695189/",
-    "doi": "10.2807/1560-7917.ES.2026.31.35.2600690",
-    "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
-    "score": 0.4721,
-    "fetched_at": "2026-09-04"
   }
 ]
