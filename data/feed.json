@@ -316,6 +316,34 @@
     "fetched_at": "2026-08-15"
   },
   {
+    "id": "pubmed:43000490",
+    "source": "pubmed",
+    "title": "Isolation, identification and whole genome sequence analysis of influenza B virus from Shanghai during 2023-2024.",
+    "abstract": "Influenza B virus, a member of the Orthomyxoviridae family, is a significant contributor to global respiratory infections alongside influenza A virus. This study investigated the prevalence and genomic characteristics of influenza B virus during the 2023-2024 season in Shanghai, China. Among 174 clinical samples collected from the Nanxiang Branch of Ruijin Hospital, the positivity rate for influenza B virus was 62.36%. Genomic analysis revealed that all characterized isolates belonged to the B/Victoria lineage and were classified within subclade C.5.7, corresponding to the legacy designation V1A.3a.2. No B/Yamagata lineage strains were detected. Comparative genomic analysis further revealed close genetic similarity between the Shanghai isolates and strains from Shanxi Province, suggesting a potential geographical or evolutionary relationship. These findings highlight the substantial activity of influenza B virus in Shanghai during the study period and underscore the importance of continued genomic surveillance to monitor viral evolution and inform public health strategies.",
+    "authors": [
+      "Muhammad Awais Ashraf",
+      "Lihuan Yue",
+      "Muhammad Asif Raza",
+      "Bei Shen",
+      "Huiting Xu",
+      "Muhammad Nabeel Amjad",
+      "Ghayyas Ud Din",
+      "Lingdie Chen",
+      "Rongrong Hu",
+      "Yuan Tian",
+      "Ahsan Ali Bhutto",
+      "Aguang Dai",
+      "Huajie Yan",
+      "Yihong Hu"
+    ],
+    "date": "2026-Nov-08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000490/",
+    "doi": "10.1016/j.antiviral.2022.105281",
+    "journal": "Archives of virology",
+    "score": 0.7324,
+    "fetched_at": "2026-11-10"
+  },
+  {
     "id": "pubmed:42797856",
     "source": "pubmed",
     "title": "Analysis of HA5 Hemagglutinins from Influenza A Viruses for Mass-Charge Patterns to Understand Antigenic Drift Related to Immune Escape.",
@@ -4603,31 +4631,5 @@
     "journal": "Viruses",
     "score": 0.4772,
     "fetched_at": "2026-10-28"
-  },
-  {
-    "id": "pubmed:42566464",
-    "source": "pubmed",
-    "title": "Novel insights into tomato leaf curl New Delhi virus introduction and evolution in Southeastern France using an advanced long-read sequencing workflow.",
-    "abstract": "The Mediterranean population of tomato leaf curl New Delhi virus (ToLCNDV-ES) is characterized by a high genetic uniformity, distinguishing it from its Asian counterparts. ToLCNDV-ES is thought to have a monophyletic origin, likely resulting from a single recombination event, prior to its spread throughout the Mediterranean region. Following its first detection in southeastern France in 2020, ToLCNDV-ES re-emerged in France in 2022. Our analysis based on advanced long-read sequencing, circular DNA profiling, and phylogeny indicates both local persistence of French ToLCNDV-ES and multiple independent introduction events. Signatures of positive selection were identified in French ToLCNDV-ES populations, whereas no clear evidence of recombination was found. Bayesian time-structured phylogenetic analyses suggest that introductions in France occurred between 2018 and 2021 from the major ToLCNDV-ES clade, while several Italian ToLCNDV-ES isolates diverged prior to the virus introduction in the Mediterranean basin. Overall, this study demonstrates the value of an optimized long-read sequencing approach for resolving circular DNA virus diversity, and sheds light on the complex evolutionary history of ToLCNDV-ES in the Mediterranean Basin, particularly in southeastern France.",
-    "authors": [
-      "Atiwich Patthamapornsirikul",
-      "Victor Golyaev",
-      "Eric Verdin",
-      "Claire Goillon",
-      "Hindi Boolell",
-      "Sam Dierickx",
-      "Catherine Wipf-Scheibel",
-      "Grégory Girardot",
-      "Wim Dumon",
-      "Sara Cleemput",
-      "Koen Deforche",
-      "Hervé Vanderschuren",
-      "Cécile Desbiez"
-    ],
-    "date": "2026-Aug-07",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42566464/",
-    "doi": "10.1371/journal.ppat.1014463",
-    "score": 0.4769,
-    "fetched_at": "2026-08-09"
   }
 ]
