@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pubmed:43006677",
+    "source": "pubmed",
+    "title": "Prison suicide in Italy, 1992-2025: a time-series analysis of long-term trends and changepoints.",
+    "abstract": "Suicide is one of the leading causes of death among people in prison, yet long-term trends in prison suicide rates in Italy have received limited empirical attention. This study aimed to examine annual suicide rates in Italian prisons from 1992 to 2025 using official data from the Italian Ministry of Justice. Suicide rates were expressed per 10,000 people present in prison (annual average). A Bayesian ensemble time-series decomposition algorithm, BEAST, was used to identify temporal trends and potential changepoints. Prison suicide rates were broadly stable or declining from 1992 through the early 2010s, then increased during the mid-to-late 2010s. The main analysis suggested a further change around 2022, after which rates were approximately stable rather than continuing to rise. A complementary analysis also identified a change in trend during the mid-2010s, but did not identify a separate change around 2022. The average rate in 2023-2025 remained higher than the average before 2014. Overall, both analyses indicate that the long-term pattern shifted during the 2010s, although the exact timing of that shift remains uncertain. To the best of the authors' knowledge, this is the first study to characterize more than three decades of national prison-suicide trends in Italy using complementary changepoint methods, thereby quantifying both the timing of major temporal shifts and the uncertainty surrounding them. These findings indicate that prison suicide rates in Italy have entered a distinct and concerning phase over the past decade.",
+    "authors": [
+      "Gabriele Prati",
+      "Francesca Esposito"
+    ],
+    "date": "2026-Nov-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43006677/",
+    "doi": "10.1108/IJOPH-06-2026-0086",
+    "journal": "International journal of prison health",
+    "score": 0.0881,
+    "fetched_at": "2026-11-11"
+  },
+  {
+    "id": "pubmed:43004229",
+    "source": "pubmed",
+    "title": "Phylogenetic analysis and clinical characteristics of sporadic norovirus diarrhea during 2023-2024 in Beijing, China.",
+    "abstract": "To investigate the molecular epidemiology of viral diarrhea, phylogenetic analysis and clinical features of norovirus diarrhea in adult outpatients in Beijing, China during 2023-2024. Fecal samples from 238 outpatients with diarrhea were tested by real-time RT-PCR or PCR for five enteric viruses. Clinical features were compared between norovirus-positive and norovirus-negative cases. Genotyping and whole-genome sequencing were performed for norovirus. Viral pathogens were detected in 45.4% of patients. NoV was most prevalent (27.7%), followed by rotavirus, astrovirus, sapovirus, and adenovirus. Symptoms differed significantly between norovirus and non- norovirus cases. Predominant norovirus genotypes included GII.4[P16], GII.7[P7], and GII.17[P17]. GII.17 strains co-circulated as capsid lineages IIIa and IIIb, with polymerase regions linked to recent European clusters. GII.7[P7] showed close relatedness to 2024 strains from South Korea and Russia. Norovirus remains the leading cause of adult viral diarrhea in outpatients in post-pandemic Beijing, with multiple genotypes co-circulating. Non-GII.4 genotypes demonstrate ongoing evolution and transmission potential.",
+    "authors": [
+      "Huan Mai",
+      "Yanhui Yang",
+      "Miao Jin",
+      "Yafen Liu",
+      "Yue Wang",
+      "Yanxin Wang",
+      "Yifan Zhang",
+      "Yuanyuan Chen",
+      "Xiaowen Sheng",
+      "Ying Li",
+      "Xu Cong",
+      "Yan Gao"
+    ],
+    "date": "2026-Aug-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43004229/",
+    "doi": "10.1089/fpd.2013.1519",
+    "journal": "BMC infectious diseases",
+    "score": 0.5745,
+    "fetched_at": "2026-11-11"
+  },
+  {
+    "id": "pubmed:43004170",
+    "source": "pubmed",
+    "title": "Whole-genome characterization and genomic stability of Mastadenovirus F40 and F41 in pediatric gastroenteritis.",
+    "abstract": "Human adenovirus types 40 and 41 (HAdV-40 and HAdV-41), belonging to the species Mastadenovirus faecale, are among the leading viral causes of acute gastroenteritis in children. Despite their clinical importance, whole-genome data on circulating strains remain limited. This study investigated the epidemiological and genomic characteristics of enteric Mastadenoviruses detected in children with acute gastroenteritis. A total of 632 stool specimens collected from hospitalized children with acute gastroenteritis were screened using a multiplex gastrointestinal real-time PCR panel. Five representative Mastadenovirus-positive samples underwent shotgun metagenomic sequencing followed by genome reconstruction, phylogenetic analysis, pairwise sequence identity comparisons, genome-wide variant analysis, amino acid substitution profiling, and recombination analysis. Mastadenoviruses were detected in 60/632 (9.5%) children, with the highest positivity observed among those aged 1-3 years. Co-infections occurred predominantly involving bacterial pathogens. Complete or near-complete genomes were recovered for all five sequenced isolates with high sequencing depth (2,806 × -34,120 ×), genome coverage (94.8%-100% at ≥ 10 ×), and nucleotide identity (99.19%-99.78%) relative to genotype-matched reference genomes. Phylogenetic analyses identified two HAdV-F40 and three HAdV-F41 isolates. Gene-specific phylogenies of the hexon, penton base, fiber, and DNA polymerase genes consistently confirmed genotype assignment. Pairwise sequence identity analysis and recombination analysis further supported classification with no evidence of intergenotypic recombination. The sequenced enteric Mastadenovirus isolates exhibited high genomic conservation with limited within-genotype diversity and no detectable evidence of recent recombination. The concordance between gene-specific phylogenies, sequence identity analyses, and whole-genome comparisons supports the robustness of current molecular typing approaches and expands the limited genomic data available for circulating HAdV-F40 and HAdV-F41 strains.",
+    "authors": [
+      "Samar M El-Shahidy",
+      "Amira M Zakaria",
+      "Mohanad A Ibrahim",
+      "Atef M Diab"
+    ],
+    "date": "2026-Nov-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43004170/",
+    "doi": "10.3390/v15041004",
+    "journal": "BMC microbiology",
+    "score": 0.4693,
+    "fetched_at": "2026-11-11"
+  },
+  {
+    "id": "biorxiv:10.64898/2026.09.15.751855",
+    "source": "biorxiv",
+    "title": "Near real-time data on the human neutralizing antibody landscape to influenza virus in summer of 2026 shows antigenic advance of H3N2 subclade K region D mutants and H1N1 D.3.1.1 Sa mutants",
+    "abstract": "Human seasonal influenza evolves rapidly, necessitating twice yearly decisions about whether to update the strains in the vaccine. To help inform this decision, we have been using high-throughput sequencing-based neutralization assays to make twice yearly measurements of how recent human sera neutralize current human H3N2 and H1N1 strains. Here we provide the third installment in this series of measurements by reporting 52,268 titers representing neutralization of 148 viral strains by 355 human sera collected between April and August of 2026. Our measurements show that new H3N2 subclade K strains with mutations in antigenic region D and new H1N1 subclade D.3.1.1 strains with mutations in antigenic region Sa (such as G155E) have reduced neutralization by human sera, with notable heterogeneity in the impact of some of these mutations across sera from different individuals. This paper is accompanied by an interactive summary (https://jbloomlab.github.io/flu-seqneut-2026/summary.html) that enables detailed exploration of the results, and all titer data are publicly available for further analysis to aid vaccine antigen selection and studies of viral evolution.",
+    "authors": [
+      "Kikawa, C.",
+      "Butler, A.",
+      "Huddleston, J.",
+      "Turner, S. A.",
+      "Peck, H.",
+      "Englund, J. A.",
+      "Lacombe, K.",
+      "Busch, M.",
+      "Lanteri, M. C.",
+      "Stone, M.",
+      "Spencer, B.",
+      "Greninger, A. L.",
+      "Smith, D. J.",
+      "Wallace, S.",
+      "Marshall, H. S.",
+      "Tosif, S.",
+      "Hensley, S. E.",
+      "Barr, I. G.",
+      "Bloom, J. D."
+    ],
+    "date": "2026-11-07",
+    "url": "https://doi.org/10.64898/2026.09.15.751855",
+    "doi": "10.64898/2026.09.15.751855",
+    "score": 0.6655,
+    "fetched_at": "2026-11-11"
+  },
+  {
+    "id": "medrxiv:10.64898/2026.11.06.26367404",
+    "source": "medrxiv",
+    "title": "Molecular typing and characterisation of antimicrobial resistance determinants of Neisseria gonorrhoeae among symptomatic individuals in the Eastern Cape, South Africa",
+    "abstract": "ABSTRACT Background. Antimicrobial resistance in Neisseria gonorrhoeae threatens gonorrhoea treatment, while surveillance is constrained by limited culture capacity. We evaluated multi-antigen sequence typing (NG-MAST) and targeted real-time PCR for molecular epidemiology and detection of antimicrobial resistance-associated determinants directly from clinical specimens. Methods. We analysed 235 N. gonorrhoeae-positive stored DNA extracts from symptomatic individuals in South Africa. NG-MAST sequence types were obtained directly or from whole-genome sequences (WGS) of paired cultured isolates. Real-time PCR targeted quinolone resistance-associated mutations (RAMs) in parC and gyrA and macrolide RAMs in the 23S rRNA gene. Results were compared with WGS and with phenotypic susceptibility results from paired isolates. Results. NG-MAST sequence types were obtained for 200/235 (85.1%) specimens and were diverse, with ST21253 predominating (n=26). At least one gyrA or parC mutation was detected by real-time PCR in 110/193 (57.0%) specimens. Compared with WGS, positive agreement was 81.2% for parC and 97.0% for gyrA, and negative agreement 100% and 95.8%, respectively. Among 65 ciprofloxacin-resistant isolates, RAMs were detected in 60 (92.3%) by real-time PCR and 61 (93.8%) by WGS; four had no RAM detected by either method. The 23S rRNA C2611T mutation was detected by both methods in one isolate (azithromycin MIC, 8 mg/L); no A2059G mutations were detected. Conclusions. Gonococcal sequence types were diverse, quinolone RAMs were common, and the assessed macrolide RAMs were rare. Real-time PCR applied directly to specimen DNA agreed well with WGS, but the targeted markers did not fully predict ciprofloxacin susceptibility, supporting complementary molecular and phenotypic approaches. Key words: Neisseria gonorrhoeae, NG-MAST, Real-time PCR, WGS; quinolone resistance; ciprofloxacin resistance, macrolide resistance",
+    "authors": [
+      "Mdingi, M. M.",
+      "Kullin, B.",
+      "Jung, H.",
+      "Mitchev, N.",
+      "Peters, R. P."
+    ],
+    "date": "2026-11-08",
+    "url": "https://doi.org/10.64898/2026.11.06.26367404",
+    "doi": "10.64898/2026.11.06.26367404",
+    "score": 0.4127,
+    "fetched_at": "2026-11-11"
+  }
+]
