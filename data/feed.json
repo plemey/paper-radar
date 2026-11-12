@@ -2873,6 +2873,25 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:43011429",
+    "source": "pubmed",
+    "title": "The molecular epidemiology of human respiratory syncytial virus in a tertiary paediatric hospital between 2020 and 2024.",
+    "abstract": "Respiratory syncytial virus (RSV) is a leading cause of respiratory illness in young children, contributing significantly to morbidity and mortality and placing a substantial burden on resource-limited healthcare systems. Molecular epidemiological data from sub-Saharan Africa remain limited. This study aimed to investigate the genetic diversity and evolution of RSV in a paediatric population in Cape Town, South Africa, from September 2020 to June 2024. Respiratory syncytial virus-positive respiratory samples with a cycle threshold (Ct) < 30 from patients at Red Cross War Memorial Children's Hospital were sequenced and analysed. Phylogenetic analysis of the partial RSV genome (F and G genes) was conducted using reference sequences derived from a global sequence database. Mutational profiles were assessed for relevance to monoclonal antibody and vaccine effectiveness. Of the 100 selected samples, 42 were sequenced, and 40 had sufficient coverage for analysis. Sequencing failure was associated with higher Ct values, older sample age and suboptimal storage at -20°C. Respiratory syncytial virus-A predominated (78.6%), with A.D.5.1 as the dominant lineage; RSV-B strains (16.7%) clustered within B.D.E.1 and B.D.4.1. Genotypes GA2.3.5 (RSV-A) and GB5.0.5a (RSV-B) were observed, consistent with post-pandemic global trends. G-gene analysis revealed multiple substitutions (G224E, I134K, K262E) suggestive of immune pressure. The F-gene remained more conserved; substitutions such as T122A, S211N and S389P were detected but were not linked to reduced susceptibility to monoclonals. This study demonstrated the co-circulation of genetically diverse RSV-A and RSV-B lineages in children between 2020 and 2024. No established resistance-associated substitutions to currently licensed RSV monoclonal antibodies were identified. Continued genomic surveillance is warranted to monitor RSV evolution. Continued genomic surveillance is essential to strengthen molecular epidemiology and guide public health preparedness.",
+    "authors": [
+      "Moepeng J Maseko",
+      "Rageema Joseph",
+      "Stephen N J Korsman",
+      "Ziyaad Valley-Omar",
+      "Nei-Yaun Hsiao"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011429/",
+    "doi": "10.1016/j.virusres.2021.198564",
+    "journal": "Journal of the colleges of medicine of South Africa",
+    "score": 0.5384,
+    "fetched_at": "2026-11-12"
+  },
+  {
     "id": "pubmed:42765113",
     "source": "pubmed",
     "title": "Emergence of canine parvovirus-2c in domestic cats and adaptive evolution of the NS1 gene: Molecular epidemiology of feline parvoviruses in Northern Vietnam (2022-2025).",
@@ -3844,6 +3863,27 @@
     "fetched_at": "2026-10-27"
   },
   {
+    "id": "pubmed:43009031",
+    "source": "pubmed",
+    "title": "Genome mining and comprehensive molecular characterization of feline Panleukopenia virus reveals distinct VP2 mutational signatures and evolutionary divergence.",
+    "abstract": "Feline Panleukopenia Virus is a highly contagious, systemic, and environmentally stable virus that primarily targets leukocytes and affects cats of all ages. Despite its clinical and epidemiological importance, limited molecular surveillance studies have been conducted in the densely populated downstate region of New York. The objective of this study was to investigate the molecular and serological prevalence of FPV among shelter cats in this region and to isolate and genetically characterize circulating strains. Samples, including swabs and sera, were collected from 108 shelter cats and tested using quantitative PCR (qPCR) and immunofluorescent assay (IFA), respectively. Results showed that 25.0% (27/108) of the cats were FPV-positive by qPCR, while 39.8% (43/108) were positive by IFA, indicating active viral circulation within the tested populations. Viral isolation was successfully performed using Madin-Darby Canine Kidney (MDCK) cells. Next Generation Sequencing (NGS) confirmed the detection of a newly characterized FPV isolate (Accession: PZ251627) circulating within the tested shelter cat population. Phylogenetic analysis demonstrated high nucleotide similarity with previously reported FPV strains, including MH165482 (99.3%), MN127781 (99.2%), and MH165481 (99.2%). Analysis of the VP2 gene also revealed close similarity with isolates OQ615264, KT899746, and PVMRFD, along with two amino acid substitutions, Ile101Thr and Glu411Ala. Spatial interpolation analysis identified a higher occurrence of FPV-positive cats in western downstate New York, emphasizing the importance of continued surveillance and monitoring programs.",
+    "authors": [
+      "Maged Ullah Hemida",
+      "Nadine Moawed",
+      "Abid Ullah Shah",
+      "Marialouise Burgos",
+      "Diane Levitan",
+      "Korakrit Poonsuk",
+      "Csaba Vagra"
+    ],
+    "date": "2026-Nov-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009031/",
+    "doi": "10.1016/j.meegid.2026.106060",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "score": 0.5034,
+    "fetched_at": "2026-11-12"
+  },
+  {
     "id": "pubmed:42912421",
     "source": "pubmed",
     "title": "Middle East Respiratory Syndrome Coronavirus in Camels, Kazakhstan, 2025.",
@@ -4234,6 +4274,33 @@
     "fetched_at": "2026-10-28"
   },
   {
+    "id": "pubmed:43011527",
+    "source": "pubmed",
+    "title": "Therapeutic and Prophylactic Agents for Viral Diseases: Current Status, Challenges, and Future Prospects.",
+    "abstract": "Viral diseases remain a major global health challenge despite substantial advances in vaccination, antiviral therapeutics, and public-health interventions. However, current antiviral strategies are still constrained by important gaps, including rapid viral evolution, limited broad-spectrum efficacy, immune escape, antiviral resistance, incomplete durability of protection, and inequitable global access to prevention and treatment. This review provides a comprehensive and integrated overview of contemporary antiviral prevention and therapeutic strategies, spanning vaccines, monoclonal antibodies, direct-acting antivirals, host-targeted therapies, immunomodulators, RNA-based therapeutics, gene-editing technologies, and cellular immunotherapies. We discuss the mechanistic foundations, clinical applications, pharmacologic considerations, and translational challenges associated with each modality across major human viral pathogens, including HIV, HBV, HCV, influenza, SARS-CoV-2, RSV, Ebola virus, arboviruses, and herpesviruses. Particular emphasis is placed on emerging innovations such as long-acting prophylaxis, Fc-engineered monoclonal antibodies, nanoparticle and mucosal vaccine platforms, CRISPR-based antiviral systems, and broadly protective host-directed approaches designed to overcome resistance and enhance pandemic preparedness. In addition, we highlight the growing importance of real-time genomic surveillance and equitable global deployment strategies in shaping future antiviral responses, collectively underscoring that the next generation of antiviral medicine will depend on the convergence of universal immunization strategies, durable therapeutics, precision immune modulation, and rapidly deployable platform technologies capable of addressing both endemic and emerging viral threats.",
+    "authors": [
+      "Sawar Khan",
+      "Ayesha Nisar",
+      "Xiaoxu Li",
+      "Hao Yu",
+      "Abdul Qadeer",
+      "Sardar Azhar Mehmood",
+      "Imane Lamraoui",
+      "Sijie Liu",
+      "Lipeng Zhu",
+      "Xu Deng",
+      "Bo Kong",
+      "Kejun Zhong",
+      "Zanxian Xia"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011527/",
+    "doi": "10.1002/mco2.71024",
+    "journal": "MedComm",
+    "score": 0.4911,
+    "fetched_at": "2026-11-12"
+  },
+  {
     "id": "pubmed:42976511",
     "source": "pubmed",
     "title": "Changes in self-reported Long COVID in different variant-dominant phases of the SARS-CoV-2 pandemic: the influence of vaccination on a diverse Israeli cohort study.",
@@ -4575,77 +4642,5 @@
     "journal": "mSphere",
     "score": 0.4809,
     "fetched_at": "2026-10-30"
-  },
-  {
-    "id": "pubmed:42634831",
-    "source": "pubmed",
-    "title": "Molecular detection, characterization, and cross-species circulation of feline and canine parvoviruses in Gujarat, India: Emergence of a novel canine parvovirus-2c variant and enhanced diagnostic sensitivity of quantitative polymerase chain reaction.",
-    "abstract": "Feline parvovirus (FPV) and canine parvovirus (CPV) are highly contagious pathogens that cause severe enteritis in companion animals, leading to considerable morbidity and mortality, particularly in young and unvaccinated animals. The continuous evolution of CPV variants and increasing evidence of cross-species transmission present major challenges for disease diagnosis, surveillance, and control. This study aimed to determine the prevalence of FPV and CPV infections among cats and dogs in Gujarat, India, compare the diagnostic performance of rapid antigen testing (RAT), conventional polymerase chain reaction (PCR), and quantitative PCR (qPCR), characterize circulating viral variants through VP2 gene sequencing and phylogenetic analysis, and investigate evidence of cross-species circulation. A cross-sectional study was conducted between September 2024 and September 2025 using 200 fecal samples collected from 100 cats and 100 dogs presented to veterinary clinics, shelters, and rescue organizations in Gujarat, India. Samples were examined using RAT, conventional PCR targeting the VP2 gene, and duplex probe-based qPCR to differentially detect FPV and CPV. Representative positive samples were subjected to VP2 gene sequencing, phylogenetic analysis, and virus isolation in Crandell-Rees feline kidney cell cultures to evaluate viral replication. Epidemiological characteristics, including species, age, breed, vaccination status, and clinical presentation, were also assessed. RAT detected FPV and CPV in 10 (5.0%) and 80 (40.0%) samples, respectively, whereas conventional PCR identified 39 (19.5%) parvovirus-positive samples. Duplex qPCR demonstrated markedly superior sensitivity, detecting 124 (62.0%) positive samples, comprising 27 FPV and 97 CPV infections. Cross-species circulation was demonstrated by detection of CPV in 12% of cats and FPV in 1% of dogs. Sequencing of the VP2 gene revealed genetically conserved FPV isolates and predominance of CPV-2c among canine isolates, including a novel CPV-2c variant carrying unique amino acid substitutions suggestive of ongoing viral evolution. Virus isolation successfully confirmed replication in four of nine inoculated samples, producing characteristic cytopathic effects in Crandell-Rees feline kidney cells. FPV and CPV co-circulate among companion animals in Gujarat, with molecular evidence of cross-species transmission and predominance of CPV-2c variants. Duplex qPCR substantially outperformed RAT and conventional PCR, supporting its routine application for accurate diagnosis, epidemiological surveillance, and early detection of emerging parvovirus variants. Continuous molecular surveillance combined with sustained vaccination programs is essential to limit viral dissemination and improve control of parvoviral infections.",
-    "authors": [
-      "Fatimazohra Abdulrashidkhan Pathan",
-      "Arunkumar C Patel",
-      "Niyati M Rana",
-      "Sejal P Antiya",
-      "Prakash G Koringa",
-      "Rafiyuddin A Mathakiya",
-      "Vipul R Nimavat",
-      "Ankit S Prajapati"
-    ],
-    "date": "2026-Jul-31",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42634831/",
-    "doi": "10.14202/vetworld.2026.3138-3155",
-    "journal": "Veterinary world",
-    "score": 0.4797,
-    "fetched_at": "2026-08-24"
-  },
-  {
-    "id": "pubmed:42559139",
-    "source": "pubmed",
-    "title": "Case Report: Prolonged nOPV2 shedding in an immunocompetent child from Tunisia border with Algeria, North African region.",
-    "abstract": "Following the detection of vaccine-derived poliovirus type 2 (cVDPV2) in Algeria in 2022, enhanced surveillance activities along the Tunisian border identified novel Oral Poliovirus type 2 Vaccine (nOPV2) excretion in an apparently healthy nomadic child. Immunological investigations showed no evidence of major humoral, cellular, or phagocytic immune deficiency. To investigate the kinetics of viral shedding and characterize the complete genome of the isolated strain in this case report, longitudinal follow-up stool samples were collected and analyzed using cell culture inoculation, real-time RT-PCRs, and whole-genome sequencing. Virus was detected over a 76 to 126-days observation period. Assuming vaccination occurred in December 2022, the total duration of shedding may have extended up to approximately 138 to 188 days (4 to 7 months) post-vaccination. Despite prolonged replication, the viruses showed limited within-host evolution and retained the major engineered attenuation features of nOPV2, with no evidence of domain V reversion, cre replacement, or recombination, and only limited VP1 divergence which allows its classification as nOPV2 category 8 strains. Our findings underscore the need to further investigate the potential for prolonged excretion and molecular evolution of nOPV2-like strains in immunocompetent individuals. Furthermore, targeted surveillance of high-risk and mobile populations, including migrants and nomadic communities, is essential to strengthen epidemiological security and support global poliovirus eradication initiatives.",
-    "authors": [
-      "Sondes Haddad-Boubaker",
-      "Haifa Khemiri",
-      "Wasfi Fares",
-      "Najla Mekki",
-      "Chaima Alibi",
-      "Imen Ben Salem",
-      "Henda Touzi",
-      "Zina Meddeb",
-      "Ines Ben Mrad",
-      "Mahrez Yahyaoui",
-      "Javier Martin",
-      "Imen Ben Mustapha",
-      "Ahlem Gzara",
-      "Henda Triki"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42559139/",
-    "doi": "10.1038/s41564-025-02219-w",
-    "score": 0.4786,
-    "fetched_at": "2026-08-09"
-  },
-  {
-    "id": "pubmed:42688907",
-    "source": "pubmed",
-    "title": "Near-Whole-Genome Sequencing of Peste Des Petits Ruminants Virus Lineage IV From the Savannah District, Northern Côte d'Ivoire in 2023.",
-    "abstract": "Peste des petits ruminants (PPR) is a highly contagious viral disease affecting sheep and goats, causing substantial economic losses in endemic countries. In the Savannah district of Côte d'Ivoire, knowledge of the genetic diversity and molecular epidemiology of the PPR virus (PPRV) remains limited. This study investigated the genetic diversity and phylogenetic relationships of PPRV circulating in this region using whole-genome sequencing (WGS). A cross-sectional survey was conducted between September and December 2023. Nasal swabs collected from sheep and goats were screened for PPRV ribonucleic acid (RNA) using real-time reverse transcription polymerase chain reaction (RT-qPCR). Samples with low quantification cycle (Cq) values of less than 35 and successful multiplex PCR amplification profiles were selected for sequencing using the Oxford Nanopore MinION platform. Near-complete consensus genomes were generated through reference-based assembly and analysed alongside representative strains from all recognised PPRV lineages. Of the 355 samples analysed, 25 (7.0%) tested positive for PPRV RNA, with positive detections in all three surveyed regions (Poro, Tchologo and Bagoué). The four samples with the lowest Cq values, originating from all three administrative regions, were successfully sequenced, generating genomes that covered 82.0%-86.2% of the reference genome at a depth of ≥ 10 ×. The missing regions were mainly located at the 5' and 3' genomic termini, as well as in limited internal regions associated with amplicon dropout. Phylogenetic analysis revealed that all four sequences belonged to lineage IV and exhibited high nucleotide similarity (98.1%-99.9%). The Ivorian strains clustered with recent lineage IV viruses from West, North and Central Africa, whereas historical Ivorian lineages I and II formed distinct clades. These findings confirm the predominance of lineage IV in northern Côte d'Ivoire and provide baseline genomic data to support molecular epidemiological surveillance in the region.",
-    "authors": [
-      "Konan Ange-Sylvestre Goli",
-      "Jean Nepomuscene Hakizimana",
-      "Augustino Alfred Chengula",
-      "Kiffopan Benjamin M'Bari",
-      "Charlie Franck Amoia",
-      "Melvyn Quan",
-      "Mariam Makange",
-      "Peter N Thompson",
-      "Gerald Misinzo"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42688907/",
-    "doi": "10.1371/journal.pone.0175461",
-    "journal": "Veterinary medicine international",
-    "score": 0.4785,
-    "fetched_at": "2026-09-03"
   }
 ]
