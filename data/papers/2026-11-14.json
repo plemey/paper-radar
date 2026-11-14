@@ -1,0 +1,273 @@
+[
+  {
+    "id": "pubmed:43024609",
+    "source": "pubmed",
+    "title": "First assessment of population size, population dynamics, and carrying capacity of free-roaming dogs in Karaj, Iran.",
+    "abstract": "Dogs (Canis familiaris) were the first animals domesticated by humans, likely in Eurasia between 20,000-40,000 years ago, and remain deeply integrated into human societies. However, in many countries, free-roaming dog populations have expanded due to uncontrolled reproduction, abandonment, and widespread supplemental feeding. In Iran, scientific assessments of these populations are scarce despite growing ecological, social, and public health concerns. This study provides the first systematic estimation of population size, demographic structure, and environmental carrying capacity of free-roaming dogs in Karaj, Iran. We conducted six surveys across 35 randomly selected blocks between May and August 2024 using a modified WSPA block-survey method. Age class, sex, visible health status, and ear-tag information were collected. Vital demographic rates, including birth, death, survival, and growth, were calculated and incorporated into a Leslie matrix to model long-term population dynamics under sterilization and euthanasia scenarios. Carrying capacity was estimated using a model integrating human support, shelter availability, demographic structure, and ecological variables. The mean estimated population size was 7,459 dogs (95% CI ± 1,530). Human support was present in 94% of surveyed blocks, elevating the carrying capacity to 68,895 dogs. Projection models revealed that sterilization rates below 50% do not meaningfully reduce long-term population growth, whereas 75% sterilization leads to sustained decline. Euthanasia sharply reduces numbers but raises ethical concerns and produces demographic rejuvenation. This study establishes baseline demographic information for Karaj and highlights the key role of anthropogenic support in sustaining dog populations. These findings provide critical insights for developing evidence-based, humane, and sustainable dog population management policies.",
+    "authors": [
+      "Amin Hekmat",
+      "Asghar Abdoli",
+      "Faraham Ahmadzadeh"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024609/",
+    "doi": "10.1371/journal.pone.0358766",
+    "journal": "PloS one",
+    "score": 0.1688,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43024095",
+    "source": "pubmed",
+    "title": "Molecular epidemiology, spike-protein evolution, antigenic variation, and experimental pathogenicity of G2c porcine epidemic diarrhea virus: a systematic review.",
+    "abstract": "Porcine epidemic diarrhea virus (PEDV) is a major cause of severe enteric disease and mortality in neonatal piglets. This systematic review aimed to synthesize current evidence on the molecular epidemiology, spike-protein variation, experimental pathogenicity, and control-related applications of the G2c lineage. Web of Science Core Collection, PubMed, and ScienceDirect were searched for peer-reviewed original studies published from 1 January 2020 to 31 May 2026. Of 78 records identified, 26 studies met the eligibility criteria. G2c was the most frequently assigned lineage in several national, multi-provincial, and regional PEDV datasets in China, particularly in Sichuan and Guangdong. However, its distribution was geographically heterogeneous, and G2a remained predominant in Guangxi. Contemporary G2c viruses exhibited extensive spike-protein variation, including substitutions, insertions, deletions, and predicted glycosylation changes in antigenically relevant regions. Cross-neutralization studies demonstrated strain-dependent antigenic differences, but consistent lineage-wide immune escape was not established. Experimental infections showed that natural G2c isolates caused acute watery diarrhea, dehydration, intestinal villous atrophy, high viral shedding, and, in some studies, substantial mortality in neonatal or suckling piglets. Heterogeneity in experimental design prevented reliable comparison of virulence among strains. Current evidence also supports the development of G2c-specific molecular diagnostics and several vaccine approaches, including cell-adapted candidates, maternal-immunity strategies, messenger RNA vaccines, and autogenous inactivated vaccines. Overall, G2c is an epidemiologically important and pathogenic PEDV lineage. Standardized classification, whole-genome surveillance, functional antigenic studies, matched challenge experiments, and heterologous vaccine-efficacy evaluations are needed to improve disease control.",
+    "authors": [
+      "Jinling Tang",
+      "Jiali Pei",
+      "Xiaolong Lu",
+      "Zhiyin Chen",
+      "Shiyun Wei",
+      "Zhenxia Xia",
+      "Kuiqing Cui"
+    ],
+    "date": "2026-Nov-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024095/",
+    "doi": "10.3390/v17091210",
+    "journal": "Veterinary research communications",
+    "score": 0.59,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43023360",
+    "source": "pubmed",
+    "title": "Evolutionary dynamics of the vertebrate Wnt gene repertoire.",
+    "abstract": "The Wnt gene family plays a central role in vertebrate development, yet its evolutionary dynamics across lineages remain largely unexplored. Here, we present the most comprehensive analysis of Wnt gene evolution in vertebrates to date, leveraging a large-scale comparative genomics approach of 38,886 Wnt gene sequences mined from 1,961 species. We first investigate overall patterns of gene retention, duplication, and loss, and then focus specifically on the impact of whole-genome duplications (WGDs). We uncover striking variation in Wnt gene repertoire sizes, with ray-finned fishes (Actinopterygii) exhibiting the largest repertoires - even after excluding taxa with recent WGDs. Notably, we identify extreme expansions in polyploid cyprinids, including an octoploid hybrid harbouring 99 Wnt genes, the highest number observed. Unexpectedly elevated Wnt copy numbers in diploid species, such as in the Antarctic lanternfish (Electrona antarctica) and the brook lamprey (Lethenteron reissneri), point to lineage-specific expansions, although the potential adaptive significance of these expansions remains to be tested. Evolutionary rate analyses reveal that certain Wnt clades - especially Wnt8 and Wnt16 - exhibit elevated dN/dS ratios and high birth-death rates, consistent with repeated episodes of relaxed constraint and/or adaptive diversification. Contrary to our expectations, there was no relationship between developmental expression timing and evolutionary rates, suggesting pleiotropic regulation and functional redundancy of Wnt genes. Altogether, our findings reveal widespread variation in Wnt copy number and turnover among lineages, shaped by both genome duplication history and divergent evolutionary trajectories. This work provides a high-resolution framework for understanding the molecular evolution of a key developmental toolkit and highlights candidate genes for future studies of vertebrate eco-morphological diversity.",
+    "authors": [
+      "Lily G Fogg",
+      "Maxime Policarpo",
+      "Walter Salzburger"
+    ],
+    "date": "2026-Nov-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023360/",
+    "doi": "10.1093/gbe/evag283",
+    "journal": "Genome biology and evolution",
+    "score": 0.3315,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43023333",
+    "source": "pubmed",
+    "title": "Inferring the history of gene copy number evolution.",
+    "abstract": "Gene duplication plays a crucial role in the adaptive evolution and diversification of organisms by creating extra copies of genes that can evolve new functions while preserving the original. Duplicated genes can become fixed in populations or appear as copy number variants. However, inferring and dating these duplication events from present-day data is challenging, as gene copy count distributions could result from either a few ancient duplication events or many recent ones. Sequence based phylogenetic reconstruction, an often seen practice, does not include the history of individuals and hence may result in inconsistencies and subsequent misinterpretations. Here, we introduce a novel model for inferring gene copy number evolution, which describes gene duplication and their evolution over time through a random walk on a coalescent duplication network. This approach is solely based on copy number counts and hence independent of the inconsistencies of sequence based inferences. Backward in time we implement structured coalescent simulations, where we re-interprete 'structure' as 'genealogical distance' based on copy number counts. We apply this model to the NB-ARC domain counts of NLR genes in A. thaliana to infer the number and times of duplication events that have led to the present day copy number distribution.",
+    "authors": [
+      "Moritz Otto",
+      "Thomas Wiehe"
+    ],
+    "date": "2026-Nov-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023333/",
+    "doi": "10.1093/genetics/iyag312",
+    "journal": "Genetics",
+    "score": 0.3303,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43022904",
+    "source": "pubmed",
+    "title": "Correction: Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.",
+    "abstract": "[This corrects the article DOI: 10.3389/fcimb.2026.1847743.].",
+    "authors": [
+      "Gamal Othman",
+      "Abdelnaser A Badawy",
+      "Rasha Hamed Al-Serwi",
+      "Maysaa El Sayed Zaki",
+      "Noha Tharwat Abou El-Khier",
+      "Nashwa M Alkassaby",
+      "Mohamed Saleh Ismail"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022904/",
+    "doi": "10.3389/fcimb.2026.2030828",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "score": 0.0752,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43022846",
+    "source": "pubmed",
+    "title": "Molecular epidemiology and virulence profiles of MDR and XDR",
+    "abstract": "Combat-related injuries sustained during the ongoing conflict in Ukraine have been associated with infections caused by multidrug-resistant Gram-negative bacteria, raising concerns about treatment options and cross-border transmission to receiving healthcare systems. Pseudomonas aeruginosa is among the most clinically significant pathogens in this setting. This study aimed to define the molecular epidemiology of P. aeruginosa from combat-related wounds in Ukraine and to link genomic resistance and virulence determinants to antimicrobial susceptibility and virulence phenotypes. P. aeruginosa isolates from distinct wound patients (n = 13, Dec 2024-Jun 2025) underwent whole-genome sequencing, SNP-based phylogenetic analysis, and screening of acquired resistance genes and chromosomal resistance-associated mutations. Antimicrobial susceptibility testing followed EUCAST, and carbapenemase production was assessed phenotypically. Virulence profiling included exoU/exoS carriage, 3-oxo-C12-HSL and C4-HSL production, and pyocyanin and rhamnolipid production. Ten sequence types were identified, including ST235, ST244, ST773, and ST1047, indicating high clonal diversity rather than a single outbreak lineage. All isolates were non-susceptible to ciprofloxacin, ceftazidime, piperacillin-tazobactam, and aztreonam; 5/13 were non-susceptible to ceftolozane-tazobactam and 4/13 were meropenem-resistant. Carbapenemase-positive isolates carried blaIMP-1 (3/13) or blaNDM-1 (1/13). Resistance-associated chromosomal variation affected porins, efflux regulators, and β-lactam response pathways. Virulence profiles were heterogeneous, with mutually exclusive exoU (7/13) or exoS (6/13) carriage and variable pyocyanin and rhamnolipid production. These data provide genomic and phenotypic characterisations of combat-wound P. aeruginosa from Ukraine, highlighting substantial diversity and frequent multidrug-resistant phenotypes and supporting lineage-resolved genomic surveillance in conflict-associated care pathways.",
+    "authors": [
+      "Oana Palasca",
+      "Caroline Hvidberg Schwartz",
+      "Rasmus Kristensen",
+      "Iryna Koshova",
+      "Bohdan Murashevych",
+      "Trine Rolighed Thomsen",
+      "Frederik Boëtius Hertz",
+      "Thomas Bjarnsholt",
+      "Tim Holm Jakobsen"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022846/",
+    "doi": "10.1099/mic.0.001265",
+    "journal": "New microbes and new infections",
+    "score": 0.2709,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43022236",
+    "source": "pubmed",
+    "title": "HIV-1 drug resistance and associated risk factors in antiretroviral therapy failure: a 2022-2024 surveillance in Huzhou, China.",
+    "abstract": "Characterizing acquired drug resistance (ADR) profiles among individuals experiencing antiretroviral therapy (ART) failure is critical for optimizing clinical management. This study aimed to delineate the HIV-1 drug resistance landscape, specific resistance-associated mutations, and epidemiological determinants in Huzhou, China, from 2022 to 2024. Blood samples and epidemiological data were collected from 184 HIV-1-infected patients experiencing ART failure. Viral pol region sequences were amplified, and drug resistance mutations (DRMs) were interpreted using the Stanford University HIV Drug Resistance Database. The overall prevalence of ADR was 44.0% (81/184). Resistance to protease inhibitors (PIs) remained notably low at 1.6%,whereas the prevalence of DRMs associated with nucleoside (NRTIs) and non nucleoside reverse transcriptase inhibitors (NNRTIs) reached 27.7% and 41.8%, respectively. The most frequently detected NRTI-associated DRMs included M184V/I and K65R, while dominant NNRTI-associated mutations comprised V179D/E/F, K103N, V106I/L/M, G190A/Q/S/T, and Y181C/L. Furthermore, multivariable logistic regression identified patient age, plasma viral load, and specific HIV-1 subtypes as independent risk factors for DRM development. Ultimately, this study elucidates the evolving mutational landscape among ART-experienced individuals, providing critical evidence-based insights for optimizing personalized antiretroviral regimens and mitigating the onward transmission of drug-resistant HIV-1 variants within the region.",
+    "authors": [
+      "Zhonghao Lu",
+      "Yijie Wu",
+      "Yunfeng Zha",
+      "Fenfen Dong",
+      "Zhongrong Yang",
+      "Lei Ji",
+      "Xiaojuan Zhu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022236/",
+    "doi": "10.1186/s12879-022-07576-z",
+    "journal": "Frontiers in microbiology",
+    "score": 0.2717,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43021630",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of MRSA and MSSA in Czech hospitals, 2023: complex genomic epidemiology of CC398 in humans and resurgence of penicillin susceptibility.",
+    "abstract": "Staphylococcus aureus causes a broad spectrum of infections, yet the clonal epidemiology of MSSA remains poorly characterized relative to MRSA. We conducted the first WGS-based national survey of both MRSA and MSSA in the Czech Republic to define contemporary population structure following the COVID-19 pandemic. Between September and December 2023, 450 clinical and carriage S. aureus isolates were prospectively collected from 14 major hospitals (175 MRSA; 275 MSSA); 248 clinical isolates underwent WGS, with resistance, virulence, mobile genetic elements, SCCmec type and clonal complex assignment determined alongside whole-genome MLST and maximum-likelihood phylogeny. MRSA population was less diverse than MSSA (Simpson's Index of Diversity 0.871 versus 0.986). The historically dominant CC5/ST225-MRSA-II declined sharply, from 80%-90% to 59% of MRSA. CC398 emerged across both phenotypes as three genomically distinct, co-circulating subpopulations: penicillin-susceptible human-adapted MSSA, Panton-Valentine leukocidin (PVL)-positive CA-MRSA (ST1232) and livestock-associated MRSA. PVL-positive MRSA were identified across multiple lineages in 11 hospitals, reflecting a diverse CA-MRSA landscape without dominance of a single clone. Strikingly, nearly half of MSSA isolates (47.6%) were penicillin-susceptible, genotypically confirmed by blaZ absence. Penicillin susceptibility was not associated with reduced invasive potential and spanned multiple clonal backgrounds, most prominently CC398 and CC97. This study reveals a significant shift in S. aureus epidemiology: decline of the dominant hospital MRSA clone, emergence of CC398 across the hospital-community-animal interface, and a resurgence of penicillin-susceptible MSSA that challenges the assumption of near-universal penicillin resistance and supports reconsidering penicillin for susceptible infections.",
+    "authors": [
+      "Adela Rozsypalkova",
+      "Pavlina Mrazkova",
+      "Julie Cepelikova",
+      "Jana Drozenova",
+      "Jana Amlerova",
+      "Magda Balejova",
+      "Ivana Vitkova",
+      "Daniela Fackova",
+      "Katerina Neradova",
+      "Alena Sivakova",
+      "Dominika Riedlova",
+      "Katerina Fiserova",
+      "Natasa Bartonikova",
+      "Lenka Dvorakova",
+      "Marian Mednansky",
+      "Jan Tkadlec",
+      "Pavel Drevinek",
+      "Oto Melter",
+      "Jan Tkadlec"
+    ],
+    "date": "2026-Nov-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021630/",
+    "doi": "10.1093/jac/dkag371",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "score": 0.3538,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43021229",
+    "source": "pubmed",
+    "title": "Environmental contamination with zoonotic hookworms in urban Bangladesh: molecular evidence from shared human-dog interfaces.",
+    "abstract": "Zoonotic hookworms are important but underrecognized contributors to environmental contamination and public health risk in urban slum communities, where free-roaming dogs frequently interact with human populations. Although molecular investigations of hookworms have been reported from Bangladesh and other endemic countries, comprehensive surveillance of environmental canine fecal contamination in urban Bangladesh remains limited. This study investigated the prevalence and species diversity of hookworms in environmentally deposited canine fecal samples collected from urban slums in northeastern Bangladesh. A cross-sectional study was conducted in five urban slum communities of Sylhet City Corporation between January 2025 and April 2026. A total of 280 environmentally deposited canine fecal samples were examined using the formalin-ether concentration technique, modified Baermann technique (MBT), and polymerase chain reaction (PCR) targeting the internal transcribed spacer (ITS) region of ribosomal DNA. All PCR-positive amplicons were bidirectionally sequenced and subjected to phylogenetic analysis for species confirmation. A laboratory soil-spiking assay evaluated the analytical recovery efficiency of the modified Baermann technique for hookworm L3 recovery. Hookworm contamination was detected in 49.6% (139/280; 95% CI: 43.7-55.5) of samples by PCR, compared with 38.2% (107/280) by microscopy and 40.4% (113/280) by MBT. PCR demonstrated superior diagnostic sensitivity, while microscopy and MBT achieved sensitivities of 77.0% and 81.3%, respectively, using PCR as the comparator method. ITS-PCR amplification followed by sequence analysis identified five hookworm species: Ancylostoma caninum (n = 90), A. ceylanicum(n = 26), Necator americanus (n = 12), Uncinaria stenocephala (n = 7), and A. duodenale (n = 4). Sequence identities with GenBank reference isolates ranged from 98.8% to 99.8%. Hookworm contamination was detected in all study locations, with prevalence ranging from 42.1% to 56.9%. The soil-spiking experiment demonstrated increasing larval recovery efficiency with increasing larval density, ranging from 55.7% to 98.1%. Widespread environmental contamination with hookworms was detected in shared human-dog environments in urban Bangladesh, with Ancylostoma caninum and A. ceylanicum identified as the predominant zoonotic species. The detection of Necator americanus and A. duodenale should be interpreted cautiously, as it may reflect environmental contamination, occasional misclassification of fecal origin, or passive passage following coprophagy rather than established canine infection. These findings highlight the value of molecular environmental surveillance for informing One Health strategies to reduce zoonotic hookworm exposure. Future studies incorporating molecular confirmation of fecal host origin and simultaneous human, animal, and environmental sampling are needed to better understand transmission pathways.",
+    "authors": [
+      "Tilak Chandra Nath",
+      "Jarin Tasnim",
+      "Md Mahamudul Hasan",
+      "Tanmoy Roy Rudro",
+      "Dipta Das",
+      "Tamanna Chowdhury",
+      "Radwan Raquib",
+      "Masudur Rahman Khondokar",
+      "Proloy Chakraborty Tusher",
+      "Tarek Siddiki",
+      "Hamida Khanum",
+      "Sharmin Musa"
+    ],
+    "date": "2026-Aug-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021229/",
+    "doi": "10.3201/eid2708.204900",
+    "journal": "BMC veterinary research",
+    "score": 0.2593,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43020769",
+    "source": "pubmed",
+    "title": "Machine learning methods to decipher the evolutionary dynamics of microbial pathogens.",
+    "abstract": "We are currently witnessing an unprecedented rise in the amount of diverse data on pathogens and epidemics. These data include genomic sequences with metadata such as geographic locations, risk groups, and sampling information. Machine learning (ML) has been applied to overcome the scalability bottlenecks inherent in these heterogeneous and high-dimensional datasets. This review highlights how ML tools are achieving concrete successes in predicting pathogen adaptation and drug resistance, performing source and host prediction, identifying high-risk lineages, and estimating phylodynamic and epidemiological parameters. We also show how ML is transitioning molecular epidemiology from a retrospective monitoring field to a proactive and predictive framework for major global microbial threats. Finally, we discuss the limitations of these approaches with respect to interpretability, uncertainty estimation, data volume requirements, and model misspecification.",
+    "authors": [
+      "Manolo F Perez",
+      "Anna Zhukova",
+      "Renny Doig",
+      "Olivier Gascuel",
+      "Caroline Colijn"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020769/",
+    "doi": "10.1016/j.tim.2026.10.006",
+    "journal": "Trends in microbiology",
+    "score": 0.358,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43020768",
+    "source": "pubmed",
+    "title": "One battle after another: orthoflavivirus receptors start to be revealed.",
+    "abstract": "Orthoflaviviruses, members of the genus Orthoflavivirus in the family Flaviviridae, include major arthropod-borne pathogens, such as dengue, Zika, yellow fever, Japanese encephalitis, and West Nile viruses. Their continued emergence and re-emergence are shaped by viral evolution, vector ecology, urbanization, climate change, human mobility, and uneven population immunity. Understanding the infection biology of these viruses will pave the way for developing therapeutic and preventive countermeasures. Recent discoveries identifying members of the low-density lipoprotein receptor family as functional entry receptors for yellow fever virus and tick-borne encephalitis virus have reshaped our understanding of orthoflavivirus entry. In this review, we analyze these new developments in the context of prior knowledge of orthoflavivirus receptors. We also discuss the evolutionary implications of receptor usage and how receptor identification may accelerate the development of antiviral drugs and vaccines. We propose a framework of orthoflavivirus-host receptor evolution that can be tested experimentally and can guide the development of prediction tools for comprehensive viral receptor usage.",
+    "authors": [
+      "Yingyi Cong",
+      "Wenqiang Wang",
+      "Guan-Zhu Han",
+      "Xiaojie Huang",
+      "Xu Tan"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020768/",
+    "doi": "10.1016/j.tim.2026.10.009",
+    "journal": "Trends in microbiology",
+    "score": 0.509,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43020271",
+    "source": "pubmed",
+    "title": "Epidemic-phase-dependent selection within clades contributes to punctuated SARS-CoV-2 evolution.",
+    "abstract": "SARS-CoV-2 evolution is characterized by punctuated lineage replacement, with successor variants often show substantial antigenic shifts. However, immune evasion alone does not ensure spread, as many immune-evasive variants are rapidly lost, underscoring the complex selective constraints shaping SARS-CoV-2 evolution that remain incompletely understood. Here, we investigate the dynamics of prevalence, viral population diversity, and haplotype fitness across eight major SARS-CoV-2 clades, and their associations with functional metrics of transmissibility and immune evasion. We show that the viral fitness landscape within individual clades is modulated by epidemic phase: selection initially favors transmissibility but progressively shifts toward immune escape after the epidemic peak. This reveals an evolutionary asynchrony between viral diversification and selection: the transmission surge generates the greatest viral diversity, yet selection during this phase differs from that encountered later. As a result, immune-evasive variants favored late may be suppressed earlier, creating a mismatch that constrains continuous within-clade adaptation. Furthermore, incorporating epidemic progression into fitness prediction substantially improves predictive performance, emphasizing the importance of accounting for dynamic selection. Our findings connect macroscopic epidemiology with microscopic viral evolution, providing a conceptual framework for understanding and forecasting the evolutionary trajectories of epidemic viruses.",
+    "authors": [
+      "Wentai Ma",
+      "Mingkun Li"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020271/",
+    "doi": "10.1016/j.virs.2026.11.006",
+    "journal": "Virologica Sinica",
+    "score": 0.6061,
+    "fetched_at": "2026-11-14"
+  },
+  {
+    "id": "pubmed:43020238",
+    "source": "pubmed",
+    "title": "Molecular surveillance of Bartonella species, Coxiella burnetii, and orthohantaviruses in wild small mammals and their associated chigger mites in South Korea.",
+    "abstract": "Wild small mammals are important hosts of diverse zoonotic pathogens. Molecular surveillance incorporating both small mammals and their associated ectoparasites can provide information on pathogen detection at the wildlife-ectoparasite interface. In this study, 1,444 wild small mammals and 12,869 associated chigger mites, analyzed as 680 host-associated pools, were collected from 17 sites in South Korea between 2022 and 2025. Samples were examined for Bartonella spp., Coxiella burnetii, and orthohantaviruses using PCR- and RT-PCR-based methods, followed by sequence and phylogenetic analyses. The predominant small-mammal species, Apodemus agrarius, accounted for 84.9% of captured small mammals. DNA related to Bartonella schoenbuchensis was detected in 473 of 680 chigger mite pools (69.6%), whereas DNA related to Bartonella bacilliformis, Bartonella henselae, and Bartonella taylorii was detected in three of 1,444 small-mammal liver samples (0.2%) for each taxon. DNA of Coxiella burnetii was detected in 51 of 1,444 liver samples (3.5%), all collected during the autumn 2024 survey. Orthohantavirus RNA was detected in 37 small mammals (2.6%), predominantly in A. agrarius (35/37, 94.6%), with the remaining two detections in Crocidura spp. (2/37, 5.4%), and in three chigger mite pools (0.4%). To our knowledge, these findings provide the first molecular evidence of DNA related to B. schoenbuchensis in host-associated chigger mite pools and document previously unreported DNA related to B. bacilliformis and B. henselae in wild small-mammal liver samples in South Korea. The results provide descriptive baseline data for wildlife-based molecular surveillance; they do not establish seasonal patterns, individual-mite infection prevalence, or vector competence.",
+    "authors": [
+      "Beoul Kim",
+      "You-Jeong Lee",
+      "Hyo-Min Woo",
+      "Jae-Woo Choi",
+      "Insu Choi",
+      "Yong-Myung Kang",
+      "Dongmi Kwak",
+      "Min-Goo Seo"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020238/",
+    "doi": "10.1016/j.actatropica.2026.108411",
+    "journal": "Acta tropica",
+    "score": 0.4578,
+    "fetched_at": "2026-11-14"
+  }
+]

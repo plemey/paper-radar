@@ -1459,6 +1459,22 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:43020271",
+    "source": "pubmed",
+    "title": "Epidemic-phase-dependent selection within clades contributes to punctuated SARS-CoV-2 evolution.",
+    "abstract": "SARS-CoV-2 evolution is characterized by punctuated lineage replacement, with successor variants often show substantial antigenic shifts. However, immune evasion alone does not ensure spread, as many immune-evasive variants are rapidly lost, underscoring the complex selective constraints shaping SARS-CoV-2 evolution that remain incompletely understood. Here, we investigate the dynamics of prevalence, viral population diversity, and haplotype fitness across eight major SARS-CoV-2 clades, and their associations with functional metrics of transmissibility and immune evasion. We show that the viral fitness landscape within individual clades is modulated by epidemic phase: selection initially favors transmissibility but progressively shifts toward immune escape after the epidemic peak. This reveals an evolutionary asynchrony between viral diversification and selection: the transmission surge generates the greatest viral diversity, yet selection during this phase differs from that encountered later. As a result, immune-evasive variants favored late may be suppressed earlier, creating a mismatch that constrains continuous within-clade adaptation. Furthermore, incorporating epidemic progression into fitness prediction substantially improves predictive performance, emphasizing the importance of accounting for dynamic selection. Our findings connect macroscopic epidemiology with microscopic viral evolution, providing a conceptual framework for understanding and forecasting the evolutionary trajectories of epidemic viruses.",
+    "authors": [
+      "Wentai Ma",
+      "Mingkun Li"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020271/",
+    "doi": "10.1016/j.virs.2026.11.006",
+    "journal": "Virologica Sinica",
+    "score": 0.6061,
+    "fetched_at": "2026-11-14"
+  },
+  {
     "id": "pubmed:42767550",
     "source": "pubmed",
     "title": "Post-pandemic re-establishment of respiratory virus seasonality and molecular epidemiology of Rhinovirus/Enterovirus in Northern Italy: a three-year surveillance study (2023-2026).",
@@ -1753,6 +1769,27 @@
     "journal": "Open forum infectious diseases",
     "score": 0.5907,
     "fetched_at": "2026-09-17"
+  },
+  {
+    "id": "pubmed:43024095",
+    "source": "pubmed",
+    "title": "Molecular epidemiology, spike-protein evolution, antigenic variation, and experimental pathogenicity of G2c porcine epidemic diarrhea virus: a systematic review.",
+    "abstract": "Porcine epidemic diarrhea virus (PEDV) is a major cause of severe enteric disease and mortality in neonatal piglets. This systematic review aimed to synthesize current evidence on the molecular epidemiology, spike-protein variation, experimental pathogenicity, and control-related applications of the G2c lineage. Web of Science Core Collection, PubMed, and ScienceDirect were searched for peer-reviewed original studies published from 1 January 2020 to 31 May 2026. Of 78 records identified, 26 studies met the eligibility criteria. G2c was the most frequently assigned lineage in several national, multi-provincial, and regional PEDV datasets in China, particularly in Sichuan and Guangdong. However, its distribution was geographically heterogeneous, and G2a remained predominant in Guangxi. Contemporary G2c viruses exhibited extensive spike-protein variation, including substitutions, insertions, deletions, and predicted glycosylation changes in antigenically relevant regions. Cross-neutralization studies demonstrated strain-dependent antigenic differences, but consistent lineage-wide immune escape was not established. Experimental infections showed that natural G2c isolates caused acute watery diarrhea, dehydration, intestinal villous atrophy, high viral shedding, and, in some studies, substantial mortality in neonatal or suckling piglets. Heterogeneity in experimental design prevented reliable comparison of virulence among strains. Current evidence also supports the development of G2c-specific molecular diagnostics and several vaccine approaches, including cell-adapted candidates, maternal-immunity strategies, messenger RNA vaccines, and autogenous inactivated vaccines. Overall, G2c is an epidemiologically important and pathogenic PEDV lineage. Standardized classification, whole-genome surveillance, functional antigenic studies, matched challenge experiments, and heterologous vaccine-efficacy evaluations are needed to improve disease control.",
+    "authors": [
+      "Jinling Tang",
+      "Jiali Pei",
+      "Xiaolong Lu",
+      "Zhiyin Chen",
+      "Shiyun Wei",
+      "Zhenxia Xia",
+      "Kuiqing Cui"
+    ],
+    "date": "2026-Nov-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024095/",
+    "doi": "10.3390/v17091210",
+    "journal": "Veterinary research communications",
+    "score": 0.59,
+    "fetched_at": "2026-11-14"
   },
   {
     "id": "pubmed:42748151",
@@ -3711,6 +3748,25 @@
     "fetched_at": "2026-09-11"
   },
   {
+    "id": "pubmed:43020768",
+    "source": "pubmed",
+    "title": "One battle after another: orthoflavivirus receptors start to be revealed.",
+    "abstract": "Orthoflaviviruses, members of the genus Orthoflavivirus in the family Flaviviridae, include major arthropod-borne pathogens, such as dengue, Zika, yellow fever, Japanese encephalitis, and West Nile viruses. Their continued emergence and re-emergence are shaped by viral evolution, vector ecology, urbanization, climate change, human mobility, and uneven population immunity. Understanding the infection biology of these viruses will pave the way for developing therapeutic and preventive countermeasures. Recent discoveries identifying members of the low-density lipoprotein receptor family as functional entry receptors for yellow fever virus and tick-borne encephalitis virus have reshaped our understanding of orthoflavivirus entry. In this review, we analyze these new developments in the context of prior knowledge of orthoflavivirus receptors. We also discuss the evolutionary implications of receptor usage and how receptor identification may accelerate the development of antiviral drugs and vaccines. We propose a framework of orthoflavivirus-host receptor evolution that can be tested experimentally and can guide the development of prediction tools for comprehensive viral receptor usage.",
+    "authors": [
+      "Yingyi Cong",
+      "Wenqiang Wang",
+      "Guan-Zhu Han",
+      "Xiaojie Huang",
+      "Xu Tan"
+    ],
+    "date": "2026-Nov-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020768/",
+    "doi": "10.1016/j.tim.2026.10.009",
+    "journal": "Trends in microbiology",
+    "score": 0.509,
+    "fetched_at": "2026-11-14"
+  },
+  {
     "id": "pubmed:42648245",
     "source": "pubmed",
     "title": "Molecular epidemiology and genetic evolutionary patterns of parechovirus A1 circulating in Chiang Mai, Thailand: A decade-long analysis.",
@@ -4588,90 +4644,5 @@
     "journal": "Frontiers in immunology",
     "score": 0.4821,
     "fetched_at": "2026-10-05"
-  },
-  {
-    "id": "pubmed:42632374",
-    "source": "pubmed",
-    "title": "Synergistic effect of AddaS03 and poly I:C adjuvants on antibody titers and Th1-biased T cell responses following RBD vaccination in BALB/c mice.",
-    "abstract": "The COVID-19 pandemic caused over seven million deaths, and disease control relied largely on mass immunization campaigns. Although diverse vaccine platforms were used, most formulations targeted the Spike protein because of its central role in virus entry. Persistent viral evolution and global vaccine inequity highlight the need for alternative strategies, particularly for low- and middle-income countries. In this scenario, recombinant protein-based vaccines are attractive due to low cost, established manufacturing pipelines and well-characterized safety profiles. The receptor binding domain (RBD) of Spike is an appealing antigen due to its relatively simple structure, proven immunogenicity - especially in multimerized formats - and because it harbors most neutralizing antibody epitopes. Protein-based vaccines, however, rely on the use of adjuvants to optimize antigen-specific immunity. We used an RBD dimer derived from the ancestral Wuhan strain as a well-characterized protein to evaluate the humoral and cellular immunogenicity of combined AddaS03 and Poly I:C adjuvants in BALB/c mice. The adjuvant combination preserved the strong humoral responses typically induced by AddaS03 while conferring the Th1-skewing properties of Poly I:C, producing a synergistic effect that exceed those of each adjuvant alone. Specifically, the combination improved antibody affinity, increased the generation of antibody- secreting cells in spleen and bone marrow, and enhanced the induction of polyfunctional, cytokine-producing CD4+ T cells. Additionally, we mapped and characterized three class II T cell epitopes within RBD: peptide 6 (351-YAWNRKRISNCVADYSV-367), peptide 19 (442-SKVGGNYNYLYRLFRK-458) and peptide 20 (449-YNYLYRLFRKSNLKPFE-465). Combining AddaS03 and Poly I:C adjuvants is a potent strategy to modulate and enhance immune responses elicited by an RBD-based vaccine.",
-    "authors": [
-      "João Pedro da Silva Nunes",
-      "Isabela Pazotti Daher",
-      "Armando da Silva Pires",
-      "Marcio Massao Yamamoto",
-      "Fernando Bandeira Sulczewski",
-      "Brenno Fernandes da Cunha Lima",
-      "Beatriz Moreira Rodrigues",
-      "Rodolfo Ferreira Marques",
-      "Luiz Mario Ramos Janini",
-      "Juliana Terzi Maricato",
-      "Edecio Cunha-Neto",
-      "Jorge Kalil",
-      "Silvia Beatriz Boscardin",
-      "Daniela Santoro Rosa"
-    ],
-    "date": "2026-Aug-22",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42632374/",
-    "doi": "10.1016/j.vaccine.2026.129073",
-    "journal": "Vaccine",
-    "score": 0.4818,
-    "fetched_at": "2026-08-23"
-  },
-  {
-    "id": "pubmed:42680782",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of foot-and-mouth disease viruses collected from Khartoum, Blue Nile, and Northern States of Sudan (2019-2022).",
-    "abstract": "Foot-and-mouth disease (FMD) is a highly contagious transboundary viral disease causing significant economic losses in livestock. This study investigated the serotype distribution and molecular epidemiology of FMD viruses (FMDV) circulating in Sudan between 2019 and 2022. A total of 51 epithelial tissue samples were collected from outbreaks in Khartoum, Blue Nile and Northern States. Samples were analyzed via virus isolation in bovine thyroid cell culture (BTY), antigen detection ELISA, and real-time reverse transcription PCR (rRT-PCR). Antigen detection ELISA successfully typed 13 of 51 (25.5%) epithelial tissue samples, of which 10 were identified as serotype A and 3 as serotype O. In contrast, rRT-PCR detected FMDV RNA in 33 of the 35 samples (94.3%) that were suitable for molecular analysis, showing the superior diagnostic sensitivity of this molecular method. FMDV positive samples were further characterized by sequencing the VP1-coding region. These data demonstrated the presence of two serotypes (A and O), while SAT serotypes were not detected during the study period. Serotype A was detected in outbreaks during 2019, 2021 and 2022, while serotype O predominated in 2020. Phylogenetic analysis of VP1-coding sequences showed that serotype A sequences clustered within the A/AFRICA topotype, lineage G-IV and were closely related to strains from Egypt and Ethiopia. Serotype O sequences were clustered within the EAST AFRICA-3 (EA-3) topotype and showed ≥ 96% identity with the Egyptian isolates. VP1 analysis revealed conserved functional motifs alongside variability within the immunodominant antigenic region, suggestive of ongoing viral evolution with potential implications for vaccine effectiveness. These results suggested the persistent circulation of FMDV serotypes A and O in Sudan with close genetic relationships to viruses recovered from neighboring countries. These findings suggested the transboundary transmission of FMDVs and a role for cross-border livestock movements in virus dissemination. Continuous molecular surveillance and regional cooperation are essential to improve vaccine matching and strengthen FMD control strategies in endemic regions.",
-    "authors": [
-      "Maysa Ragab",
-      "Yassir A Almofti",
-      "Yazeed A Rauouf",
-      "Nick J Knowles",
-      "Donald P King",
-      "Jemma Wadsworth",
-      "Hayley M Hicks",
-      "Haitham Saeed",
-      "Omima Abd Algalil",
-      "Ibrahim Albokhadaim",
-      "Ahmed O Alameen",
-      "Mahmoud Kandeel",
-      "Samir Alhojaily",
-      "Mohammed Ali Al-Hammadi",
-      "Jamal Hussen",
-      "Mustafa Shukry",
-      "Bahaa Al-Trad"
-    ],
-    "date": "2026-Aug-16",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42680782/",
-    "doi": "10.1128/JCM.42.5.2108-2114.2004",
-    "journal": "Scientific reports",
-    "score": 0.4814,
-    "fetched_at": "2026-09-02"
-  },
-  {
-    "id": "pubmed:42862470",
-    "source": "pubmed",
-    "title": "Co-occurrence of viral respiratory pathogens: prevalence, seasonal distribution, and symptomatology in outpatients in Bavaria, Germany, from April 2025 - March 2026.",
-    "abstract": "The Bavarian Influenza Sentinel (BIS + C) monitors the circulation of respiratory viruses in outpatients in Bavaria, Germany. After the Covid-19 pandemic, the molecular surveillance program was expanded for improved insight into the rate of viral infections. Only limited information on viral co-infections is yet available, so this study provides an insight into their co-occurrence, seasonal distribution, and symptomatic outcome. From calendar week 15/2025 to 14/2026, general practitioners and pediatricians collected swab samples from outpatients with acute respiratory diseases, that were tested for twelve viral pathogens using qPCR multiplex systems. At least one virus was found in 58.8% of the outpatients (n = 7,416/12,614) including 4.1% (n = 520) multiple viral detection, primarily in patients younger than 5 years and more frequent in males. The frequency of multiple virus detection ranges from 6.7% in influenza A (n = 118/1,761) to 43.3% in adenoviruses (n = 154/356) positive tested samples. The most common pathogens in multiple detections were entero-/rhinoviruses involved in 11.9% (n = 292/2,459). Differences in the reported symptoms between single- and co-infections have been found, including less muscle/joint pain in influenza A co-infections. The detected Ct values in co-infections compared to mono-infections were lower for SARS-CoV-2, adenoviruses, entero-/rhinoviruses, and coronaviruses. The frequency of multi-infections follows the seasonality of the corresponding viruses. Especially children under 5 years of age are affected by co-infections. Among the studied viruses, influenza A showed the lowest relative rate of co-detection, in line with its pronounced seasonality - a pattern that warrants further investigation.",
-    "authors": [
-      "Aline I Schöllkopf",
-      "Jennifer Flechsler",
-      "Rebecca Gerstner",
-      "Johannes Lutmayr",
-      "Alexander Nikola",
-      "Julia Papst",
-      "Sandra Schmidt",
-      "Veronika Zacherl",
-      "Caroline Herr",
-      "Ute Eberle",
-      "Andreas Sing",
-      "Nikolaus Ackermann"
-    ],
-    "date": "2026-Oct-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42862470/",
-    "doi": "10.1098/rspb.2021.2358",
-    "journal": "Infection",
-    "score": 0.4811,
-    "fetched_at": "2026-10-13"
   }
 ]
