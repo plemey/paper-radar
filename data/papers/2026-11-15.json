@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pubmed:43027102",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology, Genetic Diversity, and Isolation of Porcine Reproductive and Respiratory Syndrome Virus in Hubei Province, Central China, 2024-2025.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) remains the most economically devastating pathogen of the global swine industry, with frequent genetic recombination and continuous lineage replacement driving its rapid evolution. Hubei Province, a major swine-producing hub in central China, endures substantial PRRSV disease pressure, yet the current epidemiological and evolutionary landscape of circulating strains remains poorly characterized. In this study, 1478 clinical samples were collected from 12 prefecture-level cities between 2024 and 2025 and subjected to RT-PCR detection, ORF5 sequencing, virus isolation, and complete genome analysis. The detection rate among clinical samples was 26.32%, highest in nursery pigs (32.65%). Phylogenetic analysis of 136 ORF5 sequences revealed lineage 1 dominance (66.18%), comprising NADC30-like (38.24%) and NADC34-like (27.94%) strains, followed by lineage 8 (24.26%), lineage 5 (5.15%), and lineage 3 (4.41%). Six isolates were recovered, and whole-genome analysis identified lineage-specific NSP2 deletion patterns and a recombinant strain (LW HP) bearing a JXA1-like backbone with NADC30-like insertions. Selection pressure analysis ranked Nsp2 as the least-constrained gene (dN/dS = 0.3065; purifying selection), with positively selected codons in GP5 and the NSP2 hypervariable region. These findings delineate the current epidemic status and genetic characteristics of PRRSV in central China, providing critical data for regional prevention and vaccine development.",
+    "authors": [
+      "Chang Li",
+      "Keli Yang",
+      "Hao Liu",
+      "Wei Liu",
+      "Qiong Wu",
+      "Ting Gao",
+      "Jiajia Zhu",
+      "Fangyan Yuan",
+      "Rui Guo",
+      "Danna Zhou"
+    ],
+    "date": "2026-Oct-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027102/",
+    "doi": "10.3390/ani16213367",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.5648,
+    "fetched_at": "2026-11-15"
+  },
+  {
+    "id": "pubmed:43025578",
+    "source": "pubmed",
+    "title": "Molecular characterization of rabies virus in Eritrea reveals circulation of the Africa 1a lineage.",
+    "abstract": "Rabies remains endemic in many parts of Africa, yet molecular data from several countries, including Eritrea, are lacking. This study reports the first molecular characterization of rabies virus (RABV) in Eritrea using archived brain samples collected between 2001 and 2024. A total of 95 samples from domestic and wild animals were screened using one-step RT-PCR targeting the nucleoprotein (N) gene. Eighteen samples tested positive, of which sixteen yielded sequences of sufficient quality for phylogenetic analysis. Maximum likelihood analysis revealed that all Eritrean RABV sequences clustered within the Africa 1a lineage and showed close genetic relatedness to strains from Ethiopia and Somalia, indicating regional connectivity and probable cross-border transmission. Sequences from different host species and regions were interspersed within the phylogeny, supporting domestic dogs as the primary reservoir with frequent spillover into livestock. Although Eritrea has implemented periodic mass dog vaccination campaigns, the continued circulation of genetically related RABV strains highlights gaps in surveillance and control. These findings provide a critical molecular baseline for rabies in Eritrea and support the need for sustained dog vaccination and strengthened regional surveillance to advance rabies elimination efforts.",
+    "authors": [
+      "Tesfalem Mokonen Adha",
+      "Habtom Habtemaryam Gebremedhin",
+      "Arsiema Berhane Adonoy",
+      "Yonas Zeru Sahlezghi",
+      "Yohane Berhane Tsegay",
+      "Gebrehawaryat Tewelde Kahsay",
+      "Chalumba Simukoko",
+      "Weldu Tesfagaber Mengisteab",
+      "Hirofumi Sawa",
+      "Walter Muleya"
+    ],
+    "date": "2026-Nov-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43025578/",
+    "doi": "10.1016/j.actatropica.2026.108409",
+    "journal": "Acta tropica",
+    "score": 0.4829,
+    "fetched_at": "2026-11-15"
+  }
+]

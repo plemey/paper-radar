@@ -2216,6 +2216,30 @@
     "fetched_at": "2026-09-15"
   },
   {
+    "id": "pubmed:43027102",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology, Genetic Diversity, and Isolation of Porcine Reproductive and Respiratory Syndrome Virus in Hubei Province, Central China, 2024-2025.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) remains the most economically devastating pathogen of the global swine industry, with frequent genetic recombination and continuous lineage replacement driving its rapid evolution. Hubei Province, a major swine-producing hub in central China, endures substantial PRRSV disease pressure, yet the current epidemiological and evolutionary landscape of circulating strains remains poorly characterized. In this study, 1478 clinical samples were collected from 12 prefecture-level cities between 2024 and 2025 and subjected to RT-PCR detection, ORF5 sequencing, virus isolation, and complete genome analysis. The detection rate among clinical samples was 26.32%, highest in nursery pigs (32.65%). Phylogenetic analysis of 136 ORF5 sequences revealed lineage 1 dominance (66.18%), comprising NADC30-like (38.24%) and NADC34-like (27.94%) strains, followed by lineage 8 (24.26%), lineage 5 (5.15%), and lineage 3 (4.41%). Six isolates were recovered, and whole-genome analysis identified lineage-specific NSP2 deletion patterns and a recombinant strain (LW HP) bearing a JXA1-like backbone with NADC30-like insertions. Selection pressure analysis ranked Nsp2 as the least-constrained gene (dN/dS = 0.3065; purifying selection), with positively selected codons in GP5 and the NSP2 hypervariable region. These findings delineate the current epidemic status and genetic characteristics of PRRSV in central China, providing critical data for regional prevention and vaccine development.",
+    "authors": [
+      "Chang Li",
+      "Keli Yang",
+      "Hao Liu",
+      "Wei Liu",
+      "Qiong Wu",
+      "Ting Gao",
+      "Jiajia Zhu",
+      "Fangyan Yuan",
+      "Rui Guo",
+      "Danna Zhou"
+    ],
+    "date": "2026-Oct-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027102/",
+    "doi": "10.3390/ani16213367",
+    "journal": "Animals : an open access journal from MDPI",
+    "score": 0.5648,
+    "fetched_at": "2026-11-15"
+  },
+  {
     "id": "pubmed:42810091",
     "source": "pubmed",
     "title": "Molecular epidemiology and genetic diversity of infectious bronchitis virus in Iranian poultry: A systematic review.",
@@ -4621,28 +4645,5 @@
     "journal": "Pathogens (Basel, Switzerland)",
     "score": 0.483,
     "fetched_at": "2026-08-28"
-  },
-  {
-    "id": "pubmed:42827976",
-    "source": "pubmed",
-    "title": "AI-guided epitope engineering of a SARS-CoV-2 spike antigen for broad sarbecovirus neutralization.",
-    "abstract": "The rapid evolution of SARS-CoV-2 and the ongoing risk of zoonotic spillover highlight the need for vaccines that provide broad protection beyond strain-specific immunity. Here, we present a structure-guided, AI-enabled strategy for rational antigen design that enhances cross-reactive B-cell epitope recognition across betacoronaviruses. By integrating comparative sequence analysis with conformational epitope prediction, we identified conserved epitope hotspots within the Spike receptor-binding domain and introduced targeted motif-level substitutions into a SARS-CoV-2 BA.2 backbone. Engineered Spike immunogens, delivered as mRNA-lipid nanoparticle vaccines, elicited robust antibody responses in mice and demonstrated broad neutralizing activity against antigenically diverse SARS-CoV-2 variants, including BA.5 and XBB.1.5, as well as zoonotic sarbecoviruses. Selected designs reached neutralisation breadth comparable to an Omicron-adapted clinical benchmark for shared SARS-CoV-2 antigens, while extending neutralising activity to divergent zoonotic sarbecoviruses. These findings show that minimal, structure-guided epitope remodeling can enhance the presentation of conserved epitopes and improve antibody breadth, providing a generalizable framework for designing vaccines resilient to viral evolution and future pandemic threats.",
-    "authors": [
-      "Alexandru Odainic",
-      "Ioannis Vardaxis",
-      "Matheus Ferraz",
-      "Katrin E Wiese",
-      "Lisette A H M Cornelissen",
-      "Akhilesh Sharma",
-      "Richard Stratford",
-      "Trevor Clancy",
-      "Kaïdre Bendjama"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42827976/",
-    "doi": "10.1021/j100058a043",
-    "journal": "Frontiers in immunology",
-    "score": 0.4821,
-    "fetched_at": "2026-10-05"
   }
 ]
