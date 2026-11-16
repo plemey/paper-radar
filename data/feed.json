@@ -146,6 +146,31 @@
     "fetched_at": "2026-10-09"
   },
   {
+    "id": "pubmed:43034815",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of influenza A (H5N6) viruses from human infections in Jiangsu Province, China.",
+    "abstract": "Human infections with avian influenza A (H5N6) have been reported with increasing frequency in recent years. This study aims to systematically characterize the epidemiological and molecular characteristics of human H5N6 infections in Jiangsu Province, China, in order to inform epidemic prevention and control strategies and support clinical diagnosis. Human cases of H5N6 infections were collected in Jiangsu Province. Clinical and epidemiological data of the cases were investigated and analyzed. Phylogenetic and evolutionary analyses were performed using the Jiangsu-derived viral strains together with publicly available reference sequences, employing MEGA and BEAST, and R packages. Between November 2018 and the present, five laboratory-confirmed human cases of avian influenza A (H5N6) infection were reported in Jiangsu Province. The ages of the patients ranged from 6 to 81 years. All close contacts tested negative for H5N6 nucleic acid. Environmental investigations revealed only one sample positive for H5N6 nucleic acid. Phylogenetic analysis showed that all hemagglutination genes clustered within evolutionary branch 2.3.4.4h and 2.3.4.4b. The median time to the most recent common ancestor of the Jiangsu viruses was estimated to be December 2009 for the HA gene and July 2014 for the neuraminidase gene. This study provides a comprehensive overview of the epidemiological and molecular characteristics of human H5N6 infections in Jiangsu Province. No evidence of human-to-human transmission was found among the infected cases and their close contacts. However, the ongoing genetic evolution of H5N6 viruses may increase the risk of human infection and warrants continued surveillance.",
+    "authors": [
+      "Fang He",
+      "Pengfei Yang",
+      "Haodi Huang",
+      "Xian Qi",
+      "Xiaoli Li",
+      "Yadong Xing",
+      "Fei Deng",
+      "Ke Xu",
+      "Shenjiao Wang",
+      "Liguo Zhu",
+      "Huiyan Yu"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034815/",
+    "doi": "10.1038/ncomms4142",
+    "journal": "Infectious medicine",
+    "score": 0.7853,
+    "fetched_at": "2026-11-16"
+  },
+  {
     "id": "pubmed:42584419",
     "source": "pubmed",
     "title": "Transboundary Spread and Ecological Drivers of HPAI H5N1 Clade 2.3.4.4b During the 2022-2023 Outbreak in Chile: An Integrated Genomic and Spatial Epidemiology Framework.",
@@ -1072,6 +1097,33 @@
     "journal": "Avian pathology : journal of the W.V.P.A",
     "score": 0.6338,
     "fetched_at": "2026-11-03"
+  },
+  {
+    "id": "pubmed:43033420",
+    "source": "pubmed",
+    "title": "Genomic epidemiology of CHIKV during the largest outbreak in Mainland China - implication for CHIKV intervention.",
+    "abstract": "Chikungunya virus (CHIKV) has caused recurrent epidemics across tropical and subtropical regions globally. In 2025, Guangdong, China, experienced the largest documented CHIKV outbreak in mainland China, with 23,464 reported cases across all 21 prefecture-level cities. We conducted integrated epidemiological, genomic, and phylodynamic analyses to investigate the outbreak's origins, transmission dynamics, and CHIKV lineage evolution. The Guangdong strain belongs to the East/Central/South African (ECSA) genotype, Middle African lineage (ECSA-MAL) - one of several CHIKV lineages co-circulating globally in 2025; a long internal branch separates ECSA-MAL from previously sequenced relatives, indicating substantial surveillance gaps in endemic regions. Phylodynamic analysis using a local molecular clock model estimated that the viral introduction occurred within a narrow window in early April 2025 (95% HPD: March 26-April 12), suggesting a 2.5-month period of cryptic transmission prior to detection. The prolonged silent phase aligns with vector dynamics: the Mosquito Ovitrap Index in the outbreak town of Beijiao, Foshan, stayed low in April (3.0) before surging to 9.0 through July - consistent with suppressed early transmission followed by seasonal amplification. Human migration from the two epidemic epicenters was moderately associated with the spatial distribution of cases (Spearman ρ around 0.5), while mosquito ecology may constrain spatial spread. Phylowave analysis on global circulating strains identified 33 lineage-defining mutations across 14 sublineages, concentrated in NSP3, E1 and E2. Four of these have been experimentally validated as adaptive mutations. This study demonstrates the critical need for enhanced genomic surveillance during pre-peak months and underscores the importance of monitoring adaptive mutations across diverse ecological regions.",
+    "authors": [
+      "Lina Yi",
+      "Silin Xiang",
+      "Xuhe Huang",
+      "Jianhua Huang",
+      "Mingji Chen",
+      "Heshi Long",
+      "Yuwei He",
+      "Chuting Zeng",
+      "Guanghu Zhu",
+      "Shuyan Tan",
+      "Zhe Liu",
+      "Shanshan Gao",
+      "Jing Lu"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033420/",
+    "doi": "10.1080/22221751.2026.2756038",
+    "journal": "Emerging microbes & infections",
+    "score": 0.6326,
+    "fetched_at": "2026-11-16"
   },
   {
     "id": "pubmed:42584091",
@@ -4600,50 +4652,5 @@
     "doi": "10.1002/jmv.71054",
     "score": 0.4869,
     "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42776645",
-    "source": "pubmed",
-    "title": "Ebola Virus Disease in the Era of One Health and Global Preparedness: Evolving Epidemiology, Genomic Surveillance, and Future Challenges.",
-    "abstract": "Ebola virus disease (EVD) remains one of the most severe viral hemorrhagic fevers, with recurrent outbreaks challenging global healthcare systems. This narrative review traces the evolving epidemiology of EVD from the first recognized outbreaks in 1976 to the ongoing 2026 Bundibugyo virus public health emergency in the Democratic Republic of the Congo (DRC) and Uganda. Over nearly five decades, the recognized range of Ebola outbreak contexts and amplification mechanisms has broadened considerably: rural zoonotic spillovers remain the predominant mode of emergence, but the scale and reach of subsequent transmission increasingly depend on where introductions occur, on delays in detection, on population mobility, on ecological disruption, on armed conflict, on healthcare-associated transmission, and on viral persistence in survivors. Major advances in molecular epidemiology and genomic surveillance have improved outbreak investigation, enabling real-time transmission reconstruction and detection of survivor-linked resurgence. Vaccination, particularly ring vaccination with rVSV-ZEBOV, has shown high effectiveness against Zaire ebolavirus, yet vaccine equity gaps and the absence of licensed vaccines for Sudan virus and Bundibugyo virus remain critical vulnerabilities, though new candidate vaccines and therapeutics for Bundibugyo virus entered clinical evaluation in mid-2026. Artificial intelligence and digital technologies, including AI-assisted early warning systems, portable sequencing, drones, blockchain, and mobile health platforms, offer promising tools for outbreak preparedness, but robust evidence of their real-world operational impact during filovirus outbreaks remains limited, and their deployment in low-resource settings faces substantial barriers related to infrastructure, literacy, data costs, and governance. Integrated preparedness frameworks that combine ecological surveillance, resilient healthcare systems, community engagement, and international coordination under a One Health umbrella are increasingly viewed as a strategic necessity. The 2026 Bundibugyo outbreak reaffirms that despite decades of lessons, structural weaknesses in surveillance, response timeliness, and community trust continue to recur. Sustainable, multi-year financing, diversified vaccine platforms, regional manufacturing, and local co-design of digital tools are essential to translate lessons into lasting change. Preparedness is best understood as a continuous process rather than a reactive state.",
-    "authors": [
-      "Francesco De Maria",
-      "Francesco Branda",
-      "Ivailo Alexiev",
-      "Dong Keon Yon",
-      "Ayşe Banu Demir",
-      "Giancarlo Ceccarelli",
-      "Fabio Scarpa",
-      "Massimo Ciccozzi",
-      "Alessandro Russo"
-    ],
-    "date": "2026-Aug-28",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42776645/",
-    "doi": "10.3390/idr18050094",
-    "journal": "Infectious disease reports",
-    "score": 0.4865,
-    "fetched_at": "2026-09-24"
-  },
-  {
-    "id": "pubmed:42654761",
-    "source": "pubmed",
-    "title": "Understanding Basic Concepts of Viral Quasispecies: From Evolutionary Dynamics to Clinical Relevance.",
-    "abstract": "This review examines the viral quasispecies concept and its implications for understanding viral evolution, pathogenesis, and the development of effective antiviral therapies. Quasispecies are dynamic populations of closely related but genetically distinct viral genomes, which evolve under mutation and Darwinian selection. Notably, minority variants, often dismissed as \"genetic noise\", may harbor significant biological differences-such as drug resistance-and become dominant under changing selective pressures. Next-generation sequencing (NGS) has become an indispensable tool for characterizing genetic diversity within quasispecies, enabling detection and quantitative analysis of minority variants often missed by conventional Sanger sequencing, as well as the calculation of diversity indices. We highlight two NGS-based studies of hepatitis B virus quasispecies as illustrative examples of the relevance of minority variants in antiviral resistance and clinical outcomes. These studies also exemplify transcomplementation, whereby defective viral genomes can be replicated and packaged through functional proteins provided by co-infecting variants. Finally, we discuss how the quasispecies concept may extend beyond viruses, with parallels in biological systems such as the adaptive immune system and tumor cell populations. Recognizing quasispecies as dynamic evolving populations rather than static entities is crucial for developing successful strategies to address infectious diseases and other complex biological challenges.",
-    "authors": [
-      "Francisco Rodríguez-Frías",
-      "José Raúl Oubiña",
-      "David Tabernero",
-      "Maria Francesca Cortese",
-      "Josep Gregori",
-      "Maria Buti",
-      "Ariadna Rando-Segura",
-      "Josep Quer"
-    ],
-    "date": "2026-Aug-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42654761/",
-    "doi": "10.3390/pathogens15080824",
-    "journal": "Pathogens (Basel, Switzerland)",
-    "score": 0.483,
-    "fetched_at": "2026-08-28"
   }
 ]
