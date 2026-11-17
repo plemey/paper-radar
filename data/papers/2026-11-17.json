@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pubmed:43038322",
+    "source": "pubmed",
+    "title": "High HTLV Prevalence Among Female Sex Workers in Northeastern Pará, Brazilian Amazon.",
+    "abstract": "Human T-lymphotropic virus types 1 and 2 (HTLV-1/2) are endemic retroviruses in Brazil, particularly in the Amazon region. Female sex workers (FSWs) represent a key population with heightened vulnerability; however, data on prevalence and risk factors in this region remain limited. We conducted a cross-sectional study (August 2022-April 2024) using snowball sampling among FSWs in five municipalities in northeastern Pará. Participants provided blood samples for serological screening and molecular confirmation. Among 154 FSWs, the overall HTLV-1/2 prevalence was 4.5% (7/154; 95% CI: 2.2%-9.1%). HTLV-1 accounted for 3.9%, while HTLV-2 represented 0.6%. Phylogenetic analysis classified most HTLV-1 cases as belonging to the Cosmopolitan subtype (1a), predominantly the Transcontinental subgroup (1aA), with one case identified as subgroup 1aB. The single HTLV-2 case was confirmed as subtype 2c. Infection was concentrated among the most socioeconomically vulnerable individuals: all positive cases had ≤ 8 years of education and reported low family income. Illicit drug use was significantly associated with infection (OR = 7.33; 95% CI: 1.34-40.05; p = 0.01). All HTLV-positive FSWs expressed willingness to engage in condomless sex due to financial necessity or under the influence of substances, and none were aware of HIV Post-Exposure Prophylaxis (PEP) or Pre-Exposure Prophylaxis (PrEP). This study reveals a high HTLV-1/2 prevalence among FSWs in the northeastern Brazilian Amazon. The association of HTLV infection with poverty, drug use, and contextual risk factors underscores the urgent need for integrated public health strategies that combine screening, targeted education, and structural interventions to mitigate transmission in this vulnerable population.",
+    "authors": [
+      "José Jorge da Silva Galvão",
+      "Sandra Souza Lima",
+      "Rogério Valois Laurentino",
+      "Franciane Ferreira Costa",
+      "Wellem Inês Silva do Nascimento",
+      "Jocilena Pamela Quadros de Queiroz",
+      "Gabriela Alves Sales",
+      "Pablo Roberto Moreira Dos Reis",
+      "Antonio Carlos R Vallinoto",
+      "Aldemir B Oliveira-Filho",
+      "Luiz Fernando Almeida Machado"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038322/",
+    "doi": "10.1002/jmv.71209",
+    "journal": "Journal of medical virology",
+    "score": 0.486,
+    "fetched_at": "2026-11-17"
+  },
+  {
+    "id": "pubmed:43037251",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of the Taiwan (GI-7) IBV genotype in China over six decades: uncovering recombination hotspots and a nationwide transmission network.",
+    "abstract": "Infectious bronchitis virus (IBV), a Gammacoronavirus, challenges the poultry industry through high mutation and recombination rates. The Taiwan (GI-7) genotype has become dominant in China, yet its evolutionary origins and spread remain unclear. We analyzed 196 Taiwan (GI-7) IBV isolates collected over 60 years, focusing on the S1 gene, which contains three hypervariable regions (HVRs) critical for antigenicity, receptor binding, and serotype specificity, using phylogenetic, recombination, evolutionary, and phylogeographic methods. The isolates split into two subgroups, Taiwan-I (dominant) and Taiwan-II, with increasing prevalence since 2011. Recombination analysis detected events in 33 isolates, with breakpoints at nucleotides 1,096 (HVR III), 1,263, and 1,467. Two positively selected sites were identified: codon 39 (Gly) in HVR I and codon 121 (Gly/Ala) in HVR II, both located in the receptor-binding domain. The S1 gene evolved at 1.644 × 10-3 substitutions/site/year, originating in the early 1950s in Taiwan. Phylogeography revealed spread from Taiwan to Guangxi, then throughout China and Japan. Bayesian skyline analysis showed rapid population growth after 2006. This study clarifies the origins, transmission routes, and evolution of Taiwan (GI-7) IBV, providing a basis for improved surveillance and control. Infectious bronchitis virus (IBV) poses a persistent threat to global poultry health and productivity. This study elucidates the evolutionary history and transmission network of the dominant Taiwan (GI-7) IBV genotype in China. By integrating genomic and phylodynamic analyses, we identify key recombination hotspots in the S1 gene and trace the origin of this genotype to Taiwan, revealing its rapid spread across China and East Asia since the 1950s. These findings highlight the role of recombination and positive selection in shaping viral diversity and dominance. Our work provides a critical foundation for targeted surveillance and control strategies to mitigate the impact of IBV on poultry production systems.",
+    "authors": [
+      "Wensheng Fan",
+      "Qiaomu Deng",
+      "Yu Zhang",
+      "Guizhen Li",
+      "Taoni Zhang",
+      "Sijia Liu",
+      "Shenben Qiu",
+      "Yaxin Wang",
+      "Qiuying Chen",
+      "Minmin Mei",
+      "Minfang Liu",
+      "Xueyao Ding",
+      "Weiqian Liang",
+      "Guibing Qiu",
+      "Ping Wei",
+      "Meilan Mo"
+    ],
+    "date": "2026-Nov-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037251/",
+    "doi": "10.1128/spectrum.03080-25",
+    "journal": "Microbiology spectrum",
+    "score": 0.7142,
+    "fetched_at": "2026-11-17"
+  }
+]

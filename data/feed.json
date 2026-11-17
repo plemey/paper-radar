@@ -369,6 +369,36 @@
     "fetched_at": "2026-11-10"
   },
   {
+    "id": "pubmed:43037251",
+    "source": "pubmed",
+    "title": "Molecular epidemiology of the Taiwan (GI-7) IBV genotype in China over six decades: uncovering recombination hotspots and a nationwide transmission network.",
+    "abstract": "Infectious bronchitis virus (IBV), a Gammacoronavirus, challenges the poultry industry through high mutation and recombination rates. The Taiwan (GI-7) genotype has become dominant in China, yet its evolutionary origins and spread remain unclear. We analyzed 196 Taiwan (GI-7) IBV isolates collected over 60 years, focusing on the S1 gene, which contains three hypervariable regions (HVRs) critical for antigenicity, receptor binding, and serotype specificity, using phylogenetic, recombination, evolutionary, and phylogeographic methods. The isolates split into two subgroups, Taiwan-I (dominant) and Taiwan-II, with increasing prevalence since 2011. Recombination analysis detected events in 33 isolates, with breakpoints at nucleotides 1,096 (HVR III), 1,263, and 1,467. Two positively selected sites were identified: codon 39 (Gly) in HVR I and codon 121 (Gly/Ala) in HVR II, both located in the receptor-binding domain. The S1 gene evolved at 1.644 × 10-3 substitutions/site/year, originating in the early 1950s in Taiwan. Phylogeography revealed spread from Taiwan to Guangxi, then throughout China and Japan. Bayesian skyline analysis showed rapid population growth after 2006. This study clarifies the origins, transmission routes, and evolution of Taiwan (GI-7) IBV, providing a basis for improved surveillance and control. Infectious bronchitis virus (IBV) poses a persistent threat to global poultry health and productivity. This study elucidates the evolutionary history and transmission network of the dominant Taiwan (GI-7) IBV genotype in China. By integrating genomic and phylodynamic analyses, we identify key recombination hotspots in the S1 gene and trace the origin of this genotype to Taiwan, revealing its rapid spread across China and East Asia since the 1950s. These findings highlight the role of recombination and positive selection in shaping viral diversity and dominance. Our work provides a critical foundation for targeted surveillance and control strategies to mitigate the impact of IBV on poultry production systems.",
+    "authors": [
+      "Wensheng Fan",
+      "Qiaomu Deng",
+      "Yu Zhang",
+      "Guizhen Li",
+      "Taoni Zhang",
+      "Sijia Liu",
+      "Shenben Qiu",
+      "Yaxin Wang",
+      "Qiuying Chen",
+      "Minmin Mei",
+      "Minfang Liu",
+      "Xueyao Ding",
+      "Weiqian Liang",
+      "Guibing Qiu",
+      "Ping Wei",
+      "Meilan Mo"
+    ],
+    "date": "2026-Nov-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037251/",
+    "doi": "10.1128/spectrum.03080-25",
+    "journal": "Microbiology spectrum",
+    "score": 0.7142,
+    "fetched_at": "2026-11-17"
+  },
+  {
     "id": "pubmed:42797856",
     "source": "pubmed",
     "title": "Analysis of HA5 Hemagglutinins from Influenza A Viruses for Mass-Charge Patterns to Understand Antigenic Drift Related to Immune Escape.",
@@ -4630,27 +4660,6 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42593170/",
     "doi": "10.1177/15303667261477658",
     "score": 0.4883,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42592680",
-    "source": "pubmed",
-    "title": "SARS-CoV-2 Neutralization Breadth Is Shaped by Variant Exposure and Immune History.",
-    "abstract": "Despite widespread COVID-19 vaccination, emerging SARS-CoV-2 variants continue to evade neutralizing responses. To determine how exposure history influences neutralizing breadth against SARS-CoV-2, plasma collected from 46 participants in the Clinical, Virological and Immunological COVID-19 study cohort (CVIC) was analyzed. Participants were categorized into six groups reflecting distinct SARS-CoV-2 exposure profiles: individuals infected with either Wuhan-Hu-1 or Delta variants, infection-naïve individuals who received two or four doses of mRNA vaccine (including a bivalent BA.4/5 booster), previously infected individuals subsequently vaccinated, and individuals with four vaccine doses plus breakthrough Omicron infection. Neutralizing breadth was assessed using a pseudoparticle panel representing major variants of interest/concern (Alpha, Beta, Gamma, Delta, Lambda, and Kappa) and a panel of representative Omicron subvariants (BA.1, BA.2, BA.5, BA.2.75, BA.2.86, BQ.1, XBB.1.5, EG.5, HV.1, and JN.1). Primary exposure through infection elicited potent homologous but variable heterologous neutralization, whereas vaccination alone induced lower yet more consistent responses across variants. Additional antigenic exposures, through either repeated vaccination or breakthrough infection, markedly enhanced cross-variant neutralization, with the greatest potency and breadth of neutralizing responses observed in individuals with the highest number of SARS-CoV-2 exposures. Nonetheless, neutralizing activity against more recently emerged Omicron subvariants, including EG.5, HV.1, and JN.1, remained low. Taken together, these findings demonstrate that both the nature and number of antigenic exposures can shape the potency and breadth of SARS-CoV-2 neutralizing responses. While cumulative exposures improve cross-variant immunity, ongoing viral evolution continues to erode neutralization capacity, emphasizing the need for continued variant monitoring and periodic vaccine reformulation to maintain population-level protection.",
-    "authors": [
-      "Greta Vizgirda",
-      "Alexander P Underwood",
-      "Ulrik Fahnøe",
-      "Christina Sølund",
-      "Signe Lysemose Villadsen",
-      "Andrea Galli",
-      "Nina Weis",
-      "Jens Bukh"
-    ],
-    "date": "2026-Aug-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592680/",
-    "doi": "10.1002/jmv.71054",
-    "score": 0.4869,
     "fetched_at": "2026-08-13"
   }
 ]
