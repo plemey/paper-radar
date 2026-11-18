@@ -1,0 +1,94 @@
+[
+  {
+    "id": "pubmed:43043926",
+    "source": "pubmed",
+    "title": "Molecular surveillance of resistance mutations in Plasmodium vivax clinical samples from southwestern India.",
+    "abstract": "Plasmodium vivax is a major cause of malaria in India, especially in the southwest, where chloroquine (CQ) followed by 14-day primaquine is the recommended treatment; however, antimalarial drug resistance poses a significant threat, prompting this study to investigate the molecular epidemiology of drug resistance in vivax malaria clinical samples from southwestern India. A total of 93 P. vivax malaria samples were collected from symptomatic adult patients at three sites in two districts: Kasturba Medical College, Manipal (13/07/2021-30/09/2024), Udupi District Hospital (07/07/2022-30/09/2024), and the Malaria Clinic, Mangaluru District Hospital (07/07/2022-30/09/2024). Extracted DNA was amplified and sequenced for resistance markers, including Pvcrt-o, Pvmdr1, Pvdhfr, and Pvdhps genes using Sanger sequencing, with genetic polymorphisms and haplotypes analyzed for resistance-associated mutations. In Pvcrt-o, the K10 AAG insertion was detected in 26% of samples; Pvmdr1 harbored M908L, T958M, Y976F, and F1076L mutations in 100%, 86.02%, 2.15%, and 84.94% of samples, respectively; Pvdhps showed A383G and A553G in 26.88% and 13.97%; while Pvdhfr exhibited S58R and S117N in 59.13% and 56.98%, with the double mutant (S58R+S117N) as the most prevalent haplotype. While mutations do not indicate complete CQ resistance, the Y976F mutation observed in two samples has been previously associated with reduced chloroquine susceptibility; these findings underscore the need for ongoing molecular surveillance and targeted antimalarial strategies.",
+    "authors": [
+      "Vishnu Teja Nallapati",
+      "A R Manoj",
+      "Sushma Belurkar",
+      "Naveenchandra Kulal",
+      "Prashanth Bhat",
+      "Nitin Gupta",
+      "Manjunath H Hande",
+      "Kavitha Saravu"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043926/",
+    "doi": "10.1371/journal.pone.0362585",
+    "journal": "PloS one",
+    "score": 0.2338,
+    "fetched_at": "2026-11-18"
+  },
+  {
+    "id": "pubmed:43043094",
+    "source": "pubmed",
+    "title": "TyCHE enables time-resolved lineage tracing of B cells and other heterogeneously-evolving populations.",
+    "abstract": "Phylogenetic methods for cell lineage tracing have driven significant insights into organismal development, immune responses, and tumor evolution. While many methods estimate trees with branch lengths representing mutations, time-resolved lineage trees with branch lengths representing calendar time are more interpretable and could relate events like cellular migration and differentiation to perturbations like vaccines and drug treatments. However, in many evolving systems such as B cells, tumor lineages, and hypermutating bacterial populations, evolutionary rates often vary dramatically by genomic background or cell state, significantly biasing existing methods that build time trees using either a fixed molecular clock rate or uncorrelated relaxed clock models without a mechanistic model of molecular clock rate variation. We introduce TyCHE (Type-linked Clocks for Heterogeneous Evolution), a Bayesian phylogenetics package that infers time-resolved phylogenies of populations in which the molecular clock rate is linked to discrete states like genomic background or cell type. We demonstrate that TyCHE improves the accuracy of estimated time trees using a new simulation package SimBLE (Simulator of B cell Lineage Evolution). We use TyCHE to infer patterns of memory B cell differentiation during HIV infection, dynamics of recall germinal centers following influenza vaccination, evolution of a glioma tumor lineage, and progression of a bacterial lung infection, showing the applicability of our model to a wide range of systems and across different scales. TyCHE and SimBLE are available as open-source software packages compatible with the BEAST2 and Immcantation ecosystems.",
+    "authors": [
+      "Jessie J Fielding",
+      "Sherry Wu",
+      "Hunter J Melton",
+      "Crystal Z Wang",
+      "Nic Fisk",
+      "Louis du Plessis",
+      "Kenneth B Hoehn"
+    ],
+    "date": "2026-Nov-17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043094/",
+    "doi": "10.1093/molbev/msag281",
+    "journal": "Molecular biology and evolution",
+    "score": 0.3749,
+    "fetched_at": "2026-11-18"
+  },
+  {
+    "id": "pubmed:43041772",
+    "source": "pubmed",
+    "title": "Why emerging infectious diseases are becoming more complex in the twenty-first century.",
+    "abstract": "Emerging infectious diseases in the twenty-first century arise within rapidly changing biological, ecological, environmental, social, and health care systems. Recent outbreaks and antimicrobial resistance show that infectious disease threats can no longer be understood through pathogen-centered models alone. This review examines why infectious diseases are becoming more complex, with emphasis on zoonotic spillover, environmental change, climate-sensitive transmission, globalization, antimicrobial resistance, viral evolution, surveillance, and preparedness. Infectious disease complexity reflects interactions among microbial adaptation, reservoir ecology, host susceptibility, human-animal contact, land-use change, climate pressure, urbanization, mobility, health care exposure, and unequal public health capacity. Case examples including Ebola disease, severe acute respiratory syndrome (SARS), highly pathogenic avian influenza, Middle East respiratory syndrome (MERS), coronavirus disease 2019 (COVID-19), Nipah virus disease, and mpox show that containment depends on transmission biology, exposure setting, timing of infectiousness, and health system readiness. Antimicrobial resistance adds a slower but persistent crisis because resistant organisms, resistance genes, antimicrobial residues, and vulnerable hosts circulate across hospitals, communities, food systems, wastewater, and environmental reservoirs. Preparedness should move upstream of the first recognized human case. Future strategies should make ecological prevention measurable, study reservoir-host dynamics, anticipate pathogen adaptation, reduce exposure at spillover interfaces, detect silent human infection earlier, and respond rapidly through coordinated investigation. Infectious disease control in the twenty-first century will require integrated systems that connect ecological prevention, molecular insight, surveillance, health care resilience, public trust, equity, and sustained global cooperation.",
+    "authors": [
+      "Yuan-Yuan Li",
+      "Franklin R Tay"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041772/",
+    "doi": "10.1016/j.isci.2022.104112",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "score": 0.552,
+    "fetched_at": "2026-11-18"
+  },
+  {
+    "id": "pubmed:43039871",
+    "source": "pubmed",
+    "title": "A Canadian Laboratory-Based Retrospective of the 2024/2025 Influenza Season: Monitoring the Impacts of Influenza Evolution on Viral Antigenicity and Antiviral Susceptibility.",
+    "abstract": "Seasonal influenza affects thousands of Canadians each year and places significant strain on workplaces and the health systems. Robust laboratory-based surveillance is essential to monitor viral evolution and evaluate the suitability of medical countermeasures. The Canadian Influenza Surveillance Program characterizes circulating influenza viruses to determine genetic clades, monitor evolutionary trends, assess antigenicity and vaccine strain relatedness, and evaluate susceptibility to neuraminidase inhibitors. Methods include whole genome sequencing, hemagglutination inhibition assays, and neuraminidase inhibition assays. From September 1, 2024 to August 31, 2025, the program antigenically characterized 1563 influenza isolates identified and submitted by Canadian laboratories. Of these, 99.4% of influenza A/H1N1, 86.6% of influenza A/H3N2, and 100% of influenza B isolates were antigenically related to their respective component of the 2024-2025 Northern Hemisphere vaccine. Genetic analysis of influenza A/H3N2 isolates identified three distinct mutation clustering patterns associated with reduced antigenic reactivity to the vaccine strain. Additionally, 1567 influenza viruses underwent antiviral susceptibility testing. Eleven influenza A/H1N1 isolates showed reduced inhibition to oseltamivir and two to zanamivir, all containing known resistance-associated markers. These findings highlight the importance of comprehensive virological assessment, integrating genotypic and phenotypic data, to inform annual vaccine strain selection and support clinical decision-making.",
+    "authors": [
+      "Charlene Ranadheera",
+      "Ruimin Gao",
+      "Cody Buchanan",
+      "Jasmine Frost",
+      "Agatha Jassem",
+      "Amanda Lang",
+      "Jessica Minion",
+      "Kerry Dust",
+      "Paul Van Caseele",
+      "Maan Hasso",
+      "Isabelle Meunier",
+      "Richard Garceau",
+      "Guillaume Desnoyers",
+      "Elizabeth Simms",
+      "Vannesa Arseneau",
+      "Lei Jiao",
+      "Robert Needle",
+      "Taeyo Chestley",
+      "Nathalie Bastien"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039871/",
+    "doi": "10.1111/irv.70359",
+    "journal": "Influenza and other respiratory viruses",
+    "score": 0.7367,
+    "fetched_at": "2026-11-18"
+  }
+]

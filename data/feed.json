@@ -341,6 +341,39 @@
     "fetched_at": "2026-08-15"
   },
   {
+    "id": "pubmed:43039871",
+    "source": "pubmed",
+    "title": "A Canadian Laboratory-Based Retrospective of the 2024/2025 Influenza Season: Monitoring the Impacts of Influenza Evolution on Viral Antigenicity and Antiviral Susceptibility.",
+    "abstract": "Seasonal influenza affects thousands of Canadians each year and places significant strain on workplaces and the health systems. Robust laboratory-based surveillance is essential to monitor viral evolution and evaluate the suitability of medical countermeasures. The Canadian Influenza Surveillance Program characterizes circulating influenza viruses to determine genetic clades, monitor evolutionary trends, assess antigenicity and vaccine strain relatedness, and evaluate susceptibility to neuraminidase inhibitors. Methods include whole genome sequencing, hemagglutination inhibition assays, and neuraminidase inhibition assays. From September 1, 2024 to August 31, 2025, the program antigenically characterized 1563 influenza isolates identified and submitted by Canadian laboratories. Of these, 99.4% of influenza A/H1N1, 86.6% of influenza A/H3N2, and 100% of influenza B isolates were antigenically related to their respective component of the 2024-2025 Northern Hemisphere vaccine. Genetic analysis of influenza A/H3N2 isolates identified three distinct mutation clustering patterns associated with reduced antigenic reactivity to the vaccine strain. Additionally, 1567 influenza viruses underwent antiviral susceptibility testing. Eleven influenza A/H1N1 isolates showed reduced inhibition to oseltamivir and two to zanamivir, all containing known resistance-associated markers. These findings highlight the importance of comprehensive virological assessment, integrating genotypic and phenotypic data, to inform annual vaccine strain selection and support clinical decision-making.",
+    "authors": [
+      "Charlene Ranadheera",
+      "Ruimin Gao",
+      "Cody Buchanan",
+      "Jasmine Frost",
+      "Agatha Jassem",
+      "Amanda Lang",
+      "Jessica Minion",
+      "Kerry Dust",
+      "Paul Van Caseele",
+      "Maan Hasso",
+      "Isabelle Meunier",
+      "Richard Garceau",
+      "Guillaume Desnoyers",
+      "Elizabeth Simms",
+      "Vannesa Arseneau",
+      "Lei Jiao",
+      "Robert Needle",
+      "Taeyo Chestley",
+      "Nathalie Bastien"
+    ],
+    "date": "2026-Nov-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039871/",
+    "doi": "10.1111/irv.70359",
+    "journal": "Influenza and other respiratory viruses",
+    "score": 0.7367,
+    "fetched_at": "2026-11-18"
+  },
+  {
     "id": "pubmed:43000490",
     "source": "pubmed",
     "title": "Isolation, identification and whole genome sequence analysis of influenza B virus from Shanghai during 2023-2024.",
@@ -2897,6 +2930,22 @@
     "fetched_at": "2026-10-25"
   },
   {
+    "id": "pubmed:43041772",
+    "source": "pubmed",
+    "title": "Why emerging infectious diseases are becoming more complex in the twenty-first century.",
+    "abstract": "Emerging infectious diseases in the twenty-first century arise within rapidly changing biological, ecological, environmental, social, and health care systems. Recent outbreaks and antimicrobial resistance show that infectious disease threats can no longer be understood through pathogen-centered models alone. This review examines why infectious diseases are becoming more complex, with emphasis on zoonotic spillover, environmental change, climate-sensitive transmission, globalization, antimicrobial resistance, viral evolution, surveillance, and preparedness. Infectious disease complexity reflects interactions among microbial adaptation, reservoir ecology, host susceptibility, human-animal contact, land-use change, climate pressure, urbanization, mobility, health care exposure, and unequal public health capacity. Case examples including Ebola disease, severe acute respiratory syndrome (SARS), highly pathogenic avian influenza, Middle East respiratory syndrome (MERS), coronavirus disease 2019 (COVID-19), Nipah virus disease, and mpox show that containment depends on transmission biology, exposure setting, timing of infectiousness, and health system readiness. Antimicrobial resistance adds a slower but persistent crisis because resistant organisms, resistance genes, antimicrobial residues, and vulnerable hosts circulate across hospitals, communities, food systems, wastewater, and environmental reservoirs. Preparedness should move upstream of the first recognized human case. Future strategies should make ecological prevention measurable, study reservoir-host dynamics, anticipate pathogen adaptation, reduce exposure at spillover interfaces, detect silent human infection earlier, and respond rapidly through coordinated investigation. Infectious disease control in the twenty-first century will require integrated systems that connect ecological prevention, molecular insight, surveillance, health care resilience, public trust, equity, and sustained global cooperation.",
+    "authors": [
+      "Yuan-Yuan Li",
+      "Franklin R Tay"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041772/",
+    "doi": "10.1016/j.isci.2022.104112",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "score": 0.552,
+    "fetched_at": "2026-11-18"
+  },
+  {
     "id": "pubmed:42764048",
     "source": "pubmed",
     "title": "Molecular epidemiology of the globally spreading genetic lineage IV of peste des petits ruminants virus.",
@@ -4616,50 +4665,5 @@
     "journal": "Animals : an open access journal from MDPI",
     "score": 0.4893,
     "fetched_at": "2026-09-15"
-  },
-  {
-    "id": "pubmed:42831627",
-    "source": "pubmed",
-    "title": "Subtype-specific differences in susceptibility to monoclonal antibodies and vaccines among contemporary RSV-A and RSV-B isolates.",
-    "abstract": "Respiratory syncytial virus (RSV) continues to circulate at high levels despite the introduction of new monoclonal antibodies (mAbs) and vaccines targeting the pre-fusion F (pre-F) protein. We analyzed the viral genome sequences of 133 RSV clinical samples collected during the 2022-2023 and 2023-2024 seasons and selected representative isolates for phenotypic testing. We selected four RSV-A and four RSV-B replication-competent, sequence-verified stocks and then assessed them for replication kinetics in vitro and neutralization sensitivity with a panel of F-targeting mAbs and polyclonal sera using a rabbit vaccination model. Isolates retained sensitivity to all mAbs tested. We detected no mutations in mAb binding sites in the isolates tested. RSV-A isolates were slightly less susceptible to multiple mAbs than RSV-B isolates. Antigenic cartography revealed a separation of antibody responses by subtype: RSV-A isolates clustered together and aligned with lower neutralization by antibodies such as MPE8 and 101F, whereas RSV-B isolates formed a distinct cluster associated with higher mAb susceptibility. In a rabbit vaccination model, RSV-A-only sera efficiently neutralized all RSV-A isolates and the RSV-B1 reference strain but showed diminished activity against contemporary RSV-B isolates. RSV-B-only sera displayed balanced neutralization across both subtypes. Combined RSV-A + RSV-B immunization produced uniformly strong responses to all isolates, suggesting that multivalent exposure may overcome subtype-specific antibody polarization. Collectively, our results demonstrate consistent antigenic divergence of RSV subtypes and underscore the importance of using contemporary isolates, rather than legacy reference strains, to guide F-directed immunoprophylaxis and vaccine design.IMPORTANCERespiratory syncytial virus (RSV) remains a major cause of lower respiratory tract infections. Although new monoclonal antibodies (mAbs) and vaccines have been approved in recent years, the impact of circulating genetic diversity on these therapeutics is incompletely understood. In this study, we demonstrate how recent RSV isolates respond to a panel of mAbs and whether sera from rabbits vaccinated with mRNA vaccines effectively neutralize these isolates. We observe that RSV-A isolates are slightly more resistant to neutralization by mAbs than RSV-B isolates and that a bivalent vaccine elicits broader neutralizing responses than the monovalent vaccine. This study provides insights into how viral diversity may influence antibody-mediated protection and suggests that recent RSV-B isolates may respond differently from the laboratory-adapted strains commonly used in research, an important consideration for the design of next-generation vaccines and antibody therapeutics.",
-    "authors": [
-      "Paula Eillanny Silva Marinho",
-      "Dibya Ghimire",
-      "João Tsai Silva",
-      "Jamie Devlin",
-      "SunYoung Kwon",
-      "Gordon Adams",
-      "Patricia Jorquera",
-      "Jeremy Luban",
-      "Jacob E Lemieux"
-    ],
-    "date": "2026-Oct-05",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42831627/",
-    "doi": "10.1128/jvi.01221-26",
-    "journal": "Journal of virology",
-    "score": 0.4889,
-    "fetched_at": "2026-10-06"
-  },
-  {
-    "id": "pubmed:42593170",
-    "source": "pubmed",
-    "title": "Molecular Detection and Phylogenetic Characterization of Spotted Fever Group Rickettsiae in",
-    "abstract": "The Malayan pangolin (Manis javanica) is a critically endangered species that may harbor diverse zoonotic pathogens. This study aimed to characterize tick species parasitizing confiscated Malayan pangolins and determine the prevalence and genetic diversity of spotted fever group rickettsiae (SFGR) associated with these ticks. We employed morphological and molecular approaches to identify ticks parasitizing pangolins confiscated in Guangdong Province between 2021 and 2024. A total of 435 adult ticks were collected from 32 pangolins and pooled into 87 groups (5 ticks per pool). Pooled tick samples were screened for SFGR by PCR targeting three rickettsial genes (gltA, ompA, and ompB), followed by Sanger sequencing and phylogenetic analysis. All collected ticks were identified as Amblyomma javanense. The pool positivity rate for SFGR was 41.4% (36/87), with a minimum infection rate of 8.3% (36/435; 95% CI: 5.8-11.2%). Molecular characterization identified the detected agent as Candidatus Rickettsia jingxinensis (Ca. Rickettsia jingxinensis), an agent recently confirmed to infect humans. These findings provide baseline data for tick-borne pathogen surveillance in the context of pangolin conservation and illegal wildlife trade control, highlighting the potential public health relevance of the pangolin-tick interface.",
-    "authors": [
-      "Liyang Li",
-      "Jieling Zhang",
-      "Tingting Hu",
-      "Kai Wang",
-      "Lu Liu",
-      "Xitong Su",
-      "Min Lei",
-      "Hao Liu",
-      "Yan Hua"
-    ],
-    "date": "2026-Aug-13",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42593170/",
-    "doi": "10.1177/15303667261477658",
-    "score": 0.4883,
-    "fetched_at": "2026-08-13"
   }
 ]
