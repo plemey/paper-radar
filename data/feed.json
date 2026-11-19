@@ -271,6 +271,27 @@
     "fetched_at": "2026-09-27"
   },
   {
+    "id": "pubmed:43049250",
+    "source": "pubmed",
+    "title": "Molecular Epidemiology of Clade 2.3.4.4b H5N1 High-Pathogenicity Avian Influenza in South Africa, 2025-2026.",
+    "abstract": "The panzootic Goose/Guangdong clade 2.3.4.4b H5N1 high-pathogenicity avian influenza (HPAI) virus severely threatens global poultry industries and wildlife conservation. Following two major southern African epizootics between 2017 and 2023, a new clade 2.3.4.4b outbreak emerged in South Africa in June 2025. To establish evolutionary and transmission dynamics, representative viruses from commercial poultry and diverse wild bird populations were sequenced and analyzed via maximum likelihood (ML) and time-scaled Bayesian maximum clade credibility (MCC) phylogenetic trees to determine sub-genotype assignments and track virus dispersal. Specific genetic markers were evaluated. Phylogenetic analysis of 125 novel genome sequences revealed a distinct introduction of genotype EA-2024-DI.2 from Europe. While commercial poultry cases were significantly lower than during previous waves, there were sizable outbreaks in colony-breeding coastal seabirds. A specific coastal seabird lineage persisted through the summer and propagated northward into Namibia, mirroring past epizootics. The findings suggest an emerging 4-year cyclical trend of northern hemisphere incursions. Furthermore, climate-driven water availability for wild duck vectors likely triggered an unprecedented reverse viral migration from the southern coastal region back into South Africa's northern interior. These findings provide vital baselines for future epidemiological risk assessments, highlighting an urgent regional priority for establishing coordinated wild bird surveillance alongside targeted vaccination strategies.",
+    "authors": [
+      "Celia Abolnik",
+      "Albert Snyman",
+      "David Roberts",
+      "Leana Janse van Rensburg",
+      "Lisa Nupen",
+      "Shahn Bisschop",
+      "Laura Roberts"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049250/",
+    "doi": "10.1155/tbed/4127579",
+    "journal": "Transboundary and emerging diseases",
+    "score": 0.7642,
+    "fetched_at": "2026-11-19"
+  },
+  {
     "id": "pubmed:42792585",
     "source": "pubmed",
     "title": "Antigenic and Molecular Genetic Evolution of Influenza Viruses in Kazakhstan from 2017 to 2025.",
@@ -1474,6 +1495,35 @@
     "journal": "Microbial pathogenesis",
     "score": 0.6163,
     "fetched_at": "2026-10-29"
+  },
+  {
+    "id": "pubmed:43049477",
+    "source": "pubmed",
+    "title": "Structural basis of avian-to-human receptor-binding adaptation in H9Ny influenza A virus hemagglutinin.",
+    "abstract": "The receptor-binding specificity of influenza A virus (IAV) hemagglutinin (HA) is a major determinant for viral host tropism, enabling interspecies transmission. The molecular determinants for receptor-binding properties of HAs vary among different IAV subtypes. In this study, we performed a comprehensive analysis on the receptor-binding determinants of IAV subtype H9 HA and found that the receptor-binding characteristics of H9 subtype influenza viruses have exhibited temporal variations over decades. Q226L (hydrophobicity switch) substitution in the 220-loop is the key determinant for H9 subtype HA to acquire human receptor-binding preference. The amino acid residues of the 130-loop greatly affect the binding of HA protein to canonical receptors. Organoid infection models demonstrate that all three representative viral strains could infect human bronchial epithelial organoids. These findings increase our understanding of the molecular determinants of receptor-binding properties of different HA subtypes and call for the surveillance and response to potential influenza outbreaks, or even epidemics/pandemics.IMPORTANCEInfluenza A virus (IAV) subtype H9 poses persistent zoonotic spillover risks due to its adaptive receptor-binding capacity, yet the molecular determinants remain incompletely defined. This study systematically characterizes the receptor-binding determinants of H9 hemagglutinin over decades of viral evolution and identifies two critical functional domains: the 220-loop residue Q226L substitution, which serves as the key mutation conferring human receptor-binding preference, and the 130-loop residues that predominantly modulate canonical receptor-binding affinity. Functional assays using human bronchial epithelial organoids further confirm the robust human infection ability of prevalent H9 viral strains. These findings clarify the molecular mechanisms underlying H9 IAV host tropism and adaptive evolution, provide critical theoretical evidence for targeted influenza surveillance and pandemic preparedness against emerging H9 influenza outbreaks.",
+    "authors": [
+      "Min Wang",
+      "Chuankuo Zhao",
+      "Ruchao Peng",
+      "Suran Bai",
+      "Wei Yang",
+      "Ying Xu",
+      "Qi Peng",
+      "Hao Luo",
+      "Wei Zhang",
+      "Fei Wang",
+      "Jinhua Liu",
+      "Jianxun Qi",
+      "Yi Shi",
+      "Juan Pu",
+      "George F Gao"
+    ],
+    "date": "2026-Nov-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049477/",
+    "doi": "10.1128/jvi.01511-26",
+    "journal": "Journal of virology",
+    "score": 0.6145,
+    "fetched_at": "2026-11-19"
   },
   {
     "id": "pubmed:42849142",
@@ -3275,6 +3325,34 @@
     "fetched_at": "2026-10-17"
   },
   {
+    "id": "pubmed:43046086",
+    "source": "pubmed",
+    "title": "Uncovering Newcastle disease virus dynamics in Northern Nigeria: insights from an epidemiological survey in unvaccinated village poultry.",
+    "abstract": "Newcastle disease virus (NDV) remains a major constraint to village and backyard poultry production in Nigeria, where limited vaccination and low biosecurity may facilitate sustained virus circulation. This study investigated the serological and molecular epidemiology of NDV in unvaccinated village poultry across Plateau, Bauchi, and Kano States, northern Nigeria. A cross-sectional survey was conducted in 502 villages between 2020 and 2024. Serum samples (n = 3,999) and pooled tracheal/cloacal swabs (n = 2,113) were collected from extensively managed backyard poultry. After excluding flocks with a history of NDV vaccination, 3,831 sera from 481 villages were analyzed using indirect ELISA. Pooled swabs were screened by real-time RT-PCR and positive samples were sequenced for phylogenetic relatedness. Bird-level seropositivity was 16% in Plateau, 22% in Bauchi, and 22% in Kano, while 68-80% of villages in the three states had at least one seropositive bird, indicating widespread NDV exposure. Seroprevalence varied by species, flock size, and state, with turkeys generally showing higher exposure. Small and medium-sized flocks exhibited higher seropositivity than large flocks. Biosecurity measures, including fencing and shelter, were not significantly associated (p > 0.05) with seropositivity. Of 2,113 pooled swab samples, 950 tested positive for NDV RNA. Phylogenetic analysis revealed widespread circulation of lentogenic genotype I.1.1, closely related to the NDV-I2 vaccine strain, alongside velogenic genotype XIV.2, detected in chickens, ducks, and turkeys across all states. A velogenic pigeon-associated genotype XXI.1.1 was also identified in Bauchi State. These findings revealed widespread NDV circulation in rural poultry systems across northern Nigeria, highlighting the need for improved surveillance, strengthened biosecurity, and adoption of genotype-matched vaccination strategies.",
+    "authors": [
+      "Mayowa Peter Olabode",
+      "Isabella Monne",
+      "Jacob Kwada Paghi Kwaga",
+      "Mohammed Kabir Lawan",
+      "Aliyu Muhammad Wakawa",
+      "Maria Varotto",
+      "Andrea Fortin",
+      "Alessia Schivo",
+      "Silvia Ormelli",
+      "Usman Adamu Rayyanu",
+      "Muhammad-Bashir Bolajoko",
+      "Maryam Muhammad",
+      "Ismaila Shittu",
+      "Marion Bordier"
+    ],
+    "date": "2026-Aug-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046086/",
+    "doi": "10.3390/v17040567",
+    "journal": "BMC veterinary research",
+    "score": 0.5326,
+    "fetched_at": "2026-11-19"
+  },
+  {
     "id": "pubmed:42655042",
     "source": "pubmed",
     "title": "Molecular Epidemiological Characteristics and Genetic Evolution of Bluetongue Virus in Yunnan Province, China.",
@@ -4061,6 +4139,26 @@
     "fetched_at": "2026-10-24"
   },
   {
+    "id": "pubmed:43049340",
+    "source": "pubmed",
+    "title": "Tracking respiratory syncytial virus dynamics in wastewater during the 2024-2025 season in Switzerland.",
+    "abstract": "Respiratory syncytial virus (RSV) is responsible for a substantial health burden worldwide, particularly among children and older adults. In 2023, novel immunoprophylactic interventions for RSV were approved, underscoring the need to monitor circulating RSV lineages and detect mutations that could compromise intervention effectiveness. Here, we implemented wastewater-based genomic RSV surveillance by integrating digital PCR and amplicon-based sequencing within Switzerland's national wastewater monitoring program. We tracked RSV subtypes and individual mutations across the 2024-2025 peak season in six Swiss cities. RSV-A and RSV-B co-circulated nationwide, and both exhibited similar epidemiological dynamics estimated from their subtype-specific effective reproduction numbers. No previously reported F protein mutations relevant to prophylaxis efficacy were identified. Genetic diversity analysis of wastewater-derived sequences reflected patterns previously reported in clinical data, with higher diversity in RSV-A than RSV-B, and greater variability in the G compared to the F gene. These findings demonstrate the potential of wastewater-based RSV surveillance for monitoring RSV dynamics and diversity and establish a national baseline for RSV evolution during the first season following vaccine implementation in Switzerland.IMPORTANCERespiratory syncytial virus (RSV) is a common respiratory virus that can cause serious illness in vulnerable populations. The recent development of RSV immunoprophylaxis products has increased the importance of monitoring viral evolution. Standard surveillance based on clinical testing captures only a fraction of infections. Our findings demonstrate that wastewater-based genomic surveillance, using regularly collected samples throughout the peak RSV season, can provide a cost-effective and representative picture of viral dynamics. Expanding this approach into future RSV seasons and across a broader geographic scope will enable continuous tracking of viral evolution, including detection of novel mutations, which is particularly important given the widespread introduction of new vaccines and preventive treatments.",
+    "authors": [
+      "Auguste Rimaite",
+      "Jolinda de Korne-Elenbaas",
+      "Adrian Lison",
+      "Tanja Stadler",
+      "Timothy R Julian",
+      "Niko Beerenwinkel"
+    ],
+    "date": "2026-Nov-18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049340/",
+    "doi": "10.1128/aem.01336-26",
+    "journal": "Applied and environmental microbiology",
+    "score": 0.5044,
+    "fetched_at": "2026-11-19"
+  },
+  {
     "id": "pubmed:42560031",
     "source": "pubmed",
     "title": "Oncogenic viruses in the genomic era: Integration, instability, and cancer evolution.",
@@ -4574,96 +4672,5 @@
     "journal": "MedComm",
     "score": 0.4911,
     "fetched_at": "2026-11-12"
-  },
-  {
-    "id": "pubmed:42976511",
-    "source": "pubmed",
-    "title": "Changes in self-reported Long COVID in different variant-dominant phases of the SARS-CoV-2 pandemic: the influence of vaccination on a diverse Israeli cohort study.",
-    "abstract": "Long COVID (LC) risk varies across SARS-CoV-2 variants, but causal inference is complicated by rising vaccine coverage coinciding with viral evolution. We examined how pre-infection vaccination status modified LC risk across different pandemic periods dominated by different variants, to disentangle the contributions of viral evolution and vaccine-induced immunity. In this prospective cohort study of Israeli adults with SARS-CoV-2 infections from July 2021-March 2023, participants completed baseline and follow-up online surveys ≥60 days post-infection. LC was defined as ≥3 symptoms within validated symptom clusters. Infections were assigned to an infection period corresponding to the predominant circulating variant (Wild type, Alpha, Delta, Omicron) at onset time. Pre-infection vaccination was categorized as unvaccinated (0-1 doses), partially vaccinated (2 doses), or fully vaccinated (≥3 doses). Generalized estimating equations estimated multivariable risk ratios, adjusted for age, sex, and follow-up time. Among 1715 participants reporting 2018 infections, LC was reported following 30·4% of infections. In models adjusted for vaccination, LC risk did not differ between the Delta and Omicron-dominant periods (aRR 1·01, 95% CI 0·80-1·26). Among partially vaccinated individuals, infections during the Omicron-dominant period carried lower LC risk than during Delta (aRR 0·62, 95% CI 0·40-0·98). LC risk did not differ by variant-dominant periods among unvaccinated or fully vaccinated individuals. Observed differences in LC risk at various periods of the pandemic dominated by different variants may be largely explained by concurrent increases in vaccine coverage rather than intrinsic changes in variant pathogenicity. Full pre-infection vaccination conferred consistent protection against LC regardless of the period of variant dominance.",
-    "authors": [
-      "Sophie Lazar",
-      "Paul Kuodi",
-      "Haneen Shibli",
-      "Hiba Zayyad",
-      "Ofir Wertheim",
-      "Karine Beiruti Wiegler",
-      "Kamal Abu Jabal",
-      "Amiel A Dror",
-      "Saleh Nazzal",
-      "Daniel Glikman",
-      "Michael Edelstein"
-    ],
-    "date": "2026-Nov-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976511/",
-    "doi": "10.1016/j.vaccine.2026.129308",
-    "journal": "Vaccine",
-    "score": 0.4908,
-    "fetched_at": "2026-11-05"
-  },
-  {
-    "id": "pubmed:42575447",
-    "source": "pubmed",
-    "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
-    "abstract": "The COVID-19 pandemic profoundly altered the circulation dynamics of respiratory viruses worldwide. However, data describing post-COVID-19 viral epidemiology remain limited. This study aimed to characterize the distribution, demographic associations, co-infection patterns, and seasonality of respiratory pathogens detected by multiplex PCR in the post-COVID-19 period. In this retrospective single-center study, 750 patients whose respiratory tract specimens were submitted to a tertiary care university hospital between February 2023 and March 2024 were included. Samples were analyzed using the BioFire FilmArray Respiratory Panel 2.1 Plus. Associations between categorical variables were evaluated using Pearson's chi-square or Fisher's exact test. At least one pathogen was detected in 56.3% (422/750) of patients. Of 535 detected pathogens, 98.5% were viral agents. Human rhinovirus/enterovirus (30.3%) was the most frequently identified virus overall and predominated in pediatric patients (43.4%), whereas SARS-CoV-2 was most common among adults (22.9%). Influenza viruses (17.4%) and respiratory syncytial virus demonstrated marked winter predominance, while human rhinovirus/enterovirus and SARS-CoV-2 circulated year-round. Overall positivity and co-infection rates were significantly higher in pediatric patients (p<0.001). Co-infections were detected in 22.3% of positive cases. Significant associations were observed between viral distribution and age group, gender, hospitalization status, and season (p<0.05). Respiratory viruses continue to dominate the etiology of acute respiratory tract infections in the post-COVID-19 era, with distinct age-related patterns and sustained circulation of SARS-CoV-2. Multiplex PCR-based molecular surveillance provides essential insights into evolving viral epidemiology and supports ongoing monitoring of respiratory virus dynamics.",
-    "authors": [
-      "Fatma Avcioğlu",
-      "Elif Soysal",
-      "Mustafa Behçet",
-      "Oya Kalaycioğlu",
-      "Yusuf Afşar",
-      "Sare Aybek",
-      "Ayça Çisem Harre",
-      "Hakan Burak Çelik"
-    ],
-    "date": "2026-Aug-10",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42575447/",
-    "doi": "10.1016/j.ijmmb.2026.101246",
-    "score": 0.49,
-    "fetched_at": "2026-08-13"
-  },
-  {
-    "id": "pubmed:42734808",
-    "source": "pubmed",
-    "title": "Optimized Amplicon Strategy for Long-Read Sequencing of the Chikungunya Virus Genome.",
-    "abstract": "Chikungunya virus (CHIKV) is a positive-sense RNA alphavirus transmitted to humans primarily by Aedes aegypti and Aedes albopictus mosquitoes. Its global circulation and significant public health impact underscore the need to better understand the molecular mechanisms driving CHIKV pathogenesis and transmission. Although robust molecular biology methods exist for CHIKV genome sequencing, a major limitation for surveillance and research is the inability to determine whether two nucleotide variations co-occur within the same viral genome when they are separated beyond the span of typical short-read designs. Here, we describe an optimized approach for processing CHIKV RNA samples that generates large amplicons suitable for long-read nanopore sequencing. This protocol enables amplification of the complete CHIKV genome in only two or three amplicons and facilitates detection of co-occurring nucleotide variations across 4-7.5 kb within the same molecule, thereby simplifying sequencing workflows and improving resolution in studies of viral evolution.",
-    "authors": [
-      "Chenyang Wu",
-      "Sara Ann Thannickal",
-      "Tommaso Cabani",
-      "Maria Gabriela Noval"
-    ],
-    "date": "2027-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42734808/",
-    "doi": "10.1128/JVI.06449-11",
-    "journal": "Methods in molecular biology (Clifton, N.J.)",
-    "score": 0.49,
-    "fetched_at": "2026-09-15"
-  },
-  {
-    "id": "pubmed:42738570",
-    "source": "pubmed",
-    "title": "First Isolation and Genomic Characterization of BVDV-1c in Przewalski's Gazelle (",
-    "abstract": "Przewalski's gazelle (Procapra przewalskii) is an endangered ungulate endemic to the Qinghai-Tibet Plateau of China. Increasing habitat alteration and close contact with domestic livestock have raised concerns about cross-species pathogen transmission, yet infectious disease studies in this species remain limited. To determine the etiology of illness in two deceased gazelles from a conservation facility in Qinghai Province, we screened samples for a panel of pathogens, including Mycoplasma ovipneumoniae, Clostridium perfringens toxin genes, Mannheimia haemolytica, Klebsiella pneumoniae, Mycoplasma capricolum subsp. capripneumoniae, Pasteurella multocida, Peste des petits ruminants virus (PPRV), Bovine viral diarrhea virus (BVDV), and Infectious bovine rhinotracheitis virus (IBRV), using PCR and RT-PCR. BVDV-specific nucleic acids were detected in tissue samples from both individuals, whereas all other targeted pathogens tested negative. The virus was successfully isolated in Madin-Darby Bovine Kidney (MDBK) cells and confirmed by RT-PCR, followed by whole-genome sequencing of the isolate, which was designated QH PSYL 2026. Phylogenetic analysis based on the full-length genome and 5'UTR sequences assigned the isolate to the BVDV-1c subgenotype. Notably, its 5'UTR sequence shared 100% identity with those of local cattle-derived BVDV strains, providing molecular evidence suggestive of an epidemiological linkage between wildlife and livestock. Integrating clinical signs, gross pathology, and laboratory results, the cases were consistent with BVDV infection as the primary presumptive etiology. To our knowledge, this is the first report of BVDV infection, virus isolation, and genomic characterization in Przewalski's gazelle. The detection of a BVDV-1c strain in this endangered species highlights the potential threat that livestock-associated pathogens pose to wildlife on the Qinghai-Tibet Plateau. These findings furnish crucial baseline data for disease surveillance, molecular epidemiology, and conservation management of Przewalski's gazelle and provide valuable scientific evidence for wildlife disease prevention and control in plateau ecosystems.",
-    "authors": [
-      "Yue Zhang",
-      "Yang Zhang",
-      "Guanghua Wang",
-      "Xiuping Li",
-      "Yong Hu",
-      "Wen Guo",
-      "Yutong Liu",
-      "Linyuan Gong",
-      "Xingjun Wang",
-      "Mingxue Wang",
-      "Lili Huo",
-      "Yingna Jian",
-      "Liqing Ma"
-    ],
-    "date": "2026-Sep-04",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42738570/",
-    "doi": "10.1111/jvim.15816",
-    "journal": "Animals : an open access journal from MDPI",
-    "score": 0.4893,
-    "fetched_at": "2026-09-15"
   }
 ]
