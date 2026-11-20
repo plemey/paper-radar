@@ -423,6 +423,31 @@
     "fetched_at": "2026-11-10"
   },
   {
+    "id": "pubmed:43056085",
+    "source": "pubmed",
+    "title": "Emergence of a distinct evolutionary cluster of clade 2.3.4.4b H5 viruses in China during 2024-2025 with rapid evolution and antigenic divergence.",
+    "abstract": "Clade 2.3.4.4b H5 viruses have undergone continuous evolution since their emergence in China, but the extent of genetic and antigenic diversification among recently circulating viruses remains unclear. Here, we characterized 18 H5 viruses isolated through routine surveillance in China during 2024-2025, together with publicly available clade 2.3.4.4b H5 sequences collected since 2020. Phylogenetic analysis revealed that these isolates formed a distinct evolutionary cluster within clade 2.3.4.4b, designated the G2-derived emerging cluster (G2-EC), which emerged around mid-2024 and exhibited clear genetic divergence from previously circulating H5N1 viruses. G2-EC viruses accumulated a characteristic set of hemagglutinin amino acid substitutions, most of which were located in antigenic regions. Across the clade 2.3.4.4b H5 virus population, the estimated mean HA evolutionary rate was higher during 2024-2025 than during preceding periods. These genetic changes were accompanied by marked antigenic divergence from the Re14 vaccine strain, with 4- to 32-fold reductions in HI titres. Genomic analysis revealed acquisition of PB1 segment from a distinct genetic background in G2-EC H5N1 viruses, followed by the emergence of H5N6 viruses sharing a highly similar genetic backbone but carrying a distinct NA segment, indicating sequential reassortment. Animal experiments showed that representative G2-EC viruses retained high pathogenicity and efficient direct-contact transmission in SPF chickens, while exhibiting relatively limited lethality in mice. Collectively, these findings document a recent evolutionary transition of clade 2.3.4.4b H5 viruses in China, characterized by genetic and antigenic divergence accompanied by sequential reassortment, underscoring the need for continued genomic and antigenic surveillance.",
+    "authors": [
+      "Xinkui Zhang",
+      "Yujia Yang",
+      "Xirong Huang",
+      "Shunyin Fang",
+      "Xinyu Han",
+      "Dandan Wei",
+      "Jianghui Zou",
+      "Beibei Niu",
+      "Huifang Yin",
+      "Ming Liao",
+      "Weixin Jia"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056085/",
+    "doi": "10.1080/22221751.2026.2760125",
+    "journal": "Emerging microbes & infections",
+    "score": 0.724,
+    "fetched_at": "2026-11-20"
+  },
+  {
     "id": "pubmed:43037251",
     "source": "pubmed",
     "title": "Molecular epidemiology of the Taiwan (GI-7) IBV genotype in China over six decades: uncovering recombination hotspots and a nationwide transmission network.",
@@ -1385,6 +1410,31 @@
     "fetched_at": "2026-10-16"
   },
   {
+    "id": "pubmed:43055976",
+    "source": "pubmed",
+    "title": "Molecular insights and phylogenetic context of chicken anemia virus in Tunisian poultry: phylodynamic and phylogeographic perspectives.",
+    "abstract": "Chicken Anemia Virus (CAV) is an economically important immunosuppressive pathogen in poultry. Despite its global distribution, data on its molecular characteristics and evolutionary behavior in North Africa remain limited. In this study, CAV-positive samples from Tunisian poultry were confirmed by real-time PCR, and complete VP1, VP2, and VP3 coding regions were sequenced. Phylogenetic analysis based on VP1, combined with Bayesian phylodynamic and discrete phylogeographic modeling, was performed to assess viral evolution and dissemination. Tunisian strains exhibited high genetic homogeneity, with 98-100% nucleotide identity in VP1 and full conservation of VP2 and VP3, clustering within genotype II. Phylodynamic analyses indicated that the global CAV ancestor emerged around 1891, followed by a long period of demographic stability and expansion from the 1980s onward. Tunisian sequences formed a distinct cluster with a most recent common ancestor estimated at 1964, suggesting earlier local circulation than inferred from global diffusion patterns. Phylogeographic reconstruction identified China as the principal source of global dispersal and revealed east-to-west transmission pathways, including Taiwan-Egypt and Egypt-Italy. Tunisia appeared in the diffusion network in the late 1970s, with one strongly supported exportation to Italy in 1994, consistent with historical poultry trade. This study provides the first comprehensive evolutionary assessment of CAV in Tunisia, revealing a genetically homogeneous genotype II lineage and highlighting its contribution to Mediterranean viral circulation. The phylodynamic profile underscores historical fluctuations in viral population size that align with global expansion trends, emphasizing the need for strengthened genomic surveillance to capture regional viral movements and anticipate future spread.",
+    "authors": [
+      "Jihene Nsiri",
+      "Marwa Arbi",
+      "Zied Bouslama",
+      "Imen Larbi",
+      "Chaima Badr",
+      "Imen El Behi",
+      "Saifeddine Azouz",
+      "Khaled Kaboudi",
+      "Abdeljelil Ghram",
+      "Oussama Souiai",
+      "Jihene Lachheb"
+    ],
+    "date": "2026-Nov-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055976/",
+    "doi": "10.1128/jvi.70.12.8872-8878.1996",
+    "journal": "Archives of virology",
+    "score": 0.6248,
+    "fetched_at": "2026-11-20"
+  },
+  {
     "id": "pubmed:42782136",
     "source": "pubmed",
     "title": "Genomic characteristics of the first five monkeypox virus clade Ib cases in Thailand: August 2024-March 2025.",
@@ -2162,6 +2212,22 @@
     "journal": "Microbial genomics",
     "score": 0.5814,
     "fetched_at": "2026-09-07"
+  },
+  {
+    "id": "pubmed:43054499",
+    "source": "pubmed",
+    "title": "Anthropogenic drivers of recent ebola and hantavirus outbreaks: A one health perspective.",
+    "abstract": "Recent outbreaks of Ebola Virus Disease (EVD) and hantavirus infection have redrawn attention to the role of anthropogenic environmental change in the emergence of zoonotic diseases. Human activities, including deforestation, agricultural expansion, land-use modification and ecosystem degradation, have increasingly disrupted the interactions between wildlife reservoirs, domestic animals and humans, creating favourable conditions for pathogen spillover. In this commentary, we examine evidence linking these environmental drivers to the emergence and transmission of Ebola virus and hantaviruses, with particular emphasis on the effects of habitat alteration on wildlife ecology, viral evolution and host-pathogen interactions. We further discuss predictive models suggesting that, under current environmental and socioeconomic trajectories, the geographical risk of EVD will continue to expand. These observations underscore the urgent need to move beyond reactive outbreak response towards prevention by addressing the environmental determinants of disease emergence. We argue that the One Health framework, integrating human, animal and environmental health through coordinated multisectoral action, provides the most appropriate strategy for reducing the risk of future zoonotic outbreaks and strengthening global health security.",
+    "authors": [
+      "Zacharias Raptopoulos",
+      "Aristos Aristodimou"
+    ],
+    "date": "2026-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054499/",
+    "doi": "10.1098/rstb.2016.0167",
+    "journal": "GMS hygiene and infection control",
+    "score": 0.5795,
+    "fetched_at": "2026-11-20"
   },
   {
     "id": "pubmed:43004229",
@@ -3467,6 +3533,51 @@
     "fetched_at": "2026-08-13"
   },
   {
+    "id": "pubmed:43052043",
+    "source": "pubmed",
+    "title": "Cryptic Invasion and Transmission Dynamics of Peste des Petits Ruminants Virus, Europe, 2024-2026.",
+    "abstract": "Peste des petits ruminants (PPR) disease has spread in southeastern Europe since July 2024. Virus sequence analyses and field investigations covering 7 countries affected through January 2026 suggest that eastern Romania was the point of introduction and source of regional viral dissemination in the region. Cross-border transmission inferred from genetic data was strongly associated with official records of live animal trade; outbreak investigations indicate additional roles for illegal trade and indirect transmission. Important temporal gaps in the phylogeny suggest that PPR virus has been circulating undetected in multiple areas in southeastern Europe, as noted by the high variability of clinical signs in infected animals. Those findings highlight a real risk for continued spread across Europe. Increased awareness of the difficulty in detecting the disease, coordinated cross-border surveillance, timely data sharing, and integrated control measures are needed to stop the spread of PPR into Europe.",
+    "authors": [
+      "Claire Guinat",
+      "Samia Guendouz",
+      "Olivier Kwiatek",
+      "Eva Connilhere",
+      "Antoni Exbrayat",
+      "Aikaterini Kirtzalidou",
+      "Maria Gianniou",
+      "Corina Ancuceanu",
+      "Mona Ghiță",
+      "Anna Zdravkova",
+      "Iliyan Kostov",
+      "Emilia Ivanova",
+      "Florica Bărbuceanu",
+      "Konstantia E Tasioudi",
+      "Peter Malik",
+      "Adrienn Örkényi",
+      "Erga Shkodra",
+      "Armend Cana",
+      "Ivana Lojkić",
+      "Andreja Jungić",
+      "Antun Beljan",
+      "Marina Prišlin-Šimac",
+      "Dragan Brnić",
+      "Ljupka Maltar",
+      "Žaklin Acinger-Rogić",
+      "Martina Rubin",
+      "Ivana Lohman Janković",
+      "Michaela Stätter",
+      "Daniel Polzer",
+      "Susanne Koethe",
+      "Arnaud Bataille"
+    ],
+    "date": "2026-Dec-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052043/",
+    "doi": "10.3201/eid3212.261012",
+    "journal": "Emerging infectious diseases",
+    "score": 0.529,
+    "fetched_at": "2026-11-20"
+  },
+  {
     "id": "pubmed:42839601",
     "source": "pubmed",
     "title": "VARIANT: Web Server for Decoding and Analyzing Viral Mutations at Genome and Protein Levels.",
@@ -4577,100 +4688,5 @@
     "journal": "Frontiers in veterinary science",
     "score": 0.4933,
     "fetched_at": "2026-10-08"
-  },
-  {
-    "id": "pubmed:42799091",
-    "source": "pubmed",
-    "title": "Targeting virus-glycan recognition in influenza viruses and coronaviruses: from the molecular principles to glycomimetic antivirals strategies.",
-    "abstract": "Glycans constitute the first molecular landscape encountered by viruses during infection and play fundamental roles in viral attachment, host adaptation, tissue tropism, and immune evasion. Far from being passive components of the cell surface, host glycans actively regulate virus-host interactions by functioning as attachment factors, entry receptors, or modulators of receptor engagement, while viral glycans contribute to immune escape and infectivity. Consequently, the molecular recognition of glycans has emerged as a major determinant of viral evolution and pathogenicity. This review presents our perspective on the structural and mechanistic principles that govern virus-glycan recognition, focusing on influenza viruses and coronaviruses as paradigmatic examples. We discuss how subtle variations in glycan structure, including glycosidic linkage, chain length, multivalent presentation, and chemical modifications such as O-acetylation, shape viral receptor specificity, host range, and cross-species transmission. Recent advances from structural biology, NMR spectroscopy, glycan arrays, computational modeling, and glycochemistry have substantially expanded our understanding of these dynamic recognition events and their evolutionary consequences. We further highlight how these insights are driving the development of glycomimetic antivirals designed to interfere with the earliest stages of infection. Approaches based on multivalent sialoglycan analogues, stabilized carbohydrate mimetics, and heparan sulfate-inspired scaffolds illustrate the growing potential of targeting glycan-mediated recognition as an alternative or complementary antiviral strategy. By integrating molecular recognition, viral adaptation, and medicinal chemistry, this review underscores the opportunities offered by glycobiology to develop innovative, potentially broad-spectrum antiviral therapeutics.",
-    "authors": [
-      "Cristina Fernández-Pérez",
-      "María Emilia Cuervo",
-      "Iris A Bermejo",
-      "Jon Imanol Quintana",
-      "Ana Gimeno",
-      "Ana Ardá",
-      "Jesús Jiménez-Barbero",
-      "Luca Unione"
-    ],
-    "date": "2026-Sep-15",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42799091/",
-    "doi": "10.1039/d6cb00215c",
-    "journal": "RSC chemical biology",
-    "score": 0.4932,
-    "fetched_at": "2026-09-28"
-  },
-  {
-    "id": "pubmed:42889667",
-    "source": "pubmed",
-    "title": "Molecular epidemiology of paediatric respiratory adenovirus infections in Île-de-France: findings from whole-genome sequencing.",
-    "abstract": "Human adenoviruses (HAdVs) are a frequent cause of respiratory tract infections in children; however, their epidemiological patterns and genomic diversity remain insufficiently characterized in Europe. As respiratory HAdVs can cause outbreaks of acute and severe disease and show periodic re-emergence, improved understanding of their circulation is needed. To investigate the epidemiology, age distribution, and genomic diversity of respiratory HAdVs in paediatric patients in Île-de-France during the first half of 2022. We retrospectively analysed 6 956 respiratory samples from patients < 18 years, collected at five hospitals (Jan-June 2022). HAdVs were detected by multiplex PCR. Viral loads were quantified in mono-infections, and whole-genome sequencing (WGS) was performed on samples with sufficient viral load. HAdVs were detected in 14% of samples, making them the second most prevalent virus after rhinovirus/enterovirus. Co-infections were frequent (64%), particularly in younger children. Among the 254 mono-infected samples with viral-load quantification, 110 (43%) had low or undetectable viral loads. WGS of 122 samples revealed HAdV species B (62.3%), C (34.4%), and F (3.3%). Species distribution varied by age: HAdV-C predominated in children under 2 years, while HAdV-B was more common in older children. The most frequent genotypes were B3 (76.3%), B66 (18.4%), and B7d (5.3%) within species B, and C1 (33.3%), C89 (26.2%), and C2 (23.8%) within species C. HAdVs are prevalent among children with respiratory infections, with age-specific patterns and substantial genomic diversity. The circulation of diverse genotypes, including recombinants and potentially more virulent variants, highlights the importance of sustained molecular surveillance.",
-    "authors": [
-      "Maud Salmona",
-      "Elise Diaz",
-      "Linda Feghoul",
-      "Abdeljalil Senhaji Rachik",
-      "Héloïse Delagrèverie",
-      "Honorine Fenaux",
-      "Aurélie Schnuriger",
-      "Audrey Baron",
-      "Lamia Limam",
-      "Séverine Mercier-Delarue",
-      "Elyanne Gault",
-      "Jérôme LeGoff"
-    ],
-    "date": "2026-01-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42889667/",
-    "doi": "10.1038/srep07365",
-    "journal": "Virus evolution",
-    "score": 0.4925,
-    "fetched_at": "2026-10-18"
-  },
-  {
-    "id": "pubmed:42945372",
-    "source": "pubmed",
-    "title": "KmerSignificance score: A discriminative and biologically informed framework for viral k-mer prioritization.",
-    "abstract": "Distinguishing closely related viral strains requires identifying genomic regions where subtle sequence differences carry biological significance. While k-mer-based approaches offer computational efficiency for genome analysis, existing methods lack standardized frameworks for evaluating which k-mers are most informative. Current selection strategies focus primarily on statistical discriminative power without integrating biological context. We introduce KmerSignificance Score (KSS), a k-mer prioritization framework combining three components: an information-theoretic method measuring strain-distinguishing capacity, an optimized amino acid substitution matrix (MIYATA_EVO) for mutation impact assessment, and a protein characterization score derived from annotations and database cross-references retrieved through UniProt. All three component scores and the integrated KSS are bounded in [0,1] by construction, providing a common numerical scale for ranking positions within a dataset. The discriminative component achieved a mean F1 of 0.881, not significantly different from chi-squared (0.876), the strongest of eight baselines. Top-ranked selections from the discriminative component nonetheless differed from those produced by chi-squared, especially for SARS-CoV-2 and HIV-1. The MIYATA_EVO matrix, optimized using a genetic algorithm, increased the composite agreement score across eight amino acid characteristics by 28.4% over the original MIYATA matrix. Across 17,471 viral proteins, the protein characterization score tracked UniProt's five-level annotation score closely (Kendall's τ=0.775), as expected for measures drawing on overlapping annotation content. Within each level, the continuous score provided finer numerical resolution among proteins. Literature cross-referencing on SARS-CoV-2 (278,738 sequences, 19 Pango-derived lineage labels), HIV-1 (12,223 sequences, 15 subtype labels), and human cytomegalovirus (HCMV; 399-646 sequences, 4-8 locus-specific genotypes) found that the top-ranked k-mers reported here map to established variant-defining mutations, subtype-specific polymorphisms, and genotype markers. KSS provides a standardized framework for viral k-mer prioritization with potential applications in variant surveillance, molecular epidemiology, and functional annotation. The tool is available at https://github.com/bioinfoUQAM/KmerSignificanceScore.",
-    "authors": [
-      "Dylan Lebatteux",
-      "Florian Corso",
-      "Hugo Soudeyns",
-      "Isabelle Boucoiran",
-      "Soren Gantt",
-      "Abdoulaye Baniré Diallo"
-    ],
-    "date": "2026-Oct-27",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42945372/",
-    "doi": "10.1371/journal.pcbi.1014332",
-    "journal": "PLoS computational biology",
-    "score": 0.4914,
-    "fetched_at": "2026-10-28"
-  },
-  {
-    "id": "pubmed:43011527",
-    "source": "pubmed",
-    "title": "Therapeutic and Prophylactic Agents for Viral Diseases: Current Status, Challenges, and Future Prospects.",
-    "abstract": "Viral diseases remain a major global health challenge despite substantial advances in vaccination, antiviral therapeutics, and public-health interventions. However, current antiviral strategies are still constrained by important gaps, including rapid viral evolution, limited broad-spectrum efficacy, immune escape, antiviral resistance, incomplete durability of protection, and inequitable global access to prevention and treatment. This review provides a comprehensive and integrated overview of contemporary antiviral prevention and therapeutic strategies, spanning vaccines, monoclonal antibodies, direct-acting antivirals, host-targeted therapies, immunomodulators, RNA-based therapeutics, gene-editing technologies, and cellular immunotherapies. We discuss the mechanistic foundations, clinical applications, pharmacologic considerations, and translational challenges associated with each modality across major human viral pathogens, including HIV, HBV, HCV, influenza, SARS-CoV-2, RSV, Ebola virus, arboviruses, and herpesviruses. Particular emphasis is placed on emerging innovations such as long-acting prophylaxis, Fc-engineered monoclonal antibodies, nanoparticle and mucosal vaccine platforms, CRISPR-based antiviral systems, and broadly protective host-directed approaches designed to overcome resistance and enhance pandemic preparedness. In addition, we highlight the growing importance of real-time genomic surveillance and equitable global deployment strategies in shaping future antiviral responses, collectively underscoring that the next generation of antiviral medicine will depend on the convergence of universal immunization strategies, durable therapeutics, precision immune modulation, and rapidly deployable platform technologies capable of addressing both endemic and emerging viral threats.",
-    "authors": [
-      "Sawar Khan",
-      "Ayesha Nisar",
-      "Xiaoxu Li",
-      "Hao Yu",
-      "Abdul Qadeer",
-      "Sardar Azhar Mehmood",
-      "Imane Lamraoui",
-      "Sijie Liu",
-      "Lipeng Zhu",
-      "Xu Deng",
-      "Bo Kong",
-      "Kejun Zhong",
-      "Zanxian Xia"
-    ],
-    "date": "2026-Nov-01",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43011527/",
-    "doi": "10.1002/mco2.71024",
-    "journal": "MedComm",
-    "score": 0.4911,
-    "fetched_at": "2026-11-12"
   }
 ]
